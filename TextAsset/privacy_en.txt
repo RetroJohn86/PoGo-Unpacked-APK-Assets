@@ -1,6 +1,6 @@
 <b>Pokémon GO Privacy Policy</b>
 
-<b>Last Updated: July 1, 2016</b>
+<b>Last Updated: December 21, 2016</b>
 
 Protecting your privacy (or the privacy of your authorized child) is really important to Niantic, Inc. (“<b>Niantic</b>,” "<b>we</b>," "<b>our</b>," or "<b>us</b>".)
 With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use, and disclosure of information that we receive through our Pokémon GO video game services, which are accessible via our mobile device application (the “<b>App</b>”).
@@ -34,6 +34,10 @@ We comply with verifiable parental consent requirements mandated by the Children
 Parents have the right to refuse further collection, use, and/or disclosure of their child’s PII by notifying us. If we learn that we have received PII from a child under the age of 13 without the Parent providing consent, we will delete the child’s Account and all other PII collected in conjunction with such Account.
 
 The Parents of children under the age of 13 understand and agree that TPCI and/or Niantic may provide information collected via the Services, to third parties who use such information for the sole purpose of administering or providing the Services (e.g., third party security monitoring services and web hosting companies).
+
+iv. <i>Apple Watch - Additional Terms for Apple Health App Data.</i>
+
+In addition to the data collection practices described below in this Privacy Policy, if you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data (such as Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.
 
 b. <i> Information Collected Using Cookies and other Web Technologies </i>.
 
@@ -120,3 +124,7 @@ Your (or your authorized child’s) PII may be transferred to, and maintained on
 <b>10. Questions?</b>
 
 Please contact us at pokemongo-privacy@nianticlabs.com if you have any questions about our Privacy Policy, or if you wish to make a complaint about our collection, use, or disclosure of your (or your authorized child’s) PII under this Privacy Policy. We will use our reasonable endeavors to address any complaint you may have as soon as possible.
+
+<b>Apple Watch - Additional Terms for Apple Health App Data.</b>
+
+In addition to the data collection practices described below in this Privacy Policy, if you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data (such as Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.

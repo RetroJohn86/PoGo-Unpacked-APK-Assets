@@ -1,6 +1,6 @@
 <b>Informativa sulla privacy di Pokémon GO</b>
 
-<b>Ultimo aggiornamento: 1° luglio 2016</b>
+<b>Ultimo aggiornamento: 21 dicembre 2016</b>
 
 La protezione della privacy dell’utente (o del proprio figlio autorizzato) è molto importante per Niantic, Inc. (“<b>Niantic</b>”, "<b>noi</b>", "<b>nostro</b>", o "<b>ci</b>"). Con questo in mente, stiamo fornendo la presente Informativa sulla privacy per spiegare le nostre pratiche relative alla raccolta, all’utilizzo e alla divulgazione delle informazioni che riceviamo attraverso i servizi del nostro videogioco Pokémon GO, accessibile mediante la nostra applicazione per dispositivi mobili (l’“<b>App</b>”). Per facilitare la lettura della presente Informativa sulla privacy, i nostri servizi, l’App e il nostro sito web disponibili sul sito http://pokemongo.nianticlabs.com e http://www.pokemongolive.com (il “<b>Sito</b>”) sono denominati collettivamente i “<b>Servizi</b>”. La presente Informativa sulla privacy non si applica ai siti web, ai servizi o alle applicazioni di terze parti, anche se accessibili tramite uno dei nostri Servizi.
 
@@ -31,6 +31,11 @@ Rispettiamo i requisiti di consenso dei genitori verificabili imposti dal Childr
 I Genitori hanno il diritto di rifiutare l’ulteriore raccolta, utilizzo e/o divulgazione delle PII del loro figlio inviandoci notifica. Se apprendiamo di avere ricevuto PII da parte di un bambino di età inferiore ai 13 anni senza il consenso del Genitore, elimineremo l’Account del bambino e tutte le altre PII raccolte in concomitanza con tale Account.
 
 I genitori di bambini di età inferiore ai 13 anni comprendono e accettano che TPCI e/o Niantic possono fornire informazioni raccolte mediante i Servizi a terzi che utilizzano tali informazioni per il solo scopo di amministrare o fornire i Servizi (ad esempio, servizi di monitoraggio della sicurezza da parte di terzi e società di web hosting).
+
+iv. <i>Apple Watch - Termini supplementari riguardanti i dati dell'app Salute di Apple.</i>
+
+
+Oltre che per le procedure di raccolta dei dati descritte di seguito nella presente Informativa sulla Privacy, quando utilizzate Pokémon GO con il vostro Apple Watch, utilizziamo le API di Apple HealthKit per leggere e/o scrivere, con il vostro consenso, determinati dati (come il conteggio dei passi, le calorie bruciate e la distanza percorsa) nel database dell'app Salute del vostro dispositivo (i "Dati dell'app Salute”). Potremmo archiviare i Dati dell'app Salute sui nostri server in associazione col vostro account utente di Pokémon GO. Utilizziamo i Dati dell'app Salute per fornire alcune funzionalità di gioco (come le distanze percorse per far schiudere le Uova) e per assicurarvi di ricevere dei "crediti" nella vostra app Salute di Apple per tutte le camminate da voi effettuate mentre giocate a Pokémon GO. Non utilizzeremo i Dati dell'app Salute per scopi di marketing o pubblicitari. Non conserviamo i Dati dell'app Salute su iCloud. Pokémon GO non può leggere il database dell'app Salute, né può scrivere su di esso, senza il vostro consenso.
 
 b. <i>Informazioni raccolte usando cookie e altre tecnologie web.</i>
 
@@ -116,4 +121,3 @@ Le PII dell’utente (o del proprio figlio autorizzato) potrebbero essere trasfe
 <b>10. DOMANDE?</b>
 
 Contattarci all’indirizzo pokemongo-privacy@nianticlabs.com in caso di domande sulla nostra Informativa sulla privacy, o se si desidera effettuare un reclamo in relazione alla nostra raccolta, utilizzo o divulgazione delle proprie PII (o quelle del proprio figlio autorizzato) ai sensi della presente Informativa sulla privacy. Faremo il possibile per occuparci al più presto di qualsiasi reclamo che l’utente possa avere.
-
