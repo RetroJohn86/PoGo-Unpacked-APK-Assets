@@ -1,210 +1,210 @@
 onboard_welcome_screen|1
-Olá!\nSou Professor Willow.
+Bonjour !\nJe suis le Professeur Willow.
 onboard_welcome_screen|2
-Sabia que este mundo é habitado por criaturas conhecidas como Pokémon?
+Savais-tu que notre terre est habitée par des créatures appelées Pokémon ?
 onboard_welcome_screen|3
-Pokémon podem ser encontrados em todo canto.
+Les Pokémon se trouvent partout sur notre planète.
 onboard_welcome_screen|4
-Alguns correm por campos, outros voam pelo céu, alguns vivem em montanhas, outros em florestas ou perto d’água…
+Certains vivent dans les plaines, d’autres sillonnent les cieux, et d’autres encore parcourent les montagnes, les forêts ou les lacs...
 onboard_welcome_screen|5
-Passei minha vida estudando eles e sua distribuição geográfica.
+J’ai passé ma vie à les étudier et à m’intéresser à leur migration.
 onboard_welcome_screen|6
-Poderia me ajudar com minha pesquisa?
+Tu veux bien m’aider dans mes recherches ?
 onboard_welcome_screen|7
-Maravilha!
+Super !
 onboard_welcome_screen|8
-Você terá que achar e colecionar Pokémon de todas as partes.
+Tu dois trouver et collectionner des Pokémon du monde entier.
 onboard_welcome_screen|9
-Escolha um estilo para a sua aventura.
+Choisis ton style pour ces nouvelles aventures.
 first_time_encounter|1
-Há um Pokémon por perto!
+Il y a un Pokémon pas loin !
 first_time_encounter|2
-Aqui estão algumas Poké Bolas. Elas ajudarão você a pegar um!
+Voici quelques Poké Balls. Elles t’aideront à en attraper un.
 onboard_caught_pokemon|1
-Parabéns!\nVocê pegou seu primeiro Pokémon!
+Félicitations !\nTu as attrapé ton premier Pokémon.
 onboard_caught_pokemon|2
-Você é um Treinador de Pokémon talentoso!\nComo se chama?
+Tu as du talent !\nQuel est ton nom ?
 onboard_change_name|1
-Oi! Como você se chama mesmo?
+Bonjour, Dresseur ! Comment t’appelles-tu ?
 onboard_name_registered|1
-Que nome legal!\nPrazer em conhecer você!
+Joli nom !\nC'est un plaisir de te rencontrer.
 onboard_name_registered|2
-Você precisará de mais Poké Bolas e de outros itens durante a sua exploração.
+Tu auras besoin de Poké Balls et d’autres objets utiles lors de tes explorations.
 visit_a_pokestop|1
-Itens podem ser encontrados em Poképaradas.
+Tu trouveras ces objets dans les PokéStops.
 visit_a_pokestop|2
-Elas estão situadas em pontos interessantes, como esculturas e monumentos.
+Ils se trouvent dans des endroits tels que des créations artistiques publiques ou des monuments.
 visit_a_pokestop|3
-A partir de agora, você poderá explorar o mundo todo. Espero que saia por aí pegando Pokémon e os registrando no seu Pokédex!
+À compter de maintenant, tu vas explorer le monde entier. J’espère que tu sortiras attraper des Pokémon, et que tu rempliras ton Pokédex !
 visit_a_pokestop|4
-Vamos nessa!
+À tes marques, prêt, GO !
 __backup__
-Bom trabalho! Parece que pegou {0}, um Pokémon de tipo {1}!
+Excellent ! On dirait que tu as attrapé {0}, un Pokémon de type {1}.
 first_time_gym_low_level|1
-Isto é um Ginásio, um lugar onde você pode pôr à prova suas habilidades em batalhas Pokémon.
+Ceci est une Arène, un lieu où tu montreras ta valeur dans des combats de Pokémon.
 first_time_gym_low_level|2
-Você precisa de mais experiência como Treinador de Pokémon.
+Il te faut plus d’expérience en tant que Dresseur de Pokémon.
 first_time_gym_low_level|3
-Volte quando alcançar o nível {0}!
+Reviens lorsque tu auras atteint le niveau {0} !
 first_time_gym_team_intro|1
-Parece que você adquiriu experiência como um Treinador de Pokémon!
+On dirait que tu as gagné de l'expérience en tant que Dresseur.
 first_time_gym_team_intro|2
-Está na hora de participar de batalhas Pokémon!
+Tu es prêt à participer à des combats Pokémon.
 first_time_gym_team_intro|3
-Eu tenho três ótimos assistentes.
+J’ai trois excellents assistants.
 first_time_gym_team_intro|4
-Cada um dirige uma equipe e possui um método diferente para pesquisar Pokémon.
+Chacun est le capitaine d’une équipe, mais chacun utilise une méthode différente pour étudier les Pokémon.
 first_time_gym_team_intro|5
-Parte de sua pesquisa é conduzindo batalhas Pokémon nos Ginásios.
+Une partie de ces études consiste à effectuer des combats Pokémon dans des Arènes.
 first_time_gym_team_intro|6
-Eles não veem a hora de você fazer parte de uma equipe.
+Ils sont tous enthousiastes à l’idée de t’avoir dans leur équipe.
 team_yellow_intro|1
-Ei! Me chamo Spark, sou líder da Equipe Instinto.
+Salut ! Je m’appelle Spark, je suis le capitaine de l’équipe Intuition.
 team_yellow_intro|2
-Os Pokémon são criaturas com uma intuição excepcional.
+Les Pokémon ont une excellente intuition.
 team_yellow_intro|3
-Acho que o segredo da intuição deles tem a ver com a forma como nascem.
+Je pense que ceci est lié à leur façon d'éclore.
 team_yellow_intro|4
-É por isso que estou pesquisando os Pokémon que chocaram de Ovos.
+Viens rejoindre mon équipe !
 team_yellow_intro|5
-Você nunca perde quando segue seus instintos!
+Tu ne perdras pas si tu suis ton instinct !
 team_blue_intro|1
-Me chamo Blanche, líder da Equipe Sabedoria.
+Je m’appelle Blanche, je suis capitaine de l’équipe Sagesse.
 team_blue_intro|2
-A sabedoria dos Pokémon é imensurável.
+La sagesse des Pokémon est incommensurable.
 team_blue_intro|3
-Estou pesquisando o motivo pelo qual evoluem.
+Je poursuis des recherches sur ce qui les fait évoluer.
 team_blue_intro|4
-Minha equipe?
+Mon équipe ?
 team_blue_intro|5
-Analisamos com calma toda situação, não podemos perder!
+Elle est sûre de gagner, grâce à son analyse de toutes les situations !
 team_red_intro|1
-Me chamo Candela, sou líder da Equipe Valor!
+Je m’appelle Candela, je suis capitaine de l’équipe Bravoure.
 team_red_intro|2
-Os Pokémon são mais fortes que os humanos e são bondosos também!
+Les Pokémon sont plus forts que les humains, et plus chaleureux aussi...
 team_red_intro|3
-Estou pesquisando formas de aprimorar o poder natural dos Pokémon na busca do poder verdadeiro.
+J’étudie une méthode permettant d’améliorer les pouvoirs naturels des Pokémon.
 team_red_intro|4
-Não há dúvidas de que os Pokémon que nossa equipe treinou são os mais fortes em batalha!
+C’est sûr, les Pokémon dressés par notre équipe sont les plus costauds au combat.
 team_red_intro|5
-Está pronto?
+Tu es prêt ?
 team_yello_welcom|1
-Boa escolha! Sabia que ia escolher a nossa equipe! Saia para se divertir em batalhas Pokémon!
+Bien ! Très bon choix ! Passons à l’offensive et amusons-nous dans des combats Pokémon !
 team_blue_welcom|1
-A única opção lógica. Lembre-se de ficar calmo em batalha.
+Le choix qui s’impose. Pense à rester calme et serein pendant le combat.
 quickstart_pokestopfar|1
-Isto é uma Poképarada.
+Ceci est un PokéStop.
 quickstart_pokestopfar|2
-É um local no mundo real onde pode-se encontrar Poké Bolas e outros itens.
+Il s’agit d’un endroit réel où tu peux obtenir des Poké Balls et d’autres objets.
 quickstart_pokestopnear|1
-A Poképarada mudará de forma quando chegar perto dela. Toque-a para interagir com ela.
+Le PokéStop change de forme lorsque tu t’en approches. Touche-le pour l'ouvrir.
 quickstart_pokestopspin|1
-Gire o centro da estrutura para gerar itens. Toque ou passe o dedo nos itens para recolhê-los.
+Fais tourner le PhotoDisque pour générer des objets. Touche les objets pour les prendre.
 quickstart_gymmap|1
-Isto é um Ginásio.
+Ceci est une Arène.
 quickstart_gymmap|2
-As equipes batalham pelo controle destes locais no mundo real.
+Les équipes s’affrontent pour prendre le contrôle de ces lieux réels.
 quickstart_gymbuttons_assign|1
-Designe um de seus Pokémon a um Ginásio vazio para reivindicá-lo à sua equipe. Fortaleça um Ginásio amigo designando um de seus Pokémon para ajudar a defendê-lo.
+Assigne l’un de tes Pokémon à une Arène vide pour en prendre possession. Renforce une Arène amicale en assignant l’un de tes Pokémon à sa défense.
 quickstart_gymbuttons_train|1
-Treine seus Pokémon em um Ginásio amigo para aumentar o prestígio e o nível do Ginásio.
+Dresse les Pokémon présents dans une Arène amicale pour augmenter son prestige et son niveau.
 quickstart_gymbuttons_battle|1
-Desafie um Ginásio rival para diminuir o prestígio e o nível dele.
+Défie une Arène rivale pour abaisser son prestige et son niveau.
 quickstart_battledodge|1
-Durante uma batalha, deslize o dedo para a direita ou esquerda para desviar de ataques.
+Lors d’un combat, fais glisser ton doigt à gauche ou à droite pour éviter les attaques.
 appraise_intro_1|1
-Oi, {0}. Posso analisar seu {1} se você quiser.
+Bonjour, {0}. Je peux évaluer ton {1}, si tu veux.
 appraise_size_tiny_1|1
-Seu {0} é menor do que os que temos no registro. Impressionante.
+Ton {0} est l’un des plus petits Pokémon existants. Étonnant.
 appraise_size_small_1|1
-Seu {0} está abaixo da média de tamanho.
+Ton {0} est de taille inférieure à la moyenne.
 appraise_size_large_1|1
-Seu {0} está acima da média de tamanho.
+Ton {0} est de taille supérieure à la moyenne.
 appraise_size_huge_1|1
-O tamanho de seu {0} é colossal. Isto é realmente incrível. Fascinante!
+Ton {0} est... colossal. Une vraie anomalie statistique. C’est fascinant !
 appraise_stat_low_1|1
-Creio que seus dados não estão fora do normal.
+Ses stats n'ont rien d'anormal, à priori.
 appraise_stat_mid_1|1
-Seus dados estão muito bons.
+Ses stats s'améliorent à vue d'œil.
 appraise_stat_high_1|1
-Devo dizer que seus dados são impressionantes.
+Je suis impressionnée par ses stats, à vrai dire.
 appraise_stat_best_1|1
-Seus dados excederam meus cálculos. É Incrível!
+Ses stats dépassent tous mes calculs, c'est incroyable !
 appraise_overall_low_1|1
-Em geral, parece que seu {0} não chegará longe em batalha.
+Dans l’ensemble, ton {0} n'ira pas très loin au combat.
 appraise_overall_mid_1|1
-Em geral, seu {0} está acima da média.
+Dans l'ensemble, ton {0} est supérieur à la moyenne.
 appraise_overall_high_1|1
-Em geral, seu {0} com certeza chamou minha atenção.
+Dans l'ensemble, ton {0} a retenu toute mon attention.
 appraise_overall_best_1|1
-Em geral, seu {0} é uma maravilha! Que Pokémon deslumbrante!
+Dans l'ensemble, ton {0} est une merveille. Un Pokémon captivant !
 appraise_outro_1|1
-Minha análise termina aqui. Adeus.
+Voilà, mon analyse est terminée. Je te laisse.
 appraise_intro_2|1
-Oi, {0}! Vamos dar uma olhada em seu {1}?
+Salut, {0} ! Regardons ton {1} de plus près, d’accord ?
 appraise_size_tiny_2|1
-Seu {0} é tão pequeno que quase não o vi!
+Ton {0} est si petit que j’ai failli ne pas le voir !
 appraise_size_small_2|1
-Oun, que {0} pequeno! É muito fofo.
+Ce {0} est tout petit ! Il est si mignon...
 appraise_size_large_2|1
-Sem dúvidas, seu {0} é muito grande!
+Ton {0} est plutôt grand !
 appraise_size_huge_2|1
-Seu {0} é gigante, o maior que já vi!
+Ton {0} est gigantesque. Le plus grand que j’ai jamais vu !
 appraise_stat_low_2|1
-Seus dados não indicam que será bom em batalhas.
+Ses stats ne t’aideront pas beaucoup au combat.
 appraise_stat_mid_2|1
-Seus dados indicam que cumprirá seu objetivo em batalha.
+Ses stats indiquent qu'il va faire des dégâts au combat.
 appraise_stat_high_2|1
-Seus dados são excelentes! Que emoção!
+Ses stats sont excellentes ! C'est super !
 appraise_stat_best_2|1
-Estou impressionado com seus dados. UAU!
+Je suis estomaquée par ses stats. Bravo !
 appraise_overall_low_2|1
-Em geral, seu {0} pode até não ser bom em batalha, mas gosto mesmo assim!
+Dans l'ensemble, ton {0} n'est pas un combattant, mais je l'aime bien.
 appraise_overall_mid_2|1
-Em geral, seu {0} não está nada mal.
+Dans l’ensemble, ton {0} est un Pokémon solide !
 appraise_overall_high_2|1
-Em geral, seu {0} é muito forte. Deve estar orgulhoso!
+Dans l'ensemble, ton {0} est très fort. Tu dois être fier !
 appraise_overall_best_2|1
-Em geral, seu {0} simplesmente me fascina. Pode conseguir o que quiser!
+Dans l'ensemble, ton {0} m’étonne beaucoup. Il peut tout faire !
 appraise_outro_2|1
-Espero ter ajudado. Até mais!
+J’espère que ça t’a aidé. À Bientôt !
 appraise_intro_3|1
-Ei, {0}! Quer que eu examine seu {1}?
+Dis-moi, {0}... Veux-tu que j'évalue ton {1} ?
 appraise_size_tiny_3|1
-Ua… Uau. Este é o menor {0} que já vi!
+Eh bien ! C’est le plus petit des {0} que j’ai jamais vu !
 appraise_size_small_3|1
-Seu {0} é um pouco pequeno para sua espécie, não acha?
+Ton {0} est petit pour son type, tu ne trouves pas ?
 appraise_size_large_3|1
-Seu {0} é muito grande!
+Ton {0} est très imposant !
 appraise_size_huge_3|1
-Seu {0} é ENORME!
+Ton {0} est énorme !
 appraise_stat_low_3|1
-Seus dados estão... bons, eu acho, mas um pouco básicos.
+Ses stats ne sont pas mal, mais un peu basiques, il me semble.
 appraise_stat_mid_3|1
-Tem bons dados, sem dúvida alguma!
+Il a quelques bonnes stats, c'est sûr !
 appraise_stat_high_3|1
-Seus dados são muito fortes. Impressionante!
+Ses stats sont super élevées. Impressionnant !
 appraise_stat_best_3|1
-Seus dados são os melhores que já vi! Sem dúvidas!
+Ses stats sont les meilleures que j'ai jamais vues ! Sans aucun doute !
 appraise_overall_low_3|1
-Em geral, seu {0} poderia melhorar no que se refere a batalhas.
+Dans l'ensemble, ton {0} peut devenir un meilleur combattant.
 appraise_overall_mid_3|1
-Em geral, seu {0} está muito bem!
+Dans l'ensemble, ton {0} est plutôt bien !
 appraise_overall_high_3|1
-Em geral, seu {0} é muito forte!
+Dans l'ensemble, ton {0} est vraiment fort !
 appraise_overall_best_3|1
-Em geral, seu {0} parece que pode enfrentar os melhores!
+Dans l'ensemble, ton {0} semble capable de tenir tête aux meilleurs !
 appraise_outro_3|1
-É o que acho! Até mais!
+Voilà, je t’ai donné mon avis... À bientôt !
 appraise_stat_highest_1|1
-Vejo que seus dados de {0} são seus melhores atributos.
+Son meilleur atout est son capital {0}.
 appraise_stat_highest_tie_1|1
-Seu {0} é do mesmo calibre.
+Son capital {0} est du même calibre !
 appraise_stat_highest_2|1
-Seus dados de {0} são seus atributos mais fortes.
+Son capital {0} est son plus fort atout.
 appraise_stat_highest_tie_2|1
-Seus dados de {0} também me impressionam.
+Son capital {0} m'impressionne aussi.
 appraise_stat_highest_3|1
-Sua melhor qualidade é <b>{0}</b>.
+Son meilleur atout est son capital {0}.
 appraise_stat_highest_tie_3|1
-Seu {0} também está ótimo!
+Son capital {0} est également impressionnant !

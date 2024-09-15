@@ -1,701 +1,701 @@
 badge_capture_total
-Fange {0} Pokémon.
+Catch {0} Pokémon.
 badge_capture_total_title
-Sammler
+Collector
 badge_capture_total_value_format
 N0
 badge_defeated_fort
-Gewinne {0} Kämpfe.
+Win {0} battles.
 badge_defeated_fort_title
-Kämpfer
+Battle
 badge_defeated_fort_value_format
 N0
 badge_encountered_total
-Begegne {0} Pokémon.
+Encounter {0} Pokémon.
 badge_encountered_total_title
-Entdecker
+Encounters
 badge_encountered_total_value_format
 N0
 badge_evolved_total
-Entwickle {0} Pokémon.
+Evolve {0} Pokémon.
 badge_evolved_total_title
-Forscher
+Scientist
 badge_evolved_total_value_format
 N0
 badge_hatched_total
-Brüte {0} Eier aus.
+Hatch {0} Eggs.
 badge_hatched_total_title
-Züchter
+Breeder
 badge_hatched_total_value_format
 N0
 badge_pokedex_entries
-Trage {0} Pokémon im Pokédex ein.
+Register {0} Kanto region Pokémon in the Pokédex.
 badge_pokedex_entries_title
 Kanto
 badge_pokedex_entries_value_format
 N0
 badge_pokestops_visited
-Besuche {0} PokéStops.
+Visit {0} PokéStops.
 badge_pokestops_visited_title
 Backpacker
 badge_pokestops_visited_value_format
 N0
 badge_travel_km
-Laufe {0:0.#} km.
+Walk {0:0.#} km
 badge_travel_km_title
 Jogger
 badge_travel_km_value_format
 N1
 badge_unique_pokestops
-Besuche {0} verschiedene PokéStops.
+Visit {0} unique PokéStops.
 badge_unique_pokestops_title
-Verschiedene PokéStops
+Unique PokéStops
 badge_unique_pokestops_value_format
 N0
 badge_you_earned
-Glückwunsch! Du hast eine Medaille verdient!
+Congratulations! You earned a medal!
 badge_big_magikarp
-Fange {0} große Karpador.
+Catch {0} big Magikarp.
 badge_big_magikarp_title
-Angler
+Fisherman
 badge_big_magikarp_value_format
 N0
 badge_small_rattata
-Fange {0} winzige Rattfratz.
+Catch {0} tiny Rattata.
 badge_small_rattata_title
-Teenager
+Youngster
 badge_small_rattata_value_format
 N0
 badge_pikachu
-Fange {0} Pikachu.
+Catch {0} Pikachu.
 badge_pikachu_title
-Pikachu-Fan
+Pikachu Fan
 badge_pikachu_value_format
 N0
 badge_deployed_total
-Weise {0} Pokémon Arenen zu!
+Assign {0} Pokémon to Gyms!
 badge_deployed_total_title
-Pokémon bei Arenen
+Pokémon at Gyms
 badge_deployed_total_value_format
 N0
 badge_battle_attack_won
-Gewinne {0} Arenakämpfe.
+Win {0} Gym battles.
 badge_battle_attack_won_title
-Kämpferin
+Battle Girl
 badge_battle_attack_won_value_format
 N0
 badge_battle_training_won
-Trainiere {0}-mal.
+Train {0} times.
 badge_battle_training_won_title
-Ass-Trainer 
+Ace Trainer
 badge_battle_training_won_value_format
 N0
 badge_battle_defend_won
-Gewinne {0} Verteidigungskämpfe!
+Win {0} defense battles!
 badge_battle_defend_won_title
-Gewonnene Vert.-Kämpfe
+Defense Battles Won
 badge_battle_defend_won_value_format
 N0
 badge_prestige_raised
-Erhöhe Arena-Prestige um {0}.
+Raise {0} total Gym Prestige!
 badge_prestige_raised_title
-Prestige erhöht
+Prestige Raised
 badge_prestige_raised_value_format
 N0
 badge_prestige_dropped
-Setze Arena-Prestige um {0} herab.
+Reduce {0} total Gym Prestige!
 badge_prestige_dropped_title
-Prestige gesenkt
+Reduced Prestige
 badge_prestige_dropped_value_format
 N0
 badge_type_normal
-Fange {0} Pokémon vom Typ Normal.
+Catch {0} Normal-type Pokémon.
 badge_type_normal_title
-Schulkind
+Schoolkid
 badge_type_normal_value_format
 N0
 badge_type_fighting
-Fange {0} Pokémon vom Typ Kampf.
+Catch {0} Fighting-type Pokémon.
 badge_type_fighting_title
-Schwarzgurt
+Black Belt
 badge_type_fighting_value_format
 N0
 badge_type_flying
-Fange {0} Pokémon vom Typ Flug.
+Catch {0} Flying-type Pokémon.
 badge_type_flying_title
-Vogelfänger 
+Bird Keeper
 badge_type_flying_value_format
 N0
 badge_type_poison
-Fange {0} Pokémon vom Typ Gift.
+Catch {0} Poison-type Pokémon.
 badge_type_poison_title
-Punker
+Punk Girl
 badge_type_poison_value_format
 N0
 badge_type_ground
-Fange {0} Pokémon vom Typ Boden.
+Catch {0} Ground-type Pokémon.
 badge_type_ground_title
-Ruinenmaniac
+Ruin Maniac
 badge_type_ground_value_format
 N0
 badge_type_rock
-Fange {0} Pokémon vom Typ Gestein.
+Catch {0} Rock-type Pokémon.
 badge_type_rock_title
-Wanderer
+Hiker
 badge_type_rock_value_format
 N0
 badge_type_bug
-Fange {0} Pokémon vom Typ Käfer.
+Catch {0} Bug-type Pokémon.
 badge_type_bug_title
-Käfersammler
+Bug Catcher
 badge_type_bug_value_format
 N0
 badge_type_ghost
-Fange {0} Pokémon vom Typ Geist.
+Catch {0} Ghost-type Pokémon.
 badge_type_ghost_title
-Hexe
+Hex Maniac
 badge_type_ghost_value_format
 N0
 badge_type_steel
-Fange {0} Pokémon vom Typ Stahl.
+Catch {0} Steel-type Pokémon.
 badge_type_steel_title
-Eisenbahner
+Depot Agent
 badge_type_steel_value_format
 N0
 badge_type_fire
-Fange {0} Pokémon vom Typ Feuer.
+Catch {0} Fire-type Pokémon.
 badge_type_fire_title
-Hitzkopf
+Kindler
 badge_type_fire_value_format
 N0
 badge_type_water
-Fange {0} Pokémon vom Typ Wasser.
+Catch {0} Water-type Pokémon.
 badge_type_water_title
-Schwimmer
+Swimmer
 badge_type_water_value_format
 N0
 badge_type_grass
-Fange {0} Pokémon vom Typ Pflanze.
+Catch {0} Grass-type Pokémon.
 badge_type_grass_title
-Gärtner
+Gardener
 badge_type_grass_value_format
 N0
 badge_type_electric
-Fange {0} Pokémon vom Typ Elektro.
+Catch {0} Electric-type Pokémon.
 badge_type_electric_title
 Rocker
 badge_type_electric_value_format
 N0
 badge_type_psychic
-Fange {0} Pokémon vom Typ Psycho.
+Catch {0} Psychic-type Pokémon.
 badge_type_psychic_title
-Psycho
+Psychic
 badge_type_psychic_value_format
 N0
 badge_type_ice
-Fange {0} Pokémon vom Typ Eis.
+Catch {0} Ice-type Pokémon.
 badge_type_ice_title
-Skifahrer
+Skier
 badge_type_ice_value_format
 N0
 badge_type_dragon
-Fange {0} Pokémon vom Typ Drache.
+Catch {0} Dragon-type Pokémon.
 badge_type_dragon_title
-Drachenprofi
+Dragon Tamer
 badge_type_dragon_value_format
 N0
 badge_type_dark
-Fange {0} Pokémon vom Typ Unlicht.
+Catch {0} Dark-type Pokémon.
 badge_type_dark_title
-Halbstarke
+Delinquent
 badge_type_dark_value_format
 N0
 badge_type_fairy
-Fange {0} Pokémon vom Typ Fee.
+Catch {0} Fairy-type Pokémon.
 badge_type_fairy_title
-Träumerin
+Fairy Tale Girl
 badge_type_fairy_value_format
 N0
 battle_pokemon_already_in_list
-Bereits zum Kampf ausgewählt
+Already selected for battle
 boot_loading
-Lädt ...
+LOADING...
 boot_beta_warning
-Diese Software befindet sich in der Entwicklung und ist vertraulich zu behandeln. Nicht teilen, zeigen oder an andere verteilen.
+This software is under development and is confidential. Please do not share, display, or distribute it to others.
 boot_safety_warning
-Bleibe wachsam. Behalte immer deine Umgebung im Auge!
+Remember to be alert at all times. Stay aware of your surroundings.
 boot_safety_warning_1
-Spiele <i>Pokémon GO</i> nicht beim Autofahren.
+Do not play Pokémon GO while driving.
 boot_safety_warning_2
-Betritt beim Spielen von <i>Pokémon GO</i> keine Privatgrundstücke.
+Do not trespass while playing Pokémon GO.
 boot_safety_warning_3
-Betritt beim Spielen von <i>Pokémon GO</i> kein gefährliches Gelände.
+Do not enter dangerous areas while playing Pokémon GO.
 confirm_use_effective
-{0} war effektiv.
+{0} was effective.
 confirm_use_ineffective
-{0} war nicht effektiv.
+{0} was not effective.
 confirm_use_tap_to_use
-Tippe auf das Item, um es zu benutzen.
+Tap the item to use it.
 date_format
-dd.MM.yyyy
+MMM dd, yyyy
 egg_anticipation
-Was ist wohl drin?!
+What's inside?!
 egg_hatching
 Oh?
 egg_received
-So ein Glück! Du hast ein Ei erhalten!
+Lucky you! You got an Egg!
 egg_walk_to_hatch
-Laufe {0} km, um das Ei schlüpfen zu lassen!
+Walk {0} km to hatch the Egg!
 egg_confirm
-Bericht
+Summary
 encounter_gotcha
-Klasse!
+Gotcha!
 encounter_pokemon_was_caught
-{0} wurde gefangen!
+{0} was caught!
 encounter_pokemon_broke_free
-Das Pokémon hat sich befreit!
+The Pokémon broke free!
 encounter_pokemon_ran_away
-Oh nein! Das wilde {0} ist geflüchtet.
+Oh no! The wild {0} fled.
 encounter_received_evolution_shard
-{0} Entwicklungsscherben erhalten!
+{0} Evolution Shard received!
 encounter_no_pokeball
-Keine Pokébälle
+No Poké Balls
 encounter_score_curveball
 Curveball
 encounter_score_excellent_throw
-Fabelhafter Wurf
+Excellent Throw
 encounter_score_first_catch
-Erster Fang des Tages
+First Catch of the Day
 encounter_score_great_throw
-Großartiger Wurf
+Great Throw
 encounter_score_milestone
-Bonus
+Collector Bonus
 encounter_score_new_pokemon
-Neues Pokémon
+New Pokémon
 encounter_score_nice_throw
-Guter Wurf
+Nice Throw
 encounter_score_one_shot
-Mit einem Wurf
+First Throw
 encounter_score_pokemon_caught
-Pokémon gefangen
+Pokémon Caught
 encounter_score_total_exp
-{0} EP
+{0} XP
 encounter_miss_throw
-Daneben ...
+Miss...
 encounter_nice_throw
-Gut!
+Nice!
 encounter_excellent_throw
-Einfach fabelhaft!
+Excellent!
 encounter_great_throw
-Großartig!
+Great!
 encounter_wild_pokemon_appeared
-Ein wildes <b>{0}</b> erscheint!
+A wild <b>{0}</b> appeared!
 encounter_pokeball_inventory_empty
-Keine Pokébälle mehr!
+Out of Poké Balls!
 encounter_score_total
-Gesamt
+TOTAL
 encounter_berry_already_used
-Du hast schon eine Beere benutzt.
+You already used a Berry.
 encounter_unknown_cp
 ???
 err_get_bundle
-Spieldaten konnten nicht vom Server abgerufen werden.
+Failed to get game data from the server.
 err_get_digest
-Spieldaten konnten nicht vom Server abgerufen werden.
+Failed to get game data from the server.
 err_get_player
-Spielerinfos konnten nicht vom Server abgerufen werden.
+Failed to get player information from the server.
 err_go_settings
-Einstellungen
+Settings
 err_gps_off
-Dein GPS ist ausgeschaltet. Für <i>Pokémon GO</i> muss dein GPS eingeschaltet sein.
+Your GPS is off. Pokémon GO requires your GPS to be turned on.
 err_gps_silent
-GPS-Signal nicht gefunden.
+GPS signal not found.
 err_location_not_measured
-Standort konnte nicht geortet werden.
+Failed to detect location.
 err_no_internet
-Keine Internetverbindung.
+No Internet Connection
 err_retry
-Erneut versuchen
+Retry
 err_skip
-Jetzt nicht
+Not Now
 err_update
-Aktualisieren
+Update
 err_update_now
-Eine neue Version von <i>Pokémon GO</i> ist erhältlich. Möchtest du das Spiel jetzt aktualisieren?
+A new version of Pokémon GO is available. Would you like to update now?
 err_taking_you_to_app_store
-Aktualisieren, um fortzufahren ...
+Update to continue...
 feedback_added_xp
-+{0} EP
++{0} XP
 general_accept
-Akzeptieren
+Accept
 general_error
-Fehler
+Error
 general_network_error
-Netzwerkfehler
+Network Error
 general_button_select
-Auswählen
+Select
 general_cancel
-Abbrechen
+Cancel
 general_no
-Nein
+No
 general_ok
-O. K.
+OK
 general_pokemon
 Pokémon
 general_pokemon_inventory_full
-Aufbewahrungslimit erreicht!
+Your collection is full.
 general_sign_out
-Abmelden
+Sign Out
 general_sign_out_confirm
-Bist du sicher, dass du dich abmelden willst?
+Are you sure you want to sign out?
 general_yes
-Ja
+Yes
 gym_approach_battles_won
-Gewonnene Kämpfe:
+Battles Won:
 gym_defeated
-Die Arena wurde besiegt!
+The Gym has been defeated!
 gym_gym_is_too_far
-Diese Arena ist zu weit entfernt.
+Walk closer to interact with this Gym.
 gym_leader_defeated
-Der Arenaleiter wurde besiegt!
+The Gym Leader has been defeated!
 gym_level
-Arenalevel
+Gym level
 gym_lose_prestige
-Prestige um {0} gesunken.
+Prestige decreased by {0}.
 gym_no_more_slots
-Die Arena ist bereits voll.
+The Gym is already full.
 gym_player_is_already_member
-Du bist schon Mitglied dieser Arena.
+You're already a member of this Gym.
 gym_prestige
 Prestige
 gym_win_prestige
-Prestige um {0} gestiegen.
+Prestige increased by {0}.
 gym_results_pokemon_defeated
-Besiegte Pokémon:
+Pokémon Defeated:
 gym_results_xp_awarded
-EP
+XP
 gym_results_prestige_change
-Arena-Prestige:
+Gym Prestige:
 gym_results_victory
-Du hast gewonnen!
+You win!
 gym_results_defeat
-Du hast verloren!
+You lose!
 gym_results_timed_out
-Die Zeit ist abgelaufen!
+Time's up!
 gym_level_too_low
-Kehre zurück, wenn du Level {0} erreicht hast!
+Please come back when you've reached level {0}!
 gym_under_construction
-Arenen sind noch im Bau.
+Gyms are under construction.
 gym_start_battle_error
-Kampf konnte nicht begonnen werden.
+Couldn't start battle.
 item_bag_deployed
-Pokémon zugewiesen – Item kann nicht eingesetzt werden.
+Pokémon assigned—item can't be used.
 item_bag_irrelevant
-Dieses Item kann hier nicht eingesetzt werden.
+This item can't be used here.
 item_bag_no_items
-Keine Items verfügbar.
+No items available.
 item_bag_potion_fainted
-Tränke können nicht auf ein kampfunfähiges Pokémon angewendet werden.
+Potions can't be used on fainted Pokémon.
 item_bag_potion_full_health
-Dieses Pokémon ist bereits völlig geheilt.
+This Pokémon already has full health.
 item_bag_revive_not_fainted
-Beleber können nur auf ein kampfunfähiges Pokémon angewendet werden.
+Revives can only be used on fainted Pokémon.
 item_use
-Benutzen
+USE
 buff_already_applied
-Du hast dieses Hilfsmittel schon verwendet.
+You've already applied this type of enhancement.
 onboard_accept_tos
-Akzeptieren
+Accept
 onboard_decline_tos
-Nicht akzeptieren
+Decline
 onboard_short_tos
-<i>Pokémon GO</i> ist ein standortbezogenes Spiel. Deine Standortinformationen werden von dieser App erfasst und sind bei bestimmten Handlungen im Spiel für andere Spieler möglicherweise sichtbar.
+Pokémon GO is a location-based game. Your location information is collected by this application and may be visible to other users when you take certain actions in the game.
 onboard_link_tos
-Lies dir die Nutzungsbedingungen vollständig durch, bevor du diese Bedingungen akzeptierst.
+Read the full Terms of Service before accepting these terms and conditions.
 onboard_tos_title
-Nutzungsbedingungen von <i>Pokémon GO</i>
+Pokémon GO Terms of Service
 onboard_are_you_sure_decline_tos
-Bist du sicher, dass du nicht akzeptieren möchtest?
+Are you sure you want to decline?
 onboard_terms_of_service
-Nutzungsbedingungen
+Terms of Service
 onboard_select_your_avatar
-Wähle deinen Look aus.
+Choose your style
 onboard_done_customization
-Bist du fertig?
+Are you all set?
 onboard_select_a_name
-Wie willst du von den anderen Trainern und mir genannt werden?
+What should the other Trainers and I call you?
 onboard_name_too_short_error
-Etwas länger!
+Try something longer.
 onboard_name_invalid_characters_error
-Es sind nur Buchstaben und Zahlen erlaubt.
+Only letters and numbers are allowed.
 onboard_name_too_long_error
-Etwas kürzer!
+Try something shorter.
 onboard_name_not_available
-Dieser Name steht nicht zur Verfügung.
+That name isn't available.
 onboard_name_not_valid
-Dieser Name ist nicht gültig.
+That name is invalid.
 onboard_name_owned
-Dieser Name wird bereits von einem anderen Trainer benutzt.
+This name is already in use by another Trainer.
 onboard_name_cannot_change
-Serverfehler
+Server Error
 onboard_name_fail
-Ein Fehler ist aufgetreten. Versuche es mit einem anderen Namen.
+An error has occurred. Try another name.
 onboard_enter_name_prompt
-Gib ein, wie dich die anderen Trainer nennen sollen.
+Enter the nickname that other Trainers will use for you.
 onboard_enter_name_hint
-Spitzname
+Nickname
 onboard_name_are_you_sure
-Bist du sicher, dass du <b>{0}</b> genannt werden möchtest?
+Are you sure you want to be called <b>{0}</b>?
 pokedex_all_types
-Alle Typen
+All Types
 pokedex_notencountered
-Noch nicht begegnet
+Not Encountered
 pokedex_page_all
-Alle
+All
 pokedex_page_caught
-Gefangen:
+Caught:
 pokedex_page_seen
-Gesehen:
+Seen:
 pokedex_page_name_not_seen
-??????
+???
 pokedex_details_seen
-Gesehen:
+Seen:
 pokedex_details_caught
-Gefangen:
+Caught:
 pokedex_details_type
-Typ:
+Type:
 pokedex_details_type_not_caught
 ---
 pokedex_details_weight
-Gewicht:
+Weight:
 pokedex_details_weight_not_caught
 ???
 pokedex_details_height
-Größe:
+Height:
 pokedex_details_height_not_caught
 ???
 pokedex_details_category_not_caught
-???
+??? Pokémon
 pokedex_details_evolution
-Entwicklung
+Evolution
 pokedex_sort_alphabet
 Name
 pokedex_sort_date
-Funddatum
+Recent
 pokedex_sort_hp
-KP
+HP
 pokedex_sort_level
-Wettkampfpunkte
+Combat Power
 pokedex_sort_number
-Nr.
+Number
 pokedex_sort_favorite
-Favorit
+Favorite
 pokedex_registered_to_pokedex
-Im Pokédex registriert
+Registered to Pokédex
 pokemon_info_type
-Typ
+Type
 pokemon_info_weight
-Gewicht
+Weight
 pokemon_info_height
-Größe
+Height
 pokemon_info_cp
-WP
+CP
 pokemon_info_powerup_section
-Power-up
+POWER UP
 pokemon_info_powerup_button
-Power-up
+Power Up
 pokemon_info_powerup_need_candies
-Du benötigst mehr {0}-Bonbons.
+Need more {0} Candies
 pokemon_info_powerup_need_stardusts
-Du benötigst mehr Sternenstaub.
+Need more Stardust.
 pokemon_info_powerup_player_lv_too_low
-Trainer-Level zu niedrig, um Power-up zu verwenden.
+Trainer level is too low to power up.
 pokemon_info_powerup_pokemon_deployed
-{0} ist einer Arena zugewiesen.
+{0} is assigned to a Gym.
 pokemon_info_powerup_confirmation
-Möchtest du bei {0} ein Power-up verwenden?
+Do you want to power up {0}?
 pokemon_info_evolve_button
-Entwickeln
+Evolve
 pokemon_info_evolve_need_candies
-Du benötigst mehr {0}-Bonbons.
+Need more {0} Candies.
 pokemon_info_evolve_pokemon_deployed
-{0} ist einer Arena zugewiesen.
+{0} is assigned to a Gym.
 pokemon_info_evolve_need_stardusts
-Du benötigst mehr Sternenstaub.
+Need more Stardust.
 pokemon_info_transfer_favorite_error
-Ein als Favorit markiertes Pokémon kann nicht verschickt werden.
+Cannot transfer a favorite Pokémon!
 pokemon_info_pokemon_is_released
-{0} wurde freigelassen.
+{0} was released.
 pokemon_info_candy_label
-{0}-Bonbon
+{0} Candy
 pokemon_info_stardust_label
-Sternenstaub
+Stardust
 pokemon_info_transfer_to_professor
-Verschicken
+Transfer
 pokemon_info_heal
-Heilen
+Heal
 pokemon_info_transfer_to_professor_confirmation
-<size=40><b>Möchtest du {0} wirklich an den Professor schicken?</b></size>\n\nNachdem du es an den Professor geschickt hast, kannst du es nicht zurückholen.
+<size=36><b>Do you want to transfer {0} to the professor?</b></size>\n\nYou can't undo this action once you transfer.
 pokemon_info_transfer_to_professor_result
-Erfolgreich verschickt! {0}-Bonbon vom Professor erhalten!
+Transfer succeeded! {0} Candy received from the professor.
 pokemon_info_transfer_failed
-{0} konnte aufgrund eines unbekannten Fehlers nicht verschickt werden.
+Couldn't transfer {0} due to an unknown error.
 pokemon_info_release_deployed
-Zugewiesen
+Assigned
 pokemon_type_normal
 Normal
 pokemon_type_fighting
-Kampf
+Fighting
 pokemon_type_flying
-Flug
+Flying
 pokemon_type_poison
-Gift
+Poison
 pokemon_type_ground
-Boden
+Ground
 pokemon_type_rock
-Gestein
+Rock
 pokemon_type_bug
-Käfer
+Bug
 pokemon_type_ghost
-Geist
+Ghost
 pokemon_type_steel
-Stahl
+Steel
 pokemon_type_fire
-Feuer
+Fire
 pokemon_type_water
-Wasser
+Water
 pokemon_type_grass
-Pflanze
+Grass
 pokemon_type_electric
-Elektro
+Electric
 pokemon_type_psychic
-Psycho
+Psychic
 pokemon_type_ice
-Eis
+Ice
 pokemon_type_dragon
-Drache
+Dragon
 pokemon_type_dark
-Unlicht
+Dark
 pokemon_type_fairy
-Fee
+Fairy
 pokestop_item_inventory_full
-Dein Beutel ist voll.
+Your Bag is full.
 pokestop_no_items_found
-Versuche es später noch mal.
+Try again later.
 pokestop_pokestop_is_too_far
-Dieser PokéStop ist zu weit entfernt.
+Walk closer to interact with this PokéStop.
 profile_player_level
 Level
 profile_start_date
-Startdatum:
+Start Date:
 profile_button_activity_log
-Tagebuch
+Journal
 profile_button_customize
-Individualisieren
+Style
 recycle_dialog_prefix
-{0}
+Discard
 recycle_dialog_suffix
-wegwerfen?
+{0}?
 screen_title_item_bag
-Items
+ITEMS
 screen_title_pokedex
-Pokédex
+POKÉDEX
 screen_title_pokemon_inventory
-Pokémon
+POKÉMON
 screen_title_pokemon_inventory_egg
-EIER
+EGGS
 screen_title_settings
-Einstellungen
+SETTINGS
 screen_title_tips
-Tipps
+TIPS
 team_name_team0
-Ohne Team
+No Team
 team_name_team1
-Team Weisheit
+Team Mystic
 team_name_team2
-Team Wagemut
+Team Valor
 team_name_team3
-Team Intuition
+Team Instinct
 pick_team_intro
-Willkommen bei den Arenakämpfen!
+Welcome to Gym Battles!
 pick_team_desc
-Um diese Arena zu kontrollieren, musst du dich zusammen mit deinen Pokémon im Kampf gegen andere messen! Drei Teams kämpfen um die Kontrolle der Arenen. Du musst einem Team beitreten, um kämpfen zu können.
+To control this Gym, you must pit your skills and your Pokémon in battle against others! Three teams compete for control of Gyms. You must join one of the teams before you can battle.
 pick_team1_desc
-Willkommen im Team Weisheit!
+Welcome to Team Mystic!
 pick_team2_desc
-Willkommen im Team Wagemut!
+Welcome to Team Valor!
 pick_team3_desc
-Willkommen im Team Intuition!
+Welcome to Team Instinct!
 pick_team_title
-Entscheide dich für ein Team.
+Select a team to join.
 pick_team_confirmation
-Willkommen im Team {0}!
+Welcome to Team {0}!
 pick_team_rejection
-Konnte wegen Fehler nicht ausgeführt werden.
+Failed due to error.
 pokemon_info_evolution_confirmation
-Möchtest du {0} entwickeln?
+Do you want to evolve {0}?
 pokemon_info_evolution_failed
-{0} konnte sich aus unbekanntem Grund nicht entwickeln.
+Couldn't evolve {0} due to an unknown error.
 settings_music
-Musik
+Music
 settings_sound_effects
-Soundeffekte
+Sound Effects
 settings_vibration
-Vibrieren
+Vibration
 settings_battery_saver
-Batteriesparer
+Battery Saver
 settings_sfida
 Pokémon GO Plus
 settings_sfida_about_link
-Über Pokémon GO Plus
+About
 inventory_egg
-Ei
+Egg
 pokemon_info_evolution_crystals
-Entwicklungsscherben
+Evolution Shards
 pokemon_info_evolution_crystals_remaining
-Du brauchst noch {0}!
+Collect {0} more!
 pokemon_evolution_tap_to_evolve
-Zum Entwickeln drauftippen!
+Tap to evolve!
 about_screen_tos_btn
-Nutzungsbedingungen
+Terms of Service
 about_screen_licenses_btn
-Lizenzen
+Licenses
 about_screen_btn
-Über <i>Pokémon GO</i>
+About
 about_screen_title
-Über <i>Pokémon GO</i>
+About
 about_screen_copyright1
-©2016-2017 Niantic, Inc.
+©2016–2017 Niantic, Inc.
 about_screen_copyright2
-©2016-2017 Pokémon.
+©2016–2017 Pokémon.
 about_screen_copyright3
-©1995–2017 Nintendo/Creatures Inc./GAME FREAK inc.
+©1995–2017 Nintendo / Creatures Inc. / GAME FREAK inc.
 settings_go_to_support
-Hilfe-Center
+Help Center
 settings_are_you_sure_support_prompt
-Willst du das Spiel verlassen und zur Support-Website gehen?
+Do you want to leave the game and go to the support website?
 levelup_items_unlocked
-Freigeschaltete Items
+Items Unlocked
 levelup_sequence_text
-Level-Aufstieg!
+Level up!
 pokenav_nearby
-In der Nähe
+NEARBY
 pokenav_my_pokedex
-Mein Pokédex
+MY POKÉDEX
 admin_name_was_banned
-Bitte wähle einen neuen Benutzernamen aus.
+Please enter a different nickname.
 encounter_pokemon_not_in_range
-Dieses Pokémon ist zu weit entfernt.
+This Pokémon is too far away.
 super_effective
-Sehr effektiv!
+Super effective!
 not_very_effective
-Nicht sehr effektiv …
+Not very effective...
 attack_dodge
-Ausgewichen!
+Dodged!
 gym_deploy_confirmation
-Bist du sicher, dass du {0} der Arena zuweisen möchtest? Es kehrt erst dann wieder in deine Sammlung zurück, wenn es in der Arena kampfunfähig wird.
+Do you want to leave {0} to defend this Gym? It will return to you once it's defeated.
 shop_screen_title
-Shop
+SHOP
 shop_category_bundles
 Bundles
 shop_category_items
@@ -703,61 +703,61 @@ Items
 shop_category_upgrades
 Upgrades
 shop_category_pokecoins
-PokéMünzen
+PokéCoins
 shop_confirm_coins_title
-In-App-Kauf bestätigen
+Confirm your in-app purchase.
 shop_confirm_coins_details
-Willst du 1 {0} für {1:C} kaufen?
+Do you want to buy one {0} for {1:C}?
 shop_confirm_buy
-Kaufen
+Buy
 shop_confirm_item_purchase
-Möchtest du {0} PokéMünzen für {1} einlösen?
+Do you want to exchange {0} PokéCoins for {1}?
 shop_exchange_for_prefix
-Einlösen
+Exchange
 shop_exchange_for_suffix
  
 shop_purchase_failure
-Kauf gescheitert. Bitte versuche es noch mal.
+Purchase failed. Please try again.
 shop_need_more_coins
-Du brauchst mehr PokéMünzen!
+You need more PokéCoins!
 shop_need_more_get_coins
-Hol dir {0}.
+Get {0}
 shop_need_more_go_to_coins
-Zu PokéMünzen
+Go to PokéCoins
 screen_title_shop
-Shop
+SHOP
 shop_inventory_full
-Aufbewahrungslimit erreicht!
+Your Bag is full!
 shop_inventory_full_visit_shop
-Besuche den Shop, um deinen Beutel zu erweitern.
+Visit the shop to expand your Bag.
 quickstart_title
-Schnellstart
+Quick Start
 quickstart_pokestopfar_0
-Dies ist ein PokéStop.
+This is a PokéStop.
 quickstart_pokestopfar_1
-Ein Ort in der echten Welt, an dem du Pokébälle und andere Items finden kannst.
+It's a real-world location where you can find Poké Balls and other items.
 quickstart_pokestopnear_0
-Der PokéStop ändert seine Form, wenn du nah genug dran bist. Tippe drauf, um ihn zu öffnen.
+The PokéStop will change its shape when you walk close enough. Tap it to interact with it.
 quickstart_pokestopspin_0
-Drehe die Scheibe, um Items zu erhalten. Zum Einsammeln drauftippen oder drüberstreichen.
+Spin the Photo Disc to generate items. Tap or swipe the items to collect them.
 quickstart_gymmap_0
-Dies ist eine Arena.
+This is a Gym.
 quickstart_gymmap_1
-Teams kämpfen um die Kontrolle dieser Standorte.
+Teams battle for control of these real-world locations.
 quickstart_gymbuttons_0
-Weise eines deiner Pokémon einer leeren Arena zu, um sie für dein Team in Besitz zu nehmen. Stärke eine freundliche Arena, indem du ihr eines deiner Pokémon zuweist, um bei der Verteidigung zu helfen.
+Assign one of your Pokémon to an open Gym to claim it for your team. Strengthen a friendly Gym by assigning one of your Pokémon to help defend it.
 quickstart_gymbuttons_1
-Trainiere das Pokémon in einer freundlichen Arena, um das Prestige und den Level der Arena zu erhöhen.
+Train the Pokémon at a friendly Gym to increase the Gym's Prestige and level.
 quickstart_gymbuttons_2
-Fordere eine gegnerische Arena heraus, um deren Prestige und Level zu senken.
+Challenge a rival Gym to lower its Prestige and level.
 quickstart_battledodge_0
-Streiche im Kampf nach links oder rechts, um Attacken auszuweichen.
+During battle, swipe left or right to dodge incoming attacks.
 shop_inventory_full_go_to_upgrades
-Zu Upgrades
+Go to Upgrades
 encounter_too_many_pokemon
-Deine Pokémon-Box ist voll. Du kannst im Shop mehr Platz kaufen.
+Your Pokémon Box is full. You can buy more space in the shop.
 pokestop_too_many_items
-Dein Beutel ist voll. Du kannst im Shop mehr Platz für Items kaufen.
+Your Bag is full. You can buy more space for items in the shop.
 iap_category_items
 Items
 iap_category_upgrades
@@ -765,45 +765,45 @@ Upgrades
 iap_category_bundle
 Bundles
 iap_category_pokecoins
-PokéMünzen
+PokéCoins
 iap_category_none
-Nicht kategorisiert
+Uncategorized
 shop_something_went_wrong
-Etwas ist schiefgegangen. Versuche es noch mal.
+Something went wrong. Please try again.
 shop_daily_bonus_amount
-{0} PokéMünzen
+{0} PokéCoins
 age_gate_screen
-Gib dein Geburtdatum ein.
+Please enter your date of birth.
 month_jan
-Jan.
+Jan
 month_feb
-Febr.
+Feb
 month_mar
-März
+Mar
 month_apr
-Apr.
+Apr
 month_may
-Mai
+May
 month_jun
-Juni
+Jun
 month_jul
-Juli
+Jul
 month_aug
-Aug.
+Aug
 month_sep
-Sept.
+Sep
 month_oct
-Okt.
+Oct
 month_nov
-Nov.
+Nov
 month_dec
-Dez.
+Dec
 submit_age_button
-Absenden
+Submit
 registration_choice_screen
-Wähle ein Konto aus, mit dem du dich registrieren möchtest.
+Please select an account to register with.
 login_choice_screen
-Anmelden mit
+Sign up with
 ptc_login_button
 Pokémon Trainer Club
 google_login_button
@@ -811,806 +811,876 @@ Google
 ptc_login_title
 Pokémon Trainer Club
 ptc_forgot_username
-Benutzernamen vergessen?
+Forgot your username?
 ptc_forgot_password
-Passwort vergessen?
+Forgot your password?
 privacy_policy_title
-<i>Pokémon GO</i>-Datenschutzrichtlinien
+Pokémon GO Privacy Policy
 privacy_policy_button
-Datenschutzrichtlinien
+Privacy Policy
 login_username
-Benutzernamen eingeben
+Enter your username
 login_password
-Passwort eingeben
+Enter your password
 facebook_login_button
 Facebook
 ptc_login_submit
-Anmelden
+Sign in
 ptc_need_to_register_button
-Registrieren
+Register
 ptc_error_activation_required
-Aktiviere dein Konto, um <i>Pokémon GO</i> zu spielen.
+Please activate your account in order to play Pokémon GO.
 google_auth_failed
-Authentifizierung fehlgeschlagen. Versuche es noch mal.
+Unable to authenticate. Please try again.
 ptc_auth_failed
-Authentifizierung fehlgeschlagen. Versuche es noch mal.
+Unable to authenticate. Please try again.
 fb_auth_failed
-Authentifizierung fehlgeschlagen. Versuche es noch mal.
+Unable to authenticate. Please try again.
 fb_auth_error_no_email
-Nutze ein Facebook-Konto, das mit einer E-Mail-Adresse verbunden ist.
+Please use a Facebook account that has an email address attached to it.
 authentication_revoked_error
-Verbindung zum Server konnte nicht hergestellt werden.
+Unable to connect to server.
 shop_daily_bonus_header
-Ein besonderes Geschenk vom Professor!
+A special gift from the professor!
 shop_daily_bonus_button
-Super, vielen Dank!
+Sweet, thanks!
 shop_coming_soon
-Demnächst erhältlich!
+Coming Soon
 shop_fully_upgraded
-Das Upgrade für {0} ist vollständig!
+Your {0} is fully upgraded!
 incubator_selector_header
-Brutmaschinen
+Incubators
 incubator_selector_uses_left
-Noch {0} ×
+{0} use
 incubator_choose_egg
-Wähle ein Ei zum Ausbrüten aus.
+Choose an Egg to incubate.
 egg_detail_put_in_incubator
-Benutze eine Brutmaschine, um dieses Ei auszubrüten.
+Use an incubator to hatch this Egg.
 egg_detail_hatch_walk
-Gehe zu Fuß, um dieses Ei auszubrüten.
+Walk to hatch this Egg.
 egg_detail_start_incubation
-Ausbrüten beginnen
+INCUBATE
 inventory_no_eggs
-Sammle mehr Eier!
+Collect more Eggs!
 incubator_selector_infinite_uses
 ∞
 pokestop_disk_empty_title
-Freier Modulsteckplatz
+Empty module slot
 pokestop_disk_empty_desc
-Hier kann ein PokéStop-Modul installiert werden.
+Install a PokéStop module here.
 pokestop_disk_inventory_title
-PokéStop-Module
+PokéStop Module
 pokestop_out_of_disks
-Sammle mehr PokéStop-Module!
+Collect more PokéStop modules!
 pokestop_disk_activate_error_already_has_disk
-Du benötigst PokéStop-Module.
+You need PokéStop modules.
 pokestop_disk_activate_error
-PokéStop-Modul konnte nicht installiert werden.
+Failed to install the module.
 pokestop_disk_error_out_of_range
-Zu weit vom PokéStop entfernt!
+You're out of range of the PokéStop.
 pokemon_favorite_error
-Pokémon konnte nicht zu Favoriten hinzugefügt werden.
+Failed to add Pokémon to your favorites.
 pokemon_unfavorite_error
-Pokémon konnte nicht aus Favoriten entfernt werden.
+Failed to remove Pokémon from your favorites.
 defender_bonus_header
-Du hast {0} Pokémon Arenen zugewiesen.
+Trainer has {0} Pokémon assigned.
 defender_bonus_title
-Verteidigerbonus
+Defender Bonus
 defender_bonus_timer
-Erhältlich in {0}
+Collect in {0}
 defender_bonus_collect_now
-Jetzt erhältlich!
+Collect now!
 defender_bonus_nothing_deployed
-Du musst ein Pokémon einer Arena zuweisen, um einen Verteidigerbonus erhalten zu können.
+You need to assign a Pokémon to a Gym to be eligible for a Defender bonus.
 first_time_ar_mode_prompt_title
-Nutze deine Kamera, um Pokémon in der echten Welt zu finden! 
+Use your camera to find Pokémon in the real world!
 first_time_ar_mode_prompt_description
-Versuch's mal. Du kannst sie jederzeit wieder ausschalten.
+Try it out. You can turn it off with the AR button anytime.
 first_time_ar_mode_prompt_ar_on_btn
-Ja, Kamera an!
+Yes, camera on!
 first_time_ar_mode_prompt_ar_off_btn
-Vielleicht später
+Maybe later
 nickname_set_nickname
-Spitznamen eingeben
+Set Nickname
 battle_no_pokemon_left
-Keine Pokémon mehr
+No Pokémon Left
 battle_round_number
-{0}. Kampf
+Battle {0}
 battle_round_victory
-Gewonnen!
+Victory!
 battle_special_toast
-{0} hat {1} eingesetzt!
+{0} used {1}!
 battle_surrender_confirmation
-Möchtest du wirklich aufgeben?
+Are you sure you want to give up?
 pgp_unpaired
-Pokémon GO Plus entkoppelt.
+Pokémon GO Plus unpaired.
 pgp_connection_lost
-Verbindung verloren. Drücke den Knopf, um sie wiederherzustellen.
+Connection lost. Click to reconnect.
 pgp_click_to_connect
-Drücke den Knopf auf dem Pokémon GO Plus, um die Verbindung herzustellen.
+To connect, click the button on the Pokémon GO Plus.
 pgp_connected
-Verbindung zu Pokémon GO Plus erfolgreich.
+Connected to Pokémon GO Plus.
 pgp_log_dowser_start
-Suche nach {0} begonnen.
+Started tracking for {0}.
 pgp_log_dowser_lost
-Suche fehlgeschlagen; {0} verloren.
+Tracking failed; lost {0}.
 pgp_log_dowser_stop
-Suche nach {0} abgebrochen.
+Stopped tracking for {0}.
 pgp_log_received_items
-{0} Items von PokéStop{1} erhalten.
+Received {0} items from PokéStop{1}.
 pgp_log_pokemon_caught
-{0} wurde gefangen!
+{0} was caught!
 pgp_log_pokemon_fled
-{0} ist geflüchtet.
+{0} ran away.
 pgp_low_battery
-Die Batterie des Pokémon GO Plus ist schwach.
+Pokémon GO Plus device battery is low.
 pgp_bluetooth_is_off
-Bluetooth ist deaktiviert. Aktiviere es in den Einstellungen deines Geräts.
+Bluetooth is off. Enable it in device settings.
 activity_log_title
-Tagebuch
+Journal
 activity_log_clear
-Aktivitätslog löschen
+Clear the activity log
 activity_log_clear_confirmation
-Möchtest du das Aktivitätslog löschen? Dieser Vorgang kann nicht abgebrochen werden.
+Do you want to clear the activity log? If you agree, you can't cancel this action.
 activity_log_show_more
-Mehr
+More
 activity_log_remove
-Entfernen
+Remove
 activity_log_remove_confirmation
-Möchtest du diesen Eintrag entfernen?
+Do you want to remove this entry?
 pgp_weak_signal
-Das Signal ist schwach. Tritt näher an das Gerät.
+Weak signal. Get closer to the device.
 pgp_install_pgp_app
-Installiere die Pokémon GO Plus App.
+Install the Pokémon GO Plus app.
 pgp_error_auth
-Gerät konnte nicht authentifiziert werden.
+Device authentication failed.
 pgp_error_cannot_connect
-Verbindung zum Gerät fehlgeschlagen.
+Failed to connect to the device.
 pgp_disconnected
-Verbindung zu Pokémon GO Plus getrennt.
+Disconnected from Pokémon GO Plus.
 pgp_caught_pokemon
-Du hast ein Pokémon gefangen.
+You caught a Pokémon.
 pgp_retrieved_no_items
-Du hast keine Items vom PokéStop erhalten.
+You did not get any items from the PokéStop.
 server_lockout
-Serverfehler. Bitte später erneut versuchen.
+Our servers are humbled by your incredible response.\n\nWe are working to resolve the issue. Please try again soon!
 field_test_lockout
-Vielen Dank für deine Teilnahme am Testlauf von Pokémon GO!\nBis bald!
+Thank you for field-testing Pokémon GO!\nWe will be back soon!
 ar_encounter_no_gyro_err
-Wir können die Orientierung deines Handys nicht ermitteln. Möchtest du den AR-Modus ausschalten?
+We're not detecting your phone's orientation. Would you like to turn off AR mode?
 ar_encounter
 AR
 first_time_walk_title
-Zeit für einen Spaziergang!
+Time to walk!
 first_time_walk_description
-Bewege dich in der echten Welt, um deinen Avatar zu bewegen.
+Move in the real world to move your avatar.
 first_time_walk_button
-Nichts wie raus und GO!
+Let's GO!
 pokemon_nickname_error
-Gib einen anderen Spitznamen ein.
+Please enter a different nickname.
 general_hp
-KP
+HP
 general_cp
-WP
+CP
 general_xp
-EP
+XP
 settings_email_marketing
-Infos zu Veranstaltungen, Aktionen und Updates an meine E-Mail-Adresse schicken
+Email me events, offers, and updates.
 help_center_link
-https://support.pokemongo.nianticlabs.com/hc/de
+https://support.pokemongo.nianticlabs.com/hc/en-us
 settings_report_issues
-Vordringlichen Fehler melden
+Report Critical Issue
 report_issues_link
-https://pokemongo.nianticlabs.com/support/contact/de
+https://pokemongo.nianticlabs.com/support/contact/en
 settings_are_you_sure_report_prompt
-Möchtest du das Spiel verlassen, um einen Fehler zu melden?
+Do you want to leave the game to report an issue?
 authentication_retry_prompt
-Anmeldung fehlgeschlagen.
+Failed to log in.
 authentication_failed_try_again
-Erneut versuchen
+Retry
 authentication_failed_sign_out
-Über ein anderes Konto versuchen.
+Try a different account
 general_attack
-Angriffs-Wert
+Attack
 general_defense
-Verteidigungs-Wert
+Defense
 general_stamina
-KP-Wert
+HP
 safety_warning_yes
-Ich bin Mitfahrer
+I'm a passenger
 codename_warning_message
-<size=36><b>Möchtest du deinen Spitznamen ändern?</b></size>\n\nDu kannst deinen Spitznamen nur eine begrenzte Anzahl von Malen ändern, einschließlich des Zurückwechselns zu einem alten Spitznamen. Andere Trainer können ihn sehen, wähle ihn mit Sorgfalt!
+<size=36><b>Do you want to change your nickname?</b></size>\n\nYou can only change your nickname a limited number of times, including changing back to an old nickname. It will be displayed to other Trainers, so please choose wisely!
 codename_already_yours
-Du heißt bereits so!
+That's already your name!
 codename_are_you_sure
-<size=36><b>Bist du sicher, dass du {0} genannt werden möchtest?</b></size>\n\nDu kannst deinen Spitznamen nur eine begrenzte Anzahl von Malen ändern, einschließlich des Zurückwechselns zu einem alten Spitznamen.
+<size=36><b>Are you sure you want to be called {0}?</b></size>\n\n You can only change your nickname a limited number of times, including changing back to an old nickname.
 codename_reassign_success
-Jetzt heißt du {0}.
+You're now known as {0}.
 speed_modal_too_fast
-Du bewegst dich zu schnell!
+You're going too fast!
 speed_modal_slow_down
-<i>Pokémon GO</i> nicht beim Fahren spielen!
+Pokémon GO should not be played while driving.
 settings_change_nickname
-Spitznamen ändern
+Change Nickname
 pokemon_info_appraise
-BEWERTUNG
+APPRAISE
 gym_sponsored
-GESPONSERT
+SPONSORED
 pgp_log_pokemon_hatched
-{0} ist geschlüpft!
+{0} was hatched!
 nearby_pokemon_poi_title
-In der Nähe
+Nearby
 nearby_pokemon_grass_title
-Gesichtet
+Sightings
 nearby_pokemon_find_grass_info
-Suche diese wilden Pokémon!
+Find these Pokémon in the wild!
 nearby_pokemon_missing_poi
-Keine Pokémon in der Nähe. Laufe ein bisschen herum!
+Nothing nearby. Try walking around!
 nearby_pokemon_missing_grass
-Noch keine Pokémon gesichtet.
+No sightings yet.
 nearby_pokemon_tracking_lost_title
-Das Pokémon ist geflohen!
+The Pokémon fled!
 nearby_pokemon_tracking_lost
-Versuche es mit einem anderen Pokémon auf der Liste „In der Nähe“.
+Check the nearby list for other Pokémon.
 nearby_pokemon_view_button
-Anzeigen
+View
 nearby_pokemon_clear_button
-Entfernen
+Clear
 settings_sfida_icon_toggle
-Pokémon GO Plus-Symbol anzeigen
+Show Pokémon GO Plus Icon
 settings_sfida_bluetooth_disabled
-Bluetooth ist deaktiviert. Aktiviere es in den Einstellungen deines Geräts.
+Bluetooth is disabled. Please enable Bluetooth in the device settings menu.
 settings_sfida_device_name
 Pokémon GO Plus
 settings_sfida_about_url
 https://support.pokemon.com/hc/articles/360000954814
 settings_sfida_devices
-Verfügbare Geräte
+Available Devices
 settings_sfida_howto_pair
-Fehlerbehebung
+Troubleshooting
 settings_sfida_howto_pair_url
 https://support.pokemon.com/hc/articles/360000955374
 pgp_bluetooth_unauthorized
-Fehlende Bluetooth-Berechtigungen. Aktiviere Bluetooth in den Einstellungen deines Geräts.
+Missing Bluetooth permissions. Enable Bluetooth in the device settings menu.
 pgp_bluetooth_enabling
-Bluetooth wird aktiviert ...
+Enabling Bluetooth...
 pgp_bluetooth_not_supported
-Dieses Gerät unterstützt Bluetooth Smart nicht.
+This device does not support Bluetooth Smart.
 pgp_pokestop_in_range
-PokéStop in deiner Nähe!
+PokéStop in range!
 pgp_pokemon_in_range
-Pokémon in deiner Nähe!
+Pokémon in range!
 pgp_start_session
-Verbindung zu Pokémon GO Plus wird hergestellt ...
+Connecting to Pokémon GO Plus...
 pgp_stop_session
-Verbindung zu Pokémon GO Plus wird getrennt ...
+Disconnecting from Pokémon GO Plus...
 pgp_scaning
-Pokémon GO Plus gefunden... \nDrücke den Knopf auf dem Pokémon GO Plus.
+Finding Pokémon GO Plus...\nClick the button on Pokémon GO Plus.
 pgp_registering
-Pokémon GO Plus wird registriert ...
+Registering Pokémon GO Plus...
 buddy_set
-Kumpel
+Buddy
 pokemon_info_transfer_pokemon_buddy
-Du kannst deinen Kumpel nicht verschicken!
+You can’t transfer your buddy!
 buddy_walked_found_candy
-{0} hat ein Bonbon gefunden!
+{0} found a Candy!
 buddy_walk
-Geh mit deinem Kumpel spazieren!
+Walk with your buddy!
 buddy_title
-MEIN KUMPEL
+MY BUDDY
 buddy_chosen
-<b>{0}</b> ist jetzt dein Kumpel!
+<b>{0}</b> is now your buddy!
 pgp_error_failed_to_register
-Fehler beim Registrieren des Geräts
+Failed to register the device
 pgp_error_device_not_found
-Gerät nicht gefunden
+Device not found
 buddy_swap1
-Bist du sicher, dass du deinen Kumpel wechseln möchtest?
+Are you sure you want to swap your buddy?
 buddy_swap2
-Alle bisherigen Fortschritte geht verloren.
+Any current progress will be lost.
 general_and
 & {0}
 buddy_total_walked
-Insgesamt {0:0.#} km gelaufen!
+{0:0.#} km total walked!
 banned_player_lockout_1
-Dein Konto wurde gesperrt, weil du die Nutzungsbedingungen verletzt hast.\n\nWeitere Informationen dazu findest du im Hilfe-Center.
+Your account has been terminated for violating the Terms of Service.\n\nPlease see the Help Center for additional information.
 banned_player_lockout_2
-Weitere Informationen findest du im Hilfe-Center.
+Learn more
 pokemon_info_address_format
 {0}, {1}, {2}
 settings_sfida_store
-Kaufe ein Pokémon GO Plus
+Buy a Pokémon GO Plus 
 settings_sfida_store_url
 https://www.nintendo.co.jp/pokemongoplus/
 unauthorized_device_lockout_1
-Dieses Gerät, Betriebssystem oder diese Software ist nicht mit <i>Pokémon GO</i> kompatibel.
+This device, OS, or software is not compatible with Pokémon GO.\n\n<a href="unauthorized_device_help_center_link">Visit the Help Center </a> for more information.
 unauthorized_device_lockout
-Dieses Gerät, Betriebssystem oder diese Software ist nicht mit <i>Pokémon GO</i> kompatibel.
+This device, OS, or software is not compatible with Pokémon GO.
 unauthorized_device_help_center_link
-https://pokemongo.nianticlabs.com/support/unauthorized-device/de
+https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 banned_player_help_center_link
-https://pokemongo.nianticlabs.com/support/banned/de
+https://pokemongo.nianticlabs.com/support/banned/en
 pgp_tip_title
 Pokémon GO Plus
 pgp_tips_1_text_1
-Wenn ein Pokémon in der Nähe ist, vibriert das Gerät und blinkt:
+When a Pokémon is nearby, the device vibrates and blinks:
 pgp_tips_1_text_2
-GRÜN für Pokémon, die du gefangen hast
+Green light for Pokémon you've caught
 pgp_tips_1_text_3
-GELB für Pokémon, die du noch nicht gefangen hast
+Yellow light for Pokémon you haven't caught
 pgp_tips_1_text_4
-Drücke auf den Knopf, um es zu fangen!
+Press the button to try to catch it!
 pgp_tips_next
-Weiter
+Next
 pgp_tips_2_text_1
-Nachdem du den Knopf gedrückt hast, leuchtet er entweder:
+After you press the button, you'll see:
 pgp_tips_2_text_2
-MEHRFARBIG, wenn du das Pokémon erfolgreich gefangen hast
+Multicolored lights for success
 pgp_tips_2_text_3
-ROT, wenn das Pokémon geflüchtet ist
+Red light for Pokémon that have run away
 pgp_tips_3_text_1
-Wenn du in Reichweite eines PokéStops kommst, vibriert das Gerät und das Licht blinkt BLAU.
+When you're in range of a PokéStop, the device vibrates and its light blinks blue.
 pgp_tips_3_text_2
-Drücke auf den Knopf, um den PokéStop nach Items zu durchsuchen. Das Licht blinkt mehrfarbig, wenn du etwas findest, und rot, wenn du dich nicht in Reichweite befindest.
+Press the button to search the PokéStop for items. The light will blink multicolor for success and shine red for out-of-range.
 pgp_tips_got_it
-Alles klar!
+Got it
 player_cheating_warning
-Wir haben Aktivitäten unter deinem Konto festgestellt, die andeuten, dass du oder eine andere Person, die auf dein Konto zugreift, modifizierte Client-Software oder nicht autorisierte Software einer Drittpartei nutzt, die auf Pokémon GO in einer Weise zugreift, welche gegen unsere Nutzungsbedingungen verstößt. Bitte beachte, dass die Nutzung einer solchen Software zum Verlust deines Kontos führen kann. Solltest du eine solche Software genutzt haben, raten wir dir, die Nutzung dieser einzustellen. Wenn du auf bestimmte, nicht autorisierte Apps oder Websites von Dritten zugegriffen hast, ist es auch möglich, dass dein Konto kompromittiert wurde. Wir empfehlen eine sofortige Änderung deines Passworts.
+We have detected activity on your account that suggests you are or someone is accessing your account using modified client software or unauthorized third-party software that accesses Pokémon GO in violation of our Terms of Service. Please be aware that the use of such software can result in the loss of your account. If you have been using such software, we strongly encourage you to stop. If you have accessed certain unauthorized third-party apps or websites, it is also possible that your account may have been compromised. We recommend that you change your password immediately.
 training_round_number
-{0}. Match
+Match {0}
 badge_capture_bonus_reward
-Fangbonus: +{0} für Typ {1}
++{0} {1}-type catch bonus
 settings_sfida_notifications
-Benachrichtigungen
+Notifications
 settings_sfida_pokemon
-Pokémon in der Nähe
+Nearby Pokémon
 settings_sfida_pokestops
-PokéStop in der Nähe
+Nearby PokéStop
 badge_detail_reward_header
-Belohnungen
+Rewards
 profile_category_medals
-Medaillen
+Medals
 quest_first_catch_of_the_day
-Erster Fang des Tages
+First Catch of the Day
 quest_streak_format
-SERIE: {0} TAG(E)!
+{0} DAY STREAK!
 quest_daily_bonus_title
-Tagesbonus
+Daily Bonus
 encounter_score_catch_streak
-Serienbonus
+Streak Bonus
 quest_first_pokestop_of_the_day
-Erster PokéStop des Tages
+First PokéStop of the Day
 encounter_caught_metamon
 Oh?
 app_exit_confirmation_message
-Willst du <i>Pokémon GO</i> beenden?
+Do you want to exit Pokémon GO?
 gym_deploy_lockout
-Kampfgewinner haben Vorrang.
+Battle winners have priority.
 gym_battle_lockout
-Versuche es später noch mal.
+Try again later.
 batch_transfer_confirm
-<size=36><b>Möchtest du wirklich {0} Pokémon an den Professor schicken?</b></size>\n\nNachdem du sie an den Professor geschickt hast, kannst du sie nicht zurückholen.
+<size=36><b>Do you want to transfer {0} Pokémon to the professor?</b></size>\n\nYou can't undo this action once you transfer.
 batch_transfer_header
-Pokémon wählen
+Select Pokémon
 batch_transfer_result
-Bonbons vom Professor erhalten!
+Got Candy from the professor.
 shop_category_holiday_special
-Festtagsangebote
+Holiday Event
 shop_limited_time
-Nur für kurze Zeit!
+Limited time only!
 shop_sale
-Angebot
+Sale
 shop_contents
-Inhalt:
+Contents:
 bundle.xmas.small.1_title
-Spezialbox
+Special Box
 bundle.xmas.medium.1_title
-Superbox
+Great Box
 bundle.xmas.large.1_title
-Hyperbox
+Ultra Box
 bundle.newyears.small.1_title
-Bronzebox
+Bronze Box
 bundle.newyears.medium.1_title
-Silberbox
+Silver Box
 bundle.newyears.large.1_title
-Jubiläumsbox
+Anniversary Box
 privacy_policy_update_notice
-Bitte lies die aktualisierten Pokémon GO-Datenschutzrichtlinien bezüglich der Erfassung von personenbezogenen Daten in Verbindung mit Social Gameplay.
+Please review the updated Pokémon GO Privacy Policy for information about how we process personal data in connection with social gameplay.
 privacy_policy_url
-https://www.nianticlabs.com/privacy/pokemongo/de
+https://www.nianticlabs.com/privacy/pokemongo/en
 screen_title_news
-Neuigkeiten
+News
 evolution_item_use
-Gib deinem Pokémon das Item!
+Use this item on your Pokémon!
 shop_quick_coins_get_them_here
-Hol sie dir hier oder besuche den Shop.
+Get them here, or visit the shop for more.
 avatar_equip_item
-Speichern
+Choose
 avatar_hair
-Haare
+Hair
 avatar_eyes
-Augen
+Eyes
 avatar_skin
-Haut
+Skin
 badge_pokedex_entries_gen2_value_format
 N0
 badge_pokedex_entries_gen2
-Registriere {0} Pokémon im Pokédex, die zuerst in der Johto-Region entdeckt wurden.
+Register {0} Pokémon first discovered in the Johto region to the Pokédex.
 badge_pokedex_entries_gen2_title
 Johto
 badge_unown_title
-Icognito
+Unown
 badge_unown_value_format
 N0
 badge_unown
-Fange {0} Icognito.
+Catch {0} Unown.
 avatar_award_new_style
-Neue Looks!
+New style to wear!
 avatar_award_show_me
-Zeigen
+SHOW ME
 general_more
-Mehr
+More
 shop_quick_coins_title
-Du hast keine PokéMünzen mehr!
+You're out of PokéCoins!
 avatar_lock_level
-Wird bei Level {0} freigeschaltet.
+Unlock at Level {0}
 avatar_lock_badge
-Wird mit {1}-{0}medaille freigeschaltet.
+Unlock tier {0} {1} medal
 encounter_item_berries
-Beeren
+Berries
 encounter_item_pokeballs
-Pokébälle
+Poké Balls
 avatar_wearing_item
-Aktueller Look
+Current Style
 shop_exchange
-Einlösen
+Exchange
 onboard_change_anytime
-Du kannst dies jederzeit ändern.
+You can change this at any time.
 avatar_edit_appearance_title
-Aussehen
+Appearance
 pokemon_shiny_info_transfer_to_professor_confirmation
-Möchtest du dieses Schillernde Pokémon wirklich an den Professor schicken?
+Do you really want to transfer this Shiny Pokémon?
 pokemon_info_multi_transfer_shiny_pokemon_error
-Du kannst keine Schillernden Pokémon wählen.
+You can't select Shiny Pokémon.
 shop_quick_balls_title
-Du hast keine Pokébälle mehr!
+You're out of Poké Balls!
 shop_quick_balls_get_them_here
-Hol sie dir hier oder gehe zu einem PokéStop.
+Get them here, or walk to a PokéStop for more.
 encounter_out_of_berries
-Du hast keine Beeren mehr!
+You're out of Berries.
 avatar_hats
-Mützen
+Hats
 avatar_glasses
-Brillen
+Glasses
 avatar_necklaces
-Halsketten
+Necklaces
 avatar_tops
-Oberteile
+Tops
 avatar_bags
-Rucksäcke
+Bags
 avatar_gloves
-Handschuhe
+Gloves
 avatar_belts
-Gürtel
+Belts
 avatar_bottoms
-Unterteile
+Bottoms
 avatar_outfits
 Outfits
 avatar_socks
-Socken
+Socks
 avatar_shoes
-Schuhe
+Footwear
 avatar_style_unlocked
-Neuer Artikel hinzugefügt!
+New style added!
 pokemon_info_evolve_need_key_item
-Du brauchst ein besonderes Item.
+Need a special item.
 pokedex_sort_family
-Entwicklung
+Evolution
 pokestop_unavailable
-Dieser PokéStop ist derzeit geschlossen.
+This PokéStop is currently closed.
 gym_poi_unavailable
-Diese Arena ist derzeit geschlossen.
+This Gym is currently closed.
 promo_enter_code_prompt
-Gib deinen Promo-Code ein.
+Enter your promo code
 promo_enter_code_success_response
-Code angenommen!
+Success!
 promo_enter_code_title
 PROMOS
 promo_enter_code_failure_response
-Dieser Code ist nicht gültig.
+This is not a valid code.
 promo_enter_code_already_redeemed_response
-Dieser Code wurde bereits eingelöst.
+This code has already been redeemed.
 promo_redeem_button
-EINLÖSEN
+REDEEM
 profile_total_xp
-Gesamt-EP
+Total XP
 profile_category_stats
-Statistik
+Stats
 shop_coin_iap_unavailable
-Du brauchst mehr PokéMünzen!
+You need more PokéCoins!
 pokestop_disk_error_closed_soon
-Dieser PokéStop schließt bald. Es können keine Module hinzugefügt werden.
+PokéStop will close soon.  No modules can be added.
 pokestop_unavailable_soon
-Dieser PokéStop schließt bald.
+This PokéStop is closing soon.
 item_move_reroll_no_other_moves
-{0} kann keine anderen Attacken lernen.
+{0} cannot be taught any other attacks.
 gyms_disabled_update
-Arenen sind noch im Bau.
+Gyms are under construction.
 gym_feed_too_frequent
-Das Pokémon möchte keine Beeren mehr. Versuche es später noch mal.
+This Pokémon doesn't want any more Berries. Try again later.
 get_directions_action
-Wegbeschreibung >
+Get directions
 congratulations_exclusive_raid_ticket
-Glückwunsch, {0}!
+Congratulations, {0}!
 raids_invite_only_event
-Hinweis: Für diesen Event ist eine Einladung erforderlich.
+Note: This event is by invitation only.
 raid_exclusive_description
-Dies ist eine Belohnung für einen früheren Sieg bei {0}!\nBesuche die Arena zur angegebenen Zeit, um am EX-Raid-Kampf teilzunehmen!
+This is a reward for a previous victory at {0}!\nPlease visit the Gym at the given time to join the EX Raid Battle!
 raid_exclusive_general_info
-Du bist zu einem EX-Raid eingeladen.\nHier ist dein EX-Raid-Pass.
+You're invited to an EX Raid.\nHere's your EX Raid Pass.
 raid_exclusive_invitation
-Einladung
+Invitation
 pokemon_info_goto_gym_button
-ZUR ARENA
+GO TO GYM
 pokemon_info_panel_defended_gym_raid_active_message
-Raid im Gange! Dein Pokémon wird in die Arena zurückkehren, sobald der Raid vorbei ist.
+Raid in progress! Your Pokémon will return to the Gym once the raid is over.
 gym_remote_view_info_desc
-Beeren sind aus der Entfernung weniger effektiv. Gehe näher an die Arena ran, um die Wirksamkeit zu steigern!
+Berry treats are less effective at long distances.  Walk closer to the Gym to maximize the benefit!
 screen_title_exclusive_tickets
-EX-Raid-Pässe
+EX Raid Passes
 pokemon_info_remote_gym_closed
-Diese entfernte Arena ist derzeit geschlossen.
+The Gym is currently closed.
 pokemon_info_multi_transfer_legendary_pokemon_error
-Du kannst keine Legendären Pokémon wählen.
+You can't select Legendary Pokémon.
 pokemon_legendary_info_transfer_to_professor_confirmation
-Möchtest du dieses Legendäre Pokémon wirklich an den Professor schicken?
+Do you really want to transfer this Legendary Pokémon?
 webcam_setup_problem
-Zugriff auf die Kamera deines Geräts ist fehlgeschlagen. Überprüfe die Kamera-Berechtigungen.
+Cannot access your device's camera. Check camera permissions.
 qr_decode_problem
-QR Code Erkennung fehlgeschlagen. Versuche, ihn manuell einzugeben.
+QR Code recognition failed. Please try manual input.
 event_registration_success
-Du hast dich erfolgreich für {0} registriert!
+You have successfully registered for {0}!
 qr_code_title
-QR Code scannen
+Scan the QR Code
 pokestop_button_manual_input_2
-Zur manuellen Eingabe wechseln
+Switch to Manual Input
 badge_chicago_fest_july_2017_title
-<i>Pokémon GO</i>-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2017
-Chicago, 22. Juli 2017
+Chicago, July 22, 2017
 chicago_fest_july_2017_title
-<i>Pokémon GO</i>-Fest
+Pokémon GO Fest
 title_raid_has_ended
-Der Raid ist vorbei.
+This raid has ended
 journal_received_raid_ticket
-Du bist zu einem EX-Raid bei {0} eingeladen.
+You're invited to an EX Raid at {0}.
 players_in_lobby_count
-{0} Spieler in der Lobby
+{0} players in lobby
 pikachu_outbreak_yokohama_title
 Pokémon GO STADIUM
 badge_pikachu_outbreak_yokohama_2017
 Yokohama, August 2017
 passcode_rpc_error
-Der Code konnte nicht eingelöst werden.
+There was an error redeeming the code.
 passcode_rpc_timeout
-Timeout bei der Anforderung zur Einlösung des Codes. Prüfe die Netzwerkeinstellungen und versuche es noch mal.
+The request to redeem the code timed out. Check your network settings and try again.
 badge_pikachu_outbreak_yokohama_2017_title
-Pikachu-Schwarm 2017
+Pikachu Outbreak 2017
 badge_legendary_battle_won_value_format
 N0
 badge_legendary_battle_won_title
-Kampflegende
+Battle Legend
 badge_legendary_battle_won
-Gewinne {0} Legendäre Raids.
+Win {0} Legendary Raids.
 item_legendary_raid_ticket_name
-EX-Raid-Pass
+EX Raid Pass
 item_legendary_raid_ticket_desc
-EX-Raid-Pass für die Teilnahme an einem besonderen Raid-Kampf. Du kannst diesen Pass nur bei dem angegebenen, zeitlich begrenzten Event verwenden.
+EX Raid Pass to join a special Raid Battle. You can use this pass only at the specified limited-time event.
 incubatorsuper.1_title
-Super-Brutmaschine
+Super Incubator
 incubatorsuper.1_description
-Eine stärkere Ei-Brutmaschine, die ein Ei schneller ausbrütet. Nach 3 Einsätzen geht sie kaputt.
+A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
 item_incubator_super_name
-Super-Brutmaschine
+Super Incubator
 item_incubator_super_desc
-Eine stärkere Ei-Brutmaschine, die ein Ei schneller ausbrütet. Nach 3 Einsätzen geht sie kaputt.
+A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
 raid_log_received_items
-{0} Items beim Raid erhalten.
+Received {0} items from Raid.
 exclusive_raid_log_received_items
-{0} Items beim EX-Raid erhalten.
+Received {0} items from EX Raid.
 pgp_log_received_items_gym
-{0} Items vom Arena-PokéStop erhalten.
+Received {0} items from Gym.
 pokemon_info_multi_transfer_costume_pokemon_error
-Du kannst keine Event-Pokémon wählen.
+You can't select Event Pokémon.
 pokemon_costume_info_transfer_to_professor_confirmation
-Möchtest du dieses Event-Pokémon wirklich an den Professor schicken?
+Do you really want to transfer this Event Pokémon?
 badge_safari_zone_europe_2017_title
-GO-Safari-Zone: Europa 2017
+GO Safari Zone - Europe 2017
 badge_safari_zone_europe_2017
-Europa, 16. September 2017
+Europe, September 16, 2017
 safari_event
-Pokémon-GO-Safari-Zone
+Pokémon GO Safari Zone
 raid_error_never_joined_battle
-Der Raid, an dem du teilgenommen hattest, ist bereits vorbei. Wähle einen anderen aus.
+The raid you were in is already over. Please join a new one.
 settings_sfida_howto_pair_prompt
-Verbindung zu Pokémon GO Plus kann nicht hergestellt werden.\nMöchtest du dir Tipps zur Fehlerbehebung ansehen? 
+Unable to connect to Pokémon GO Plus.\nWould you like to view some troubleshooting tips? 
 badge_safari_zone_europe_2017_10_07_title
-GO-Safari-Zone: Europa 2017
+GO Safari Zone - Europe 2017
 badge_safari_zone_europe_2017_10_07
-Europa, 7. Oktober 2017
+Europe, October 7, 2017
 badge_safari_zone_europe_2017_10_14_title
-GO-Safari-Zone: Europa 2017
+GO Safari Zone - Europe 2017
 badge_safari_zone_europe_2017_10_14
-Europa, 14. Oktober 2017
+Europe, October 14, 2017
 exclusive_raid_log_cancelled
-Der EX-Raid, der für den {0} um {1} Uhr in Arena {2} angesetzt war, ist abgesagt.
+EX Raid scheduled for {0}, {1} at {2} has been canceled.
 passcode_log_received_items
-{0} Items durch Code {1} erhalten.
+Received {0} items from code {1}.
 passcode_log_received_badge
-Orden durch Code {0} erhalten.
+Received medal from code {0}.
 cancelled_ex_raid_message
-Der EX-Raid, der für den {0} um {1} Uhr in Arena {2} angesetzt war, ist abgesagt.
+The EX Raid scheduled for {0}, {1} at {2} has been canceled.
 cancelled_ex_raid_items_prompt
-Hier sind ein paar Items für dich. Trainiere weiter!
+Please accept the following items and keep training!
 cancelled_ex_raid_ticket_title
-ABGESAGTE EX-RAID-PÄSSE
+CANCELED EX RAID PASSES
 blacklisted_app_found_lockout
-Wir haben auf diesem Gerät ein Programm entdeckt, das gegen die Nutzungsbedingungen von Pokémon GO verstößt. Entferne es, um fortfahren zu können.
+We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
 badge_pokedex_entries_gen3_value_format
 N0
 badge_pokedex_entries_gen3
-Registriere {0} Pokémon im Pokédex, die zuerst in der Hoenn-Region entdeckt wurden.
+Register {0} Pokémon first discovered in the Hoenn region to the Pokédex.
 badge_pokedex_entries_gen3_title
 Hoenn
 deploy_battle_party_member_prompt
-Achtung: {0} gehört einem Kampfteam an. Wenn du es einer Arena zuweist, wird es aus dem Kampfteam entfernt.
+Warning: {0} is part of a battle party, and if you assign it to a Gym, it will be removed from the party.
 party_creation_error_max_hit
-Du hast keinen freien Platz in deinem Kampfteam.
+You have no more room in your party.
 delete_battle_party_prompt
-Möchtest du das {0}-Kampfteam löschen?
+Do you want to delete the {0} battle party?
 ar_plus_prompt_title
-Fange Pokémon wie nie zuvor mit der brandneuen AR+!
+Catch Pokémon like never before with the all-new AR+!
 ar_plus_prompt_description
-Du kannst dies jederzeit in den Einstellungen ändern.
+You can change this at any time in settings.
 ar_plus_show_me
-Zeig es mir!
+Show me!
 ar_plus_no_thanks
-Vielleicht später
+Maybe later
 ar_plus_safety_prompt
-Vergewissere dich, dass du dich an einem sicheren Ort befindest, bevor du AR+ verwendest.
+Make sure you're in a safe location while using AR+.
 ar_plus_change_anytime_from_settings
-Du kannst AR+ jederzeit in den Einstellungen aktivieren/deaktivieren.
+You can enable or disable AR+ whenever you want by selecting it in the Settings menu.
 ar_plus_got_it
-Alles klar!
+Got it
 ar_plus_look_around_toast
-Sieh dich mit der Kamera auf einem \noffenen, ebenen Gelände um.
+Slowly look around a flat, open \narea with your camera.
 ar_plus_safety_toast
-Verwende AR+ nur an \neinem sicheren Ort!
+Make sure to use AR+ only while in a safe location.
 ar_plus_tap_bush_toast
-Tippe, um das Pokémon zu finden.
+Tap to find the Pokémon. 
 settings_ar_plus
 AR+
 encounter_score_ar_plus_bonus
-Experte
+Expert Handler
 ar_plus_tutorial_0
-Bewege dein Gerät langsam vor einem flachen, offenen Bereich, bis es eine Oberfläche erkennt.
+Look around an open area with your device until it recognizes a flat surface.
 ar_plus_tutorial_1
-Tippe auf das hohe Gras, um das Pokémon zu finden.
+Tap the tall grass to find a Pokémon. 
 ar_plus_tutorial_2
-Nähere dich langsam dem Pokémon, um es zu fangen und Bonus-Belohnungen zu erhalten!
+Approach the Pokémon slowly. You'll get bonus rewards if you catch it!
 login_failure_wrong_credentials
-Benutzername oder Passwort ist nicht korrekt.
+Username or password is incorrect.
 news_see_details
-Alles anzeigen
+See Details
 news_today
-Heute
+Today
 news_yesterday
-Gestern
+Yesterday
 news_days_ago
-Vor {0} Tag(en)
+{0} Days Ago
 error_device_unsupported
-Gerät nicht unterstützt
+Unsupported Device
 view_supported_devices
-Zum Hilfe-Center
+Go to Help Center
 device_unsupported_explanation
-Pokémon GO unterstützt dein Gerät nicht mehr. Weitere Informationen dazu, welche Geräte mit Pokémon GO kompatibel sind, findest du in unserem Hilfe-Center.
+Pokémon GO no longer supports your device. Please visit our Help Center for information on which devices are compatible with Pokémon GO.
 new_arrivals
-Neu eingetroffen!
+New Arrivals!
 avatar_shop_description
-Neue Outfits erhältlich!
+New style costumes available!
 style_shop
-STYLE-SHOP
+STYLE SHOP
 iap_category_avatar
-Style-Shop
+Style Shop
 privacy_policy_text
-Niantic Datenschutzrichtlinie<br><br><br>Tag des Inkrafttretens:  18. Juni 2018<br><br>Wir sind Niantic. Wir stellen Real-World Augmented Reality Platforms zur Verfügung, die Ihnen die Interaktion in geteilten Welten ermöglicht, die sich nahtlos in die reale Welt einfügen. Hierfür benötigen wir Informationen über Sie. Der Schutz Ihrer Privatsphäre liegt uns am Herzen. Wir nutzen Ihre Daten nur, wenn wir eine rechtliche Grundlage hierfür haben. Diese Datenschutzbestimmungen soll Ihnen verständlich machen, welche Daten wir erheben, wie wir diese nutzen und welche Optionen Sie haben, wenn Sie eines unserer Spiele spielen, unsere Websites nutzen, Produkte von uns kaufen oder an Live Events und Werbeaktionen teilnehmen (die "Dienste").<br><br>Bitte beachten Sie, dass zusätzlich zu den nachstehenden allgemeinen Informationen detailliertere Informationen am Schluss dieser Datenschutzrichtlinie in den "Spielspezifischen Angaben" (Game Specific Disclosures) darüber enthalten sind, wie bestimmte, von uns angebotene Dienste Ihre Daten nutzen.<br><br>Bitte lesen Sie auch unsere Nutzungsbedingungen (Terms of Service), die in dem zwischen Ihnen und Niantic abgeschlossenen Vertrag enthalten sind.<br><br>Wer entscheidet, wie Ihre Daten genutzt werden?<br><br>Niantic, Inc. ist verantwortlich für Entscheidungen, wie wir Ihre persönlichen Daten nutzen. Sollten Sie Fragen oder Kommentare bezüglich der Richtlinie haben, so können Sie<br><br>uns eine E-Mail senden an privacy@nianticlabs.com;<br><br>sich schriftlich an folgende Anschrift wenden: 1 Ferry Building Suite 200, San Francisco, CA 94111;<br><br>unseren Datenschutzbeauftragten unter dpo@nianticlabs.com kontaktieren.<br><br>Die Daten, die wir von Ihnen erheben, und wie wir diese nutzen<br><br>Diese Datenschutzrichtlinie bezieht sich auf unsere Nutzung von Daten, die benutzt werden können oder könnten, um Sie zu identifizieren ("personenbezogene Daten"). Sie beziehen sich nicht auf Daten, die nicht dafür genutzt werden können, um Sie zu identifizieren ("anonyme Daten").<br><br>Wir müssen bestimmte personenbezogene Daten erheben und nutzen, um Ihnen unsere Dienste anbieten und unsere Zusagen Ihnen gegenüber einhalten zu können, wie in den Nutzungsbedingungen vereinbart.<br><br>Wenn Sie sich für unsere Dienste anmelden, so überlassen Sie uns freiwillig personenbezogene Daten, z.B. wenn Sie sich für einen Account anmelden. Wir erheben und nutzen diese Daten, um Sie authentifizieren zu können, wenn Sie sich bei einem Account anmelden und die Dienste nutzen, um sicherstellen zu können, dass Sie fähig und in der Lage sind, die Dienste zu empfangen und dass Sie die korrekte Version der Dienste erhalten. Diese Angaben umfassen den Benutzernamen, den Sie für die Nutzung unserer Dienste im Spiel verwenden sowie  interne Account-IDs, die wir Ihrem Account zuordnen.<br><br>Zur Nutzung unserer Dienste müssen Sie einen Account bei einem unterstützten Single-Sign-On- Service Dritter haben. Als solche sind die von uns erhobenen Daten auch davon abhängig,  welche Accounts Dritter Sie zur Nutzung wählen, deren Datenschutzbestimmungen und was Ihre Datenschutzeinstellungen mit diesen Diensten uns an Einsicht gestatten, wenn Sie deren Dienste für den Zugang zu Niantic-Diensten nutzen.<br><br>Wenn Sie sich dafür entscheiden, Ihren Google-Account mit den Diensten zu verlinken, so erfassen wir Ihre Google E-Mail-Adresse und ein von Google bereitgestelltes Authentifizierungstoken.<br><br>Wenn Sie sich dafür entscheiden, Ihren Facebook-Account mit den Diensten zu verlinken, so erfassen wir eine von Facebook bereitgestellte eindeutige Benutzerkennung und, sofern Sie uns dies gestatten, Ihre eingetragene Facebook E-Mail-Adresse.<br><br>Je nachdem, bei welchem Dienst Sie sich anmelden, können wir andere Single-Sign-On-Services unterstützen und zusätzliche personenbezogene Daten von diesen erheben. Näheres entnehmen Sie bitte den Spielspezifischen Angaben am Ende der Datenschutzrichtlinie.<br><br>Einige Drittanbieter können Sie darüber informieren, dass sie uns zusätzliche Angaben, wie z.B. Ihr öffentliches Profil, zur Verfügung stellen, wenn Sie ihre Single-Sign-On-Services nutzen. Wir erheben diese Daten nicht von diesen Drittanbietern.<br><br>Wir erheben und nutzen Ihre Gerätestandortdaten, während Sie unsere Dienste nutzen, insbesondere wie Sie sich bewegen und einschließlich der Ereignisse, die während des Spiels eintreten. Unsere Dienste umfassen Standort-basierte Spiele, deren Kernfunktion es ist, ein mit Ihrem tatsächlichen Aufenthaltsort verknüpftes Spielerlebnis zu bieten, deshalb müssen wir wissen, wo Sie diese Spiele für sich betreiben wollen und wo Sie den Standort von In-Game-Ressourcen planen (z.B. Poké innerhalb von Pokémon GO). Wir identifizieren Ihren Standort durch Nutzung einer Vielzahl von Technologien, einschließlich GPS, der WiFi-Punkte, über die Sie auf den Dienst zugreifen und Mobilfunkbasisstationen-Triangulation.<br><br>Ferner erheben und nutzen wir Ihre Spielaktionen und –erfolge sowie bestimmte Informationen über Ihr Mobilgerät, die während des Spiels gesammelt wurden (einschließlich Gerätekennungen, Geräte-Betriebssystem, Modell, Einstellungen und Informationen über auf Ihrem Gerät installierte Anwendungen Dritter), um die Dienste für Sie zu betreiben und sicherzustellen, dass wir allen Spielern ein faires Spielerlebnis in Übereinstimmung mit unseren Nutzungsbedingungen (einschließlich Betrugsbekämpfungsmaßnahmen) ermöglichen.<br><br>Ferner nutzen wir die vorstehend genannten Informationen und Daten zum Aufzeigen von spielgesponserten Standorten, die sich in Ihrer Nähe befinden, als Teil des Spielerlebnisses.<br><br>Wir nutzen die vorstehend genannten Informationen und Daten, um Ihnen technischen Support und Kundendienst anbieten zu können.<br><br>Sie stellen uns auch personenbezogene Daten zur Verfügung, wenn Sie einen Einkauf durch uns tätigen, unsere Publikationen abonnieren, wenn Sie an einem Gewinnspiel, einer Werbeaktion, einer Verlosung oder Umfrage teilnehmen oder mit uns kommunizieren. Je nachdem, welchen Dienst Sie nutzen, können diese Daten Ihren Namen, Ihre Postanschrift, Telefonnummer, Ihren Wohnort, Ihr Geburtsdatum (dies wird zur Überprüfung Ihrer Teilnahmeberechtigung benötigt) und Ihre E-Mail-Anschrift umfassen. Wir nutzen diese Angaben, um Ihnen gegenüber diese Dienste erbringen und Ihnen einen diesbezüglichen Kundendienst zur Verfügung stellen zu können.<br><br>Des Weiteren haben und berufen wir uns auf ein berechtigtes Interesse an der Nutzung Ihrer personenbezogenen Daten wie folgt:<br><br>Nutzung Ihrer IP-Adresse, Browser-Typ, Betriebssystem, die Webseite, die Sie vor Zugriff auf unsere Dienste besucht haben, die Seiten unserer Dienste, die Sie durchgeblättert haben, oder die von Ihnen verwendeten Features (Funktionen) und die Zeit, die Sie mit dem Besuch dieser Seiten oder Features (Funktionen) verbracht haben, die Links auf unseren Diensten, die Sie anklicken, Gerätekennungen und Ihre App-Einkäufe, um zu verstehen, wer unsere Dienste wie in Anspruch nimmt.<br><br>Nutzung Ihrer Kontaktdaten, namentlich Ihrer E-Mail-Anschrift, um mit Ihnen bei der Bereitstellung von technischem Support und Kundenservice kommunizieren zu können.<br><br>Nutzung Ihrer E-Mail-Anschrift und Geräteinformation, um Updates und Nachrichten über die Dienste mit Ihnen entweder im Rahmen der Spiele oder per E-Mail teilen zu können. Sie können sich jederzeit in Ihren Geräte-Einstellungen oder App-Einstellungen hiervon abmelden.<br>Um soziale Funktionen zur Verfügung zu stellen, welche es Ihnen ermöglichen mit anderen Spielern zu interagieren und zu spielen, einschließlich die Kommunikation mit diesen zu speichern,Ihre Freunde zu finden und von ihnen gefunden zu werden und Ihre Spielhandlungen und -erfolge mit Ihren Freunden zu teilen.<br><br>Angebot neuer oder zusätzlicher Leistungsmerkmale.<br><br>Organisation und Durchführung von Live Events, die auf unseren Spielen basieren oder unsere Spiele kennzeichnen. Beachten Sie bitte, dass, wenn Sie an Live Events teilnehmen, Ihre Spielhandlungen und –erfolge, Ihr Spielebenutzername und Ihr Avatar für andere Teilnehmer und für die Öffentlichkeit sichtbar werden (z.B. auf dem während des Events gezeigten Leaderboard und Online).<br><br>Durchführung von Betrugsbekämpfungsmaßnahmen und Sicherstellung, dass Sie und andere Teilnehmer unsere Nutzungsbedingungen einhalten.<br><br>Vornahme rechtlicher oder regulatorischer Auskünfte.<br><br>Wir werden Ihre Daten ausschließlich für die Vornahme nachstehender Handlungen nutzen, sofern wir Ihre Zustimmung hierfür haben:<br><br>Importieren von Facebook-Freundeslisten. Wenn Sie die Einwilligung in einigen unserer Spiele erteilen, werden wir von Ihrem verlinkten Facebook-Konto die Liste Ihrer Freunde, die das Spiel ebenfalls spielen und diese Einwilligung ebenfalls erteilt haben, importieren. Wenn Sie diese Einwilligung erteilt haben, werden Ihr Facebook-Profilbild und Nutzername für Ihre Freunde im Spiel sichtbar. Sie können Ihre Meinung jederzeit ändern und anderen Spielern zu jeder Zeit in den App-Einstellungen diese Berechtigung entziehen. Diese Einwilligungen bezüglich unserer Spiele können Sie auch direkt in Ihren Facebook-Kontoeinstellungen widerrufen.<br><br>Versendung von Marketingmaterialien an Sie per E-Mail oder via App. Sie können sich jederzeit in Ihren Geräte-Einstellungen oder App-Einstellungen hiervor abmelden.<br><br>Wir berufen uns ferner bei der Verwendung von Cookies oder ähnlichen Technologien auf Ihre Zustimmung. Bitte entnehmen Sie weitere Informationen über unsere Verwendung von Cookies (https://www.nianticlabs.com/cookies/de) unserer Cookies Richtlinie. Sofern Cookies personenbezogene Daten erfassen, werden wir diese nur mit Ihrer ausdrücklichen Zustimmung in anonymisierter Form oder unter einem Pseudonym verarbeiten.<br><br>Während Sie die Verwendung von Cookies durch Ihre Browser-Einstellungen unterbinden können, antwortet Niantic derzeit nicht auf ein "Do Not Track"-Signal im HTTP-Header von Ihrem Browser oder Ihrer Mobilanwendung, weil kein Industriestandard existiert, wie dieses Signal zu interpretieren ist.<br><br>Mit wem tauschen wir Daten aus<br><br>Wir tauschen keine personenbezogenen Daten, die wir von Ihnen oder im Hinblick auf Sie erhoben haben, mit Dritten aus, ausgenommen hiervon sind die nachstehend beschriebenen Fälle:<br><br>Mit unseren Service-Anbietern ausgetauschte Daten. Wir beauftragen Drittanbieter, die mit uns bei der Verwaltung und Bereitstellung von Diensten zusammenarbeiten. Im Rahmen dieser Zusammenarbeit verarbeiten diese Ihre personenbezogenen Daten in unserem Auftrag. Diese Drittanbieter haben Zugang zu Ihren personenbezogenen Daten lediglich für die Erbringung von Dienstleistungen in unserem Auftrag, und zwar in Übereinstimmung mit dieser Datenschutzrichtlinie; wir stellen ferner sicher, dass jeder Drittanbieter vertraglich verpflichtet ist, Ihre personenbezogenen Daten nicht für andere Zwecke weiterzugeben oder zu nutzen. Die mit uns zusammenarbeitenden Anbieter unterstützen uns, wie nachstehend aufgeführt:<br><br>Betrieb und Wartung unserer Mobil-Spiele durch Plattformen und Software-Tools Dritter;<br>Durchführung von Inhalte-Moderation und Crash-Analytik;<br>Durchführung von E-Mail-und mobilen Nachrichtenkampagnen;<br>Durchführung von Spiel- und Marketing-Analytik;<br>Organisation von Live Events, Gewinnspielen, Verlosungen und Werbeaktionen, einschließlich Registrierung von Spielern, Verwaltung von Anmeldungen und Anwesenheit, Überprüfung der Teilnahmeberechtigung und Preisauszahlung;<br>Bereitstellung von technischem Support und Kundendienst.<br><br>Mit anderen Spielern ausgetauschte Daten. Wenn Sie die Dienste nutzen, und insbesondere wenn Sie unsere Spiele spielen, wenn Sie soziale Funktionen dieser Spiele nutzen, oder an Live Events teilnehmen, dann werden wir bestimmte personenbezogene Daten mit anderen Spielern teilen. Diese personenbezogenen Daten umfassen Ihr Spiele-Profil (wie zum Beispiel Ihren Benutzernamen, Ihren Avatar und Ihr Team), Ihre Spielhandlungen und –erfolge, Ihren tatsächlichen Aufenthaltsort, von welchem aus Sie an den Spielen teilgenommen haben (zum Beispiel Ihre PokéStops bei der Nutzung von Pokémon GO oder Portale bei der Nutzung von Ingress) und Ihre öffentlichen Spielnachrichten.. Näheres entnehmen Sie bitte den Spielspezifischen Angaben am Ende dieser Datenschutzrichtlinie.<br><br>Mit Dritten ausgetauschte Daten. Wir teilen anonyme Daten mit Dritten zwecks Industrie- und Marktanalyse.Wenn Sie uns Ihre ausdrückliche Einwilligung dazu erteilt haben, werden wir möglicherweise personenbezogene Daten mit Drittverlagspartner zum Zwecke des Direktmarketings teilen.<br><br>Zu unserem Schutz und zum Schutz Dritter weitergegebene Daten. Wir arbeiten mit Regierungs- und Vollzugsbehörden oder privaten Akteuren bei der Durchsetzung und Einhaltung gesetzlicher Vorschriften zusammen. Wir tauschen Daten bezüglich Ihrer Person nur dann mit Regierungs- oder Vollzugsbehörden oder privaten Akteuren nur dann aus, wenn wir das für erforderlich oder angemessen halten, (a) um auf Forderungen, rechtliche Verfahren (einschließlich Vorladungen und Haftbefehle) zu reagieren; (b) um unser Eigentum, unsere Rechte und unsere Sicherheit und das Eigentum, die Rechte und die Sicherheit Dritter und der Öffentlichkeit im Allgemeinen zu schützen; und (c) um etwaige Aktivitäten, die wir als unrechtmäßig, unlauter oder rechtlich einklagbar ansehen, zu prüfen und zu unterbinden.<br><br>In Zusammenhang mit geschäftlichen Transaktionen weitergegebene Daten. Daten, die wir von unseren Nutzern erhoben haben, einschließlich personenbezogene Daten, gehören zum Betriebsvermögen. Wird unser Unternehmen von einem Dritten infolge einer Fusion, eines Erwerbs oder eines Asset Deals von einem Dritten erworben oder wird unser Vermögen von einem Dritten im Falle unserer Betriebsaufgabe oder unserer Insolvenz erworben, so wird unser Vermögen insgesamt oder in Teilen, einschließlich Ihrer personenbezogenen Daten einem Dritterwerber in Zusammenhang mit der Transaktion übertragen bzw. an diesen weitergegeben.<br><br>Wie werden Ihre personenbezogenen Daten übermittelt<br><br>Niantic betreibt seine Dienste weltweit. Ihre personenbezogenen Daten werden sehr wahrscheinlich in einem Land außerhalb Ihres Heimatlandes, einschließlich USA, für die in dieser Datenrichtlinie  skizzierten Zwecke gespeichert. Die Datenschutzgesetze in diesen Ländern sind möglicherweise nicht dieselben wie in Ihrem Heimatland.<br><br>Wenn wir Ihre personenbezogenen Daten vom Europäischen Wirtschaftsraum in andere Länder, einschließlich USA, übermitteln, so stellen wir sicher, dass Ihren personenbezogenen Daten ein ähnliches Schutzniveau wie innerhalb des Europäischen Wirtschaftsraums gewährt wird, und zwar indem sichergestellt wird, dass zumindest eine der nachstehenden Garantien erbracht wird:<br><br>Das Land, in das Ihre personenbezogenen Daten übermittelt werden, ist ein Land, das nach Ansicht der Europäischen Kommission – wie der Europäische Wirtschaftsraum - ein angemessenes Schutzniveau für personenbezogene Daten bietet.<br><br>Wenn wir mit Service Providern zusammen arbeiten, verwenden wir spezielle, von der Europäischen Kommission genehmigte Verträge, die personenbezogenen Daten denselben Schutz wie in Europa gewähren.<br><br>Wenn wir mit Service Providern in den USA zusammen arbeiten, so sind diese Teil des EU-US-Datenschutzschilds, wonach sie verpflichtet sind, Ihren personenbezogenen Daten denselben Schutz wie im Europäischen Wirtschaftsraum zu gewähren.<br><br>Wie wir Ihre personenbezogenen Daten sichern<br><br>Wir haben vor Ort angemessene Sicherheitsmaßnahmen getroffen, um Ihre personenbezogenen Daten vor zufälligem Verlust, unbefugter Verwendung oder unbefugtem Zugang, unsachgemäßer Änderung oder Weitergabe zu schützen. Wir beschränken ferner den Zugang zu Ihren personenbezogenen Daten gegenüber Arbeitnehmern, Vertretern, Auftragnehmern und sonstigen Dritten, die für ihre Tätigkeit Kenntnis von diesen Daten haben müssen. Sie werden Ihre personenbezogenen Daten ausschließlich entsprechend unseren Anweisungen verarbeiten und unterliegen einer Vertraulichkeitsverpflichtung.  Wir haben Verfahren etabliert, um eine mutmaßliche Verletzung des Schutzes personenbezogener Daten handhaben zu können, und wir werden Sie und eine zuständige Regulierungsbehörde von einer Verletzung in Kenntnis setzen, sofern wir hierzu rechtlich verpflichtet sind.<br><br>Wie lange werden wir Ihre personenbezogenen Daten speichern<br><br>Wir werden Ihre personenbezogenen Daten solange speichern, wie wir diese für die Erbringung der Dienste Ihnen gegenüber und zur Erfüllung der in dieser Datenschutzrichtlinie genannten Zwecke benötigen. Dies gilt auch für eine Person, mit der wir Ihre Daten austauschen und die Dienste in unserem Auftrag erbringt.<br><br>Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen und wenn wir diese nicht mehr speichern müssen, um unseren rechtlichen oder regulatorischen Verpflichtungen nachzukommen, werden wir Ihre Daten aus unseren Systemen löschen oder sie anonymisieren, so dass sie nicht länger mit Ihnen in Verbindung gebracht werden können.<br><br>Ihre Rechte und Wahlmöglichkeiten<br><br>Sie haben bestimmte Rechte im Hinblick auf Ihre personenbezogenen Daten. Zur Ausübung dieser Rechte kontaktieren Sie uns bitte:<br><br>Für Pokémon GO hier (https://support.pokemongo.nianticlabs.com/hc/articles/115008306667).<br><br>Für Ingress hier (https://support.ingress.com/hc/).<br><br>Für alle anderen Dienste unter privacy@nianticlabs.com.<br><br>Sie können:<br><br>Zugang zu den personenbezogenen Daten, die wir über Sie speichern, fordern.<br><br>Ihre personenbezogenen Daten löschen oder korrigieren. Ihre Account-Daten können Sie am einfachsten über Ihre App-Einstellungen aktualisieren. Sie können ferner eine Kundendienst-/Support-Anfrage über unsere Support Website hier (https://support.pokemongo.nianticlabs.com/hc/articles/222060687) für Pokémon GO, oder hier (https://support.ingress.com/hc/articles/206618198) für Ingress einreichen.<br><br>Einwände gegen unsere Verarbeitung Ihrer personenbezogenen Daten erheben. Einige der von uns gespeicherten personenbezogenen Daten sind für die Erbringung der Dienste Ihnen gegenüber durch uns erforderlich sowie zur Erfüllung der von uns Ihnen gegenüber in den Nutzungsbedingungen gemachten Zusagen.<br><br>von uns die Einstellung der Nutzung Ihrer personenbezogenen Daten, auch für Marketing- und Werbezwecke, fordern (aber bedenken Sie, dass wir Ihre personenbezogenen Daten nutzen müssen, damit Sie die Dienste in Anspruch nehmen können).<br><br>Ihre personenbezogenen Daten an eine andere Organisation übermitteln lassen (sofern dies technisch möglich ist).<br><br>sich bei einer Regulierungsbehörde beschweren. Wir würden es begrüßen, Ihre Anliegen direkt zu bearbeiten, deshalb würden wir es vorziehen, wenn Sie zuerst mit uns Kontakt aufnehmen. Wenn Sie jedoch im Europäischen Wirtschaftsraum ansässig und der Ansicht sind, dass wir Datenschutzgesetze nicht eingehalten haben, so können Sie sich bei unserer Regulierungsbehörde, dem UK Information Commissioner's Office, oder bei Ihrer lokalen Aufsichtsbehörde beschweren.<br><br>Das Gesetz sieht unter bestimmten Umständen Ausnahmen von diesen Rechten vor. Wenn Sie eines der Rechte aufgrund einer Ausnahmeregelung nicht ausüben können, so erklären wir Ihnen, warum dies so ist.<br><br>Wir bieten Ihnen Möglichkeiten hinsichtlich der Erhebung, Nutzung und dem Austausch Ihrer personenbezogenen Daten, und wir werden die von Ihnen getroffene Entscheidung respektieren. Bitte beachten Sie jedoch, dass, wenn Sie sich entscheiden, uns nicht die von uns geforderten personenbezogenen Daten zu überlassen, Sie möglicherweise keinen Zugang zu allen Features (Funktionen) der Dienste haben werden.<br><br>Wir wollen Sie innerhalb von 30 Tagen mit den von Ihnen geforderten Informationen versorgen bzw. das Resultat komplettieren.<br><br>Kinder<br><br>Allgemein gilt: Wenn Sie außerhalb des Europäischen Wirtschaftsraums ansässig sind, ist Kindern unter 13 Jahren die Nutzung der Dienste untersagt. Wenn Sie innerhalb des Europäischen Wirtschaftsraums ansässig sind, so können Sie die Dienste nur nutzen, wenn Sie älter als 16 Jahre sind oder das Alter haben, in dem Sie der Verarbeitung personenbezogener Daten in Ihrem Wohnsitzland  zustimmen müssen. Wir gestatten jedoch Kindern die Nutzung des Pokémon GO Service, vorausgesetzt, dass uns die elterliche Zustimmung vorliegt. Nähere Einzelheiten entnehmen Sie  bitte den Spielspezifischen Angaben am Ende dieser Datenschutzrichtlinie.<br><br>Wenn wir erfahren, dass wir personenbezogene Daten eines Kinders unter 13 Jahren oder im Europäischen Wirtschaftsraum eines Kindes unter 16 Jahren oder eines Kindes in einem Alter  erhoben haben, das die elterliche Zustimmung zur Verarbeitung personenbezogener Daten benötigt, und uns diese elterliche Zustimmung nicht vorliegt, so ergreifen wir Schritte, um diese Daten aus unseren Dateien sobald wie möglich zu löschen.<br><br>Änderungen dieser Datenschutzrichtlinie<br><br>Etwaige, von uns erhobene personenbezogene Daten werden von der Datenschutzrichtlinie erfasst, die zum Zeitpunkt der Datenerhebung in Kraft ist. Wir können diese Datenschutzrichtlinie zu gegebener Zeit abändern. Sie werden über etwaige wesentliche Änderungen angemessen informiert.<br><br>Dritte<br><br>Durch die Nutzung unserer Dienste haben Sie Zugang zu Links zu Websites und Diensten, die sich im Eigentum von Dritten befinden oder von Dritten betrieben werden (jeder ein "Drittanbieter"), Etwaige Daten, die Sie im Hinblick auf einen Drittanbieter oder einem Drittanbieter liefern oder die von einem Drittanbieter erhoben werden, werden direkt dem Eigentümer oder Betreiber des Drittanbieters zur Verfügung gestellt und unterliegen den Datenschutzrichtlinien des Eigentümers oder Betreibers. Wir sind nicht verantwortlich für den Inhalt, den Datenschutz oder die Sicherheitsvorkehrungen und –richtlinien eines Drittanbieters. Zum Schutz Ihrer Daten empfehlen wir Ihnen, die Datenschutzbestimmungen aller Drittanbieter, auf die Sie zugreifen, gründlich zu prüfen.<br><br>11. Spielspezifische Angaben<br><br>Zusätzliche Datenschutzinformationen für Pokémon GO<br><br>Pokémon Trainer Club Accounts. Sie können sich für Pokémon GO anmelden, indem Sie Ihren Pokémon Trainer Club ("PTC") Account Dritter verwenden, der von The Pokémon Company International ("TPCI") verwaltet wird. Wenn Sie sich dafür entscheiden, werden wir von TPCI Ihre bei PTC registrierte E-Mail-Adresse, Ihren PTC Benutzernamen und eine eindeutige Benutzerkennung erfassen. Wenn Sie Ihren Account im Namen Ihres autorisierten Kindes registrieren, werden wir auch einige personenbezogene Daten über Ihr Kind erheben. Der unten stehende Absatz "Accounts für Kinder" enthält weitere Informationen hierzu.<br><br>Accounts für Kinder. Wir erfüllen die Vorschriften zur elterlichen Zustimmung, wie sie vom Gesetz zum Schutz der Privatsphäre von Kindern im Internet der USA (U.S. Children´s Online Privacy Protection Act (COPPA)) und den europäischen Datenschutzgesetzen (einschließlich, ohne Beschränkung auf die Datenschutz-Grundverordnung) vorgeschrieben sind, durch ein von TPCI durchgeführtes Verifikations- und Zustimmungsverfahren. Wie in den Nutzungsbedingungen von Pokémon GO beschrieben, muss der Elternteil oder der gesetzliche Vormund ("Elternteil") jedes Kindes, das unter 13 Jahre alt ist, oder im EWR unter 16 Jahre alt ist, oder in dem Alter ist, für das eine Zustimmung zur Verarbeitung personenbezogener Daten erforderlich ist ("Kind"), sich bei TPCI über einen PTC Account registrieren, bevor das Kind das Spiel aufrufen und spielen kann. Der Elternteil muss TPCI bestimmte personenbezogene Daten über das Kind entsprechend der TPCI-Datenschutzrichtlinie zur Verfügung stellen. Davon erfasst Niantic von TPCI lediglich die persönliche E-Mail-Adresse des Kindes und das Datum, an dem das Kind die oben aufgeführten Altersgrenzen überschreitet.<br><br>Nachdem ein Elternteil einen PTC-Account registriert hat, überprüft TPCI für US-Bürger die Identität des Elternteils, indem TPCI nach der Summe der ersten und der letzten Ziffer der Sozialversicherungsnummer des Elternteils und nach dem Namen, Geburtsdatum und der Postanschrift des Elternteils fragt.  TPCI teilt diese Informationen nicht mit uns. Nachdem TPCI die Identität des Elternteils überprüft hat, bittet sie den Elternteil darum, das Einverständnis dazu zu erteilen, dass das Kind auf Pokémon GO zugreift.  Falls ein Elternteil nicht das Einverständnis dazu erteilt, dass ein Kind auf Pokémon GO zugreift und es verwendet, oder falls seine Identität nicht über das Zustimmungsverfahren verifiziert wird, sperrt Niantic die Registrierung des Kindes bei Pokémon GO und verhindert, dass das Kind auf das Spiel zugreift und es verwendet.<br><br>Die Eltern sind dazu berechtigt, die weitere Erhebung, Verwendung und/oder Weitergabe von personenbezogenen Daten Ihres Kindes zu verweigern, indem sie uns benachrichtigen. Als Elternteil nehmen Sie zur Kenntnis, dass Niantic ein berechtigtes Interesse daran hat, die über die Dienste erhobenen Informationen Ihres Kindes ausschließlich zum Zweck der Verwaltung oder des Bereitstellung der Dienste Drittanbietern zur Verfügung zu stellen, wie in Absatz 3 dieser Datenschutzrichtlinie beschrieben.<br><br>Mit anderen Spielern geteilte Informationen. Wenn Sie bestimmte Handlungen in Pokémon GO ausführen oder eine Gym einnehmen, wird Ihr Benutzername (oder der Benutzername Ihres autorisierten Kindes) öffentlich über das Spiel ausgetauscht, andere Spieler eingeschlossen, im Zusammenhang mit dem Gym-Standort.<br><br>Daten von Apple Watch und Apple Health App Wenn Sie Pokémon GO mit Ihrer Apple Watch verwenden, verwenden wir mit Ihrer Einwilligung Apple HealthKit APIs, um bestimmte Daten über Ihre Fitness-Aktivität (Schrittzahl, Kaloirenverbrauch und gelaufene Strecke) auf der Health-App-Datenbank Ihres Geräts zu lesen und/oder zu schreiben (die "Health-App-Daten").  Wir können Ihre Health-App-Daten in Verbindung mit Ihrem Pokémon-GO-Benutzerkonto auf unseren Servern speichern.  Wir verwenden Health-App-Daten, um Ihnen bestimmte Funktionen im Spiel zur Verfügung zu stellen (wie zum Beispiel gelaufene Strecke, um Eier auszubrüten), und um sicherzustellen, dass Sie ein "Credit" in Ihrer Apple Health App für die Strecke bekommen, die Sie während des Pokémon-GO-Spiels zurücklegen.  Wir verwenden Health-App-Daten nicht für Marketing- oder Werbezwecke.  Wir speichern keine Health-App-Daten in iCloud.  Ohne Ihre Einwilligung kann Pokémon GO weder aus der Health-App-Datenbank lesen noch in sie schreiben.<br>Zusätzliche Datenschutzinformationen für Ingress<br><br>Öffentlich geteilte Informationen. Wenn Sie Ingress spielen, werden die folgenden Informationen über Sie als Teil des Gameplays über das Spiel geteilt (einschließlich mit anderen Spielern direkt innerhalb der App, in Spiel-Mitteilungen, die an andere Spieler als Teil des Gameplays gemailt werden, und online auf der Ingress-Intel-Map-Website), und werden daher öffentlich zugänglich: Ihr Benutzername innerhalb des Spiels, Nachrichten, die an andere Nutzer in COMMS gesendet wurden, Portale innerhalb des Spiels, auf die Sie zugreifen sowie Ihr Gerätestandort, immer wenn Sie innerhalb des Spiels eine Aktion ausführen.<br>
+Niantic Privacy Policy<br><br><br>Effective as of: June 18, 2018<br><br>We are Niantic. We provide real-world augmented reality platforms, designed to enable you to interact in shared worlds, seamlessly blended with the real world. To do that, we need information about you. Protecting your privacy is really important to us. We only use your information where we have a legal basis to do so. This Privacy Policy will help you understand what information we collect, how we use it and what choices you have when you play any of our games, use our websites, buy merchandise from us, or take part in live events and promotions (the "Services").<br><br>Please note that in additional to the general information below, specific information about how certain of our Services use your information is provided at the end of this Privacy Policy in the “Game Specific Disclosures”.<br><br>You should also read our Terms of Service which set out the contract between you and Niantic.<br><br>Who decides how your information is used?<br><br>Niantic, Inc., is the data controller responsible for making decisions about how we use your personal information. If you have any questions or comments on this policy, you can:<br><br>Email us at privacy@nianticlabs.com<br><br>Write to us at 1 Ferry Building Suite 200, San Francisco, CA 94111<br><br>Contact our Data Protection Officer at dpo@nianticlabs.com<br><br>The information we collect about you and how we use it<br><br>This Privacy Policy covers our use of any information that can or could be used to identify you ("Personal Data"). It does not cover information which cannot be used to identify you ("Anonymous Data").<br><br>We need to collect and use certain Personal Data to provide the Services to you and fulfil the promises we make to you in the Terms of Service:<br><br>When you sign up for our Services you give us Personal Data voluntarily by providing it to us, for example when you sign up for an account. We collect and use that information in order to authenticate you when you register an account and use the Services, to make sure you are eligible and able to receive the Services, and so that you receive the correct version of the Services. That information includes the in-game username you choose to use on our Services, and internal account IDs that we assign to your account.<br><br>You must have an account with a supported third party single sign-on service to use our Services. As such, the Personal Data we collect also depends on which third party accounts you choose to use, their privacy policy, and what your privacy settings with those services allow us to see when you use their services to access Niantic Services.<br><br>If you choose to link your Google account to the Services, we will collect your Google email address and an authentication token provided by Google.<br><br>If you choose to link your Facebook account to the Services, we will collect a unique user ID provided by Facebook and, if permitted by you, your Facebook registered email address.<br><br>Depending on the particular Service you sign up for, we may support other third party single sign-on services and collect additional Personal Data from them. For details please read the Game Specific Disclosures at the end of this Privacy Policy.<br><br>Some third-party providers may notify you that they make additional information, such as your public profile, available to us when you use their single sign-on services. We do not collect that information from them.<br><br>We collect and use your device location information as you use our Services, including how you move around and events that occur during gameplay. Our Services include location based games whose core feature is to provide a gameplay experience tied to your real world location, so we need to know where you are to operate these games for you, and to plan the location of in-game resources (for example PokéStops within Pokémon GO). We identify your location using a variety of technologies, including GPS, the WiFi points you are accessing the Service through and mobile/cell tower triangulation.<br><br>We also collect and use your in-game actions and achievements as well as certain information about your mobile device collected during gameplay (including device identifiers, device OS, model, settings and information about third party applications installed on your device), to operate the Services for you and to ensure that we provide a fair gaming experience to all players in accordance with our Terms of Service (which includes anti-fraud and anti-cheating measures).<br><br>We also use the information above to show in-game sponsored locations that are in your vicinity as part of the gameplay experience.<br><br>We further use the information above in order to provide technical and customer support to you.<br><br>You also give us Personal Data when you make a purchase through us, subscribe to our publications, enter a competition, promotion, sweepstakes or survey or communicate with us. Depending on which of these Services you use, that may include your name, mailing address, phone number, country of residency, date of birth (as needed to verify eligibility), and email address. We use that information to fulfil those Services to you and to provide related customer support to you.<br><br>In addition, we have and rely on a legitimate interest in using your Personal Data as follows:<br><br>Using your IP address, browser type, operating system, the web page you were visiting before accessing our Services, the pages of our Services which you browsed or the features you used, and the time spent on those pages or features, the links on our Services that you click on, device identifiers, as well as actions you take during gameplay, your in-game user settings and preferences and your in-app purchases to understand who is using our Services and how.<br><br>Using your contact information, namely your email address in order to communicate with you to provide technical and customer support.<br><br>Using your email address and device information in order to share updates and news about the Services with you either within the games or by email. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>To provide social features within our games so you can interact and play with other players, including storing your communications with those players, find your friends and be found by them, and share your gameplay experience and achievements with your friends.<br><br>To offer new or additional features for our Services.<br><br>To organize and run live events based on or featuring our games. Note that when you participate in live events your in-game actions and achievements, in-game username and your avatar will be visible to other event participants and to the public (for example on leaderboards displayed at the event and online).<br><br>To carry out anti-fraud and anti-cheating measures and to ensure that you and other users are complying with our Terms of Service.<br><br>To make legal or regulatory disclosures.<br><br>We will only use your Personal Data to do the following if we have your consent:<br><br>If you elect to enable the Facebook User Friends permission available in some of our games, we will import from your linked Facebook account the list of your friends who also play the game and enabled Facebook User Friends. If you enable that permission, your Facebook profile picture and the name on your Facebook account will be visible to your friends in-game. You can change your mind and unfriend other players at any time from your in-app Friends settings. You can also revoke Facebook permissions for our games directly from your Facebook account settings.<br><br>Send you marketing materials by email or via in-app notifications. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>We also rely on your consent where we use cookies or similar technologies. Please see our Cookie Policy (https://www.nianticlabs.com/cookies/) for more information about how we use them. Insofar as cookies collect Personal Data, we will process it only based on your explicit consent, in anonymized form, or under a pseudonym.<br><br>While you may disable the usage of cookies through your browser settings, Niantic currently does not respond to a “Do Not Track” signal in the HTTP header from your browser or mobile application due to the lack of industry standard on how to interpret that signal.<br><br>Who we share information with<br><br>We will not share any Personal Data that we have collected from or regarding you except as described below:<br><br>Information Shared with Our Services Providers. We engage third party service providers to work with us to administer and provide the Services. As part of that they will process your Personal Data on our behalf. These third party service providers have access to your Personal Data only for the purpose of performing services on our behalf, in compliance with this Privacy Policy, and we make sure each one is contractually obliged not to disclose or use your Personal Data for any other purpose. The service providers we use help us to:<br><br>run, operate and maintain our mobile games through third party platform and software tools;<br>perform content moderation and crash analytics;<br>run email and mobile messaging campaigns;<br>perform game and marketing analytics;<br>administer live events, competitions, sweepstakes and promotions, including registering players, managing check-in and attendance, verifying eligibility and prize fulfilment;<br>provide technical and customer support.<br><br>Information Shared with Other Players. When you use the Services, and in particular when you play our games, use social features within those games, or take part in live events, we will share certain Personal Data with other players. This Personal Data includes your in-game profile (such as your username, your avatar, and your team), your in-game actions and achievements, the real-world location of gameplay resources you interacted with when playing the games (for example PokéStops within Pokémon GO or Portals within Ingress), and your public in-game messages. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>Information Shared with Third Parties. We share Anonymous Data with third parties for industry and market analysis. We may share Personal Data with our third-party publishing partners for their direct marketing purposes only if we have your express permission. We do not share Personal Data with any other third parties for their direct marketing purposes.<br><br>Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We only share information about you to government or law enforcement officials or private parties when we reasonably believe necessary or appropriate: (a) to respond to claims, legal process (including subpoenas and warrants); (b) to protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general; and (c) to investigate and stop any activity that we consider illegal, unethical, or legally actionable.<br><br>Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including Personal Data, is a business asset. If we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your Personal Data, will be disclosed or transferred to a third party acquirer in connection with the transaction.<br><br>How your Personal Data is transferred<br><br>Niantic operates its Services across the globe. Your Personal Data will very likely be transferred and stored in a country outside of your home country, including in the USA, for the purposes outlined in this Privacy Policy. The data protection laws in these countries may not be the same as in your home country.<br><br>If we transfer your Personal Data from the European Economic Area (EEA) to other countries, including the USA, we ensure that a similar degree of protection is provided to your Personal Data as within the EEA by ensuring that at least one of the following safeguards is implemented:<br><br>The country that your Personal Data is transferred to is a country that the European Commission has deemed to provide an adequate level of protection for Personal Data as the EEA.<br><br>We use specific contracts approved by the European Commission which give Personal Data the same protection as it has in Europe when we engage with service providers.<br><br>Where we engage with service providers in the USA, they are part of the EU-US Privacy Shield, which requires them to provide the same protection of your Personal Data as it has in the EEA.<br><br>How we keep your Personal Data safe<br><br>We have appropriate security measures in place to prevent your Personal Data from being accidentally lost, used or accessed in an unauthorized way, improperly altered or disclosed. We also limit access to your Personal Data to employees, agents, contractors and other third parties who have a business need to know. They will only process your Personal Data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected Personal Data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.<br><br>How long we will keep your Personal Data<br><br>We keep your Personal Data for as long as we need to provide the Services to you and fulfil the purposes set out in this Privacy Policy. This is also the case for anyone that we share your information with and who carry out services on our behalf.<br><br>When we no longer need to use your Personal Data and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or anonymize it so that it can no longer be associated with you.<br><br>Your rights and choices<br><br>You have certain rights in relation to your Personal Data. In order to exercise these rights, please contact us at:<br><br>For Pokémon GO here.<br><br>For Ingress here.<br><br>For all other Services at privacy@nianticlabs.com.<br><br>If you're a user based in the EEA (or in any country that mandates similar rights), you can:<br><br>Request access to the Personal Data we hold on you.<br><br>Delete or correct your Personal Data. The easiest way to update your account information is via your in-app settings.  You can also submit a customer support request through our support website here (https://support.pokemongo.nianticlabs.com/hc/requests/new?ticket_form_id=232387) for Pokémon GO, or here (https://support.ingress.com/hc/articles/206618198) for Ingress.<br><br>Object to us processing your Personal Data. Some of the Personal Data we hold is necessary for us to provide the Services to you and fulfill the promises we make to you in the Terms of Service.<br><br>Ask us to stop using your Personal Data, including for marketing and promotional purposes (but be aware that sometimes we need to use your Personal Data in order for you to use the Services).<br><br>Have your Personal Data transferred to another organization (where it is technically feasible).<br><br>Complain to a regulator. We'd appreciate the chance to deal with your concerns directly so we'd prefer you to contact us first. However, if you're based in the EEA and believe that we have not complied with data protection laws, you can complain to our regulator, the UK Information Commissioner’s Office, or with your local supervisory authority.<br><br>The law provides exceptions to these rights in certain circumstances. Where you cannot exercise one of these rights due to such an exception, we will explain to you why.<br><br>We offer you choices regarding the collection, use, and sharing of your Personal Data and we’ll respect the choices you make. Please note that if you decide not to provide us with the Personal Data that we request, you may not be able to access all of the features of the Services.<br><br>We aim to provide the information or complete the outcome you request within 30 days.<br><br>Children<br><br>As a general rule, if you are outside the EEA, children under 13 are not allowed to use the Services. If you are based in the EEA you may only use the Services if you are over 16, or the age needed to consent to the processing of personal data in your country of residence. We do however allow children to use the Pokémon GO Service, provided we have the required parental consent. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>If we learn that we have collected Personal Data of a child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data, and we do not have parental consent, we will take steps to delete such information from our files as soon as possible.<br><br>Changes to this Privacy Policy<br><br>Any Personal Data that we collect is covered by the Privacy Policy in effect at the time such information is collected. We may make changes to this Privacy Policy from time to time. You will be given reasonable notice of any material change.<br><br>Third Parties<br><br>In using our Services you may access links to websites and services that are owned or operated by third parties (each, a “Third Party Service”). Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service is provided directly to the owner or operator of the Third Party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy, or security practices and policies of any Third Party Service. To protect your information we recommend that you carefully review the privacy policies of all Third Party Service that you access.<br><br>11. Game Specific Disclosures<br><br>Additional Privacy Information for Pokémon GO<br><br>Pokémon Trainer Club Accounts. You can sign up for Pokémon GO using your third-party Pokémon Trainer Club (“PTC”) account administered by The Pokémon Company International (“TPCI”). If you choose to do so, we will collect from TPCI your PTC registered email address, your PTC username and a unique PTC user ID. If you are registering your PTC account on behalf of your authorized child we will also collect some Personal Data about your child. See the “Accounts with Children” paragraph below for more information.<br><br>Accounts with Children. We comply with parental consent requirements as mandated by the U.S. Children’s Online Privacy Protection Act (COPPA) and European data protection laws (including, without limitation, the General Data Protection Regulation) through a verification and consent process handled by TPCI. As described in the Pokémon GO Terms of Service, the parent or legal guardian (“Parent”) of each child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data (“Child”), must register with TPCI through a PTC account before their Child can access and use the game. The Parent will have to provide to TPCI certain Personal Data about the Child in accordance with the TPCI privacy policy. Of that, Niantic will only collect from TPCI the Child’s personal email address, and the date when the Child will grow out of the age limits listed above.<br><br>For U.S. residents, after a Parent has registered a PTC account, TPCI will verify the Parent’s identity by asking for the sum of the first and last digits of the Parent’s social security number and the Parent’s name, date of birth, and street address. TPCI will not share that information with us. After TPCI verifies the Parent’s identity, it will ask the Parent to consent to the Child accessing Pokémon GO. If a Parent does not consent to a Child’s access to and use of Pokémon GO or does not verify their identity through the consent process, Niantic will bar that Child’s registration on Pokémon GO and prevent the Child’s access to and use of the game.<br><br>Parents have the right to refuse further collection, use, and/or disclosure of their Child’s Personal Data by notifying us. As a Parent, you understand that Niantic has a legitimate interest in providing your Child’s information collected via the Services to third party providers for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy.<br><br>Information shared with other players. When you take certain actions in Pokémon GO and capture a Gym, your (or your authorized Child’s) username will be shared publicly through the game, including with other players, in connection with that Gym location.<br><br>Apple Watch and Apple Health App Data. If you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data about your fitness activity (Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch Eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.<br>Additional Privacy Information for Ingress<br><br>Information shared publicly. When you play Ingress, as part of the gameplay the following information about you will be shared through the game (including with other players directly within the app, in game notifications emailed to other players as part of the gameplay, and online on the Ingress Intel Map website), and will therefore become publicly available: your in-game username, messages sent to other users in COMMS, and in-game portals that you interact with, as well as your device location whenever you take an in-game action.<br>
 err_incense_already_active
-Du benutzt bereits Rauch.
+You're already using Incense.
 err_incense_no_items
-Kein Rauch im Beutel.
+No Incense in inventory.
 err_lucky_egg_no_items
-Kein Glücks-Ei im Beutel.
+No Lucky Egg in inventory.
 err_lucky_egg_cannot_use
-Glücks-Ei konnte jetzt nicht eingesetzt werden.
+Lucky Egg couldn't be used at this time.
 err_tm_cannot_use
-TM konnte jetzt nicht eingesetzt werden.
+The TM couldn't be used at this time.
 err_berry_cannot_feed
-Du kannst jetzt keine Beere verwenden.
+Cannot feed a berry at this time.
 err_pokemon_could_not_evolve
-Das Pokémon konnte sich nicht entwickeln.
+The Pokémon couldn't evolve.
 err_pokemon_could_not_be_found
-Das Pokémon konnte nicht gefunden werden.
+The Pokémon couldn't be found.
 err_item_cannot_use
-Das Item konnte jetzt nicht eingesetzt werden.
+The item couldn't be used at this time.
 err_pokemon_already_encountered
-Du bist diesem Pokémon bereits begegnet.
+This Pokémon has already been encountered.
 err_cannot_change_buddy
-Kumpel konnte jetzt nicht gewechselt werden.
+Couldn't change buddy at this time.
 err_gym_battle_completed
-Der Arenakampf wurde bereits abgeschlossen!
+The Gym battle has already been completed!
 err_gym_battle_ended
-Der Arenakampf ist beendet!
+The Gym battle has ended!
 err_fetch_raid_details
-Raid-Details konnten nicht abgerufen werden.
+Cannot fetch Raid details
 err_cannot_join_raid_group
-Du kannst dieser Raid-Gruppe nicht beitreten.
+Cannot Join Raid Group.
 err_leave_raid_lobby
-Du kannst die Raid-Lobby nicht verlassen.
+Cannot Leave Raid Lobby.
 err_avatar_incorrect
-Avatar ungültig
+Avatar incorrect.
 err_raid_unavailable
-Dieser Raid ist nicht mehr verfügbar.
+This Raid is no longer available.
 err_raid_lobby_not_found
-Diese Raid-Lobby existiert nicht!
+That Raid lobby doesn't exist!
 err_gym_deploy
-Dein Pokémon konnte nicht zugewiesen werden.
+Your Pokémon couldn't be assigned.
 err_bundle_request
-Content konnte nicht vom Server heruntergeladen werden.
+Error Downloading Content from Server.
 alola_pokedex_header
-Alola-Form
+Alola Form
 privacy_policy_short_button
-Datenschutz
+Privacy
 pokemon_info_caught
-GEFANGEN
+CAUGHT
 pokemon_info_hatched
-AUSGEBRÜTET
+HATCHED
 pokemon_info_trade
-GETAUSCHT
+TRADE
 terms_of_service_url
-https://www.nianticlabs.com/terms/pokemongo/de/
+https://www.nianticlabs.com/terms/pokemongo/en/
 no_news_message
-Keine Neuigkeiten.
+No news.
 view_in_map
-Auf Karte ansehen
+View in Map
 badge_chicago_fest_july_2018_sat_north_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sat_south_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sun_north_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sun_south_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sat_north
-Chicago, 14. Juli 2018 – Nord
+Chicago, July 14, 2018—North
 badge_chicago_fest_july_2018_sat_south
-Chicago, 14. Juli 2018 – Süd
+Chicago, July 14, 2018—South
 badge_chicago_fest_july_2018_sun_south
-Chicago, 15. Juli 2018 – Süd
+Chicago, July 15, 2018—South
 badge_chicago_fest_july_2018_sun_north
-Chicago, 15. Juli 2018 – Nord
+Chicago, July 15, 2018—North
 error_contains_bad_text
-Dieser Name enthält unzulässigen Text.
+This name contains inappropriate text.
 pokestop_item_passcode_inventory_full
-Dein Beutel ist voll oder du befindest dich außerhalb der Reichweite des Check-in-Ortes.
+Your Bag is full, or you're out of range of the check-in location.
 error_weak_network
-Deine Netzwerkverbindung ist derzeit nicht stabil. Versuche es später noch mal.
+Currently, your network connection is unstable. Please try again later.
 badge_apac_partner_july_2018_1
-Japan, 28. Juli 2018
+Japan, July 28, 2018
 badge_apac_partner_july_2018_2
-Japan, 26. Juli 2018
+Japan, July 26, 2018
 badge_apac_partner_july_2018_3
-Japan, 27. Juli 2018
+Japan, July 27, 2018
 badge_apac_partner_july_2018_4
-Japan, 29. Juli 2018
+Japan, July 29, 2018
 badge_apac_partner_july_2018_5
-Südkorea, 29. Juli 2018
+South Korea, July 29, 2018
 badge_apac_partner_july_2018_1_title
-Pokémon GO-Spezialwochenende, 28. Juli 2018
+Pokémon GO Special Weekend, July 28, 2018
 badge_apac_partner_july_2018_2_title
-Pokémon GO-Spezialwochenende, 26. Juli 2018
+Pokémon GO Special Weekend, July 26, 2018
 badge_apac_partner_july_2018_3_title
-Pokémon GO-Spezialwochenende, 27. Juli 2018
+Pokémon GO Special Weekend, July 27, 2018
 badge_apac_partner_july_2018_4_title
-Pokémon GO-Spezialwochenende, 29. Juli 2018
+Pokémon GO Special Weekend, July 29, 2018
 badge_apac_partner_july_2018_5_title
-Pokémon GO-Spezialwochenende, 29. Juli 2018
+Pokémon GO Special Weekend, July 29, 2018
+banned_player_lockout_1|a
+Account Termination Notice\n\nYour account has been permanently terminated for violating the Terms of Service\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+suspended_player_lockout_1
+Account Suspension Notice\n\nYour account has been suspended for violating the Terms of Service.\n\nThis is the second Strike against your account. You will regain access to your account in approximately 30 days. Any further transgressions will result in permanent account termination.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+player_cheating_warning|a
+Warning Notice\n\nWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our  Terms of Service.\n\nThis is the first Strike against your account. It will last for approximately 7 days.\n\nWe strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+three_strike_policy_url
+https://support.pokemongo.nianticlabs.com/hc/en-us/articles/360001743487-Three-Strike-Discipline-Policy
+badge_yokosuka_29_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_mikasa
+Yokosuka, Aug 29, 2018-MIKASA
+badge_yokosuka_29_aug_2018_verny
+Yokosuka, Aug 29, 2018-VERNY
+badge_yokosuka_29_aug_2018_kurihama
+Yokosuka, Aug 29, 2018-KURIHAMA
+badge_yokosuka_30_aug_2018_mikasa
+Yokosuka, Aug 30, 2018-MIKASA
+badge_yokosuka_30_aug_2018_verny
+Yokosuka, Aug 30, 2018-VERNY
+badge_yokosuka_30_aug_2018_kurihama
+Yokosuka, Aug 30, 2018-KURIHAMA
+badge_yokosuka_31_aug_2018_mikasa
+Yokosuka, Aug 31, 2018-MIKASA
+badge_yokosuka_31_aug_2018_verny
+Yokosuka, Aug 31, 2018-VERNY
+badge_yokosuka_31_aug_2018_kurihama
+Yokosuka, Aug 31, 2018-KURIHAMA
+badge_yokosuka_1_sep_2018_mikasa
+Yokosuka, Sep 1, 2018-MIKASA
+badge_yokosuka_1_sep_2018_verny
+Yokosuka, Sep 1, 2018-VERNY
+badge_yokosuka_1_sep_2018_kurihama
+Yokosuka, Sep 1, 2018-KURIHAMA
+badge_yokosuka_2_sep_2018_mikasa
+Yokosuka, Sep 2, 2018-MIKASA
+badge_yokosuka_2_sep_2018_verny
+Yokosuka, Sep 2, 2018-VERNY
+badge_yokosuka_2_sep_2018_kurihama
+Yokosuka, Sep 2, 2018-KURIHAMA
+badge_pokedex_entries_gen4_title
+Sinnoh

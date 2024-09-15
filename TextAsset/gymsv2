@@ -1,13 +1,13 @@
 gymbadge_sort_recent
-reciente
+日期
 gymbadge_sort_alphabetical
-nombre
+名稱
 gymbadge_sort_nearby
-cerca
+距離
 gymbadge_sort_score
-puntos
+點數
 gymbadge_sort_progress
-progreso
+進度
 day_abbrev
 d
 hour_abbrev
@@ -17,428 +17,428 @@ m
 second_abbrev
 s
 gymbadge_aboutthisgym
-Acerca de este Gimnasio
+關於這間道館
 gymbadge_totalgymactivity
-Actividad total del Gimnasio
+道館活動紀錄
 gymbadge_statslabel_won
-victorias
+獲勝次數
 gymbadge_statslabel_defended
-tiempo defendido
+防禦時間
 gymbadge_statslabel_fed
-alimentos
+樹果
 gym_removal_notification_toast
-¡{0} ha luchado duro y ha vuelto!
+{0} 努力奮戰後回來了！
 pokemon_hungry_notification_toast
-¡{0} necesita alimento!
+{0} 需要一頓大餐！
 pokemon_won_notification_toast
-¡{0} ha defendido el Gimnasio!
+{0} 成功防禦道館！
 nearby_raid_notification_toast
-¡Incursión cercana a punto de empezar!
+附近有團體戰要開始了！
 gym_removal_notification_toast|1
-¡{0} vuelve después de un duro combate!
+{0} 在奮戰一場後回來了！
 gym_removal_notification_toast|2
-¡{0} ha quedado fuera del combate del Gimnasio!
+{0} 被踢出道館了！
 pokemon_hungry_notification_toast|1
-{0} necesita algo de atención...
+{0} 覺得好孤單……
 pokemon_hungry_notification_toast|2
-¡{0} quiere una baya!
+{0} 想要吃樹果！
 pokemon_won_notification_toast|1
-¡{0} ha resultado vencedor en combate!
+{0} 在對戰中獲勝了！
 pokemon_won_notification_toast|2
-¡{0} ha derrotado a tus rivales!
+{0} 打倒了你的對手！
 nearby_raid_notification_toast|1
-¡Hay una incursión a punto de comenzar cerca de ti!
+附近有場團體戰即將開始！
 nearby_raid_notification_toast|2
-¡Una incursión va a comenzar cerca de ti!
+附近有團體戰要開始了！
 raid_timer_label1
-Esperando a que se unan Entrenadores...
+正在等待其他訓練家參加……
 raid_timer_label2
-Selecciona tus Pokémon...
+選擇寶可夢……
 raid_members
-Miembros de la incursión
+團體戰成員
 raid_group_code
-Código de grupo
+小組代碼
 raid_howto_button
-Cómo jugar
+玩法
 raid_join_button
-Unirse
+參加
 raid_join_private_button
-Introducir código de grupo
+輸入小組代碼
 raid_leave_lobby_prompt
-Si abandonas este grupo, no podrás volver a unirte.\n\n ¿Quieres abandonar este grupo?
+請注意，離開小組後將無法再次加入。\n\n確定要離開這個小組嗎？
 raid_group_code_intro
-Puedes combatir con amigos introduciendo el código de grupo de ese grupo.
+輸入小組專用的代碼，即可和朋友一起加入小組，並肩戰鬥。
 raid_join_private_group_button
-UNIRSE
+加入
 raid_create_private_group_button
-Crear grupo
+建立小組
 raid_join_private_lobby_invalid_code
-Este código de grupo no es válido. Introduce un código válido.
+此小組代碼無效。請輸入正確代碼。
 settings_push_notification_header
-Notificaciones de inserción
+推播通知
 settings_low_happiness
-Motivación baja
+飢餓感
 settings_pokemon_return
-Regreso del Pokémon
+寶可夢回來
 settings_battle_victory
-Victoria del combate
+對戰勝利
 raid_already_completed
-Ya has completado esta incursión.
+你已經參加過這場團體戰了
 rare_candy_usage_confirmation
-¿Transformar un Caramelo Raro en un Caramelo {0}?
+要把神奇糖果轉換成 {0} 的糖果嗎？
 item_rare_candy_name
-Caramelo Raro
+神奇糖果
 item_rare_candy_desc
-Un caramelo misterioso. Cuando se usa en un Pokémon, se convierte en el Caramelo de ese Pokémon.
+一種神祕的糖果。如果用在寶可夢身上，就會變成那隻寶可夢的糖果。
 item_move_reroll_fast_attack_name
-MT de ataque rápido
+一般招式學習器
 item_move_reroll_fast_attack_desc
-Esta Máquina Técnica enseña a los Pokémon un nuevo ataque rápido.
+招式學習器的一種，可以讓寶可夢學會新的一般招式。
 item_move_reroll_special_attack_desc
-Esta Máquina Técnica enseña a los Pokémon un nuevo ataque cargado.
+招式學習器的一種，可以讓寶可夢學會新的特殊招式。
 item_move_reroll_special_attack_name
-MT de ataque cargado
+特殊招式學習器
 special_move_reroll_confirm_title
-¿Quieres enseñar a {0} un nuevo ataque cargado?
+你要讓 {0} 學會新的特殊招式嗎？
 move_reroll_confirm_desc
-{0} olvidará {1}.
+{0}會忘記<b>{1}</b>
 quick_move_reroll_confirm_title
-¿Quieres enseñar a {0} un nuevo ataque rápido?
+你要讓 {0} 學會新的一般攻擊嗎？
 move_reroll_success_message
-¡{0} ha aprendido un nuevo ataque!
+{0} 學會新招式了！
 raid_team_contribution
-Contribución por equipo
+團隊貢獻
 raid_lobby_locked
-INCURSIÓN COMPLETA
+名額已滿
 raid_timer_label3
-Cuenta atrás para el comienzo de la incursión
+距離團體戰開始還剩
 gym_please_buy_raid_ticket
-Puedes comprar un pase de incursión para unirte a la incursión.
+參加團體戰前，請先購買團體戰入場券
 filter_hint1
-Buscar a {0}
+正在搜尋 {0} ……
 filter_hint2
-Filtrar por nombre/mote
+以寶可夢名稱或暱稱搜尋
 filter_hint3
-Filtrar por Pokédex, 23-145
+以寶可夢圖鑑編號搜尋。例如：23–145
 filter_hint4
-Filtrar por {0}, {1}, {2}–{3}
+以 {0} 搜尋。例如：{1} {2}–{3}
 filter_hint5
-Evolucionar a {0}: \"{1}\"
+進化 {0}: \"{1}\"
 filter_hint6
-Evolución de {0}, +{1}
+{0} 進化。例如：+{1}
 filter_hint7
-Usa varios filtros usando ","
+以半形逗號（,）連結複數搜尋條件
 filter_hint8
-Filtrar por tipo, {0}, {1}
+以屬性搜尋：{0}, {1}
 shop_battle_tickets_title
-Consigue un pase de incursión.
+購買團體戰入場券
 item_free_raid_ticket_name
-Pase de incursión
+團體戰入場券
 item_free_raid_ticket_desc
-Pase para unirte a una incursión. Puedes obtener un pase gratis por día en un Gimnasio si no tienes ya uno.
+參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券。
 item_paid_raid_ticket_name
-Pase de incursión premium
+特級團體戰入場券
 item_paid_raid_ticket_desc
-Pase de incursión premium para unirte a una incursión. Puedes usar este pase en cualquier momento.
+參加團體戰的特級入場券，隨時都可以使用。
 use_raid_ticket_confirmation
-Usa un pase de incursión para unirte a una incursión.
+使用團體戰入場券
 pokecoins_daily_limit_reached
-Límite diario de {0} Pokémonedas alcanzado.
+已到達每日 {0} 枚寶可幣的上限
 received_free_item_title
-Has recibido gratis: ¡{0}!
+你收到了一個免費的 {0} ！
 gymbadge_timeelapsed
-Tiempo defendiendo
+防禦時間
 raid_private_group
-PRIVADO
+私人
 raid_remove_private_from_lobby_prompt
-¿Quieres hacer público el grupo?\n\nNo puedes deshacer esta acción.
+要公開這個小組嗎？\n\n公開後將無法取消。
 raid_message_select_your_pokemon
-¡Selecciona tus Pokémon para el combate!
+選擇要派上場對戰的寶可夢！
 raid_battle_retreat_confirmation
-¿Seguro que quieres salir?
+確定要離開嗎？
 raid_message_get_back_into_battle
-¡Cura a tus Pokémon y vuelve al combate!
+回復寶可夢的HP，讓牠回到戰場上吧！
 raid_timer_label4
-Cuenta atrás hasta que termine el combate
+距離對戰結束還剩
 team_picker_last_team
-Equipo de combate anterior
+上次的對戰小隊
 team_picker_title_load
-Cargar equipo de combate
+載入小隊
 team_picker_title_save
-Guardar equipo de combate
+登錄小隊
 team_picker_fainted_pokemon_warning
-Tu equipo actual no puede unirse a la incursión. Cura a tus Pokémon primero.
+目前的隊伍無法參加對戰。請回復瀕死寶可夢的HP。
 battle_intro_battles_won
-Combates ganados: {0}
+贏得 {0} 場對戰
 team_picker_default_team_name
-Equipo {0}
+對戰小隊 {0}
 team_picker_optimize
-Optimizar
+系統選隊
 team_picker_set_team_name
-Elige el nombre del equipo.
+設定名稱
 team_picker_team_not_set
-Anular
+尚未設定
 gym_feed_pokemon_full
-¡{0} está lleno! Prueba a darles alimento a otros Pokémon.
+{0} 很飽！去餵其他寶可夢吧。
 gym_feed_pokemon_berry_timeout
-{0} está harto de esa baya.
+{0} 已經吃膩這種樹果了。
 gym_feed_pokemon_timeout
-{0} está muy feliz. Prueba a darles alimentos a otros Pokémon.
+{0} 非常地開心。去餵其他寶可夢吧。
 avatar_detail_pokemon_caught
-Pokémon atrapados
+捉到的寶可夢
 avatar_detail_walking_distance
-Distancia caminando
+步行距離
 avatar_detail_battle_won
-Combates ganados
+獲勝次數
 avatar_detail_total_activities
-Total de actividades
+活動紀錄
 raid_tut_group_forming_message
-El grupo se organizará automáticamente.
+對戰小組為系統自動挑選組成。
 gym_out_of_range
-¡El Gimnasio está demasiado lejos!
+道館太遠了！
 general_go_to_shop
-IR A LA TIENDA
+前往商店
 general_quit
-SALIR
+結束
 raid_tut_group_forming
-FORMACIÓN DE GRUPOS
+建立小組
 raid_tut_how_to_battle_message
-¡Toca la pantalla para atacar al jefe de la incursión! ¡Presiona y mantén pulsado para usar tu ataque cargado cuando el medidor de ataques esté lleno!
+點擊螢幕，攻擊頭目寶可夢！能量條滿了之後，就可以點擊特殊招式按鈕，發動特殊招式！
 raid_tut_how_to_battle
-¿CÓMO COMBATIR?
+如何對戰？
 raid_tut_pass_message
-Necesitas un pase de incursión para unirte a la incursión. Puedes obtener uno gratis al día si no tienes ya uno. También puedes conseguir pases de incursión premium en la tienda.
+參加團體戰時需要團體戰入場券。你每天都可以在道館獲得一張免費的入場券，但一次只能擁有一張入場券。你也可以在商店購買特級團體戰入場券。
 raid_pass_caps
-PASE DE INCURSIÓN
+團體戰入場券
 raid_tut_what_is_raid_message
-Una incursión es un combate en el que tú y hasta otros 20 Entrenadores trabajáis en equipo para derrotar al jefe de la incursión, un Pokémon extremadamente poderoso. ¡Gana para hacerte con fantásticas recompensas y la oportunidad de atrapar para ti un Pokémon más fuerte de lo usual!
+在團體戰中，你將會和其他訓練家（最多20名）一起挑戰強大的頭目寶可夢。同心協力擊敗頭目寶可夢後，將可獲得超棒的獎品和捕捉強大寶可夢的機會！
 raid_tut_what_is_raid
-¿QUÉ ES UNA INCURSIÓN?
+團體戰是什麼？
 raid_enter_group_code
-GRUPO PRIVADO
+私人小組
 raid_public_warning_message
-Si cambias este grupo a público, cualquiera puede unirse y combatir contigo.\n\nUna vez que lo cambias a público, tu grupo ya no puede volver a hacerse privado de nuevo.\n¿Seguro que quieres cambiar el grupo a público?
+如果公開小組，任何訓練家都可以加入這個小組。\n\n公開小組之後，就無法將小組轉為私人小組。確定要公開小組嗎？
 raid_change_to_public
-CAMBIAR A PÚBLICO
+公開小組
 raid_share_private_code_message
-Comparte este código de grupo con tus amigos. Pueden unirse a ti usando este código de grupo.
+和朋友分享小組代碼，讓朋友加入你的對戰陣容。
 raid_private_lobby_success_message
-¡Te has unido a un grupo con éxito!
+成功加入小組了！
 raid_rejoin_battle
-VOLVER A UNIRSE AL COMBATE
+重新加入對戰
 battle_summary
-RESUMEN
+摘要
 raid_defeat_boss
-Derrotar al jefe
+擊敗頭目
 raid_damage_bonus
-Daño
+傷害量
 raid_gym_ownership
-Control del Gimnasio
+占領道館隊伍
 general_total_caps
 TOTAL
 raid_bonus_challenge
-IR A DESAFÍO DE BONUS
+挑戰額外關卡
 profile_gymbadges_recently_visited
-Visitados recientemente
+最近去過的道館
 profile_category_gymbadges
-Medallas de Gimnasio
+道館徽章
 gym_spinner_team_bonus
-Bonus de equipo
+同隊獎勵
 raid_raid
-Incursión
+團體戰
 raid_level_caps
-NIVEL DE INCURSIÓN
+團體戰等級
 raid_suggested_group_size
-TAMAÑO DE GRUPO SUGERIDO
+建議人數
 raid_nearby_ongoing
-En curso
+進行中
 gym_battle_continue_battles_won_stat
-COMBATES GANADOS: {0}
+{0} 勝
 gym_battle_victory_subtitle
-¡Has derrotado este Gimnasio!
+踢館成功！
 gym_battle_defeat_body
-¡Todos tus Pokémon se han debilitado!
+所有寶可夢都陷入瀕死狀態了！
 gym_battle_defeat_footer
-Inténtalo de nuevo.
+請重試一次
 raid
-Incursión
+團體戰
 gym_pokemon_you_fed_not_there
-¡El Pokémon al que intentaste alimentar ya no está ahí!
+你試著要餵的寶可夢已經不在了
 raid_try_again
-¡Selecciona nuevos Pokémon, o revive y cura a tus Pokémon actuales, y vuelve a la incursión!
+選擇新的寶可夢，或是回復瀕死寶可夢的HP後再來挑戰！
 raid_defeat_message
-¡Todos tus Pokémon se han debilitado!
+所有寶可夢都陷入瀕死狀態了
 general_battle
-COMBATE
+對戰
 gym_deployment_time_format
 {0} d {1} h {2} m
 free_raid_ticket_details_desc
-Pase para unirte a una incursión. Puedes obtener un pase gratis en Gimnasios una vez al día si no tienes ya uno.\n\nSi quieres participar en más de una incursión al día, puedes comprar pases de incursión en la tienda.
+參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券。\n\n如果希望一天參加兩次以上的團體戰，請至商店購買入場券。
 paid_raid_ticket_details_desc
-Pase de incursión premium para unirte a una incursión. Puedes usar este pase en cualquier momento.\n\nPara obtener más pases, visita la tienda.
+參加團體戰的特級入場券，隨時都可以使用。\n\n請至商店購買。
 battle_prep_opponents_header
-Rivales
+對手
 gym_feed_pokemon_busy
-Vuelve a intentarlo más tarde.
-gymbadge_sort_defending
-Defendiendo
+請稍後再試一次
 raid_finding_players
-Encontrando otros jugadores...
+正在尋找其他訓練家…
 gym_same_team_deploy_lockout
-¡El Gimnasio está siendo atacado! Vuelve a intentarlo más tarde.
+有人正在攻擊道館！請稍後再試一次。
+gymbadge_sort_defending
+防禦
 screen_title_badge_collection
-Medallas de Gimnasio
+道館徽章
 profile_no_gymbadges
-No tienes ninguna Medalla de Gimnasio.
+沒有任何道館徽章
 free_ticket_bag_full_error
-Tu Bolsa está llena. Haz espacio para un pase de incursión.
+你的包包已經滿了，無法收下團體戰入場券。
 raid_level
-Dificultad
+難度
 battle_prep_my_team_header
-Mi equipo
+我的對戰小隊
 battle_prep_go
-¡A combatir!
+參加對戰！
 raids_no_nearby
-No hay incursiones cerca.
+附近沒有團體戰
 gymbadge_you_earned
-¡Medalla de Gimnasio recibida!
+收到道館徽章了！
 award_badge_new_badge
-Defiende Gimnasios de tu equipo y ataca los de los rivales para mejorar tus Medallas de Gimnasio.
+提升徽章的等級，就可以獲得更多獎勵！
 gym_feed_raid_active
-El jefe de una incursión ha tomado control del Gimnasio. Inténtalo de nuevo una vez que el jefe se haya ido.
+道館被頭目寶可夢占領了。請在頭目寶可夢離開後再試一次。
 gym_next_battle
-Combatir
+對戰
 gym_battle_leave
-Salir
+離開
 gym_battle_next
-Siguiente:
+下一場對戰
 error_no_available_lobbies
-No hay grupos con ese código.
+無法以此代碼搜尋到小組
 error_lobby_visibility
-Se ha producido un error durante la presentación de la incursión.
+載入團體戰時出現錯誤
 error_start_raid_battle
-Se ha producido un error al intentar iniciar una incursión.
+進入團體戰時出現錯誤
 error_pokemon_team_update
-Se ha producido un error al intentar actualizar tu equipo de combate.
+更新對戰陣容時出現錯誤
 error_join_lobby
-Se ha producido un error al intentar unirse a la incursión.
+參加團體戰時出現錯誤
 gym_badge_list_button
-Lista
+一覽表
 raid_defeat_try_again
-¡Selecciona nuevos Pokémon o cura a los que se han debilitado para volver al combate!
+選擇新的寶可夢，或是回復瀕死寶可夢的HP後再來挑戰！
 raid_time_out_try_again
-No has derrotado al jefe de la incursión a tiempo. Vuelve a intentarlo.
+無法在時間限制內打倒頭目寶可夢。請重試一次。
 item_golden_razz_berry_name
-Baya Frambu dorada
+金色蔓莓果
 item_golden_razz_berry_desc
-Al usarla con un Pokémon, se captura con más facilidad en tu próximo lanzamiento.
+寶可夢吃了這種樹果後，會變得比較容易捕捉
 encounter_raid_pokemon_appeared
-¡Desafío de bonus! ¡Atrapa a {0}!
+額外關卡！挑戰捕捉 {0} ！
 raid_need_a_viable_raid_team
-No tienes ningún Pokémon listo para el combate. Por favor, cura a tus Pokémon.
+目前沒有可以參加團體戰的寶可夢。請回復寶可夢的HP。
 error_raid_active
-¡El jefe de una incursión ha tomado el control del Gimnasio!
+道館被頭目寶可夢占領了！
 badges_tut_description
-Visita un Gimnasio y gira el fotodisco para ganar una Medalla de Gimnasio. ¡Desbloquea las recompensas de objetos defendiendo los Gimnasios de tu equipo y atacando los de los rivales!
+拜訪道館、旋轉道館的轉盤便可獲得道館徽章。防禦我方道館或攻擊敵方道館，解鎖更多道具！
 profile_gymbadges_help
-Obtén más información sobre las Medallas de Gimnasio.
+更多關於道館徽章的情報
 gym_tut_title_1
-OBTENER OBJETOS
+獲得道具
 gym_tut_title_2
-ASIGNAR POKÉMON
+指派寶可夢
 gym_tut_title_3
-MOTIVACIÓN
+幹勁
 gym_tut_title_4
-DAR BAYAS
+餵樹果！
 gym_tut_desc_1
-Ahora puedes conseguir objetos en los Gimnasios girando sus fotodiscos.
+旋轉道館的轉盤來取得道具。
 gym_tut_desc_2
-Puedes asignar a tus Pokémon para que defiendan un Gimnasio usando el botón para asignar Pokémon en un Gimnasio amistoso. Cuando tus Pokémon sean asignados, verás aparecer su medidor de motivación.
+在我方道館點選「指派寶可夢」鍵，便可將自己的寶可夢指派去防禦道館。寶可夢被指派至道館後，頭上會出現心型的幹勁計量表。
 gym_tut_desc_3
-La motivación de un Pokémon disminuye lentamente con el paso del tiempo y cuando es derrotado en combate. Cuando un Pokémon al que no le queda nada de motivación es derrotado, deja de defender el Gimnasio y vuelve a su Entrenador.
+當寶可夢被指派至道館的時間越長、或是在道館對戰中落敗，寶可夢的幹勁將會隨之下降。若幹勁為0的寶可夢在對戰中落敗，牠將不會繼續防禦道館，而是會回到訓練家身邊。
 gym_tut_desc_4
-¡Alimenta con bayas a los Pokémon para que tengan motivación y fuerza en combate!
+餵我方道館的寶可夢吃樹果，提升牠們的幹勁吧！
 no_usable_items_error
-No hay objetos que se puedan usar.
+沒有可用的道具
 gym_battle_victory_title
-¡Buen trabajo!
+太棒了！
 tm_no_other_moves
-¡No puede aprender otros movimientos!
+無法學會其他招式！
 disabled_low_stamina
-El Pokémon debe tener los PS al completo.
+寶可夢的HP必須是滿的
 disabled_buddy
-El Pokémon compañero no puede ser enviado.
+無法指派夥伴寶可夢去防禦道館
 badge_raid_battle_won
-Incursiones ganadas: {0}
+在團體戰中獲勝 {0} 次！
 badge_hours_defended_title
-Líder del Gimnasio
+道館館主
 badge_hours_defended
-Horas defendiendo Gimnasios: {0}
+成功防禦道館 {0} 小時
 badge_hours_defended_value_format
 N0
 badge_berries_fed_title
-Maestro de Bayas
+樹果名人
 badge_berries_fed
-Bayas usadas en los Gimnasios: {0}
+在道館餵了 {0} 個樹果
 badge_berries_fed_value_format
 N0
 badge_raid_battle_won_value_format
 N0
 badge_raid_battle_won_title
-Campeón
+冠軍
 gym_deploy_raid_active
-El jefe de una incursión ha tomado el control del Gimnasio. Vuelve a intentarlo después de que se haya ido.
+道館被頭目寶可夢占領了。請在頭目寶可夢離開後再試一次。
 error_too_many_deployed
-Desafortunadamente, has alcanzado el límite de Pokémon que puedes asignar a Gimnasios.
+抱歉，你指派到道館的寶可夢數量已達到上限。
 disabled_max_same_defender
-Solo uno de cada Pokémon puede defender un Gimnasio.
+不能指派相同種類的寶可夢到道館
 error_fort_is_full
-En este Gimnasio no hay sitio para más Pokémon.
+這間道館沒有空餘的寶可夢席位
 award_badge_rank_up
-Defiende Gimnasios de tu equipo y ataca los de los equipos rivales para mejorar tus Medallas de Gimnasio.
+防禦我方道館並攻擊敵方道館來升級道館徽章
 raid_not_yet_available
-Lo sentimos, pero las incursiones aún no están disponibles para tu nivel.\nVuelve a intentarlo más tarde.
+抱歉，你現在無法參加團體戰。\n請在提升訓練家等級後再試一次。
 raid_private_lobby_created_success_message
-¡Se ha creado un grupo con éxito!
+成功建立小組了！
 pokestop_button_read_qr_code
-LEER CÓDIGO QR
+讀取二維條碼
 pokestop_button_manual_input
-ENTRADA MANUAL
+手動輸入
 pokestop_check_in_manual_entry_title
-INTRODUCIR CÓDIGO DE REGISTRO
+輸入註冊碼
 pokestop_check_in_notice
-¡Te damos la bienvenida a {0}!\nUsa la cámara para leer el código QR para registrarte.
+歡迎來到 {0} ！\n請用照相機讀取二維條碼後登入。
 pokestop_check_in_succeeded
-REGISTRO CON ÉXITO
+成功登入
 disabled_max_same_defenders
-Solo uno de cada Pokémon puede defender un Gimnasio.
+不能指派相同種類的寶可夢到道館
 gym_closed_exclusive_raid_not_invited
-Este Gimnasio está cerrado por una incursión EX.\nVolverá a abrir a la(s) {0}.
+這間道館目前正在舉行VIP團體戰。\n道館將會在 {0} 重新開放。
 disabled_legendary
-No se puede dejar en los Gimnasios Pokémon legendarios.
+不能把傳說的寶可夢指派到道場。
 team_picker_title
-Cargar y guardar equipos de combate
+載入並登錄對戰小隊
 team_picker_load
-Cargar
+載入
 team_picker_save
-Guardar
+登錄
 battle_prep_create_team
-¡Selecciona tus nuevos Pokémon!
+選擇新的寶可夢吧！
 battle_prep_new_team
-Nuevo equipo de combate
+新對戰小隊
 battle_prep_recommended_team
-Equipo de combate recomendado
+推薦的對戰小隊
 screen_title_pokemon_inventory_party
-EQUIPO
+小隊
 raid_ticket_event
-Evento
+活動
 filter_key_defender
-defensor
+防禦者
 filter_key_legendary
-legendario
+傳說的寶可夢
 filter_key_shiny
-variocolor
+異色
 filter_key_mythical
-singular
+幻
 filter_key_alola
-Alola
+阿羅拉
