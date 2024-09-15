@@ -1,13 +1,13 @@
 gymbadge_sort_recent
-日期
+recent
 gymbadge_sort_alphabetical
-名稱
+name
 gymbadge_sort_nearby
-距離
+nearby
 gymbadge_sort_score
-點數
+points
 gymbadge_sort_progress
-進度
+progress
 day_abbrev
 d
 hour_abbrev
@@ -17,428 +17,428 @@ m
 second_abbrev
 s
 gymbadge_aboutthisgym
-關於這間道館
+about this gym
 gymbadge_totalgymactivity
-道館活動紀錄
+total gym activity
 gymbadge_statslabel_won
-獲勝次數
+victories
 gymbadge_statslabel_defended
-防禦時間
+time defended
 gymbadge_statslabel_fed
-樹果
+treats
 gym_removal_notification_toast
-{0} 努力奮戰後回來了！
+{0} has fought hard and returned!
 pokemon_hungry_notification_toast
-{0} 需要一頓大餐！
+{0} needs a treat!
 pokemon_won_notification_toast
-{0} 成功防禦道館！
+{0} defended the Gym!
 nearby_raid_notification_toast
-附近有團體戰要開始了！
+Nearby Raid Battle starting soon!
 gym_removal_notification_toast|1
-{0} 在奮戰一場後回來了！
+{0} is back after a hard battle!
 gym_removal_notification_toast|2
-{0} 被踢出道館了！
+{0} was knocked out of the Gym!
 pokemon_hungry_notification_toast|1
-{0} 覺得好孤單……
+{0} needs some attention...
 pokemon_hungry_notification_toast|2
-{0} 想要吃樹果！
+{0} wants a Berry!
 pokemon_won_notification_toast|1
-{0} 在對戰中獲勝了！
+{0} was victorious in battle!
 pokemon_won_notification_toast|2
-{0} 打倒了你的對手！
+{0} has triumphed over your opponents!
 nearby_raid_notification_toast|1
-附近有場團體戰即將開始！
+There's a Raid Battle about to start near you!
 nearby_raid_notification_toast|2
-附近有團體戰要開始了！
+A Raid Battle is going to start nearby!
 raid_timer_label1
-正在等待其他訓練家參加……
+Waiting for Trainers to join...
 raid_timer_label2
-選擇寶可夢……
+Select your Pokémon...
 raid_members
-團體戰成員
+Raid Members
 raid_group_code
-小組代碼
+Group Code
 raid_howto_button
-玩法
+How to play
 raid_join_button
-參加
+Join
 raid_join_private_button
-輸入小組代碼
+Enter Group Code
 raid_leave_lobby_prompt
-請注意，離開小組後將無法再次加入。\n\n確定要離開這個小組嗎？
+If you leave this group, you won't be able to rejoin.\n\n Do you want to leave this group?
 raid_group_code_intro
-輸入小組專用的代碼，即可和朋友一起加入小組，並肩戰鬥。
+You can battle together with friends by entering the group code of that group.
 raid_join_private_group_button
-加入
+JOIN
 raid_create_private_group_button
-建立小組
+Create Group
 raid_join_private_lobby_invalid_code
-此小組代碼無效。請輸入正確代碼。
+This group code is invalid. Please enter a valid code.
 settings_push_notification_header
-推播通知
+Push Notifications
 settings_low_happiness
-飢餓感
+Low Motivation
 settings_pokemon_return
-寶可夢回來
+Pokémon's Return
 settings_battle_victory
-對戰勝利
+Battle Victory
 raid_already_completed
-你已經參加過這場團體戰了
+You already completed this Raid Battle.
 rare_candy_usage_confirmation
-要把神奇糖果轉換成 {0} 的糖果嗎？
+Transform a Rare Candy into a {0} Candy?
 item_rare_candy_name
-神奇糖果
+Rare Candy
 item_rare_candy_desc
-一種神祕的糖果。如果用在寶可夢身上，就會變成那隻寶可夢的糖果。
+A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy.
 item_move_reroll_fast_attack_name
-一般招式學習器
+Fast TM
 item_move_reroll_fast_attack_desc
-招式學習器的一種，可以讓寶可夢學會新的一般招式。
+This Technical Machine teaches the Pokémon a new Fast Attack.
 item_move_reroll_special_attack_desc
-招式學習器的一種，可以讓寶可夢學會新的特殊招式。
+This Technical Machine teaches the Pokémon a new Charged Attack.
 item_move_reroll_special_attack_name
-特殊招式學習器
+Charged TM
 special_move_reroll_confirm_title
-你要讓 {0} 學會新的特殊招式嗎？
+Do you want to teach {0} a new Charged Attack?
 move_reroll_confirm_desc
-{0}會忘記<b>{1}</b>
+{0} will forget {1}.
 quick_move_reroll_confirm_title
-你要讓 {0} 學會新的一般攻擊嗎？
+Do you want to teach {0} a new Fast Attack?
 move_reroll_success_message
-{0} 學會新招式了！
+{0} learned a new attack!
 raid_team_contribution
-團隊貢獻
+Contribution by Team
 raid_lobby_locked
-名額已滿
+RAID FULL
 raid_timer_label3
-距離團體戰開始還剩
+Countdown to the Raid Battle start
 gym_please_buy_raid_ticket
-參加團體戰前，請先購買團體戰入場券
+You can buy a Raid Pass to join the Raid Battle.
 filter_hint1
-正在搜尋 {0} ……
+Search for {0}
 filter_hint2
-以寶可夢名稱或暱稱搜尋
+Filter by name/nickname
 filter_hint3
-以寶可夢圖鑑編號搜尋。例如：23–145
+Filter by Pokédex no., e.g., 23–145
 filter_hint4
-以 {0} 搜尋。例如：{1} {2}–{3}
+Filter by {0}, e.g., {1}, {2}–{3}
 filter_hint5
-進化 {0}: \"{1}\"
+Can evolve {0}: \"{1}\"
 filter_hint6
-{0} 進化。例如：+{1}
+{0} Evolution, e.g., +{1}
 filter_hint7
-以半形逗號（,）連結複數搜尋條件
+Use multiple filters with ","
 filter_hint8
-以屬性搜尋：{0}, {1}
+Filter by type: {0}, {1}
 shop_battle_tickets_title
-購買團體戰入場券
+You're out of Raid Passes!
 item_free_raid_ticket_name
-團體戰入場券
+Raid Pass
 item_free_raid_ticket_desc
-參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券。
+Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 item_paid_raid_ticket_name
-特級團體戰入場券
+Premium Raid Pass
 item_paid_raid_ticket_desc
-參加團體戰的特級入場券，隨時都可以使用。
+Premium Raid Pass to join a Raid Battle. You can use this pass anytime.
 use_raid_ticket_confirmation
-使用團體戰入場券
+Use a Raid Pass to join the Raid Battle
 pokecoins_daily_limit_reached
-已到達每日 {0} 枚寶可幣的上限
+{0} PokéCoins daily limit reached.
 received_free_item_title
-你收到了一個免費的 {0} ！
+You received a free {0}!
 gymbadge_timeelapsed
-防禦時間
+time defending
 raid_private_group
-私人
+PRIVATE
 raid_remove_private_from_lobby_prompt
-要公開這個小組嗎？\n\n公開後將無法取消。
+Make the group open to the public?\n\nYou can't undo this action.
 raid_message_select_your_pokemon
-選擇要派上場對戰的寶可夢！
+Select your Pokémon for battle!
 raid_battle_retreat_confirmation
-確定要離開嗎？
+Are you sure you want to leave?
 raid_message_get_back_into_battle
-回復寶可夢的HP，讓牠回到戰場上吧！
+Heal your Pokémon and return to the battle!
 raid_timer_label4
-距離對戰結束還剩
+Countdown until the battle ends
 team_picker_last_team
-上次的對戰小隊
+Previous battle party
 team_picker_title_load
-載入小隊
+Load battle party
 team_picker_title_save
-登錄小隊
+Save battle party
 team_picker_fainted_pokemon_warning
-目前的隊伍無法參加對戰。請回復瀕死寶可夢的HP。
+Your current party cannot join the battle. Heal your Pokémon first.
 battle_intro_battles_won
-贏得 {0} 場對戰
+{0} battles won
 team_picker_default_team_name
-對戰小隊 {0}
+Battle party {0}
 team_picker_optimize
-系統選隊
+Optimize
 team_picker_set_team_name
-設定名稱
+Set battle party name
 team_picker_team_not_set
-尚未設定
+Unset
 gym_feed_pokemon_full
-{0} 很飽！去餵其他寶可夢吧。
+{0} is full! Try giving a treat to other Pokémon.
 gym_feed_pokemon_berry_timeout
-{0} 已經吃膩這種樹果了。
+{0} is tired of that Berry.
 gym_feed_pokemon_timeout
-{0} 非常地開心。去餵其他寶可夢吧。
+{0} is very happy. Try giving treats to other Pokémon.
 avatar_detail_pokemon_caught
-捉到的寶可夢
+Pokémon Caught
 avatar_detail_walking_distance
-步行距離
+Walking Distance
 avatar_detail_battle_won
-獲勝次數
+Battles Won
 avatar_detail_total_activities
-活動紀錄
+Total Activities
 raid_tut_group_forming_message
-對戰小組為系統自動挑選組成。
+The battle group will automatically match you with other players.
 gym_out_of_range
-道館太遠了！
+Gym out of range!
 general_go_to_shop
-前往商店
+GO TO SHOP
 general_quit
-結束
+QUIT
 raid_tut_group_forming
-建立小組
+GROUP FORMING
 raid_tut_how_to_battle_message
-點擊螢幕，攻擊頭目寶可夢！能量條滿了之後，就可以點擊特殊招式按鈕，發動特殊招式！
+Tap the screen to attack the Raid Boss! Press the Charge Attack button to use your Charged Attack when the attack meter is full!
 raid_tut_how_to_battle
-如何對戰？
+BATTLE
 raid_tut_pass_message
-參加團體戰時需要團體戰入場券。你每天都可以在道館獲得一張免費的入場券，但一次只能擁有一張入場券。你也可以在商店購買特級團體戰入場券。
+You need a Raid Pass to join the battle. You can get one for free each day if you don't already have one. You can also get Premium Raid Passes in the shop.
 raid_pass_caps
-團體戰入場券
+RAID PASS
 raid_tut_what_is_raid_message
-在團體戰中，你將會和其他訓練家（最多20名）一起挑戰強大的頭目寶可夢。同心協力擊敗頭目寶可夢後，將可獲得超棒的獎品和捕捉強大寶可夢的機會！
+A raid is a battle where you and up to 20 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
 raid_tut_what_is_raid
-團體戰是什麼？
+WHAT IS A RAID?
 raid_enter_group_code
-私人小組
+PRIVATE GROUP
 raid_public_warning_message
-如果公開小組，任何訓練家都可以加入這個小組。\n\n公開小組之後，就無法將小組轉為私人小組。確定要公開小組嗎？
+If you change this group to public, anyone can join and battle with you.\n\nOnce you change to public, your group cannot be made private again.\nAre you sure you want to change to a public group?
 raid_change_to_public
-公開小組
+CHANGE TO PUBLIC
 raid_share_private_code_message
-和朋友分享小組代碼，讓朋友加入你的對戰陣容。
+Share this group code with your friends. They can join you by entering this group code.
 raid_private_lobby_success_message
-成功加入小組了！
+Successfully joined a group!
 raid_rejoin_battle
-重新加入對戰
+REJOIN BATTLE
 battle_summary
-摘要
+SUMMARY
 raid_defeat_boss
-擊敗頭目
+Defeat Boss
 raid_damage_bonus
-傷害量
+Damage
 raid_gym_ownership
-占領道館隊伍
+Gym Control
 general_total_caps
 TOTAL
 raid_bonus_challenge
-挑戰額外關卡
+GO TO BONUS CHALLENGE
 profile_gymbadges_recently_visited
-最近去過的道館
+Recently Visited
 profile_category_gymbadges
-道館徽章
+Gym Badges
 gym_spinner_team_bonus
-同隊獎勵
+Team Bonus
 raid_raid
-團體戰
+Raid Battle
 raid_level_caps
-團體戰等級
+RAID LEVEL
 raid_suggested_group_size
-建議人數
+SUGGESTED GROUP SIZE
 raid_nearby_ongoing
-進行中
+Ongoing
 gym_battle_continue_battles_won_stat
-{0} 勝
+{0} BATTLES WON
 gym_battle_victory_subtitle
-踢館成功！
+You defeated this Gym!
 gym_battle_defeat_body
-所有寶可夢都陷入瀕死狀態了！
+All your Pokémon have fainted!
 gym_battle_defeat_footer
-請重試一次
+Please try again.
 raid
-團體戰
+raid
 gym_pokemon_you_fed_not_there
-你試著要餵的寶可夢已經不在了
+The Pokémon you tried to give a treat to isn't there anymore.
 raid_try_again
-選擇新的寶可夢，或是回復瀕死寶可夢的HP後再來挑戰！
+Select new Pokémon, or revive and heal your current Pokémon, and go back to the battle!
 raid_defeat_message
-所有寶可夢都陷入瀕死狀態了
+All your Pokémon have fainted.
 general_battle
-對戰
+BATTLE
 gym_deployment_time_format
-{0} d {1} h {2} m
+{0}d {1}h {2}m
 free_raid_ticket_details_desc
-參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券。\n\n如果希望一天參加兩次以上的團體戰，請至商店購買入場券。
+Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.\n\nIf you want to participate in more than one raid per day, you may buy raid passes from the store.
 paid_raid_ticket_details_desc
-參加團體戰的特級入場券，隨時都可以使用。\n\n請至商店購買。
+Premium Raid Pass to join a Raid Battle. You can use this pass anytime.\n\nTo get more passes, visit the store.
 battle_prep_opponents_header
-對手
+Opponents
 gym_feed_pokemon_busy
-請稍後再試一次
+Try again later.
 raid_finding_players
-正在尋找其他訓練家…
+Finding other players
 gym_same_team_deploy_lockout
-有人正在攻擊道館！請稍後再試一次。
+The Gym is under attack! Try again later.
 gymbadge_sort_defending
-防禦
+defending
 screen_title_badge_collection
-道館徽章
+Gym Badges
 profile_no_gymbadges
-沒有任何道館徽章
+You don't have any Gym Badges.
 free_ticket_bag_full_error
-你的包包已經滿了，無法收下團體戰入場券。
+Your Bag is full. You'll need to make room to hold a Raid Pass.
 raid_level
-難度
+Difficulty
 battle_prep_my_team_header
-我的對戰小隊
+My Battle Party
 battle_prep_go
-參加對戰！
+Go battle!
 raids_no_nearby
-附近沒有團體戰
+There are no raids nearby.
 gymbadge_you_earned
-收到道館徽章了！
+Gym Badge Earned!
 award_badge_new_badge
-提升徽章的等級，就可以獲得更多獎勵！
+Defend team Gyms and attack rival ones to upgrade your Gym Badges.
 gym_feed_raid_active
-道館被頭目寶可夢占領了。請在頭目寶可夢離開後再試一次。
+A Raid Boss has taken control of the Gym. Please try again after the Raid Boss is gone.
 gym_next_battle
-對戰
+Battle
 gym_battle_leave
-離開
+Leave
 gym_battle_next
-下一場對戰
+Next Up:
 error_no_available_lobbies
-無法以此代碼搜尋到小組
+No groups found with that code.
 error_lobby_visibility
-載入團體戰時出現錯誤
+An error occurred during the presentation of the raid.
 error_start_raid_battle
-進入團體戰時出現錯誤
+An error occurred in trying to start a raid.
 error_pokemon_team_update
-更新對戰陣容時出現錯誤
+An error occurred in trying to update your battle party.
 error_join_lobby
-參加團體戰時出現錯誤
+An error occurred in trying to join the raid.
 gym_badge_list_button
-一覽表
+List
 raid_defeat_try_again
-選擇新的寶可夢，或是回復瀕死寶可夢的HP後再來挑戰！
+Select new Pokémon or heal up those that fainted and get back to the battle!
 raid_time_out_try_again
-無法在時間限制內打倒頭目寶可夢。請重試一次。
+You didn't defeat the Raid Boss in time. Please try again.
 item_golden_razz_berry_name
-金色蔓莓果
+Golden Razz Berry
 item_golden_razz_berry_desc
-寶可夢吃了這種樹果後，會變得比較容易捕捉
+Feed this to a Pokémon to make it much easier to catch.
 encounter_raid_pokemon_appeared
-額外關卡！挑戰捕捉 {0} ！
+Bonus Challenge! Catch {0}!
 raid_need_a_viable_raid_team
-目前沒有可以參加團體戰的寶可夢。請回復寶可夢的HP。
+You have no Pokémon ready to battle. Please heal your Pokémon.
 error_raid_active
-道館被頭目寶可夢占領了！
+A Raid Boss has taken control of the Gym!
 badges_tut_description
-拜訪道館、旋轉道館的轉盤便可獲得道館徽章。防禦我方道館或攻擊敵方道館，解鎖更多道具！
+Visit a Gym and spin the Photo Disc to earn a Gym Badge. Unlock item rewards by defending your team's Gyms and attacking rival Gyms!
 profile_gymbadges_help
-更多關於道館徽章的情報
+Learn more
 gym_tut_title_1
-獲得道具
+GET ITEMS
 gym_tut_title_2
-指派寶可夢
+ASSIGN POKÉMON
 gym_tut_title_3
-幹勁
+MOTIVATION
 gym_tut_title_4
-餵樹果！
+GIVE BERRIES!
 gym_tut_desc_1
-旋轉道館的轉盤來取得道具。
+You can find items at Gyms by spinning their Photo Discs.
 gym_tut_desc_2
-在我方道館點選「指派寶可夢」鍵，便可將自己的寶可夢指派去防禦道館。寶可夢被指派至道館後，頭上會出現心型的幹勁計量表。
+You can assign your Pokémon to defend a Gym using the "Assign Pokémon" button at a friendly Gym. After your Pokémon is assigned, you'll see its motivation meter appear.
 gym_tut_desc_3
-當寶可夢被指派至道館的時間越長、或是在道館對戰中落敗，寶可夢的幹勁將會隨之下降。若幹勁為0的寶可夢在對戰中落敗，牠將不會繼續防禦道館，而是會回到訓練家身邊。
+Pokémon lose motivation slowly over time and when they are defeated in battle. When a Pokémon with no motivation left is defeated, it will stop defending the Gym and return to its Trainer.
 gym_tut_desc_4
-餵我方道館的寶可夢吃樹果，提升牠們的幹勁吧！
+Treat Pokémon to Berries to keep up their motivation and strength in battle!
 no_usable_items_error
-沒有可用的道具
+No usable items
 gym_battle_victory_title
-太棒了！
+Great work!
 tm_no_other_moves
-無法學會其他招式！
+Cannot learn any other attacks!
 disabled_low_stamina
-寶可夢的HP必須是滿的
+The Pokémon must be at full HP.
 disabled_buddy
-無法指派夥伴寶可夢去防禦道館
+You can't assign your Buddy Pokémon to defend a Gym.
 badge_raid_battle_won
-在團體戰中獲勝 {0} 次！
+Win {0} Raids.
 badge_hours_defended_title
-道館館主
+Gym Leader
 badge_hours_defended
-成功防禦道館 {0} 小時
+Defend Gyms for {0} hours.
 badge_hours_defended_value_format
 N0
 badge_berries_fed_title
-樹果名人
+Berry Master
 badge_berries_fed
-在道館餵了 {0} 個樹果
+Feed {0} Berries at Gyms.
 badge_berries_fed_value_format
 N0
 badge_raid_battle_won_value_format
 N0
 badge_raid_battle_won_title
-冠軍
+Champion
 gym_deploy_raid_active
-道館被頭目寶可夢占領了。請在頭目寶可夢離開後再試一次。
+A Raid Boss has taken control of the Gym. Please try again after the Raid Boss is gone.
 error_too_many_deployed
-抱歉，你指派到道館的寶可夢數量已達到上限。
+Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 disabled_max_same_defender
-不能指派相同種類的寶可夢到道館
+Only one of each Pokémon may be assigned to defend a Gym at the same time.
 error_fort_is_full
-這間道館沒有空餘的寶可夢席位
+This Gym has no room for additional Pokémon.
 award_badge_rank_up
-防禦我方道館並攻擊敵方道館來升級道館徽章
+Defend friendly Gyms and attack rival ones to upgrade your Gym Badges.
 raid_not_yet_available
-抱歉，你現在無法參加團體戰。\n請在提升訓練家等級後再試一次。
+Sorry, but Raid Battles are not yet available for your level.\nPlease try again later.
 raid_private_lobby_created_success_message
-成功建立小組了！
+Successfully created a group!
 pokestop_button_read_qr_code
-讀取二維條碼
+READ QR CODE
 pokestop_button_manual_input
-手動輸入
+MANUAL INPUT
 pokestop_check_in_manual_entry_title
-輸入註冊碼
+ENTER REGISTRATION CODE
 pokestop_check_in_notice
-歡迎來到 {0} ！\n請用照相機讀取二維條碼後登入。
+Welcome to {0}!\nPlease use the camera to read the QR Code to check in.
 pokestop_check_in_succeeded
-成功登入
+SUCCESSFULLY CHECKED IN
 disabled_max_same_defenders
-不能指派相同種類的寶可夢到道館
+Only one of each Pokémon may be assigned to defend a Gym at the same time.
 gym_closed_exclusive_raid_not_invited
-這間道館目前正在舉行VIP團體戰。\n道館將會在 {0} 重新開放。
+This Gym is closed for an EX Raid.\nIt will reopen at {0}.
 disabled_legendary
-不能把傳說的寶可夢指派到道場。
+Legendary Pokémon cannot be left at Gyms.
 team_picker_title
-載入並登錄對戰小隊
+Load & Save Battle Parties
 team_picker_load
-載入
+Load
 team_picker_save
-登錄
+Save
 battle_prep_create_team
-選擇新的寶可夢吧！
+Select your Pokémon!
 battle_prep_new_team
-新對戰小隊
+New Party
 battle_prep_recommended_team
-推薦的對戰小隊
+Recommended Battle Party
 screen_title_pokemon_inventory_party
-小隊
+PARTY
 raid_ticket_event
-活動
+Event
 filter_key_defender
-防禦者
+defender
 filter_key_legendary
-傳說的寶可夢
+legendary
 filter_key_shiny
-異色
+shiny
 filter_key_mythical
-幻
+mythical
 filter_key_alola
-阿羅拉
+alola

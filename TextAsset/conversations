@@ -1,210 +1,210 @@
 onboard_welcome_screen|1
-Bonjour !\nJe suis le Professeur Willow.
+안녕.\n 난 윌로우박사라네.
 onboard_welcome_screen|2
-Savais-tu que notre terre est habitée par des créatures appelées Pokémon ?
+이 세상에는 포켓몬이라고 불리는 신비한 생명체가 사는 걸 알고 있나?
 onboard_welcome_screen|3
-Les Pokémon se trouvent partout sur notre planète.
+포켓몬은 여기 저기에 있어
 onboard_welcome_screen|4
-Certains vivent dans les plaines, d’autres sillonnent les cieux, et d’autres encore parcourent les montagnes, les forêts ou les lacs...
+달리는 것, 하늘을 나는 것, 산이나 숲, 물가에 사는 것.....
 onboard_welcome_screen|5
-J’ai passé ma vie à les étudier et à m’intéresser à leur migration.
+나는 그 생태와 분포에 대해서 연구하고 있다네!
 onboard_welcome_screen|6
-Tu veux bien m’aider dans mes recherches ?
+너도 내 연구를 도와주지 않을래?
 onboard_welcome_screen|7
-Super !
+고맙군! 나옹 손이라도 빌리고 싶을 정도였어.
 onboard_welcome_screen|8
-Tu dois trouver et collectionner des Pokémon du monde entier.
+너는 전 세계를 탐험하고 포켓몬을 잡아서 보고해줘!
 onboard_welcome_screen|9
-Choisis ton style pour ces nouvelles aventures.
+자, 어떤 스타일로 외출할래?
 first_time_encounter|1
-Il y a un Pokémon pas loin !
+가까이에 포켓몬이 있어!
 first_time_encounter|2
-Voici quelques Poké Balls. Elles t’aideront à en attraper un.
+바로 이 몬스터볼을 사용해서 1마리 잡아보게!
 onboard_caught_pokemon|1
-Félicitations !\nTu as attrapé ton premier Pokémon.
+축하해!\n첫 포켓몬을 잡았군.
 onboard_caught_pokemon|2
-Tu as du talent !\nQuel est ton nom ?
+너에겐 포켓몬 트레이너의 재능이 있어!\n 널 뭐라고 부르면 좋을까?
 onboard_change_name|1
-Bonjour, Dresseur ! Comment t’appelles-tu ?
+다시 다른 닉네임을 알려주지 않을래?
 onboard_name_registered|1
-Joli nom !\nC'est un plaisir de te rencontrer.
+좋은 닉네임이군.\n잘 부탁해!
 onboard_name_registered|2
-Tu auras besoin de Poké Balls et d’autres objets utiles lors de tes explorations.
+탐험 중 몬스터볼이나 다른 도구도 필요하겠지
 visit_a_pokestop|1
-Tu trouveras ces objets dans les PokéStops.
+전 세계의 기념비나 랜드마크 등에 있는 포켓스톱에서 발견할 수 있으니
 visit_a_pokestop|2
-Ils se trouvent dans des endroits tels que des créations artistiques publiques ou des monuments.
+다양한 장소를 방문해보는 게 좋아
 visit_a_pokestop|3
-À compter de maintenant, tu vas explorer le monde entier. J’espère que tu sortiras attraper des Pokémon, et que tu rempliras ton Pokédex !
+앞으로 지구 곳곳을 탐험해서 포켓몬을 잡고 포켓몬 도감으로 기록하길 바란다!
 visit_a_pokestop|4
-À tes marques, prêt, GO !
+자, 포켓몬 찾으러 GO!
 __backup__
-Excellent ! On dirait que tu as attrapé {0}, un Pokémon de type {1}.
+좋았어! {1} 타입의 포켓몬, {0} (을)를 잡았구나.
 first_time_gym_low_level|1
-Ceci est une Arène, un lieu où tu montreras ta valeur dans des combats de Pokémon.
+이곳은 체육관. 포켓몬 배틀의 실력을 겨루는 장소지.
 first_time_gym_low_level|2
-Il te faut plus d’expérience en tant que Dresseur de Pokémon.
+넌 아직 포켓몬 트레이너로서 경험이 별로 없나 보군.
 first_time_gym_low_level|3
-Reviens lorsque tu auras atteint le niveau {0} !
+레벨 {0} (이)가 되면 다시 와줘.
 first_time_gym_team_intro|1
-On dirait que tu as gagné de l'expérience en tant que Dresseur.
+안녕! 포켓몬을 많이 잡아서 포켓몬 트레이너로서 경험을 쌓았구나. 훌륭해!
 first_time_gym_team_intro|2
-Tu es prêt à participer à des combats Pokémon.
+너도 드디어 포켓몬 배틀로 참가할 준비가 된 것 같구나!
 first_time_gym_team_intro|3
-J’ai trois excellents assistants.
+나에겐 3명의 아주 우수한 조수가 있지
 first_time_gym_team_intro|4
-Chacun est le capitaine d’une équipe, mais chacun utilise une méthode différente pour étudier les Pokémon.
+그들은 자신의 팀을 이끌고 각각 다른 주제로 포켓몬을 연구하고 있지.
 first_time_gym_team_intro|5
-Une partie de ces études consiste à effectuer des combats Pokémon dans des Arènes.
+연구의 일환으로 체육관에서 포켓몬 배틀을 하고 있지.
 first_time_gym_team_intro|6
-Ils sont tous enthousiastes à l’idée de t’avoir dans leur équipe.
+그들은 널 팀 멤버로 초대하고 싶은 것 같더군.
 team_yellow_intro|1
-Salut ! Je m’appelle Spark, je suis le capitaine de l’équipe Intuition.
+Hey! 내 이름은 스파크, 팀 인스팅트의 리더지.
 team_yellow_intro|2
-Les Pokémon ont une excellente intuition.
+포켓몬은 직감이 아주 뛰어난 생물이야.
 team_yellow_intro|3
-Je pense que ceci est lié à leur façon d'éclore.
+난 포켓몬의 탄생에 그 비밀이 있다고 생각해.
 team_yellow_intro|4
-Viens rejoindre mon équipe !
+우리 팀에 들어와!
 team_yellow_intro|5
-Tu ne perdras pas si tu suis ton instinct !
+자신의 직감을 믿으면 백전백승이지!
 team_blue_intro|1
-Je m’appelle Blanche, je suis capitaine de l’équipe Sagesse.
+난 블랑쉬야. 팀 미스틱의 리더지.
 team_blue_intro|2
-La sagesse des Pokémon est incommensurable.
+포켓몬의 지혜는 끝이 없을 정도로 깊어...
 team_blue_intro|3
-Je poursuis des recherches sur ce qui les fait évoluer.
+그런 그들이 진화하는 이유 그걸 연구하고 있어.
 team_blue_intro|4
-Mon équipe ?
+우리 팀?
 team_blue_intro|5
-Elle est sûre de gagner, grâce à son analyse de toutes les situations !
+냉정하게 분석하면 지지 않을 거야...
 team_red_intro|1
-Je m’appelle Candela, je suis capitaine de l’équipe Bravoure.
+난 칸델라, 팀 발로의 리더야!
 team_red_intro|2
-Les Pokémon sont plus forts que les humains, et plus chaleureux aussi...
+포켓몬은 사람보다 강하고 마음이 뜨겁지!
 team_red_intro|3
-J’étudie une méthode permettant d’améliorer les pouvoirs naturels des Pokémon.
+난 포켓몬 강화를 연구하고 그들과 같이 진정한 강함을 탐구하고 있어.
 team_red_intro|4
-C’est sûr, les Pokémon dressés par notre équipe sont les plus costauds au combat.
+이 팀의 단련된 포켓몬이 배틀에서 최강인 건 틀림없어!
 team_red_intro|5
-Tu es prêt ?
+준비는 됐어?
 team_yello_welcom|1
-Bien ! Très bon choix ! Passons à l’offensive et amusons-nous dans des combats Pokémon !
+굿 초이스! 와줄 거라 생각했어! 포켓몬 배틀도 즐기자!
 team_blue_welcom|1
-Le choix qui s’impose. Pense à rester calme et serein pendant le combat.
+... 당연한 선택이지. 배틀에는 냉정함을 잊지마.
 quickstart_pokestopfar|1
-Ceci est un PokéStop.
+이것이 포켓스톱이야.
 quickstart_pokestopfar|2
-Il s’agit d’un endroit réel où tu peux obtenir des Poké Balls et d’autres objets.
+몬스터볼이나 다른 도구를 발견할 수 있는 장소지.
 quickstart_pokestopnear|1
-Le PokéStop change de forme lorsque tu t’en approches. Touche-le pour l'ouvrir.
+포켓스톱에 다가가면 모양이 변해. 자 터치해보자.
 quickstart_pokestopspin|1
-Fais tourner le PhotoDisque pour générer des objets. Touche les objets pour les prendre.
+중심 부분을 강하게 스와이프하면 회전하면서 도구가 나오지.
 quickstart_gymmap|1
-Ceci est une Arène.
+이것이 체육관이다.
 quickstart_gymmap|2
-Les équipes s’affrontent pour prendre le contrôle de ces lieux réels.
+이 특별한 장소를 두고 3개의 팀이 배틀 실력을 경쟁하고 있지.
 quickstart_gymbuttons_assign|1
-Assigne l’un de tes Pokémon à une Arène vide pour en prendre possession. Renforce une Arène amicale en assignant l’un de tes Pokémon à sa défense.
+무소속 체육관에 포켓몬을 1마리 선택하고 배치시키면 자신의 팀 체육관으로 할 수 있어. 같은 색의 동료팀 체육관에는 자신의 포켓몬을 1마리 선택해서 배치할 수 있어.
 quickstart_gymbuttons_train|1
-Dresse les Pokémon présents dans une Arène amicale pour augmenter son prestige et son niveau.
+동료팀의 체육관에서 트레이닝 배틀을 하면 명성과 레벨을 높일 수 있어.
 quickstart_gymbuttons_battle|1
-Défie une Arène rivale pour abaisser son prestige et son niveau.
+다른 팀에 배틀을 도전하면 명성과 레벨이 떨어진다.
 quickstart_battledodge|1
-Lors d’un combat, fais glisser ton doigt à gauche ou à droite pour éviter les attaques.
+배틀 중에는 좌우로 스와이프에서 공격을 피할 수 있다.
 appraise_intro_1|1
-Bonjour, {0}. Je peux évaluer ton {1}, si tu veux.
+{0}, 너의 {1} (을)를 분석해주자.
 appraise_size_tiny_1|1
-Ton {0} est l’un des plus petits Pokémon existants. Étonnant.
+너의 {0} (은)는 기록에 있는 한 최소인 것 같다. 놀라운데.
 appraise_size_small_1|1
-Ton {0} est de taille inférieure à la moyenne.
+너의 {0} (은)는 평균보다 작아.
 appraise_size_large_1|1
-Ton {0} est de taille supérieure à la moyenne.
+너의 {0} (은)는 평균보다 크다.
 appraise_size_huge_1|1
-Ton {0} est... colossal. Une vraie anomalie statistique. C’est fascinant !
+{0} 의 크기는... 분류할 수 없을 정도다. 흥미로워.
 appraise_stat_low_1|1
-Ses stats n'ont rien d'anormal, à priori.
+이 점을 보면 그럭저럭 이라고 할 수 있군.
 appraise_stat_mid_1|1
-Ses stats s'améliorent à vue d'œil.
+이 점을 보면 꽤 강하다고 말할 수 있군.
 appraise_stat_high_1|1
-Je suis impressionnée par ses stats, à vrai dire.
+이 점을 보면 훌륭해. 놀라워.
 appraise_stat_best_1|1
-Ses stats dépassent tous mes calculs, c'est incroyable !
+이 점을 보면 측정할 수 없을 정도로 높아! 최고야!
 appraise_overall_low_1|1
-Dans l’ensemble, ton {0} n'ira pas très loin au combat.
+너의 {0} (은)는 전체적으로 좀처럼 활약이 어려워 보인다.
 appraise_overall_mid_1|1
-Dans l'ensemble, ton {0} est supérieur à la moyenne.
+너의 {0} (은)는 전체적으로 보통이상이야.
 appraise_overall_high_1|1
-Dans l'ensemble, ton {0} a retenu toute mon attention.
+너의 {0} (은)는 전체적으로 시선을 끄는 뭔가가 있어.
 appraise_overall_best_1|1
-Dans l'ensemble, ton {0} est une merveille. Un Pokémon captivant !
+너의 {0} (은)는 전체적으로 경이롭고 예술적이야.
 appraise_outro_1|1
-Voilà, mon analyse est terminée. Je te laisse.
+이걸로 내 분석은 끝이야.
 appraise_intro_2|1
-Salut, {0} ! Regardons ton {1} de plus près, d’accord ?
+안녕 {0} ! 너의 {1} (을)를 조사해줄까?
 appraise_size_tiny_2|1
-Ton {0} est si petit que j’ai failli ne pas le voir !
+너의 {0} (은)는 정말 작네! 잘도 발견했어.
 appraise_size_small_2|1
-Ce {0} est tout petit ! Il est si mignon...
+작은 {0} (이)구나! 귀엽다고 생각해.
 appraise_size_large_2|1
-Ton {0} est plutôt grand !
+너의 {0} (은)는 꽤 큰 편이야. 확실해.
 appraise_size_huge_2|1
-Ton {0} est gigantesque. Le plus grand que j’ai jamais vu !
+너의 {0} (은)는 정말 크구나! 지금까지 중 제일 커.
 appraise_stat_low_2|1
-Ses stats ne t’aideront pas beaucoup au combat.
+여기에 주목하면 그럭저럭 강한 거네.
 appraise_stat_mid_2|1
-Ses stats indiquent qu'il va faire des dégâts au combat.
+여기에 주목하면 꽤 강하네. 배틀에서 활약할 것 같아!
 appraise_stat_high_2|1
-Ses stats sont excellentes ! C'est super !
+여기에 주목하면 훌륭해! 두근거려!
 appraise_stat_best_2|1
-Je suis estomaquée par ses stats. Bravo !
+여기에 주목하면 최고야! 가슴이 뜨거워져!
 appraise_overall_low_2|1
-Dans l'ensemble, ton {0} n'est pas un combattant, mais je l'aime bien.
+너의 {0} (은)는 전체적으로 배틀이 적성은 아니지만 난 좋아해.
 appraise_overall_mid_2|1
-Dans l’ensemble, ton {0} est un Pokémon solide !
+너의 {0} (은)는 전체적으로 보통의 강함이라고 생각해!
 appraise_overall_high_2|1
-Dans l'ensemble, ton {0} est très fort. Tu dois être fier !
+너의 {0} (은)는 전체적으로 아주 강해. 자랑해도 되겠어!
 appraise_overall_best_2|1
-Dans l'ensemble, ton {0} m’étonne beaucoup. Il peut tout faire !
+너의 {0} (은)는 전체적으로 말할 게 없어. 아주 든든하겠어!
 appraise_outro_2|1
-J’espère que ça t’a aidé. À Bientôt !
+참고가 되었니? 그럼 다음에 봐!
 appraise_intro_3|1
-Dis-moi, {0}... Veux-tu que j'évalue ton {1} ?
+Hey! {0} ! {1} (을)를 봐줄까?
 appraise_size_tiny_3|1
-Eh bien ! C’est le plus petit des {0} que j’ai jamais vu !
+이럴 수가! 지금까지 본 것 중 가장 작은 {0} (이)구나!
 appraise_size_small_3|1
-Ton {0} est petit pour son type, tu ne trouves pas ?
+너의 {0} (은)는 작은 편이네. 보통은 좀 더 크지.
 appraise_size_large_3|1
-Ton {0} est très imposant !
+너의 {0} (은)는 큰 포켓몬이야!
 appraise_size_huge_3|1
-Ton {0} est énorme !
+너의 {0} (은)는... 엄청나게 크다!
 appraise_stat_low_3|1
-Ses stats ne sont pas mal, mais un peu basiques, il me semble.
+그럭저럭, 이야!
 appraise_stat_mid_3|1
-Il a quelques bonnes stats, c'est sûr !
+꽤 강한데! 내가 보증하지!
 appraise_stat_high_3|1
-Ses stats sont super élevées. Impressionnant !
+훌륭해! 정말이야!
 appraise_stat_best_3|1
-Ses stats sont les meilleures que j'ai jamais vues ! Sans aucun doute !
+지금까지 본 것 중에서도 최고의 부류야!
 appraise_overall_low_3|1
-Dans l'ensemble, ton {0} peut devenir un meilleur combattant.
+너의 {0} (은)는 전체적으로 그저 그러네.
 appraise_overall_mid_3|1
-Dans l'ensemble, ton {0} est plutôt bien !
+너의 {0} (은)는 전체적으로 보통이야.
 appraise_overall_high_3|1
-Dans l'ensemble, ton {0} est vraiment fort !
+너의 {0} (은)는 전체적으로 아주 강해!
 appraise_overall_best_3|1
-Dans l'ensemble, ton {0} semble capable de tenir tête aux meilleurs !
+너의 {0} (은)는 전체적으로 톱 레벨이야!
 appraise_outro_3|1
-Voilà, je t’ai donné mon avis... À bientôt !
+내 직감을 믿어봐! 그럼!
 appraise_stat_highest_1|1
-Son meilleur atout est son capital {0}.
+두드러진 점은 {0} 의 키.
 appraise_stat_highest_tie_1|1
-Son capital {0} est du même calibre !
+그리고 {0} 도 뒤처지지 않아.
 appraise_stat_highest_2|1
-Son capital {0} est son plus fort atout.
+{0} (이)가 눈에 띄네.
 appraise_stat_highest_tie_2|1
-Son capital {0} m'impressionne aussi.
+또, {0} 에도 놀라고 있어.
 appraise_stat_highest_3|1
-Son meilleur atout est son capital {0}.
+누가 뭐라고 해도 {0} (이)가 대단해.
 appraise_stat_highest_tie_3|1
-Son capital {0} est également impressionnant !
+{0} 도 대단해!

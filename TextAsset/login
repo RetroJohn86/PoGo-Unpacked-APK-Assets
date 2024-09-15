@@ -1,37 +1,37 @@
 existing_player_label
-Giocatore esistente
+再ログインしますか？
 existing_player_button
-Accedi
+サインイン
 new_player_label
-Nuovo giocatore
+新規のプレイヤーですか？
 new_player_button
-Crea un account
+アカウント作成
 existing_account_screen
-Accedi con
+使用するアカウント
 new_account_screen
-Crea un account con
+新規作成するアカウント
 non_existent_account
-Impossibile accedere. Per favore controlla che l’account sia corretto e che tu abbia selezionato correttamente Nuovo giocatore o Giocatore esistente.
+ログインできません。アカウント情報をご確認ください。
 settings_account_header
-ACCOUNT
+アカウント
 settings_account_linked
-CONNESSO
+連携済み
 settings_account_not_linked
-NON CONNESSO
+未連携
 settings_account_link_tip
-Suggerimento: puoi accedere al tuo gioco tramite qualsiasi account connesso.
+SNSアカウント情報を使用してログインできます
 unlink_account_confirm
-<size=36><b>Disconnetti questo account?</b></size>\n\nSe lo fai, non potrai più accedere con questo metodo.
+<size=36>アカウント連携を解除しますか？</size>\n\nソーシャル機能が使えなくなったり、ログイン情報にアクセスできなくなる可能性があります
 unlink_account_failed_active_session
-<size=36><b>Impossibile scollegarsi da questo account.</b></size>\n\nQuesto account è collegato alla sessione di gioco in corso.
+<size=36>現在進行中のゲームセッションがあるため</size>\n\nアカウント連携を解除することができません
 link_account_failed
-Impossibile collegarsi a questo account.
+このアカウントとの連携はできませんでした
 unlink_account_failed
-Impossibile scollegarsi da questo account.
+アカウント連携を解除できませんでした
 link_account_failed_auth
-<size=36><b>{0} Errore</b></size>\n\nImpossibile collegarsi a questo account.
+<size=36>{0}エラー</size>\n\nこのアカウントとの連携はできませんでした。
 link_account_failed_taken
-<size=36><b>Account esistente</b></size>\n\nQuesto account è già collegato a un altro giocatore.
+<size=36>アカウントはすでに存在します</size>\ n \ nこのアカウントは既存アカウントとの連携に使用されています。
 login_provider_google
 Google
 login_provider_facebook
@@ -41,34 +41,34 @@ Niantic Kids
 sa_login_title
 Niantic Kids
 login_create_player
-Crea un account con:
+アカウント作成
 login_sign_in
-Accedi con:
+使用アカウント:
 login_username_short
-Nome utente
+ユーザー名
 login_password_short
-Password
+パスワード
 ptc_login_title_short
-Club Allenatori
+トレーナークラブ
 login_create_account
-Creane uno qui
+新規作成
 ptc_account_creation_prompt
-Non hai un account del Club Allenatori di Pokémon?
+ポケモントレーナークラブのアカウントを持っていませんか？
 sa_account_creation_prompt
-Non hai un account di Niantic Kids?
+Niantic Kids アカウントを持っていませんか？
 ptc_login_server_unreachable
-Il Club Allenatori di Pokémon non è al momento disponibile. Ci scusiamo per il disagio.
+ポケモントレーナークラブは現在ご利用いただけません。ご迷惑をおかけし申し訳ございません。
 sa_login_server_unreachable
-Niantic Kids non è al momento disponibile. Ci scusiamo per il disagio.
+Niantic Kids は現在ご利用いただけません。ご迷惑をおかけし申し訳ございません。
 sa_auth_failed_permissions
-Per poter giocare, un genitore o tutore deve accedere all’account Niantic Kids e concedere autorizzazione al bambino.
+保護者の方に、Niantic Kidsアカウントにログインしていただき、ジュニアアカウント使用許可をもらうと、このゲームを遊ぶことができるようになります
 sa_auth_failed
-Autenticazione fallita. Riprova.
+認証できませんでした。もう一度やり直してください。
 sa_parent_dashboard_url
-https://parents.nianticlabs.com/it/login
+https://parents.nianticlabs.com/ja/login
 sa_registration_url
-https://niantic-sso.kws.superawesome.tv/it/register
+https://niantic-sso.kws.superawesome.tv/ja/register
 sa_forgot_password_url
-https://niantic-sso.kws.superawesome.tv/it/password/forgot
+https://niantic-sso.kws.superawesome.tv/ja/password/forgot
 unlink_account_failed_login_not_removable
-<size=36><b>Impossibile scollegarsi da questo account.</b></size>\n\nForse hai collegato questi dati di accesso con altri prodotti Niantic. Collega un metodo di accesso aggiuntivo per scollegare questo.
+<size=36>このアカウントとの連携を解除することはできません！</size>\n\n解除する前に、他のログイン情報を使用したアカウント連携を行ってください。

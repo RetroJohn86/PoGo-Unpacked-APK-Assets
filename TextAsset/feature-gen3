@@ -1,70 +1,70 @@
 pokemon_info_evolve_need_buddy_distance
-Cammina ancora per {0} km con il tuo compagno.
+Caminhe {0} km a mais com este companheiro.
 weather_weather
-Condizioni atmosferiche
+Clima
 weather_clear
-Sereno
+Limpo
 weather_rainy
-Pioggia
+Chuvoso
 weather_partly_cloudy
-Parzialmente nuvoloso
+Parcialmente nublado
 weather_overcast
-Coperto
+Nublado
 weather_windy
-Vento
+Ventos fortes
 weather_snow
 Neve
 weather_fog
-Nebbia
+Neblina
 weather_boosted_types
-Tipi potenziati
+Tipos potenciados
 weather_boosted_types_desciption
-I Pokémon di questi tipi sono più forti e compaiono più spesso. Alla cattura forniscono più polvere di stelle.
+Estes tipos de Pokémon são mais fortes e aparecem mais frequentemente. Quando são pegos, dão mais Poeira Estelar.
 weather_extreme
-Condizioni estreme
+Extremo
 weather_extreme_description
-Ai Pokémon non piacciono queste condizioni atmosferiche che possono essere potenzialmente pericolose. Fai attenzione all’ambiente circostante!
+Pokémon parecem não gostar destas condições... Condições meteorológicas podem ser perigosas. Preste atenção ao ambiente à sua volta! Consulte o serviço meteorológico local para obter mais informação.
 weather_alert_warning
-Avviso di condizioni atmosferiche avverse. Per dettagli consulta il servizio metereologico locale.
+Alerta meteorológico de perigo. Consulte o serviço meteorológico local para obter mais informação.
 gen3_test_string
 123456789
 pokemon_info_evolve_buddy_distance_requirement
 /{0} km
 pokemon_info_evolve_buddy_distance_description
-Cammina con {0} come compagno per farlo evolvere.
+Caminhe com seu companheiro {0} para que evolua!
 weather_sunny
-Sole
+Ensolarado
 weather_boost_active_1
-La mossa {1} di {0} è stata potenziata dalle condizioni atmosferiche!
+O movimento {1} de {0} é potencializado pelo clima!
 weather_boost_active_2
-Le mosse {1} e {2} di {0} sono state potenziate dalle condizioni atmosferiche!
+Os movimentos {1} e {2} de {0} são potencializados pelo clima!
 weather_alert_safety_button
-Tutto bene
+ESTOU SEGURO
 weather_careful_description
-Allerta meteo: presta la massima attenzione! Controlla le previsioni del tempo locali per tutti i dettagli.
+Condições meteorológicas podem ser perigosas. Preste atenção ao ambiente à sua volta! Consulte o serviço meteorológico local para obter mais informação.
 weather_careful
-Attenzione!
+Cuidado!
 form_normal
-Normale
+Normal
 form_sun
-Sole
+Ensolarada
 form_rain
-Pioggia
+Chuvosa
 form_snow
-Nuvola di Neve
+Nevada
 form_defense
-Difesa
+Defesa
 form_attack
-Attacco
+Ataque
 form_speed
-Velocità
+Velocidade
 form_deoxys_normal
-Normale
+Normal
 general_send
-INVIA
+Enviar
 general_report_title
-Segnala un problema
+Reportar problema
 weather_report_option_1
-Le previsioni del tempo non sono molto accurate!
+A previsão do tempo não está precisa!
 weather_report_option_2
-Le previsioni del tempo sembrano accurate, ma non aggiornate.
+A previsão do tempo parece precisa, só não está atualizada.
