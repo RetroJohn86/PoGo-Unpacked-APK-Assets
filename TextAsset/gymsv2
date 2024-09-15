@@ -1,15 +1,15 @@
 gymbadge_sort_recent
-Data
+reciente
 gymbadge_sort_alphabetical
-Nome
+nombre
 gymbadge_sort_nearby
-Vicinanze
+cerca
 gymbadge_sort_score
-Punti
+puntos
 gymbadge_sort_progress
-Progressi
+progreso
 day_abbrev
-g
+d
 hour_abbrev
 h
 minute_abbrev
@@ -17,428 +17,428 @@ m
 second_abbrev
 s
 gymbadge_aboutthisgym
-Info sulla Palestra
+Acerca de este Gimnasio
 gymbadge_totalgymactivity
-Attività generale della Palestra
+Actividad total del Gimnasio
 gymbadge_statslabel_won
-Vittorie
+victorias
 gymbadge_statslabel_defended
-Difesa (giorni)
+tiempo defendido
 gymbadge_statslabel_fed
-Snack
+alimentos
 gym_removal_notification_toast
-{0} ha lottato con tutte le sue forze e ha fatto ritorno!
+¡{0} ha luchado duro y ha vuelto!
 pokemon_hungry_notification_toast
-{0} ha bisogno di uno snack!
+¡{0} necesita alimento!
 pokemon_won_notification_toast
-{0} ha difeso la Palestra!
+¡{0} ha defendido el Gimnasio!
 nearby_raid_notification_toast
-Raid in preparazione nei dintorni!
+¡Incursión cercana a punto de empezar!
 gym_removal_notification_toast|1
-{0} è tornato dopo una lotta estenuante!
+¡{0} vuelve después de un duro combate!
 gym_removal_notification_toast|2
-{0} è stato sconfitto e scacciato dalla Palestra!
+¡{0} ha quedado fuera del combate del Gimnasio!
 pokemon_hungry_notification_toast|1
-{0} ha bisogno di cure...
+{0} necesita algo de atención...
 pokemon_hungry_notification_toast|2
-{0} vuole una bacca!
+¡{0} quiere una baya!
 pokemon_won_notification_toast|1
-{0} è stato vittorioso nella lotta!
+¡{0} ha resultado vencedor en combate!
 pokemon_won_notification_toast|2
-{0} ha trionfato contro i tuoi avversari!
+¡{0} ha derrotado a tus rivales!
 nearby_raid_notification_toast|1
-Un raid sta per iniziare nei dintorni!
+¡Hay una incursión a punto de comenzar cerca de ti!
 nearby_raid_notification_toast|2
-Un raid sta per cominciare nelle vicinanze!
+¡Una incursión va a comenzar cerca de ti!
 raid_timer_label1
-In attesa dell’altro Allenatore...
+Esperando a que se unan Entrenadores...
 raid_timer_label2
-Scegli i tuoi Pokémon...
+Selecciona tus Pokémon...
 raid_members
-Partecipanti al raid
+Miembros de la incursión
 raid_group_code
-Codice gruppo
+Código de grupo
 raid_howto_button
-Come giocare
+Cómo jugar
 raid_join_button
-Partecipa
+Unirse
 raid_join_private_button
-Inserisci il codice del gruppo
+Introducir código de grupo
 raid_leave_lobby_prompt
-Non potrai più unirti a questo gruppo se lo abbandoni adesso.\n\n Vuoi davvero abbandonarlo?
+Si abandonas este grupo, no podrás volver a unirte.\n\n ¿Quieres abandonar este grupo?
 raid_group_code_intro
-Se inserisci il codice del loro gruppo, puoi lottare insieme ai tuoi amici.
+Puedes combatir con amigos introduciendo el código de grupo de ese grupo.
 raid_join_private_group_button
-PARTECIPA
+UNIRSE
 raid_create_private_group_button
-Crea gruppo
+Crear grupo
 raid_join_private_lobby_invalid_code
-Questo codice di gruppo non è valido. Inserisci un altro codice.
+Este código de grupo no es válido. Introduce un código válido.
 settings_push_notification_header
-Notifiche Push
+Notificaciones de inserción
 settings_low_happiness
-Motivazione bassa
+Motivación baja
 settings_pokemon_return
-Ritorno di un Pokémon
+Regreso del Pokémon
 settings_battle_victory
-Vittoria in una lotta
+Victoria del combate
 raid_already_completed
-Hai già completato questo raid.
+Ya has completado esta incursión.
 rare_candy_usage_confirmation
-Vuoi trasformare una Caramella Rara in una caramella {0}?
+¿Transformar un Caramelo Raro en un Caramelo {0}?
 item_rare_candy_name
-Caramella Rara
+Caramelo Raro
 item_rare_candy_desc
-Una caramella misteriosa. Se usata su un Pokémon, si trasforma in una caramella di quella specie.
+Un caramelo misterioso. Cuando se usa en un Pokémon, se convierte en el Caramelo de ese Pokémon.
 item_move_reroll_fast_attack_name
-MT attacco veloce
+MT de ataque rápido
 item_move_reroll_fast_attack_desc
-Questa Macchina Tecnica insegna a un Pokémon un nuovo attacco veloce.
+Esta Máquina Técnica enseña a los Pokémon un nuevo ataque rápido.
 item_move_reroll_special_attack_desc
-Questa Macchina Tecnica insegna a un Pokémon un nuovo attacco caricato.
+Esta Máquina Técnica enseña a los Pokémon un nuevo ataque cargado.
 item_move_reroll_special_attack_name
-MT attacco caricato
+MT de ataque cargado
 special_move_reroll_confirm_title
-Vuoi insegnare a {0} un nuovo attacco caricato?
+¿Quieres enseñar a {0} un nuevo ataque cargado?
 move_reroll_confirm_desc
-{0} dimenticherà {1}.
+{0} olvidará {1}.
 quick_move_reroll_confirm_title
-Vuoi insegnare a {0} un nuovo attacco veloce?
+¿Quieres enseñar a {0} un nuevo ataque rápido?
 move_reroll_success_message
-{0} ha imparato un nuovo attacco!
+¡{0} ha aprendido un nuevo ataque!
 raid_team_contribution
-Contributo della squadra
+Contribución por equipo
 raid_lobby_locked
-RAID AL COMPLETO
+INCURSIÓN COMPLETA
 raid_timer_label3
-Il conto alla rovescia del raid è iniziato.
+Cuenta atrás para el comienzo de la incursión
 gym_please_buy_raid_ticket
-Per partecipare a questo raid occorre acquistare prima un biglietto.
+Puedes comprar un pase de incursión para unirte a la incursión.
 filter_hint1
-Per {0}
+Buscar a {0}
 filter_hint2
-Per nome/soprannome
+Filtrar por nombre/mote
 filter_hint3
-Per N. Pokédex (es. 23–145)
+Filtrar por Pokédex, 23-145
 filter_hint4
-Per {0}/{1}, (es. {2}/{3})
+Filtrar por {0}, {1}, {2}–{3}
 filter_hint5
-{0} evolvibili con “{1}”
+Evolucionar a {0}: \"{1}\"
 filter_hint6
-Evoluzione {0} (es. +{1})
+Evolución de {0}, +{1}
 filter_hint7
-Per più filtri, usa “,”.
+Usa varios filtros usando ","
 filter_hint8
-Per tipo: {0}, {1}
+Filtrar por tipo, {0}, {1}
 shop_battle_tickets_title
-Acquista un biglietto raid.
+Consigue un pase de incursión.
 item_free_raid_ticket_name
-Biglietto raid
+Pase de incursión
 item_free_raid_ticket_desc
-Un biglietto per partecipare a un raid. Se non hai già un biglietto raid, puoi ottenerne gratuitamente uno al giorno presso una Palestra.
+Pase para unirte a una incursión. Puedes obtener un pase gratis por día en un Gimnasio si no tienes ya uno.
 item_paid_raid_ticket_name
-Biglietto raid premium
+Pase de incursión premium
 item_paid_raid_ticket_desc
-Un biglietto speciale per partecipare a un raid. Puoi usare questo biglietto quando vuoi.
+Pase de incursión premium para unirte a una incursión. Puedes usar este pase en cualquier momento.
 use_raid_ticket_confirmation
-Usa un biglietto raid per partecipare a questo raid
+Usa un pase de incursión para unirte a una incursión.
 pokecoins_daily_limit_reached
-La quota limite giornaliera di {0} Pokémonete è stata raggiunta.
+Límite diario de {0} Pokémonedas alcanzado.
 received_free_item_title
-Hai ricevuto in regalo lo strumento {0}!
+Has recibido gratis: ¡{0}!
 gymbadge_timeelapsed
-Difesa (tempo)
+Tiempo defendiendo
 raid_private_group
-PRIVATO
+PRIVADO
 raid_remove_private_from_lobby_prompt
-Vuoi rendere questo gruppo aperto al pubblico?\n\nQuest’azione non potrà essere annullata.
+¿Quieres hacer público el grupo?\n\nNo puedes deshacer esta acción.
 raid_message_select_your_pokemon
-Scegli i Pokémon con cui lottare!
+¡Selecciona tus Pokémon para el combate!
 raid_battle_retreat_confirmation
-Vuoi davvero abbandonare?
+¿Seguro que quieres salir?
 raid_message_get_back_into_battle
-Cura i tuoi Pokémon prima di continuare a lottare!
+¡Cura a tus Pokémon y vuelve al combate!
 raid_timer_label4
-Conto alla rovescia per la fine della lotta
+Cuenta atrás hasta que termine el combate
 team_picker_last_team
-Squadra usata nella lotta precedente
+Equipo de combate anterior
 team_picker_title_load
-Carica squadra lotta
+Cargar equipo de combate
 team_picker_title_save
-Salva squadra lotta
+Guardar equipo de combate
 team_picker_fainted_pokemon_warning
-La tua squadra non può partecipare alla lotta. Cura prima i tuoi Pokémon.
+Tu equipo actual no puede unirse a la incursión. Cura a tus Pokémon primero.
 battle_intro_battles_won
-Lotte vinte: {0}
+Combates ganados: {0}
 team_picker_default_team_name
-Squadra: {0}
+Equipo {0}
 team_picker_optimize
-Ottimizzata
+Optimizar
 team_picker_set_team_name
-Scegli un nome per questa squadra lotta
+Elige el nombre del equipo.
 team_picker_team_not_set
-Senza nome
+Anular
 gym_feed_pokemon_full
-{0} non ha più fame! Prova a dare uno snack a un altro Pokémon.
+¡{0} está lleno! Prueba a darles alimento a otros Pokémon.
 gym_feed_pokemon_berry_timeout
-{0} non ne vuole più sapere di questa bacca.
+{0} está harto de esa baya.
 gym_feed_pokemon_timeout
-{0} è a posto. Prova a dare snack agli altri Pokémon.
+{0} está muy feliz. Prueba a darles alimentos a otros Pokémon.
 avatar_detail_pokemon_caught
-Pokémon catturati
+Pokémon atrapados
 avatar_detail_walking_distance
-Distanza percorsa
+Distancia caminando
 avatar_detail_battle_won
-Lotte vinte
+Combates ganados
 avatar_detail_total_activities
-Riepilogo attività
+Total de actividades
 raid_tut_group_forming_message
-I giocatori del gruppo lotta verranno abbinati in modo automatico.
+El grupo se organizará automáticamente.
 gym_out_of_range
-Palestra troppo distante!
+¡El Gimnasio está demasiado lejos!
 general_go_to_shop
-VAI AL NEGOZIO
+IR A LA TIENDA
 general_quit
-ESCI
+SALIR
 raid_tut_group_forming
-FORMAZIONE DEL GRUPPO
+FORMACIÓN DE GRUPOS
 raid_tut_how_to_battle_message
-Tocca lo schermo per attaccare il boss di questo raid! Tieni premuto per usare il tuo attacco caricato quando l’indicatore è pieno!
+¡Toca la pantalla para atacar al jefe de la incursión! ¡Presiona y mantén pulsado para usar tu ataque cargado cuando el medidor de ataques esté lleno!
 raid_tut_how_to_battle
-LOTTA
+¿CÓMO COMBATIR?
 raid_tut_pass_message
-Per partecipare alla lotta ti occorre un biglietto raid. Puoi riceverne gratuitamente uno ogni giorno, ma puoi sempre e solo averne uno alla volta. In alternativa, puoi acquistare dei biglietti raid premium al negozio.
+Necesitas un pase de incursión para unirte a la incursión. Puedes obtener uno gratis al día si no tienes ya uno. También puedes conseguir pases de incursión premium en la tienda.
 raid_pass_caps
-BIGLIETTO RAID
+PASE DE INCURSIÓN
 raid_tut_what_is_raid_message
-Un raid è una lotta dove potrai collaborare con un massimo di altri 20 Allenatori per sconfiggere un boss, ovvero un Pokémon estremamente potente. Se vincete, ogni giocatore riceverà fantastici premi e la possibilità di catturare un Pokémon più forte del normale.
+Una incursión es un combate en el que tú y hasta otros 20 Entrenadores trabajáis en equipo para derrotar al jefe de la incursión, un Pokémon extremadamente poderoso. ¡Gana para hacerte con fantásticas recompensas y la oportunidad de atrapar para ti un Pokémon más fuerte de lo usual!
 raid_tut_what_is_raid
-COS’È UN RAID?
+¿QUÉ ES UNA INCURSIÓN?
 raid_enter_group_code
-GRUPPO PRIVATO
+GRUPO PRIVADO
 raid_public_warning_message
-Se rendi pubblico questo gruppo, qualsiasi giocatore potrà parteciparvi e unirsi alla lotta.\n\nUna volta reso pubblico un gruppo, non è più possibile farlo diventare nuovamente privato.\nVuoi davvero rendere questo gruppo pubblico?
+Si cambias este grupo a público, cualquiera puede unirse y combatir contigo.\n\nUna vez que lo cambias a público, tu grupo ya no puede volver a hacerse privado de nuevo.\n¿Seguro que quieres cambiar el grupo a público?
 raid_change_to_public
-RENDI PUBBLICO
+CAMBIAR A PÚBLICO
 raid_share_private_code_message
-Condividi questo codice gruppo con i tuoi amici. In questo modo potranno unirsi a te nella lotta.
+Comparte este código de grupo con tus amigos. Pueden unirse a ti usando este código de grupo.
 raid_private_lobby_success_message
-Ora fai parte di un gruppo!
+¡Te has unido a un grupo con éxito!
 raid_rejoin_battle
-RIUNISCITI ALLA LOTTA
+VOLVER A UNIRSE AL COMBATE
 battle_summary
-RIEPILOGO
+RESUMEN
 raid_defeat_boss
-Boss sconfitto
+Derrotar al jefe
 raid_damage_bonus
-Danni
+Daño
 raid_gym_ownership
-Controllo della Palestra
+Control del Gimnasio
 general_total_caps
-TOTALE
+TOTAL
 raid_bonus_challenge
-VAI ALLA SFIDA BONUS
+IR A DESAFÍO DE BONUS
 profile_gymbadges_recently_visited
-Visitate di recente
+Visitados recientemente
 profile_category_gymbadges
-Medaglie
+Medallas de Gimnasio
 gym_spinner_team_bonus
-Bonus squadra
+Bonus de equipo
 raid_raid
-Raid
+Incursión
 raid_level_caps
-LIVELLO RAID
+NIVEL DE INCURSIÓN
 raid_suggested_group_size
-DIMENSIONE DEL GRUPPO SUGGERITA
+TAMAÑO DE GRUPO SUGERIDO
 raid_nearby_ongoing
-In corso
+En curso
 gym_battle_continue_battles_won_stat
-LOTTE VINTE: {0}
+COMBATES GANADOS: {0}
 gym_battle_victory_subtitle
-Hai sconfitto questa Palestra!
+¡Has derrotado este Gimnasio!
 gym_battle_defeat_body
-I tuoi Pokémon sono tutti esausti!
+¡Todos tus Pokémon se han debilitado!
 gym_battle_defeat_footer
-Riprova.
+Inténtalo de nuevo.
 raid
-raid
+Incursión
 gym_pokemon_you_fed_not_there
-Il Pokémon al quale hai provato a dare uno snack non c’è più!
+¡El Pokémon al que intentaste alimentar ya no está ahí!
 raid_try_again
-Seleziona nuovi Pokémon, oppure cura o rianima quelli attuali, per tornare a lottare!
+¡Selecciona nuevos Pokémon, o revive y cura a tus Pokémon actuales, y vuelve a la incursión!
 raid_defeat_message
-I tuoi Pokémon sono tutti esausti.
+¡Todos tus Pokémon se han debilitado!
 general_battle
-LOTTA
+COMBATE
 gym_deployment_time_format
-{0} g {1} h {2} m
+{0} d {1} h {2} m
 free_raid_ticket_details_desc
-Biglietto per partecipare a un raid. Se non ne hai già uno, puoi ottenere un biglietto raid al giorno da una Palestra.\n\nSe desideri partecipare a più di un raid al giorno, puoi acquistare dei biglietti raid al negozio.
+Pase para unirte a una incursión. Puedes obtener un pase gratis en Gimnasios una vez al día si no tienes ya uno.\n\nSi quieres participar en más de una incursión al día, puedes comprar pases de incursión en la tienda.
 paid_raid_ticket_details_desc
-Biglietto raid premium per partecipare a un raid. Puoi usare questo biglietto quando vuoi.\n\nPer ottenerne altri, visita il negozio.
+Pase de incursión premium para unirte a una incursión. Puedes usar este pase en cualquier momento.\n\nPara obtener más pases, visita la tienda.
 battle_prep_opponents_header
-Avversari
+Rivales
 gym_feed_pokemon_busy
-Riprova più tardi.
+Vuelve a intentarlo más tarde.
 gymbadge_sort_defending
-In difesa
+Defendiendo
 raid_finding_players
-Ricerca di altri giocatori in corso
+Encontrando otros jugadores...
 gym_same_team_deploy_lockout
-Questa Palestra è sotto attacco! Riprova più tardi.
+¡El Gimnasio está siendo atacado! Vuelve a intentarlo más tarde.
 screen_title_badge_collection
-Medaglie
+Medallas de Gimnasio
 profile_no_gymbadges
-Nessuna
+No tienes ninguna Medalla de Gimnasio.
 free_ticket_bag_full_error
-La tua Borsa è piena. Fai spazio se desideri avere un biglietto raid.
+Tu Bolsa está llena. Haz espacio para un pase de incursión.
 raid_level
-Difficoltà
+Dificultad
 battle_prep_my_team_header
-La mia squadra lotta
+Mi equipo
 battle_prep_go
-Attacca!
+¡A combatir!
 raids_no_nearby
-Non ci sono raid da queste parti.
+No hay incursiones cerca.
 gymbadge_you_earned
-Hai ricevuto una Medaglia!
+¡Medalla de Gimnasio recibida!
 award_badge_new_badge
-Difendi le Palestre della tua squadra e attacca le Palestre rivali per aumentare il livello delle tue Medaglie.
+Defiende Gimnasios de tu equipo y ataca los de los rivales para mejorar tus Medallas de Gimnasio.
 gym_feed_raid_active
-Un boss ha assunto il controllo di questa Palestra. Riprova quando il boss sarà andato via.
+El jefe de una incursión ha tomado control del Gimnasio. Inténtalo de nuevo una vez que el jefe se haya ido.
 gym_next_battle
-Lotta
+Combatir
 gym_battle_leave
-Abbandona
+Salir
 gym_battle_next
-Prossimo sfidante:
+Siguiente:
 error_no_available_lobbies
-Non è stato trovato alcun gruppo con quel codice.
+No hay grupos con ese código.
 error_lobby_visibility
-Si è verificato un errore durante la presentazione del raid.
+Se ha producido un error durante la presentación de la incursión.
 error_start_raid_battle
-Si è verificato un errore nel processo di avviamento del raid.
+Se ha producido un error al intentar iniciar una incursión.
 error_pokemon_team_update
-Si è verificato un errore nel processo di aggiornamento della tua squadra lotta.
+Se ha producido un error al intentar actualizar tu equipo de combate.
 error_join_lobby
-Si è verificato un errore nel processo di iscrizione al raid.
+Se ha producido un error al intentar unirse a la incursión.
 gym_badge_list_button
 Lista
 raid_defeat_try_again
-Seleziona altri Pokémon oppure cura quelli esausti per continuare a lottare!
+¡Selecciona nuevos Pokémon o cura a los que se han debilitado para volver al combate!
 raid_time_out_try_again
-Non hai sconfitto il boss in tempo. Riprova più tardi.
+No has derrotado al jefe de la incursión a tiempo. Vuelve a intentarlo.
 item_golden_razz_berry_name
-Baccalampon dorata
+Baya Frambu dorada
 item_golden_razz_berry_desc
-Dalla a un Pokémon e sarà molto più facile catturarlo.
+Al usarla con un Pokémon, se captura con más facilidad en tu próximo lanzamiento.
 encounter_raid_pokemon_appeared
-Sfida bonus! Cattura {0}!
+¡Desafío de bonus! ¡Atrapa a {0}!
 raid_need_a_viable_raid_team
-Nessuno dei tuoi Pokémon è in grado di lottare. Devi prima curarli.
+No tienes ningún Pokémon listo para el combate. Por favor, cura a tus Pokémon.
 error_raid_active
-Un boss ha assunto il controllo di questa Palestra!
+¡El jefe de una incursión ha tomado el control del Gimnasio!
 badges_tut_description
-Visita le Palestre e fai girare i dischi foto per aggiudicarti delle Medaglie. Guadagna strumenti e premi difendendo le Palestre della tua squadra e attaccando Palestre rivali.
+Visita un Gimnasio y gira el fotodisco para ganar una Medalla de Gimnasio. ¡Desbloquea las recompensas de objetos defendiendo los Gimnasios de tu equipo y atacando los de los rivales!
 profile_gymbadges_help
-Per saperne di più
+Obtén más información sobre las Medallas de Gimnasio.
 gym_tut_title_1
-Ottieni Strumenti
+OBTENER OBJETOS
 gym_tut_title_2
-Assegna Pokémon
+ASIGNAR POKÉMON
 gym_tut_title_3
-Motivazione
+MOTIVACIÓN
 gym_tut_title_4
-Dai bacche
+DAR BAYAS
 gym_tut_desc_1
-Adesso puoi trovare strumenti nelle Palestre facendo girare i loro dischi foto.
+Ahora puedes conseguir objetos en los Gimnasios girando sus fotodiscos.
 gym_tut_desc_2
-Puoi assegnare i tuoi Pokémon a difesa di una Palestra usando il pulsante “Assegna Pokémon” in una Palestra della tua squadra. L’indicatore della motivazione apparirà solo dopo l’assegnazione del Pokémon.
+Puedes asignar a tus Pokémon para que defiendan un Gimnasio usando el botón para asignar Pokémon en un Gimnasio amistoso. Cuando tus Pokémon sean asignados, verás aparecer su medidor de motivación.
 gym_tut_desc_3
-La motivazione dei Pokémon diminuisce lentamente o quando vengono sconfitti. Se un Pokémon che ha perso completamente la motivazione viene sconfitto, smetterà di difendere la Palestra e tornerà dal suo Allenatore.
+La motivación de un Pokémon disminuye lentamente con el paso del tiempo y cuando es derrotado en combate. Cuando un Pokémon al que no le queda nada de motivación es derrotado, deja de defender el Gimnasio y vuelve a su Entrenador.
 gym_tut_desc_4
-Dai le bacche ai tuoi Pokémon per mantenere alta la loro motivazione e la loro forza durante la lotta.
+¡Alimenta con bayas a los Pokémon para que tengan motivación y fuerza en combate!
 no_usable_items_error
-Strumenti non utilizzabili
+No hay objetos que se puedan usar.
 gym_battle_victory_title
-Grande!
+¡Buen trabajo!
 tm_no_other_moves
-Non può imparare altre mosse.
+¡No puede aprender otros movimientos!
 disabled_low_stamina
-Il Pokémon deve avere tutti i PS.
+El Pokémon debe tener los PS al completo.
 disabled_buddy
-Non puoi assegnare il tuo compagno a difesa di una Palestra.
+El Pokémon compañero no puede ser enviado.
 badge_raid_battle_won
-Raid vinti: {0}
+Incursiones ganadas: {0}
 badge_hours_defended_title
-Capopalestra
+Líder del Gimnasio
 badge_hours_defended
-Tempo difesa Palestre: {0}
+Horas defendiendo Gimnasios: {0}
 badge_hours_defended_value_format
 N0
 badge_berries_fed_title
-Asso delle bacche
+Maestro de Bayas
 badge_berries_fed
-Bacche date nelle Palestre: {0}
+Bayas usadas en los Gimnasios: {0}
 badge_berries_fed_value_format
 N0
 badge_raid_battle_won_value_format
 N0
 badge_raid_battle_won_title
-Campione
+Campeón
 gym_deploy_raid_active
-Il boss di un raid ha preso il controllo della Palestra. Riprova quando se ne sarà andato.
+El jefe de una incursión ha tomado el control del Gimnasio. Vuelve a intentarlo después de que se haya ido.
 error_too_many_deployed
-Hai raggiunto il numero massimo di Pokémon assegnati a una Palestra.
+Desafortunadamente, has alcanzado el límite de Pokémon que puedes asignar a Gimnasios.
 disabled_max_same_defender
-Solo un esemplare per specie allo stesso tempo può essere assegnato a difesa di una Palestra.
+Solo uno de cada Pokémon puede defender un Gimnasio.
 error_fort_is_full
-La Palestra ha raggiunto il numero massimo di Pokémon assegnati.
+En este Gimnasio no hay sitio para más Pokémon.
 award_badge_rank_up
-Difendi le Palestre della tua squadra e attacca le Palestre rivali per aumentare il livello delle tue Medaglie.
+Defiende Gimnasios de tu equipo y ataca los de los equipos rivales para mejorar tus Medallas de Gimnasio.
 raid_not_yet_available
-Ci dispiace, ma i raid non sono disponibili al tuo livello.\nRiprova più avanti.
+Lo sentimos, pero las incursiones aún no están disponibles para tu nivel.\nVuelve a intentarlo más tarde.
 raid_private_lobby_created_success_message
-Hai creato un gruppo!
+¡Se ha creado un grupo con éxito!
 pokestop_button_read_qr_code
-LEGGI CODICE QR
+LEER CÓDIGO QR
 pokestop_button_manual_input
-INSERIMENTO MANUALE
+ENTRADA MANUAL
 pokestop_check_in_manual_entry_title
-INSERISCI CODICE ISCRIZIONE
+INTRODUCIR CÓDIGO DE REGISTRO
 pokestop_check_in_notice
-Benvenuto all’evento {0}!\nUsa la tua fotocamera per leggere il codice QR per l’accettazione.
+¡Te damos la bienvenida a {0}!\nUsa la cámara para leer el código QR para registrarte.
 pokestop_check_in_succeeded
-ACCETTAZIONE COMPLETATA
+REGISTRO CON ÉXITO
 disabled_max_same_defenders
-Solo un esemplare per specie allo stesso tempo può essere assegnato a difesa di una Palestra.
+Solo uno de cada Pokémon puede defender un Gimnasio.
 gym_closed_exclusive_raid_not_invited
-Questa Palestra è chiusa per un raid EX.\nRiaprirà alle {0}.
+Este Gimnasio está cerrado por una incursión EX.\nVolverá a abrir a la(s) {0}.
 disabled_legendary
-I Pokémon leggendari non possono essere lasciati nelle Palestre.
+No se puede dejar en los Gimnasios Pokémon legendarios.
 team_picker_title
-Carica/salva squadre lotta
+Cargar y guardar equipos de combate
 team_picker_load
-Carica
+Cargar
 team_picker_save
-Salva
+Guardar
 battle_prep_create_team
-Scegli i tuoi Pokémon...
+¡Selecciona tus nuevos Pokémon!
 battle_prep_new_team
-Nome squadra
+Nuevo equipo de combate
 battle_prep_recommended_team
-Squadra lotta consigliata
+Equipo de combate recomendado
 screen_title_pokemon_inventory_party
-SQUADRA
+EQUIPO
 raid_ticket_event
 Evento
 filter_key_defender
-difensore
+defensor
 filter_key_legendary
-leggendario
+legendario
 filter_key_shiny
-cromatico
+variocolor
 filter_key_mythical
-misterioso
+singular
 filter_key_alola
-di Alola
+Alola

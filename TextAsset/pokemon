@@ -1,2322 +1,2322 @@
 pokemon_name_0000
---
+---
 pokemon_name_0001
-フシギダネ
+Bulbasaur
 pokemon_name_0002
-フシギソウ
+Ivysaur
 pokemon_name_0003
-フシギバナ
+Venusaur
 pokemon_name_0004
-ヒトカゲ
+Charmander
 pokemon_name_0005
-リザード
+Charmeleon
 pokemon_name_0006
-リザードン
+Charizard
 pokemon_name_0007
-ゼニガメ
+Squirtle
 pokemon_name_0008
-カメール
+Wartortle
 pokemon_name_0009
-カメックス
+Blastoise
 pokemon_name_0010
-キャタピー
+Caterpie
 pokemon_name_0011
-トランセル
+Metapod
 pokemon_name_0012
-バタフリー
+Butterfree
 pokemon_name_0013
-ビードル
+Weedle
 pokemon_name_0014
-コクーン
+Kakuna
 pokemon_name_0015
-スピアー
+Beedrill
 pokemon_name_0016
-ポッポ
+Pidgey
 pokemon_name_0017
-ピジョン
+Pidgeotto
 pokemon_name_0018
-ピジョット
+Pidgeot
 pokemon_name_0019
-コラッタ
+Rattata
 pokemon_name_0020
-ラッタ
+Raticate
 pokemon_name_0021
-オニスズメ
+Spearow
 pokemon_name_0022
-オニドリル
+Fearow
 pokemon_name_0023
-アーボ
+Ekans
 pokemon_name_0024
-アーボック
+Arbok
 pokemon_name_0025
-ピカチュウ
+Pikachu
 pokemon_name_0026
-ライチュウ
+Raichu
 pokemon_name_0027
-サンド
+Sandshrew
 pokemon_name_0028
-サンドパン
+Sandslash
 pokemon_name_0029
-ニドラン♀
+Nidoran♀
 pokemon_name_0030
-ニドリーナ
+Nidorina
 pokemon_name_0031
-ニドクイン
+Nidoqueen
 pokemon_name_0032
-ニドラン♂
+Nidoran♂
 pokemon_name_0033
-ニドリーノ
+Nidorino
 pokemon_name_0034
-ニドキング
+Nidoking
 pokemon_name_0035
-ピッピ
+Clefairy
 pokemon_name_0036
-ピクシー
+Clefable
 pokemon_name_0037
-ロコン
+Vulpix
 pokemon_name_0038
-キュウコン
+Ninetales
 pokemon_name_0039
-プリン
+Jigglypuff
 pokemon_name_0040
-プクリン
+Wigglytuff
 pokemon_name_0041
-ズバット
+Zubat
 pokemon_name_0042
-ゴルバット
+Golbat
 pokemon_name_0043
-ナゾノクサ
+Oddish
 pokemon_name_0044
-クサイハナ
+Gloom
 pokemon_name_0045
-ラフレシア
+Vileplume
 pokemon_name_0046
-パラス
+Paras
 pokemon_name_0047
-パラセクト
+Parasect
 pokemon_name_0048
-コンパン
+Venonat
 pokemon_name_0049
-モルフォン
+Venomoth
 pokemon_name_0050
-ディグダ
+Diglett
 pokemon_name_0051
-ダグトリオ
+Dugtrio
 pokemon_name_0052
-ニャース
+Meowth
 pokemon_name_0053
-ペルシアン
+Persian
 pokemon_name_0054
-コダック
+Psyduck
 pokemon_name_0055
-ゴルダック
+Golduck
 pokemon_name_0056
-マンキー
+Mankey
 pokemon_name_0057
-オコリザル
+Primeape
 pokemon_name_0058
-ガーディ
+Growlithe
 pokemon_name_0059
-ウインディ
+Arcanine
 pokemon_name_0060
-ニョロモ
+Poliwag
 pokemon_name_0061
-ニョロゾ
+Poliwhirl
 pokemon_name_0062
-ニョロボン
+Poliwrath
 pokemon_name_0063
-ケーシィ
+Abra
 pokemon_name_0064
-ユンゲラー
+Kadabra
 pokemon_name_0065
-フーディン
+Alakazam
 pokemon_name_0066
-ワンリキー
+Machop
 pokemon_name_0067
-ゴーリキー
+Machoke
 pokemon_name_0068
-カイリキー
+Machamp
 pokemon_name_0069
-マダツボミ
+Bellsprout
 pokemon_name_0070
-ウツドン
+Weepinbell
 pokemon_name_0071
-ウツボット
+Victreebel
 pokemon_name_0072
-メノクラゲ
+Tentacool
 pokemon_name_0073
-ドククラゲ
+Tentacruel
 pokemon_name_0074
-イシツブテ
+Geodude
 pokemon_name_0075
-ゴローン
+Graveler
 pokemon_name_0076
-ゴローニャ
+Golem
 pokemon_name_0077
-ポニータ
+Ponyta
 pokemon_name_0078
-ギャロップ
+Rapidash
 pokemon_name_0079
-ヤドン
+Slowpoke
 pokemon_name_0080
-ヤドラン
+Slowbro
 pokemon_name_0081
-コイル
+Magnemite
 pokemon_name_0082
-レアコイル
+Magneton
 pokemon_name_0083
-カモネギ
+Farfetch’d
 pokemon_name_0084
-ドードー
+Doduo
 pokemon_name_0085
-ドードリオ
+Dodrio
 pokemon_name_0086
-パウワウ
+Seel
 pokemon_name_0087
-ジュゴン
+Dewgong
 pokemon_name_0088
-ベトベター
+Grimer
 pokemon_name_0089
-ベトベトン
+Muk
 pokemon_name_0090
-シェルダー
+Shellder
 pokemon_name_0091
-パルシェン
+Cloyster
 pokemon_name_0092
-ゴース
+Gastly
 pokemon_name_0093
-ゴースト
+Haunter
 pokemon_name_0094
-ゲンガー
+Gengar
 pokemon_name_0095
-イワーク
+Onix
 pokemon_name_0096
-スリープ
+Drowzee
 pokemon_name_0097
-スリーパー
+Hypno
 pokemon_name_0098
-クラブ
+Krabby
 pokemon_name_0099
-キングラー
+Kingler
 pokemon_name_0100
-ビリリダマ
+Voltorb
 pokemon_name_0101
-マルマイン
+Electrode
 pokemon_name_0102
-タマタマ
+Exeggcute
 pokemon_name_0103
-ナッシー
+Exeggutor
 pokemon_name_0104
-カラカラ
+Cubone
 pokemon_name_0105
-ガラガラ
+Marowak
 pokemon_name_0106
-サワムラー
+Hitmonlee
 pokemon_name_0107
-エビワラー
+Hitmonchan
 pokemon_name_0108
-ベロリンガ
+Lickitung
 pokemon_name_0109
-ドガース
+Koffing
 pokemon_name_0110
-マタドガス
+Weezing
 pokemon_name_0111
-サイホーン
+Rhyhorn
 pokemon_name_0112
-サイドン
+Rhydon
 pokemon_name_0113
-ラッキー
+Chansey
 pokemon_name_0114
-モンジャラ
+Tangela
 pokemon_name_0115
-ガルーラ
+Kangaskhan
 pokemon_name_0116
-タッツー
+Horsea
 pokemon_name_0117
-シードラ
+Seadra
 pokemon_name_0118
-トサキント
+Goldeen
 pokemon_name_0119
-アズマオウ
+Seaking
 pokemon_name_0120
-ヒトデマン
+Staryu
 pokemon_name_0121
-スターミー
+Starmie
 pokemon_name_0122
-バリヤード
+Mr. Mime
 pokemon_name_0123
-ストライク
+Scyther
 pokemon_name_0124
-ルージュラ
+Jynx
 pokemon_name_0125
-エレブー
+Electabuzz
 pokemon_name_0126
-ブーバー
+Magmar
 pokemon_name_0127
-カイロス
+Pinsir
 pokemon_name_0128
-ケンタロス
+Tauros
 pokemon_name_0129
-コイキング
+Magikarp
 pokemon_name_0130
-ギャラドス
+Gyarados
 pokemon_name_0131
-ラプラス
+Lapras
 pokemon_name_0132
-メタモン
+Ditto
 pokemon_name_0133
-イーブイ
+Eevee
 pokemon_name_0134
-シャワーズ
+Vaporeon
 pokemon_name_0135
-サンダース
+Jolteon
 pokemon_name_0136
-ブースター
+Flareon
 pokemon_name_0137
-ポリゴン
+Porygon
 pokemon_name_0138
-オムナイト
+Omanyte
 pokemon_name_0139
-オムスター
+Omastar
 pokemon_name_0140
-カブト
+Kabuto
 pokemon_name_0141
-カブトプス
+Kabutops
 pokemon_name_0142
-プテラ
+Aerodactyl
 pokemon_name_0143
-カビゴン
+Snorlax
 pokemon_name_0144
-フリーザー
+Articuno
 pokemon_name_0145
-サンダー
+Zapdos
 pokemon_name_0146
-ファイヤー
+Moltres
 pokemon_name_0147
-ミニリュウ
+Dratini
 pokemon_name_0148
-ハクリュー
+Dragonair
 pokemon_name_0149
-カイリュー
+Dragonite
 pokemon_name_0150
-ミュウツー
+Mewtwo
 pokemon_name_0151
-ミュウ
+Mew
 pokemon_name_0152
-チコリータ
+Chikorita
 pokemon_name_0153
-ベイリーフ
+Bayleef
 pokemon_name_0154
-メガニウム
+Meganium
 pokemon_name_0155
-ヒノアラシ
+Cyndaquil
 pokemon_name_0156
-マグマラシ
+Quilava
 pokemon_name_0157
-バクフーン
+Typhlosion
 pokemon_name_0158
-ワニノコ
+Totodile
 pokemon_name_0159
-アリゲイツ
+Croconaw
 pokemon_name_0160
-オーダイル
+Feraligatr
 pokemon_name_0161
-オタチ
+Sentret
 pokemon_name_0162
-オオタチ
+Furret
 pokemon_name_0163
-ホーホー
+Hoothoot
 pokemon_name_0164
-ヨルノズク
+Noctowl
 pokemon_name_0165
-レディバ
+Ledyba
 pokemon_name_0166
-レディアン
+Ledian
 pokemon_name_0167
-イトマル
+Spinarak
 pokemon_name_0168
-アリアドス
+Ariados
 pokemon_name_0169
-クロバット
+Crobat
 pokemon_name_0170
-チョンチー
+Chinchou
 pokemon_name_0171
-ランターン
+Lanturn
 pokemon_name_0172
-ピチュー
+Pichu
 pokemon_name_0173
-ピィ
+Cleffa
 pokemon_name_0174
-ププリン
+Igglybuff
 pokemon_name_0175
-トゲピー
+Togepi
 pokemon_name_0176
-トゲチック
+Togetic
 pokemon_name_0177
-ネイティ
+Natu
 pokemon_name_0178
-ネイティオ
+Xatu
 pokemon_name_0179
-メリープ
+Mareep
 pokemon_name_0180
-モココ
+Flaaffy
 pokemon_name_0181
-デンリュウ
+Ampharos
 pokemon_name_0182
-キレイハナ
+Bellossom
 pokemon_name_0183
-マリル
+Marill
 pokemon_name_0184
-マリルリ
+Azumarill
 pokemon_name_0185
-ウソッキー
+Sudowoodo
 pokemon_name_0186
-ニョロトノ
+Politoed
 pokemon_name_0187
-ハネッコ
+Hoppip
 pokemon_name_0188
-ポポッコ
+Skiploom
 pokemon_name_0189
-ワタッコ
+Jumpluff
 pokemon_name_0190
-エイパム
+Aipom
 pokemon_name_0191
-ヒマナッツ
+Sunkern
 pokemon_name_0192
-キマワリ
+Sunflora
 pokemon_name_0193
-ヤンヤンマ
+Yanma
 pokemon_name_0194
-ウパー
+Wooper
 pokemon_name_0195
-ヌオー
+Quagsire
 pokemon_name_0196
-エーフィ
+Espeon
 pokemon_name_0197
-ブラッキー
+Umbreon
 pokemon_name_0198
-ヤミカラス
+Murkrow
 pokemon_name_0199
-ヤドキング
+Slowking
 pokemon_name_0200
-ムウマ
+Misdreavus
 pokemon_name_0201
-アンノーン
+Unown
 pokemon_name_0202
-ソーナンス
+Wobbuffet
 pokemon_name_0203
-キリンリキ
+Girafarig
 pokemon_name_0204
-クヌギダマ
+Pineco
 pokemon_name_0205
-フォレトス
+Forretress
 pokemon_name_0206
-ノコッチ
+Dunsparce
 pokemon_name_0207
-グライガー
+Gligar
 pokemon_name_0208
-ハガネール
+Steelix
 pokemon_name_0209
-ブルー
+Snubbull
 pokemon_name_0210
-グランブル
+Granbull
 pokemon_name_0211
-ハリーセン
+Qwilfish
 pokemon_name_0212
-ハッサム
+Scizor
 pokemon_name_0213
-ツボツボ
+Shuckle
 pokemon_name_0214
-ヘラクロス
+Heracross
 pokemon_name_0215
-ニューラ
+Sneasel
 pokemon_name_0216
-ヒメグマ
+Teddiursa
 pokemon_name_0217
-リングマ
+Ursaring
 pokemon_name_0218
-マグマッグ
+Slugma
 pokemon_name_0219
-マグカルゴ
+Magcargo
 pokemon_name_0220
-ウリムー
+Swinub
 pokemon_name_0221
-イノムー
+Piloswine
 pokemon_name_0222
-サニーゴ
+Corsola
 pokemon_name_0223
-テッポウオ
+Remoraid
 pokemon_name_0224
-オクタン
+Octillery
 pokemon_name_0225
-デリバード
+Delibird
 pokemon_name_0226
-マンタイン
+Mantine
 pokemon_name_0227
-エアームド
+Skarmory
 pokemon_name_0228
-デルビル
+Houndour
 pokemon_name_0229
-ヘルガー
+Houndoom
 pokemon_name_0230
-キングドラ
+Kingdra
 pokemon_name_0231
-ゴマゾウ
+Phanpy
 pokemon_name_0232
-ドンファン
+Donphan
 pokemon_name_0233
-ポリゴン２
+Porygon2
 pokemon_name_0234
-オドシシ
+Stantler
 pokemon_name_0235
-ドーブル
+Smeargle
 pokemon_name_0236
-バルキー
+Tyrogue
 pokemon_name_0237
-カポエラー
+Hitmontop
 pokemon_name_0238
-ムチュール
+Smoochum
 pokemon_name_0239
-エレキッド
+Elekid
 pokemon_name_0240
-ブビィ
+Magby
 pokemon_name_0241
-ミルタンク
+Miltank
 pokemon_name_0242
-ハピナス
+Blissey
 pokemon_name_0243
-ライコウ
+Raikou
 pokemon_name_0244
-エンテイ
+Entei
 pokemon_name_0245
-スイクン
+Suicune
 pokemon_name_0246
-ヨーギラス
+Larvitar
 pokemon_name_0247
-サナギラス
+Pupitar
 pokemon_name_0248
-バンギラス
+Tyranitar
 pokemon_name_0249
-ルギア
+Lugia
 pokemon_name_0250
-ホウオウ
+Ho-Oh
 pokemon_name_0251
-セレビィ
+Celebi
 pokemon_name_0252
-キモリ
+Treecko
 pokemon_name_0253
-ジュプトル
+Grovyle
 pokemon_name_0254
-ジュカイン
+Sceptile
 pokemon_name_0255
-アチャモ
+Torchic
 pokemon_name_0256
-ワカシャモ
+Combusken
 pokemon_name_0257
-バシャーモ
+Blaziken
 pokemon_name_0258
-ミズゴロウ
+Mudkip
 pokemon_name_0259
-ヌマクロー
+Marshtomp
 pokemon_name_0260
-ラグラージ
+Swampert
 pokemon_name_0261
-ポチエナ
+Poochyena
 pokemon_name_0262
-グラエナ
+Mightyena
 pokemon_name_0263
-ジグザグマ
+Zigzagoon
 pokemon_name_0264
-マッスグマ
+Linoone
 pokemon_name_0265
-ケムッソ
+Wurmple
 pokemon_name_0266
-カラサリス
+Silcoon
 pokemon_name_0267
-アゲハント
+Beautifly
 pokemon_name_0268
-マユルド
+Cascoon
 pokemon_name_0269
-ドクケイル
+Dustox
 pokemon_name_0270
-ハスボー
+Lotad
 pokemon_name_0271
-ハスブレロ
+Lombre
 pokemon_name_0272
-ルンパッパ
+Ludicolo
 pokemon_name_0273
-タネボー
+Seedot
 pokemon_name_0274
-コノハナ
+Nuzleaf
 pokemon_name_0275
-ダーテング
+Shiftry
 pokemon_name_0276
-スバメ
+Taillow
 pokemon_name_0277
-オオスバメ
+Swellow
 pokemon_name_0278
-キャモメ
+Wingull
 pokemon_name_0279
-ペリッパー
+Pelipper
 pokemon_name_0280
-ラルトス
+Ralts
 pokemon_name_0281
-キルリア
+Kirlia
 pokemon_name_0282
-サーナイト
+Gardevoir
 pokemon_name_0283
-アメタマ
+Surskit
 pokemon_name_0284
-アメモース
+Masquerain
 pokemon_name_0285
-キノココ
+Shroomish
 pokemon_name_0286
-キノガッサ
+Breloom
 pokemon_name_0287
-ナマケロ
+Slakoth
 pokemon_name_0288
-ヤルキモノ
+Vigoroth
 pokemon_name_0289
-ケッキング
+Slaking
 pokemon_name_0290
-ツチニン
+Nincada
 pokemon_name_0291
-テッカニン
+Ninjask
 pokemon_name_0292
-ヌケニン
+Shedinja
 pokemon_name_0293
-ゴニョニョ
+Whismur
 pokemon_name_0294
-ドゴーム
+Loudred
 pokemon_name_0295
-バクオング
+Exploud
 pokemon_name_0296
-マクノシタ
+Makuhita
 pokemon_name_0297
-ハリテヤマ
+Hariyama
 pokemon_name_0298
-ルリリ
+Azurill
 pokemon_name_0299
-ノズパス
+Nosepass
 pokemon_name_0300
-エネコ
+Skitty
 pokemon_name_0301
-エネコロロ
+Delcatty
 pokemon_name_0302
-ヤミラミ
+Sableye
 pokemon_name_0303
-クチート
+Mawile
 pokemon_name_0304
-ココドラ
+Aron
 pokemon_name_0305
-コドラ
+Lairon
 pokemon_name_0306
-ボスゴドラ
+Aggron
 pokemon_name_0307
-アサナン
+Meditite
 pokemon_name_0308
-チャーレム
+Medicham
 pokemon_name_0309
-ラクライ
+Electrike
 pokemon_name_0310
-ライボルト
+Manectric
 pokemon_name_0311
-プラスル
+Plusle
 pokemon_name_0312
-マイナン
+Minun
 pokemon_name_0313
-バルビート
+Volbeat
 pokemon_name_0314
-イルミーゼ
+Illumise
 pokemon_name_0315
-ロゼリア
+Roselia
 pokemon_name_0316
-ゴクリン
+Gulpin
 pokemon_name_0317
-マルノーム
+Swalot
 pokemon_name_0318
-キバニア
+Carvanha
 pokemon_name_0319
-サメハダー
+Sharpedo
 pokemon_name_0320
-ホエルコ
+Wailmer
 pokemon_name_0321
-ホエルオー
+Wailord
 pokemon_name_0322
-ドンメル
+Numel
 pokemon_name_0323
-バクーダ
+Camerupt
 pokemon_name_0324
-コータス
+Torkoal
 pokemon_name_0325
-バネブー
+Spoink
 pokemon_name_0326
-ブーピッグ
+Grumpig
 pokemon_name_0327
-パッチール
+Spinda
 pokemon_name_0328
-ナックラー
+Trapinch
 pokemon_name_0329
-ビブラーバ
+Vibrava
 pokemon_name_0330
-フライゴン
+Flygon
 pokemon_name_0331
-サボネア
+Cacnea
 pokemon_name_0332
-ノクタス
+Cacturne
 pokemon_name_0333
-チルット
+Swablu
 pokemon_name_0334
-チルタリス
+Altaria
 pokemon_name_0335
-ザングース
+Zangoose
 pokemon_name_0336
-ハブネーク
+Seviper
 pokemon_name_0337
-ルナトーン
+Lunatone
 pokemon_name_0338
-ソルロック
+Solrock
 pokemon_name_0339
-ドジョッチ
+Barboach
 pokemon_name_0340
-ナマズン
+Whiscash
 pokemon_name_0341
-ヘイガニ
+Corphish
 pokemon_name_0342
-シザリガー
+Crawdaunt
 pokemon_name_0343
-ヤジロン
+Baltoy
 pokemon_name_0344
-ネンドール
+Claydol
 pokemon_name_0345
-リリーラ
+Lileep
 pokemon_name_0346
-ユレイドル
+Cradily
 pokemon_name_0347
-アノプス
+Anorith
 pokemon_name_0348
-アーマルド
+Armaldo
 pokemon_name_0349
-ヒンバス
+Feebas
 pokemon_name_0350
-ミロカロス
+Milotic
 pokemon_name_0351
-ポワルン
+Castform
 pokemon_name_0352
-カクレオン
+Kecleon
 pokemon_name_0353
-カゲボウズ
+Shuppet
 pokemon_name_0354
-ジュペッタ
+Banette
 pokemon_name_0355
-ヨマワル
+Duskull
 pokemon_name_0356
-サマヨール
+Dusclops
 pokemon_name_0357
-トロピウス
+Tropius
 pokemon_name_0358
-チリーン
+Chimecho
 pokemon_name_0359
-アブソル
+Absol
 pokemon_name_0360
-ソーナノ
+Wynaut
 pokemon_name_0361
-ユキワラシ
+Snorunt
 pokemon_name_0362
-オニゴーリ
+Glalie
 pokemon_name_0363
-タマザラシ
+Spheal
 pokemon_name_0364
-トドグラー
+Sealeo
 pokemon_name_0365
-トドゼルガ
+Walrein
 pokemon_name_0366
-パールル
+Clamperl
 pokemon_name_0367
-ハンテール
+Huntail
 pokemon_name_0368
-サクラビス
+Gorebyss
 pokemon_name_0369
-ジーランス
+Relicanth
 pokemon_name_0370
-ラブカス
+Luvdisc
 pokemon_name_0371
-タツベイ
+Bagon
 pokemon_name_0372
-コモルー
+Shelgon
 pokemon_name_0373
-ボーマンダ
+Salamence
 pokemon_name_0374
-ダンバル
+Beldum
 pokemon_name_0375
-メタング
+Metang
 pokemon_name_0376
-メタグロス
+Metagross
 pokemon_name_0377
-レジロック
+Regirock
 pokemon_name_0378
-レジアイス
+Regice
 pokemon_name_0379
-レジスチル
+Registeel
 pokemon_name_0380
-ラティアス
+Latias
 pokemon_name_0381
-ラティオス
+Latios
 pokemon_name_0382
-カイオーガ
+Kyogre
 pokemon_name_0383
-グラードン
+Groudon
 pokemon_name_0384
-レックウザ
+Rayquaza
 pokemon_name_0385
-ジラーチ
+Jirachi
 pokemon_name_0386
-デオキシス
+Deoxys
 pokemon_desc_0000
---
+---
 pokemon_desc_0001
-日なたで昼寝をする姿を見かける。太陽の光をいっぱい浴びることで背中のタネが大きく育つのだ。
+È possibile vedere Bulbasaur mentre schiaccia un pisolino sotto il sole. Ha un seme piantato sulla schiena. Grazie ai raggi solari il seme cresce ingrandendosi progressivamente.
 pokemon_desc_0002
-つぼみを支えるため足腰が強くなる。日なたでじっとする時間が長くなればいよいよ大輪の花が咲くころだ。
+C’è un germoglio piantato nella schiena di Ivysaur. Per sopportarne il peso, le zampe e il corpo crescono robusti. Quando inizia a passare più tempo esposto al sole, significa che il germoglio sboccerà presto in un grande fiore.
 pokemon_desc_0003
-十分な栄養と太陽の光が花の色を鮮やかにするといわれる。花の香りは人の心を癒す。
+C’è un grande fiore sulla schiena di Venusaur. Si dice che i colori diventino più vividi con il giusto nutrimento e i raggi solari. Il suo profumo calma le reazioni emotive delle persone.
 pokemon_desc_0004
-尻尾の炎は気分を表現。楽しいときにはゆらゆら炎がゆれて怒ったときにはめらめら盛んに燃える。
+La fiamma sulla punta della coda indica il suo stato emotivo. Se la fiamma ondeggia significa che Charmander si sta divertendo. Quando il Pokémon si infuria, la fiamma arde violentemente.
 pokemon_desc_0005
-鋭いツメでようしゃなくたたきのめす。強敵と向かい合うと気分がたかぶり尻尾の炎が青白く燃えあがる。
+Charmeleon distrugge il nemico senza pietà con i suoi artigli affilati. Quando incontra un avversario molto forte diventa aggressivo. In questo stato di grande agitazione la fiamma della coda diventa di colore bianco bluastro.
 pokemon_desc_0006
-強い相手を求めて空を飛び回る。なんでも溶かしてしまう高熱の炎を自分より弱いものに向けることはしない。
+Charizard solca i cieli in cerca di nemici molto forti. Riesce a emettere fiammate di un calore tale da fondere ogni cosa. Tuttavia, non rivolge mai le sue micidiali lingue di fuoco contro avversari più deboli di lui.
 pokemon_desc_0007
-甲羅の役目は身を守るだけではない。丸い形と表面の溝が水の抵抗を減らすので速く泳げるのだ。
+La corazza di Squirtle non serve soltanto da protezione. La particolare forma arrotondata e le scanalature superficiali lo aiutano a minimizzare l’attrito dell’acqua per nuotare ad alta velocità.
 pokemon_desc_0008
-ふさふさの毛で覆われた大きな尻尾は長生きするほど深い色合いに変わる。甲羅のキズは強者の証。
+La grande coda di Wartortle è coperta da una folta pelliccia, che diventa sempre più scura con l’avanzare dell’età. I graffi sulla corazza indicano la potenza di questo Pokémon come lottatore.
 pokemon_desc_0009
-甲羅の噴射口のねらいは正確。水の弾丸を５０メートル離れた空き缶に命中させることができるぞ。
+Blastoise è dotato di cannoni ad acqua che fuoriescono dalla corazza. I getti emessi sono così precisi da riuscire a colpire un bersaglio a una distanza di 50 m.
 pokemon_desc_0010
-体よりも大きな葉っぱをみるみる食べつくしてしまうほどの食欲をもつ。触角から強烈な臭いを出すぞ。
+Caterpie mangia voracemente. È in grado di divorare foglie più grandi del suo stesso corpo in pochi istanti. Questo Pokémon emette un odore terrificante dalle antenne.
 pokemon_desc_0011
-体のカラは鉄板のように硬い。あまり動かないのはカラの中で柔らかい中身が進化の準備をしているからだ。
+La corazza di questo Pokémon è dura come una lastra di ferro. Metapod non si muove molto. Sta immobile per preparare il morbido interno della dura corazza all’evoluzione.
 pokemon_desc_0012
-美味しい花のミツを探す能力に優れすみかから１０キロ離れた場所に咲く花からミツを集めて運んでいる。
+Butterfree è dotato di abilità molto raffinate per individuare il delizioso nettare dei fiori. Riesce a trovare, estrarre e trasportare il nettare dai fiori in boccio al nido anche per 10 km.
 pokemon_desc_0013
-とても鋭い嗅覚を持っている。好物の葉っぱか嫌いな葉っぱか大きな赤い鼻で嗅ぎ分ける。
+Weedle ha un senso dell’olfatto estremamente sviluppato. Riesce a distinguere le sue foglie preferite da quelle che lo disgustano semplicemente annusandole con il grande naso rosso.
 pokemon_desc_0014
-ほとんど動かず木につかまっているが中では進化の準備で大忙し。その証拠に体が熱くなっているぞ。
+Kakuna rimane praticamente immobile abbarbicato agli alberi. Tuttavia, internamente è intento a preparare la sua futura evoluzione. Lo si può capire dall’intensità del calore sviluppato dal guscio.
 pokemon_desc_0015
-縄張り意識がとても強いのでスピアーのすみかには近づかないほうが身のためだ。怒ると集団で襲ってくるぞ。
+Beedrill difende strenuamente il proprio territorio. Per ragioni di sicurezza nessuno può avvicinarsi al suo nido. Se vengono disturbati, questi Pokémon attaccano violentemente in sciami.
 pokemon_desc_0016
-方向感覚にとても優れているのでどんなに離れた場所からでも迷わずに自分の巣まで帰ることができる。
+Pidgey ha un senso dell’orientamento molto sviluppato. È sempre in grado di ritornare al suo nido, anche quando si spinge molto lontano dal suo ambiente abituale.
 pokemon_desc_0017
-広い縄張りを飛んで見まわりをする。縄張りを荒らす相手は容赦しない。鋭いツメで徹底的に懲らしめるぞ。
+Pidgeotto delimita come proprio un territorio immenso, che difende controllandolo costantemente. Se tale territorio viene invaso, questo Pokémon non ha pietà nel punire i nemici con i suoi artigli affilati.
 pokemon_desc_0018
-美しい光沢の羽を持つポケモン。頭の羽の美しさに心奪われピジョットを育てるトレーナーも多い。
+Questo Pokémon è caratterizzato da uno stupendo piumaggio dai colori vivaci e brillanti. Molti Allenatori sono colpiti dall’evidente bellezza delle piume sulla testa. Per questo spesso scelgono Pidgeot come loro Pokémon.
 pokemon_desc_0019
-警戒心がとても強く寝ているときも耳を動かし周りの音を聞いている。どこにでもすみつき巣をつくる。
+Rattata è estremamente cauto. Anche quando dorme tiene sempre le orecchie tese, muovendole come sonde. Non ha particolari esigenze di habitat: costruisce la propria tana ovunque.
 pokemon_desc_0020
-丈夫なキバはどんどん伸びるので岩や大木をかじって削っている。家のカベをかじられることもあるよ。
+Le potenti zanne di Raticate crescono in continuazione. Per ridurne la crescita rode rocce e tronchi. Spesso si vedono i segni delle sue zanne anche sui muri delle case.
 pokemon_desc_0021
-大きな鳴き声は１キロ先まで届く。あちこちでカン高い声が聞こえるときは仲間たちに危険を報せている合図だ。
+Spearow emette un grido molto acuto, percepibile anche a 1 km di distanza. Quando questo grido riecheggia nei dintorni, questo Pokémon intende avvertire i suoi simili di un pericolo imminente.
 pokemon_desc_0022
-長い首とくちばしは土や水の中にいるエサを捕まえるのに便利。細長いくちばしで器用につまむぞ。
+Fearow è caratterizzato da un collo e un becco molto lunghi, dalla forma ottimale per la cattura della preda a terra o in acqua. Muove agilmente il becco lungo e affusolato per stanare la preda.
 pokemon_desc_0023
-ぐるぐる体を巻いて休んでいるのはどの方向から敵が襲ってきてもとっさに頭を向けて威嚇できるからだ。
+Ekans si attorciglia a spirale per riposarsi. In questa posizione riesce a reagire alle insidie provenienti da ogni parte grazie alla testa sollevata e allo sguardo fulminante.
 pokemon_desc_0024
-締めつける力はとても強力。ドラム缶もぺしゃんこにしてしまうぞ。巻きつかれたら逃げだすことは不可能だ。
+Questo Pokémon è così forte da riuscire a stritolare qualsiasi cosa col corpo, persino un bidone in acciaio. Se Arbok si avvinghia a un nemico è impossibile sfuggire a questa morsa fatale.
 pokemon_desc_0025
-はじめてみるものには電撃を当てる。黒こげのきのみが落ちていたらそれは電撃の強さを間違えた証拠だよ。
+Quando Pikachu incontra qualcosa che non conosce, lo colpisce con una scarica elettrica. Quando si vede una bacca annerita, è evidente che questo Pokémon ha emesso una scossa troppo forte.
 pokemon_desc_0026
-電気袋に電気がたまり過ぎたときは尻尾を地面につけて放電する。巣の近くには地面に焼け焦げがある。
+Se l’elettricità accumulata nelle guance diventa eccessiva, Raichu la scarica piantando la coda nel terreno. Vicino al suo nido sono presenti spesso chiazze di erba arsa.
 pokemon_desc_0027
-水分を無駄なく吸収する体のつくりなので乾燥した砂地でも平気。体を丸めて敵の攻撃を防ぐ。
+Il corpo di Sandshrew ha una conformazione che gli consente di assorbire l’acqua senza perdite e di sopravvivere nell’aridità del deserto. Questo Pokémon si avvolge su se stesso per proteggersi dai nemici.
 pokemon_desc_0028
-体のトゲは皮膚が硬くなったもの。１年に１回古いトゲが抜け落ちて新しいトゲが下から生えてくる。
+Il corpo di Sandslash è ricoperto da aculei coriacei, costituiti da parti di corazza indurita. I vecchi aculei cadono una volta all’anno per essere sostituiti dai nuovi che crescono sotto i precedenti.
 pokemon_desc_0029
-小さい体を守るため強力な毒針が発達したと考えられている。怒るとツノの先から猛毒を出す。
+Gli aculei di Nidoran♀ secernono un potente veleno. Si pensa che si siano sviluppati per proteggere questo Pokémon dal corpo minuto. Quando è adirato, rilascia una potente tossina dal corno.
 pokemon_desc_0030
-仲間や家族と一緒のときはお互い傷つかないようにトゲが引っ込んでいる。仲間から離れると不安になるらしい。
+Quando questi Pokémon si riuniscono con gli amici e la famiglia, tengono i loro aculei a debita distanza per evitare di ferirsi a vicenda. Se allontanati dal branco, diventano nervosi e irascibili.
 pokemon_desc_0031
-硬いウロコで覆われた体をぶつけて相手を弾き飛ばす攻撃が得意だ。子どもを守るときが一番強い。
+Il corpo di Nidoqueen è racchiuso in una corazza durissima. Riesce a scagliare i nemici lontano con un colpo secco. Questo Pokémon dà il massimo di sé quando difende i propri cuccioli.
 pokemon_desc_0032
-耳を動かす筋肉が発達していてどんな向きにも自在に耳を動かせる。かすかな物音も聞き漏らさないポケモン。
+Nidoran♂ ha sviluppato dei muscoli per muovere liberamente le orecchie in qualsiasi direzione. Così, questo Pokémon è in grado di percepire anche il più flebile fruscio.
 pokemon_desc_0033
-ダイヤモンドよりも硬いツノを持つ。敵の気配を感じると背中のトゲが一斉に逆立ち全力で立ち向かう。
+Nidorino è dotato di un corno più duro del diamante. Quando percepisce una presenza ostile, gli si rizzano immediatamente tutti gli aculei sulla schiena. A questo punto sfida il nemico con tutta la sua forza.
 pokemon_desc_0034
-太い尻尾の一振りは頑丈な鉄塔もへし折るすさまじい破壊力。一度暴れだすと手がつけられない。
+La possente coda di Nidoking è dotata di un enorme potere distruttivo. Con un solo colpo riesce ad abbattere un pilone metallico. Quando si scatena non c’è modo di fermare la sua furia.
 pokemon_desc_0035
-満月の夜は元気いっぱいに遊ぶ。明け方疲れたピッピたちは静かな山奥で仲間たちと寄り添って眠る。
+In ogni notte di luna piena questi Pokémon escono in gruppo a giocare. All’alba i Clefairy tornano stanchi nella quiete delle loro tane montane e vanno a dormire stretti fra loro.
 pokemon_desc_0036
-翼を使って飛ぶようにスキップ。水面を歩くことだってできるのだ。静かな月夜に湖を歩く。
+Clefable si muove saltellando leggero come se fluttuasse sorretto dalle sue ali. Così riesce anche a camminare sull’acqua. È solito passeggiare sui laghi in silenziose notti di luna piena.
 pokemon_desc_0037
-生まれたときは白い１本の尻尾。愛情をたっぷり受けると尻尾は６本に分かれて見事な巻き毛になる。
+Al momento della nascita Vulpix ha una sola coda bianca. Se il Pokémon riceve molto amore dal proprio Allenatore la coda si divide in sei diramazioni che poi si arricciano elegantemente.
 pokemon_desc_0038
-真っ赤な瞳は怪しい光を放ち相手の心を自在に操る。１０００年間生きるといわれている。
+Ninetales emana sinistri bagliori dai luminosi occhi rossi per acquisire il controllo totale della mente del suo nemico. Si dice che possa vivere anche per mille anni.
 pokemon_desc_0039
-声の波長を自在に変える声帯を持っているので相手がいちばん眠くなる波長で歌を歌うことができる。
+Le corde vocali di Jigglypuff gli consentono di cantare esattamente alla lunghezza d’onda richiesta per addormentare il suo avversario.
 pokemon_desc_0040
-大きな丸い瞳の表面には涙の薄い膜がいつも張っている。ほこりがついてもすぐ洗い流される。
+Wigglytuff è dotato di occhi grandi come dischi, resi lucidi da un sottile strato lacrimale in superficie. Se gli va della polvere negli occhi, questa è lavata via subito.
 pokemon_desc_0041
-昼間暗闇でじっとしているのは太陽の光を長い時間浴びると全身が軽く火傷してしまうからだ。
+Zubat rimane perfettamente immobile al buio durante le ore diurne più luminose. Infatti la prolungata esposizione al sole gli provoca delle bruciature.
 pokemon_desc_0042
-生き物の血液が大好物。特に真夜中活動することが多く生き血を求めて夜空を飛び回る。
+Golbat adora bere il sangue di creature viventi. È particolarmente attivo di notte, nella totale oscurità. Svolazza nel cielo notturno in cerca di sangue fresco.
 pokemon_desc_0043
-昼間地面の中に体を埋めて土の栄養を全身で吸い上げている。肥えた土ほど葉っぱにツヤが出るという。
+Durante il giorno, Oddish si nasconde nel terreno per assorbire sostanze nutritive con tutto il corpo. Più il suolo è fertile, più lucide diventano le foglie.
 pokemon_desc_0044
-危険を感じるとめしべの放つくさい臭いがさらに強まるが心が穏やかなときはくさい臭いを出さないのだ。
+Gloom rilascia un odore fetido dal pistillo del suo fiore. Quando è in pericolo, l’olezzo peggiora. Quando invece si sente tranquillo e sicuro, non emana questa sostanza maleodorante.
 pokemon_desc_0045
-毒花粉は酷いアレルギーを起こす。ジャングルで美しい花をみつけてもうかつに近寄らないほうがいいよ。
+Il polline velenoso di Vileplume scatena paurose reazioni allergiche. Per questo motivo si consiglia di non avvicinarsi mai a nessun fiore di bosco, per quanto bello possa essere.
 pokemon_desc_0046
-パラスから養分を吸い取って大きくなるキノコは冬虫夏草と呼ばれている。長寿の薬になる貴重なキノコ。
+Paras ha sulla schiena dei funghi parassiti chiamati tochukaso, che crescono traendo nutrimento dal Paras ospite. Sono molto apprezzati come farmaco di longevità.
 pokemon_desc_0047
-パラセクトは集団で大木の根元にくっついて栄養を吸い取ってしまう。枯れると一斉に別の木に移動する。
+I Parasect agiscono in gruppo e sono noti per la loro abilità di infestare gli alberi traendo nutrimento da tronchi e radici. Quando muore un albero infestato, ne cercano subito un altro.
 pokemon_desc_0048
-身を守るために細く硬い体毛が全身を覆うようになったといわれる。小さな獲物を見逃さない目を持つ。
+Si dice che per proteggersi Venonat abbia sviluppato una pelliccia sottile e irsuta che ricopre il suo corpo. Nemmeno la preda più piccola può sfuggire ai suoi occhi enormi.
 pokemon_desc_0049
-夜行性で夜に活動を始める。街灯の灯りに誘われ集まった小さな虫を好んで食べる。
+Venomoth è un Pokémon notturno, cioè attivo soltanto di notte. Le sue prede favorite sono i piccoli insetti che si raggruppano attorno ai lampioni attratti dalla luce nel buio.
 pokemon_desc_0050
-ほとんどの農家はディグダを育てている。ディグダが穴を掘った土地はほどよく耕され美味しい野菜がつくれるからだ。
+Diglett è allevato in molte aziende agricole. La ragione è semplice: quando questo Pokémon scava, lascia il suolo perfettamente arato per la semina. Il suolo è poi pronto per la coltivazione di squisite verdure.
 pokemon_desc_0051
-元々一つの体から３つ子になったのでみんな考えることは同じ。力を合わせどこまでも掘り進む。
+Dugtrio è un Pokémon formato da tre unità legate in un solo corpo. Ogni trio è un’unica mente pensante. Le tre unità collaborano scavando instancabilmente.
 pokemon_desc_0052
-鋭いツメを引っ込めて抜き足差し足足音を立てずに歩くことができる。キラキラ光るコインがなぜか大好きだ。
+Meowth ritira i suoi artigli affilati all’interno delle zampe per poter aggirarsi furtivo camuffando le tracce. Per qualche oscura ragione questo Pokémon è attratto dalle monetine che splendono alla luce.
 pokemon_desc_0053
-たくましい６本のヒゲは空気の動きで周りの様子をキャッチする役割。ヒゲをつかまれると大人しくなってしまう。
+Persian è dotato di sei baffetti furbi che gli conferiscono un aspetto forte. I baffi captano ogni movimento dell’aria riconoscendo presenze vicine. Se afferrato per i baffi, diventa docile.
 pokemon_desc_0054
-不思議な力を発揮しているコダックから眠っているときだけ出るはずの脳波が観測されて学会の話題になった。
+Psyduck usa poteri misteriosi, che scatenano onde cerebrali rilevabili apparentemente soltanto su persone addormentate. Questa scoperta ha causato reazioni contrastanti tra gli studiosi.
 pokemon_desc_0055
-手足の水かきと流線型の体が水中で恐るべきスピードを生みだす。金メダリストよりも断然速いぞ。
+Le zampe anteriori e posteriori a pinna dotate di membrana interdigitale e il corpo longilineo di Golduck gli conferiscono una velocità incredibile. Infatti è molto più veloce dei più esperti nuotatori umani.
 pokemon_desc_0056
-体が震え鼻息が荒くなれば怒りだす前触れなのだがあっという間に激しく怒るので逃げ出す暇はない。
+Quando Mankey inizia a tremare e la sua respirazione nasale diventa pesante significa che si sta infuriando. Tuttavia, a causa dei suoi repentini attacchi d’ira, è impossibile per chiunque sfuggire alla sua furia.
 pokemon_desc_0057
-激しく怒ることで血行が良くなり筋肉の力を強くするのだ。ただし頭の回転は遅くなるぞ。
+Quando Primeape s’infuria, la circolazione sanguigna si fa intensa, irrobustendo i suoi muscoli. Allo stesso tempo, tuttavia, perde anche la sua lucidità e intelligenza.
 pokemon_desc_0058
-嗅覚に優れ一度嗅いだ臭いはなにがあっても絶対に忘れない。相手の気持ちを臭いで察知する。
+Growlithe ha un senso dell’olfatto molto sviluppato: una volta annusato qualcosa non scorda più quell’odore. Sfrutta questa dote per determinare le emozioni delle altre creature.
 pokemon_desc_0059
-１００００キロの距離を一昼夜で走るといわれている快速のポケモン。体内で燃え盛る炎がパワーとなる。
+Arcanine è noto per la sua velocità. Si dice sia in grado di percorrere 10.000 km in un giorno e una notte. Il fuoco che arde indomabile nel suo corpo è fonte di forza.
 pokemon_desc_0060
-渦巻き模様の内臓が透けてしまうほど薄い皮膚だが鋭いキバをはね返す弾力を持っているのだ。
+Poliwag ha una pelle molto sottile, attraverso cui è possibile intravedere i suoi organi interni spiraliformi. Nonostante il suo esiguo spessore, la pelle è molto elastica. Anche le zanne più affilate non riescono a lacerarla.
 pokemon_desc_0061
-いつも体の表面が液体でぬるぬるぬれているため敵に捕まってもぬるりとすり抜け逃げることができるぞ。
+La superficie del corpo di Poliwhirl è sempre umida e unta di fluido oleoso. Grazie a questa pellicola viscida, nella lotta riesce a sfuggire agilmente alle grinfie del nemico.
 pokemon_desc_0062
-発達した強靭な筋肉はどんなに運動しても疲れることはない。太平洋も軽く横断できるほどだ。
+Poliwrath è dotato di muscoli molto sviluppati e robusti. Per quanto si alleni, non si stanca mai. Questo Pokémon è così infaticabile e forte che riesce ad attraversare a nuoto interi oceani.
 pokemon_desc_0063
-１日１８時間眠っているポケモン。眠ったままでも敵の気配を察知するとテレポートして逃げることができるぞ。
+Abra dorme per 18 ore al giorno, ma riesce a captare la presenza dei nemici anche durante il sonno. In questo caso il Pokémon si teletrasporta immediatamente al sicuro.
 pokemon_desc_0064
-頭痛を起こす特殊なアルファ波を出すので強い精神力の持ち主じゃないとユンゲラーのトレーナーにはなれない。
+Kadabra emette particolari onde alfa che causano mal di testa a chi si trova nelle vicinanze. Soltanto chi ha una psiche molto stabile può sperare di diventare Allenatore di questo Pokémon.
 pokemon_desc_0065
-脳がどんどん大きくなったので首では支えきれないほど頭が重くなった。超能力で頭を支えているのだ。
+Il cervello di Alakazam cresce in continuazione rendendo la sua testa troppo pesante per il collo. Pertanto è costretto a usare i suoi poteri psicocinetici per sostenerla.
 pokemon_desc_0066
-どんなに運動をしても痛くならない特別な筋肉を持つポケモン。大人１００人を投げ飛ばすパワー。
+I particolari muscoli di Machop non si infiammano mai, nemmeno in caso di esercizio eccessivo. Questo Pokémon ha forza sufficiente per scagliare lontano un centinaio di uomini.
 pokemon_desc_0067
-鍛えあげた筋肉は鋼の硬さ。相撲取りの体も指１本で楽々持ちあげてしまう怪力のポケモンだ。
+I muscoli perfettamente tonici di Machoke possiedono la durezza dell’acciaio. Questo Pokémon è così forte da riuscire a sollevare un lottatore di sumo con un dito.
 pokemon_desc_0068
-なんでも投げ飛ばすパワーを持つが細かい作業をすると腕が絡まってしまう。考えるよりも先に体が動く。
+Machamp è dotato di una forza tale da riuscire a scagliare lontano ogni cosa. Le sue braccia sono troppo possenti per riuscire a eseguire qualsiasi lavoro che richieda attenzione e destrezza. Tende ad agire prima di pensare.
 pokemon_desc_0069
-細くしなやかな体はどんな強い攻撃でもしなって避けることができる。口から鉄も溶かしてしまう液を出す。
+Il corpo esile e flessibile di Bellsprout gli consente di piegarsi e oscillare per evitare ogni attacco, anche violento. Dalla bocca sputa un fluido corrosivo in grado di sciogliere anche il ferro.
 pokemon_desc_0070
-夜になるとお尻のフックを木の枝に引っ掛けてぶら下がり眠りにつく。寝相が悪いと朝落っこちているよ。
+Weepinbell è dotato di un grande uncino posteriore. Di notte lo usa per appendersi a un ramo e mettersi a dormire. Talvolta, agitandosi nel sonno, si sveglia al suolo.
 pokemon_desc_0071
-頭についた長いつるを小さな生き物のように動かし獲物を誘う。近づいてきたところをぱくりとひとのみ。
+Victreebel è dotato di una lunga liana che parte dalla testa. Il Pokémon la sventola e la agita come fosse un’esca per attirare la preda. Quando la preda ignara si avvicina, il Pokémon la inghiotte in un sol boccone.
 pokemon_desc_0072
-体のほとんどが水でできているので海から出るとからからに干からびてしまう。干からびたときは海に戻してあげよう。
+Il corpo di Tentacool è costituito quasi solo d’acqua. Se pescato ed esposto all’aria, si secca totalmente. In caso di disidratazione, dunque, si consiglia di rimetterlo in mare.
 pokemon_desc_0073
-頭の赤い玉が光るとき激しい超音波があたりに発射される。そのとき海面が激しく波打つという。
+Tentacruel ha due grandi sfere rosse sulla testa. Le sfere brillano prima di emettere potenti ultrasuoni. Gli attacchi di questo Pokémon creano onde impetuose nei dintorni.
 pokemon_desc_0074
-長生きのイシツブテほど体の角は削れ丸くなっていくが気持ちはいつまでもごつごつとがって荒々しいのだ。
+Col passare del tempo, i profili di Geodude diventano sempre più levigati, rendendolo più tondeggiante. Tuttavia il cuore di questo Pokémon rimane sempre duro, ruvido e roccioso.
 pokemon_desc_0075
-岩を食べて成長するポケモンだ。コケのついた岩のほうが好きらしい。１日に１トンの岩を食べてしまうぞ。
+Graveler si ciba di rocce. Pare che preferisca quelle ricoperte di muschio. Questo Pokémon mangia ogni giorno dieci quintali di pietre.
 pokemon_desc_0076
-大きな地震が起こると山にすんでいるゴローニャが何匹もふもとまでごろごろ転がり落ちてくることがあるよ。
+I Golem vivono in alta montagna. In caso di terremoto, questi Pokémon rotolano giù per i monti in massa e si fermano a valle.
 pokemon_desc_0077
-生まれてすぐは立ちあがるのもやっとだが転びながら親の後を追いかけているうちに丈夫な足腰に育つのだ。
+Ponyta è molto debole alla nascita e riesce a malapena a reggersi in piedi. Poi si rinforza a furia di inciampare e cadere, cercando di tenere il passo dei suoi genitori.
 pokemon_desc_0078
-いつもはのんびり野原を駆けまわっているが一度本気を出すとたてがみの炎が燃えあがり時速２４０キロで走りだす。
+Rapidash si vede comunemente galoppare in campagne e pianure. Quando si lancia a tutta velocità la sua criniera infuocata brilla e arde mentre galoppa fino a 240 km/h.
 pokemon_desc_0079
-尻尾を川に入れてエサを釣っているがそのうちなにをしているのか忘れてしまい川べりに寝そべったまま１日を終える。
+Slowpoke usa la coda per pescare la preda, immergendola in acqua dalle rive dei fiumi. Tuttavia, spesso dimentica cosa stava facendo e trascorre giorni interi a ciondolare vicino ai corsi d’acqua.
 pokemon_desc_0080
-シェルダーがかみついているので尻尾でエサを釣れなくなったヤドランは渋々水中を泳いでエサを捕まえている。
+Slowbro ha uno Shellder saldamente attaccato alla coda, che quindi non può più essere usata per pescare. Così Slowbro può essere visto nuotare di malavoglia per catturare una preda.
 pokemon_desc_0081
-電線にくっついて電気を食べている。停電になったらブレーカーを調べよう。コイルがびっしりくっついているかも。
+Magnemite si attacca alle linee elettriche per caricarsi di energia. In caso di assenza di corrente in casa, controllare gli interruttori. Potrebbero esserci dei Pokémon attaccati alla cassetta degli interruttori.
 pokemon_desc_0082
-強い磁力で機械を壊してしまうので大きな街ではサイレンを鳴らしてレアコイルの大量発生を報せる。
+Magneton emette una potente carica magnetica fatale per tutte le apparecchiature meccaniche. Nelle città, le sirene avvertono la popolazione di grandi invasioni di questi Pokémon.
 pokemon_desc_0083
-持っている植物のクキにも良いものとそうでないものがあるらしくカモネギ同士がクキを巡って戦うことがある。
+Farfetch’d ha sempre con sé il gambo di qualche pianta. Pare che alcuni gambi siano migliori di altri. Spesso lotta con altri Pokémon per avere i gambi migliori.
 pokemon_desc_0084
-２つの頭が同時に眠ることはない。寝ているとき敵から襲われないように代りばんこで見張りをしているからだ。
+Le due teste di Doduo non dormono mai nello stesso momento, in modo che una sia sempre vigile per difendersi dai nemici, mentre l’altra può riposare tranquilla.
 pokemon_desc_0085
-３つの頭が別々の方向を向いているときは警戒している証拠。うかつに近寄るとくちばしで突かれるぞ。
+Se le tre teste di Dodrio guardano in tre direzioni diverse, significa che il Pokémon è vigile. In questo stato il Pokémon non va avvicinato, poiché potrebbe decidere di attaccare.
 pokemon_desc_0086
-氷に覆われた海でエサを採る。息継ぎをするときは頭の出っ張りで氷を割って海から顔を出す。
+Seel caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.
 pokemon_desc_0087
-冷たい氷の上で寝るのが大好き。昔氷山で眠る姿を見た船乗りが人魚と間違えた。
+Dewgong adora riposare su una gelida lastra di ghiaccio. In passato i marinai confondevano il profilo di questo Pokémon addormentato sulla superficie gelata con una sirena.
 pokemon_desc_0088
-ドロドロブヨブヨした体はどんなに細いすき間にも入り込むことができる。下水管に潜って汚い水を飲む。
+Il corpo fangoso e gommoso di Grimer può passare attraverso ogni apertura, anche la più angusta. Si intrufola dentro le condotte fognarie per bere le ripugnanti acque di scarico.
 pokemon_desc_0089
-体から染み出している体液は鼻が曲がるほど強烈な臭いを放つ。１滴でプールの水が濁り臭いだす。
+Il corpo di questo Pokémon emana un liquido marcio dall’odore nauseabondo. Una sola goccia di questo liquido è in grado di rendere l’acqua di una piscina putrida e stagnante.
 pokemon_desc_0090
-夜になると大きなベロで海底の砂に穴を掘りその中で眠る。カラを閉じて眠るがベロは出したまま。
+Di notte Shellder usa la sua lingua larga per scavare una buca sul fondo del mare e infilarcisi per dormire. Quando dorme chiude la conchiglia ma lascia la lingua fuori a penzoloni.
 pokemon_desc_0091
-飲み込んだ海水を後ろへ勢いよく噴射することで海の中を泳ぐ。トゲを発射する仕組みも同じ。
+Cloyster è in grado di nuotare in mare aperto, ingerendo acqua dalla bocca per poi espellerla violentemente a mo’ di propulsore. Questo Pokémon usa lo stesso metodo per sparare punte dalla conchiglia.
 pokemon_desc_0092
-強風を受けるとガス状の体はみるみる吹き飛ばされ小さくなってしまう。風を避けたゴースが軒下に集まる。
+Gastly è composto prevalentemente di sostanze gassose. Se esposto al vento forte il suo corpo gassoso si disperde subito. Gruppi di questi Pokémon si radunano sotto i cornicioni per ripararsi dal vento.
 pokemon_desc_0093
-闇に浮かぶゴーストが手招きしても絶対に近寄ってはいけないよ。ペロリとなめられ命を吸われてしまうぞ。
+Haunter è un Pokémon pericoloso. Se lo si vede far cenni mentre fluttua nell’oscurità, è meglio fuggire, poiché il Pokémon cercherà di leccare il malcapitato e succhiargli la vita.
 pokemon_desc_0094
-真夜中街灯の灯りでできた影が自分を追い越していくのはゲンガーが影に成りすまして走っていくからだ。
+Talvolta, nelle notti buie, può accadere che un passante sia improvvisamente assalito dalla propria ombra. È opera di Gengar, che usa avvicinarsi fingendosi un’ombra.
 pokemon_desc_0095
-脳みそに磁石があるので土の中を掘り進んでいても方向を間違えない。年を取るほど体は丸みを帯びる。
+Onix nel cervello ha una calamita, che agisce da bussola per consentirgli di non perdere l’orientamento mentre scava sottoterra. Con il passare del tempo il suo corpo diventa sempre più smussato e levigato.
 pokemon_desc_0096
-眠っているときキミの鼻がムズムズしたらまくら元に立ったスリープが鼻の穴から夢を食べようとしている合図。
+Drowzee è solito nutrirsi dei sogni degli altri mentre dormono, estraendoli dalle loro narici. Se durante il sonno si avverte prurito al naso, significa che Drowzee è già all’opera.
 pokemon_desc_0097
-手に持っている振り子の動きと輝きが相手を深い催眠状態に落とす。獲物を探しながら振り子を磨いている。
+Hypno tiene in mano un pendolo. Il movimento oscillatorio e i riflessi del pendolo fanno cadere l’avversario in un profondo stato d’ipnosi. Cercando la preda il Pokémon si prepara lucidando il pendolo.
 pokemon_desc_0098
-砂浜に穴を掘りそこで暮らしている。エサの少ない砂浜では場所取りをするクラブたちの争いをみることができる。
+Krabby vive in spiaggia, nascosto in buche scavate nella sabbia. Sulle spiagge molto sabbiose, dove scarseggia il cibo, è possibile vedere questi Pokémon attaccarsi a vicenda in difesa del proprio territorio.
 pokemon_desc_0099
-キングラーは巨大なハサミを振って仲間同士で合図を送りあっているがハサミが重すぎてすぐに疲れてしまう。
+Kingler è dotato di un’enorme chela, che brandisce nell’aria per comunicare con i suoi simili. Tuttavia, dato il notevole peso della chela sovradimensionata, il Pokémon si stanca in fretta.
 pokemon_desc_0100
-モンスターボールをつくっている会社で初めて発見されたことと姿形が似ていることの関係はまだナゾである。
+Voltorb è stato avvistato per la prima volta in un’azienda produttrice di Poké Ball. Il nesso tra la sua presenza in questa fabbrica e l’estrema somiglianza a una Poké Ball rimane un mistero.
 pokemon_desc_0101
-空気中の電気エネルギーを食べる。カミナリの落ちる日は電気を食べ過ぎたマルマインがあちらこちらで大爆発する。
+Electrode si nutre dell’elettricità presente nell’atmosfera. Quando i fulmini solcano il cielo, è possibile scorgere molti di questi Pokémon esplodere per aver ingerito un’eccessiva dose di elettricità.
 pokemon_desc_0102
-仲間思いの６個の卵はお互いに引きつけ合いくるくる回転している。カラのヒビが増えると進化は間近だ。
+Questo Pokémon è costituito da un nucleo compatto formato da sei uova, che girano vorticosamente attraendosi a vicenda. Quando i gusci iniziano a rompersi, Exeggcute è prossimo all’evoluzione.
 pokemon_desc_0103
-南国生まれのナッシーの頭は強い日差しをいっぱい浴びてどんどん育ち地面に落ちるとタマタマになるという。
+Exeggutor è originario dei tropici. Le teste crescono costantemente se esposte a forte luce solare. Pare che quando le teste cadono, si uniscano per formare un Exeggcute.
 pokemon_desc_0104
-２度と会えない母親の面影を満月にみつけて泣き声をあげる。被っているホネの染みは涙のあと。
+Cubone si strugge per la madre che non rivedrà mai più. Piange alla luna piena che somiglia molto alla madre. Le macchie sul teschio che indossa sono dovute alle lacrime copiose.
 pokemon_desc_0105
-母親に会えない悲しみを乗り越えたカラカラがたくましく進化した姿。鍛えられた心は簡単にくじけない。
+Marowak si evolve da Cubone dopo aver superato il lutto per la perdita della madre ed essersi fatto forte. Questo Pokémon dall’animo forgiato e temprato non si fa prendere facilmente dallo sconforto.
 pokemon_desc_0106
-自在に伸び縮みする足で強烈なキックを放ち相手を蹴り倒す。戦いの後疲れた足をもみ解す。
+Le zampe di Hitmonlee sono estremamente elastiche. Usandole a mo’ di molla, si scaglia sul nemico con calci rovinosi. Dopo la lotta si strofina le zampe e scioglie i muscoli per recuperare le forze.
 pokemon_desc_0107
-世界チャンピオンを目指していたボクサーの魂が宿ったといわれるエビワラーは不屈の精神で絶対にへこたれない。
+Si dice che Hitmonchan abbia l’animo di un pugile destinato a partecipare al campionato mondiale. Questo Pokémon ha uno spirito indomito e non demorde mai di fronte alle avversità.
 pokemon_desc_0108
-初めて目にするものは必ずペロリ。舌触りと味で記憶しているのだ。でも酸っぱいものはちょっと苦手。
+Quando Lickitung si trova di fronte a qualcosa di nuovo, istintivamente lo assaggia con una leccata. È dotato infatti di una memoria legata al gusto e alla consistenza degli oggetti. Non ama i sapori aspri.
 pokemon_desc_0109
-刺激を与えるとガスの毒素が強まり体のあちこちから勢いよく吹き出す。真ん丸に膨らんだ後大爆発する。
+Se Koffing si agita, aumenta la tossicità dei suoi gas interni e li espelle violentemente da tutto il corpo. Questo Pokémon riesce anche a gonfiarsi fino al punto di esplodere.
 pokemon_desc_0110
-腐った生ゴミから出るガスが大好き。掃除をしない家にすみつき家族が寝静まった真夜中ゴミ箱を漁る。
+Weezing adora i gas emanati dai resti alimentari in decomposizione. Si sente a suo agio in case sudicie e maltenute. La notte, mentre dormono tutti, lui si aggira furtivo tra i rifiuti domestici.
 pokemon_desc_0111
-ひたすら真っ直ぐ突き進み壊しまくる。鋼鉄の塊にぶつかっても平気だが１日経つとちょっと痛みを感じる。
+Rhyhorn corre diritto per la sua strada fracassando tutto ciò che trova. Non si scompone nemmeno scontrandosi con un blocco d’acciaio. Tuttavia, il giorno seguente può accusare qualche dolore.
 pokemon_desc_0112
-ツノはダイヤモンドの原石を砕き尻尾の一撃はビルをなぎ倒す。硬い皮膚は大砲でもキズつかない。
+Il corno di Rhydon riesce a fracassare anche un diamante grezzo. Un colpo della sua coda abbatte un edificio. La pelle-armatura di questo Pokémon è così coriacea da essere immune anche alle cannonate.
 pokemon_desc_0113
-栄養満点のタマゴを毎日産む。食欲を無くした人でもペロリと食べてしまうほど美味しいタマゴだ。
+Ogni giorno Chansey depone uova molto nutrienti. Queste uova sono così buone da far tornare l’appetito a chi lo ha perso.
 pokemon_desc_0114
-敵につかまれるとツルはぷちっと切れる。全然痛くないのでそのスキに逃げる。翌日には新しいツルが生えそろうぞ。
+Se afferrate, le liane di Tangela si staccano con facilità, ma in modo indolore, consentendo così una pratica scappatoia. Le liane cadute vengono sostituite da quelle nuove il giorno dopo.
 pokemon_desc_0115
-ガルーラの子どもが１匹で遊んでいても絶対に捕まえたりしてはいけないよ。近くにいる親が激しく怒りだすぞ。
+Vedendo un cucciolo di Kangaskhan giocare per conto suo, non bisogna mai disturbarlo o cercare di catturarlo. Il suo genitore, infatti, è sicuramente nei paraggi e potrebbe reagire molto violentemente.
 pokemon_desc_0116
-小さなムシや岩場のコケを食べる。海流が速くなると尻尾を岩場やサンゴに巻きつけ流されないようにする。
+Horsea si nutre di piccoli insetti e del muschio trovato sugli scogli. Se la corrente oceanica si fa rapida, avvolge la coda attorno agli spuntoni di roccia o ai coralli per evitare di essere spazzato via.
 pokemon_desc_0117
-サンゴの枝のすき間に潜って眠る。シードラに気づかずサンゴを取ろうとして毒のトゲに刺されてしまうことがある。
+Seadra dorme dopo essersi sistemato tra i rami di un corallo. I cercatori di corallo spesso rischiano di essere punti dai suoi aculei velenosi se non si accorgono della sua presenza.
 pokemon_desc_0118
-水中で優雅に棚引くひれがとても美しいポケモンだが油断をしていると強烈なツノの一突きをくらうぞ。
+Goldeen è un Pokémon molto elegante dai movimenti aggraziati. Tuttavia, è necessario stare attenti poiché potrebbe attaccare violentemente con il suo corno.
 pokemon_desc_0119
-秋になるとメスにプロポーズするために川底で踊るオスをみることができる。体の色が最も美しい季節。
+In autunno, i Seaking maschio sono soliti corteggiare le femmine con particolari danze rituali. In questa stagione il corpo di questi Pokémon assume una colorazione particolare.
 pokemon_desc_0120
-夏の終わりごろ夜に砂浜にいくとコアと呼ばれる器官を赤く光らせたヒトデマンが星のように見えるよ。
+Al centro del corpo di Staryu è presente un nucleo che brilla di un rosso intenso. In spiaggia, a fine estate, il nucleo di questi Pokémon ha l’aspetto delle stelle nel firmamento.
 pokemon_desc_0121
-体の中心にあるコアと呼ばれる部分が七色に輝くことから海の宝石という別名をつけられた。
+Il centro del corpo di Starmie, il suo nucleo, brilla in sette colori. Per la sua luminosità è chiamato “Gemma del mare”.
 pokemon_desc_0122
-目に見えないものを身振りでそこにあると信じ込ませるパントマイムの達人。信じさせたものは本当に現れる。
+Mr. Mime è un esperto di mimica. La sua gestualità e i suoi movimenti convincono l’osservatore dell’esistenza di oggetti invisibili, che saranno percepiti come concreti e reali.
 pokemon_desc_0123
-目にも止まらぬスピードが両腕のカマの切れ味をさらに鋭くするのだ。一振りすれば大木も真っ二つだ。
+Scyther è veloce come una saetta. La sua rapidità migliora l’efficacia delle due falci sulle zampe anteriori. Infatti riesce a tranciare con un colpo secco persino un tronco secolare.
 pokemon_desc_0124
-踊るような腰つきでリズミカルに歩く。その動きは見ている人も思わず腰を振ってしまうほど軽やかなのだ。
+Jynx avanza oscillando e ancheggiando ritmicamente come in una specie di danza tesa ad ammaliare il nemico. Chi vede questo Pokémon è costretto a iniziare la stessa danza senza pensare a cosa sta facendo.
 pokemon_desc_0125
-嵐がくると木の上などカミナリの落ちそうな高い場所へ競って登る。避雷針代わりにする街もある。
+All’arrivo di un temporale questi Pokémon si raggruppano e a gara scalano le vette più alte sperando di riuscire a prendere qualche fulmine. Alcune città usano gli Electabuzz al posto dei parafulmini.
 pokemon_desc_0126
-戦いになると体から灼熱の炎を噴き上げ相手を威嚇する。その熱風で周りの草木も燃やすぞ。
+In lotta, Magmar sputa fiamme roventi da tutto il corpo per intimidire l’avversario. La sua furia irruente provoca ondate di calore che bruciano tutta la vegetazione attorno a lui.
 pokemon_desc_0127
-自分の体重の２倍もある相手をツノで挟み軽々持ち上げる怪力。寒い場所では体の動きが鈍る。
+Pinsir è incredibilmente forte. Può afferrare e sollevare tra le chele sul capo un nemico dal peso doppio rispetto al suo. I suoi movimenti sono impacciati in luoghi freddi.
 pokemon_desc_0128
-いつも暴れていないと気がすまない。戦う相手がいないときは大木にぶち当たりなぎ倒すことで気を静める。
+Questo Pokémon è molto insofferente e sempre alla ricerca della rissa. Se non trova un avversario con cui lottare, Tauros si lancia contro grossi tronchi per abbatterli e calmarsi.
 pokemon_desc_0129
-跳ねることしかしない情けないポケモン。なぜ跳ねるのか調べた研究者がいるほどとにかく跳ねて跳ねて跳ねまくる。
+Magikarp è un patetico esempio di Pokémon capace soltanto di dimenarsi e sguazzare. La natura di questo comportamento inutile è oggetto di studi da parte del mondo scientifico.
 pokemon_desc_0130
-コイキングからギャラドスに進化するとき脳細胞の構造が組み換わるために性格が凶暴になるといわれている。
+Quando Magikarp si evolve in Gyarados, le cellule cerebrali subiscono una trasformazione strutturale che presumibilmente determina la natura selvaggia e violenta di questo Pokémon.
 pokemon_desc_0131
-人が絶滅の危機に追い込んでしまった。夕暮どきになると少なくなった仲間を探して悲しそうな声で歌うという。
+L’uomo ha portato Lapras alla sua quasi totale estinzione. Si dice che la sera lo si senta cantare malinconico per richiamare i suoi pochi simili ancora in vita.
 pokemon_desc_0132
-体の細胞を組み換えて変身する。思い出しながら以前見たものに変わるとちょっと違う形になってしまうのだ。
+Ditto cambia la sua struttura cellulare per assumere molte altre forme. Tuttavia, quando si affida solo alla sua memoria, talvolta dimentica dettagli importanti.
 pokemon_desc_0133
-暮らしている環境で突然変異する不安定な遺伝子を持つポケモン。石の放射線が進化を引き起こす。
+Eevee è dotato di un instabile corredo genetico che muta in base all’habitat naturale in cui è integrato. Le radiazioni di diverse pietre scatenano l’evoluzione di questo Pokémon.
 pokemon_desc_0134
-突然変異により水中で生活できるようにヒレとエラが生えてきた。水を自在に操る力を持つ。
+Vaporeon, frutto di una mutazione naturale, ha sviluppato pinne e branchie per poter vivere sott’acqua. Questo Pokémon ha la capacità di sfruttare l’acqua a suo vantaggio.
 pokemon_desc_0135
-細胞の出す弱い電気を体毛の静電気で増幅させカミナリを落とす。逆立った体毛は電気を帯びた針。
+Le cellule di Jolteon generano un basso potenziale elettrico, che viene tuttavia amplificato dall’elettricità statica della sua pelliccia, da cui scatena fulmini. La pelliccia arruffata è fatta di aghi caricati elettricamente.
 pokemon_desc_0136
-ふさふさの体毛は上がり過ぎた体温を空気に放熱して下げる機能を持つ。体温は最高９００度まで上がるぞ。
+La morbida pelliccia di Flareon ha uno scopo ben preciso: libera calore nell’aria in modo da abbassare la temperatura corporea, che nel caso di questo Pokémon può raggiungere anche 900 °C.
 pokemon_desc_0137
-全身をプログラムデータに戻して電子空間に入ることができる。コピーガードされているのでコピーできない。
+Porygon è in grado di regredire ai suoi codici di programmazione originari ed entrare nel cyberspazio. Questo Pokémon è dotato di un sistema antipirateria per evitarne la duplicazione illecita.
 pokemon_desc_0138
-大昔に絶滅したが人間の手で化石から復活させたポケモンの一つ。敵に襲われると硬いカラに隠れる。
+Omanyte è uno degli antichi Pokémon estinti, recentemente rigenerati dall’uomo. In caso di aggressione da parte di un nemico, si ritira all’interno della sua dura corazza.
 pokemon_desc_0139
-触手を操り獲物を捕まえる。カラが大きくなり過ぎたことで動きが鈍くなり絶滅したと考えられている。
+Omastar usa i suoi tentacoli per catturare la preda. Si pensa che si sia estinto a causa della conchiglia ormai troppo pesante e ingombrante, che rendeva i suoi movimenti lenti e difficoltosi.
 pokemon_desc_0140
-化石から復活したポケモンだがまれに生き続けているカブトを発見できる。その姿は３億年変わっていない。
+Kabuto è stato rigenerato da un fossile, sebbene in rarissimi casi siano stati scoperti esemplari viventi. Il Pokémon non ha subito alcuna mutazione nell’arco di oltre 300 milioni di anni.
 pokemon_desc_0141
-水中を泳ぎ獲物を捕らえていた。水の生活から地上で暮らせるようにエラや足などが変化を始めていた。
+Nell’antichità Kabutops cacciava le prede nuotando sott’acqua. Pare che il Pokémon si stesse adattando alla vita sulla terraferma, come confermano le mutazioni su branchie e zampe.
 pokemon_desc_0142
-コハクから取り出した遺伝子を再生して復活した恐竜時代のポケモン。空の王者だったと想像されている。
+Aerodactyl risale all’epoca dei dinosauri. È stato rigenerato da materiale genetico estratto dall’ambra. Si suppone che in tempi antichi fosse considerato il signore dei cieli.
 pokemon_desc_0143
-食べて寝ての繰り返しで１日が終わる。大きなお腹の上を遊び場にしている子どもたちもいるほど大人しいポケモンだ。
+La giornata tipica di Snorlax consiste in nient’altro che mangiare e dormire. È un Pokémon così docile che i bambini usano la sua enorme pancia come parco giochi.
 pokemon_desc_0144
-氷を操る伝説の鳥ポケモン。羽ばたくことで空気を冷たく冷やすのでフリーザーが飛ぶと雪が降るといわれる。
+Articuno è un Pokémon uccello leggendario, perfettamente a suo agio tra i ghiacci. Quando batte le ali, l’aria circostante diventa gelida. Per questo motivo, quando nevica, si dice che sia passato di lì.
 pokemon_desc_0145
-電気を操る伝説の鳥ポケモン。普段はカミナリ雲の中で暮らしている。カミナリに撃たれると力がわいてくる。
+Zapdos è un Pokémon uccello leggendario, perfettamente in grado di gestire l’elettricità. Acquista forza ed energia se colpito da qualche fulmine.
 pokemon_desc_0146
-炎を操る伝説の鳥ポケモン。体が傷つくと火口のマグマに入り全身を燃やして傷を癒すという。
+Moltres è un Pokémon uccello leggendario, perfettamente in grado di gestire il fuoco. Se rimane ferito, si dice che si immerga nel magma liquido di un vulcano per ardere e tornare in salute.
 pokemon_desc_0147
-ミニリュウが脱皮を繰り返しているのは体の中で生命のエネルギーがどんどん膨らみ抑えきれなくなるからだ。
+Dratini fa la muta cambiando continuamente la pelle vecchia, perché l’energia vitale del suo corpo aumenta fino a raggiungere livelli incontrollabili.
 pokemon_desc_0148
-大きなエネルギーを体にためている。首と尻尾の水晶からエネルギーを解き放ちあたりの天気を変えるという。
+Dragonair accumula un’enorme quantità d’energia all’interno del corpo. Si dice che sia in grado di mutare le condizioni meteorologiche circostanti scaricando energia dai cristalli del collo e della coda.
 pokemon_desc_0149
-１６時間で地球を１周できる。嵐で難破しかけた船を見つけると陸地まで誘導する優しいポケモン。
+Dragonite è in grado di fare il giro del mondo in sole 16 ore. È un Pokémon buono e mansueto che guida fino alla terraferma le navi prossime al naufragio.
 pokemon_desc_0150
-遺伝子操作によってつくられたポケモン。人間の科学力で体はつくれても優しい心をつくることはできなかった。
+Mewtwo è stato creato grazie a una manipolazione genetica. Tuttavia, sebbene la scienza sia riuscita a creare un corpo di Pokémon, ha fallito nell’intento di dare a Mewtwo un animo generoso.
 pokemon_desc_0151
-すべてのポケモンの遺伝子をもつという。自由自在に姿を消すことができるので人に近づいてもまったく気づかれない。
+Si dice che Mew possegga il patrimonio genetico di tutti i Pokémon. È in grado di rendersi invisibile, quando vuole, in modo da non farsi notare nemmeno da vicino.
 pokemon_desc_0152
-葉っぱを振り回して相手を威嚇するが葉っぱから甘い香りが漂うのでお互いに和やかな雰囲気になるよ。
+Nella lotta, Chikorita sventola la sua foglia in modo da tenere a bada il nemico. Tuttavia, la foglia emana anche un aroma dolce, che calma il Pokémon avversario, creando un’atmosfera gradevole e rilassata tutt’attorno.
 pokemon_desc_0153
-首の周りのくるりと巻いた葉っぱの中には小さな木の芽が１個なっている。その香りは人を元気にさせるぞ。
+Il collo di Bayleef è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L’aroma emanato da questo germoglio ha un effetto energizzante sull’uomo.
 pokemon_desc_0154
-花の香りは気持ちを穏やかにする。戦いのときは香りを発散させて相手の戦う気持ちを鈍らせるのだ。
+L’aroma del fiore di Meganium placa le emozioni. Nella lotta questo Pokémon emana un profumo con effetto calmante per smorzare l’aggressività del nemico.
 pokemon_desc_0155
-背中から炎を噴き上げて身を守る。怒ったときの炎は勢いがいいが疲れているときは不完全燃焼する。
+Cyndaquil si protegge grazie alle fiamme che gli ardono sul dorso. Le fiamme divampano impetuose se il Pokémon è adirato. Tuttavia, quando è stanco diventano fiammelle innocue dalla combustione incompleta.
 pokemon_desc_0156
-炎の勢いと熱風で威嚇する。素早い身のこなしで相手の攻撃をかわしながら同時に炎で燃やす。
+Quilava tiene a bada il nemico grazie all’intensità delle sue fiamme e a getti di aria rovente. Questo Pokémon sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre ustiona il nemico.
 pokemon_desc_0157
-灼熱の炎で周りに陽炎をつくりだして姿を隠すことができる。燃えあがる爆風はすべてを焼き尽くすぞ。
+Typhlosion si nasconde avvolto da una lucente nube di calore creata dalle sue fiamme roventi. Questo Pokémon crea esplosioni spettacolari che riducono in cenere ogni cosa.
 pokemon_desc_0158
-小さな体でもアゴの力は強い。ワニノコ自身は甘がみしているつもりでも大怪我をしてしまうほどの力がある。
+Nonostante il suo corpicino minuto, le mascelle di Totodile sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.
 pokemon_desc_0159
-一度かみついたら絶対に離さない。キバの先が釣り針みたいに反り返っているので一度刺さると抜けなくなるのだ。
+Una volta azzannato il nemico, Croconaw non molla la presa facilmente. Le zanne a punta ricurva all’indietro, a mo’ di amo da pesca, rendono impossibile estrarle quando sono conficcate in profondità.
 pokemon_desc_0160
-大きな口を開けて相手を威嚇する。強靭な後ろ足で地面を蹴ってものすごいスピードで突進してくるぞ。
+Feraligatr spaventa il nemico spalancando la sua bocca enorme. Nella lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico a un’incredibile velocità.
 pokemon_desc_0161
-眠るときには交代で見張りをする。危険を察知すると仲間をおこすのだ。群れからはぐれると怖くて眠れなくなる。
+Sentret dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo Pokémon non riesce più a dormire dalla paura.
 pokemon_desc_0162
-敵に襲われても細いすき間にするりと潜り込んで逃げることができる。手足は短いがとてもすばしっこい。
+Furret è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo Pokémon è molto agile e rapido nei movimenti.
 pokemon_desc_0163
-体の中には地球の自転を感じ取る器官を持っているので毎日同じ時間になると鳴き声をあげる。
+Hoothoot è dotato di un organo interno che percepisce e segue la rotazione terrestre. Grazie a questo speciale organo inizia a urlare esattamente alla stessa ora ogni giorno.
 pokemon_desc_0164
-わずかな光でも見える優れた目と羽音を立てない柔らかい羽のおかげで暗闇では獲物を絶対に逃がさない。
+Noctowl non manca mai la cattura di una preda nell’oscurità. L’infallibilità gli deriva dall’acutissima vista, che gli consente di vedere anche alla luce più flebile, e dalle ali morbide e soffici, silenziosissime in volo.
 pokemon_desc_0165
-足の付け根から出す液体の臭いで仲間とコミュニケーションを取っている。臭いの違いで気持ちを伝えるという。
+Dalla giuntura delle zampe col corpo Ledyba secerne un fluido aromatico usato per comunicare con i suoi simili. Questo Pokémon comunica le sue sensazioni alterando l’odore del fluido.
 pokemon_desc_0166
-星が沢山見える空気のきれいな土地にはレディアンが沢山すむという。星明りをエネルギーにしているからだ。
+Si dice che in luoghi dall’aria pura e dal cielo terso e stellato vivano moltissimi Ledian. Ciò è dovuto alla loro abitudine di usare la luce delle stelle come fonte energetica.
 pokemon_desc_0167
-糸でつくったワナは第２の神経。糸を伝わるわずかな振動だけで獲物の種類がわかるといわれている。
+La ragnatela tessuta da Spinarak può essere considerata il suo secondo sistema nervoso. Infatti, pare che questo Pokémon riesca a capire la natura della sua preda dalle leggere vibrazioni di tale ragnatela.
 pokemon_desc_0168
-足の先端には小さなカギヅメがあり天井や垂直の壁も歩ける。細く丈夫な糸で敵を絞めあげる。
+Le zampe di Ariados sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo Pokémon intrappola il nemico con la sua ragnatela sottile e robusta.
 pokemon_desc_0169
-腕か足のどちらかだけで羽ばたいているときは長い距離を飛んでいる証拠。疲れると羽ばたくハネを変えるのだ。
+Quando Crobat vola agitando soltanto un paio d’ali, quelle anteriori o quelle posteriori, significa che ha affrontato un volo molto lungo. Infatti, se è stanco cambia le ali che sta usando.
 pokemon_desc_0170
-２本の触手からプラスとマイナスの電気を流して獲物を気絶させる。電気の灯りは仲間とのサインだ。
+Chinchou libera una carica elettrica positiva e negativa dalle due antenne per intontire la preda. Il Pokémon usa le sue luci elettriche per scambiare segnali coi suoi simili.
 pokemon_desc_0171
-深海の星と呼ばれるポケモンだ。触手の中のバクテリアと体液を化学反応させることで光をつくる。
+Lanturn è detto anche “Stella degli abissi” per la sua antenna-lanterna. Genera la luce grazie a una reazione chimica tra i batteri e i fluidi corporei all’interno dell’antenna stessa.
 pokemon_desc_0172
-雷雲がでているときや空気の乾燥した日は電気がたまりやすい。パチパチ静電気の音が鳴っているよ。
+Pichu si carica di elettricità più facilmente in caso di cielo coperto da nubi temporalesche o aria molto secca. Spesso si può percepire lo scoppiettio della sua carica elettrostatica.
 pokemon_desc_0173
-流れ星の多い夜は輪になって踊るピィの姿をみることができる。日の出まで踊り夜露でのどを潤す。
+In notti con molte stelle cadenti, è facile vedere molti Cleffa danzare in cerchio. Ballano per tutta la notte fermandosi soltanto alle prime luci dell’alba per dissetarsi bevendo le gocce di rugiada.
 pokemon_desc_0174
-声帯がまだ十分に発達していないので歌い続けるとノドが痛む。きれいな小川の水でうがいをするよ。
+Le corde vocali di Igglybuff non sono sufficientemente sviluppate. Se eccede nel canto, gli viene il mal di gola. È solito fare i gargarismi con l’acqua corrente dei torrenti puri.
 pokemon_desc_0175
-人やポケモンが発している優しさや楽しい気持ちをエネルギーにしている。カラの中にためた幸せを分けている。
+Togepi ricava la sua energia dai nobili sentimenti di affetto e generosità emanati dai Pokémon e dall’uomo. Togepi immagazzina le sensazioni di felicità dentro il suo guscio e le divide con gli altri.
 pokemon_desc_0176
-幸運をもたらすポケモンといわれている。純粋な心の持ち主をみつけると姿をあらわし幸せを分け与える。
+Togetic pare essere un Pokémon di buon auspicio. Quando riconosce un cuore puro, si dice che condivida la sua felicità con questa persona.
 pokemon_desc_0177
-羽がまだ育っていないので飛べない。目を合わせるとじっと見つめるが相手が少しでも動くと飛び跳ねて逃げていく。
+Natu non riesce a volare a causa delle ali non ancora totalmente sviluppate. Se lo si guarda negli occhi, ricambia lo sguardo, ma al primo movimento scappa via per mettersi al sicuro.
 pokemon_desc_0178
-1日中ネイティオがじっとしているのは未来予知でわかった恐ろしい出来事におびえているからだと信じられている。
+Xatu rimane in piedi immobile nello stesso punto tutto il giorno. Qualcuno crede che si comporti così per gli eventi terribili che ha previsto per il futuro.
 pokemon_desc_0179
-体毛がこすれて静電気がたまる。電力が沢山たまるほど尻尾の先についた電球が明るく光る。
+Il morbido manto lanoso di Mareep genera una carica elettrostatica mediante sfregamento. La luminosità della lampadina sulla punta della coda dipende dalla potenza della carica elettrica.
 pokemon_desc_0180
-体毛の性質が変化するので少ない量でも沢山の電気をつくりだせる。電気を遮るつるつるの肌を持つ。
+La qualità della lana di Flaaffy varia in modo da generare un’alta carica elettrostatica con un ridotto quantitativo di lana. Le parti scoperte e vulnerabili del suo corpo sono schermate contro le scosse.
 pokemon_desc_0181
-デンリュウの灯りは宇宙からも見える。昔の人はデンリュウの灯りを使い遠くの仲間と合図を送りあっていた。
+Ampharos emana una luce così intensa da essere visibile anche dallo spazio. In passato si usava questo Pokémon per mandare segnali luminosi a persone molto lontane.
 pokemon_desc_0182
-太陽の光をいっぱい浴びると体の葉っぱがくるくる回り始める。キレイハナのダンスは南国の名物だ。
+Quando Bellossom si espone al sole, le foglie che circondano il suo corpo iniziano a girare vorticosamente. La danza di questo Pokémon è nota nelle regioni meridionali.
 pokemon_desc_0183
-油のつまった尻尾は浮き輪の代り。水面に尻尾だけが浮いているときは潜って水草を食べている目印だ。
+La coda di Marill contiene dell’olio e agisce da salvagente. Se si scorge soltanto la sua coda a pelo d’acqua, significa che questo Pokémon si sta immergendo in profondità per cibarsi di piante acquatiche.
 pokemon_desc_0184
-長い耳はマリルリの大事なセンサー。耳を澄ませば流れの激しい川でもそこにいる獲物の種類がわかるぞ。
+Le lunghe orecchie di Azumarill sono sensori indispensabili. Concentrandosi sull’udito, è in grado di identificare che tipo di prede ci siano nelle vicinanze, anche in torrenti rapidi e impetuosi.
 pokemon_desc_0185
-敵に襲われないように木のふりをする。両手は１年中緑色なので冬は偽物だとすぐにばれてしまう。
+Sudowoodo si camuffa da albero per evitare gli attacchi nemici. Tuttavia, poiché gli arti superiori sono sempreverdi, d’inverno viene scoperto facilmente.
 pokemon_desc_0186
-頭の巻き毛は王者の証だ。長くきれいに巻いているニョロトノほど仲間の尊敬を集めるといわれている。
+Il pennacchio arricciato sul capo di Politoed simboleggia il suo stato di re. Si dice che più lungo e più arricciato è il pennacchio, maggiore sia il rispetto che questo Pokémon riceve dai suoi pari.
 pokemon_desc_0187
-風に乗ってふわふわ漂うポケモン。強風の気配を感じると仲間同士葉っぱを絡め飛ばされない準備をする。
+Hoppip fluttua nell’aria trasportato dal vento. Se percepisce l’avvicinarsi di una forte corrente, Hoppip unisce le foglie con quelle dei suoi simili per non essere spazzato via.
 pokemon_desc_0188
-気温が１８度を超えると花が開く。温度により花の開きかたが変わるので温度計の代りにすることもある。
+Il fiore di Skiploom sboccia quando la temperatura sale oltre i 18 °C. L’apertura del fiore dipende dalla temperatura. Per questo motivo il Pokémon è usato anche come termometro.
 pokemon_desc_0189
-暖かい南風に乗って海を越え外国まで飛んでいってしまうポケモン。冷たい空気に触れると地面に降りる。
+Jumpluff si affida alle correnti d’aria calda per attraversare il mare e volare verso terre lontane. Questo Pokémon ridiscende a terra quando incontra una corrente fredda mentre fluttua.
 pokemon_desc_0190
-器用に動く尻尾の先を手のひらの代りに使っていたら反対に両手が不器用になってしまったポケモンだ。
+La coda di Aipom termina in un’appendice a forma di mano dotata di grande abilità. Tuttavia, poiché il Pokémon usa così tanto la coda, le sue vere mani sono diventate molto maldestre.
 pokemon_desc_0191
-体にためた栄養は進化のときまで取っておくためほとんど動こうとしない。なにも食べずに朝露だけを飲んでいる。
+Sunkern cerca di muoversi il meno possibile per preservare le sostanze nutritive che ha immagazzinato nel corpo per la sua evoluzione. Non mangia nulla, si nutre solo di rugiada mattutina.
 pokemon_desc_0192
-太陽エネルギーから栄養をつくりだす。気温の高い日中活発に動き太陽が沈むとぱったり動かなくなる。
+Sunflora converte l’energia solare in nutrimento. È attivo durante il giorno quando fa caldo. Tuttavia, appena il sole tramonta non fa più il minimo movimento.
 pokemon_desc_0193
-目玉を動かさずに３６０度見渡せる。急ブレーキや方向転換が得意。ねらった獲物を素早く追いつめていく。
+Yanma è dotato di un campo visivo a 360 gradi senza bisogno di muovere gli occhi. Grazie alle grandi ali riesce a fermarsi improvvisamente e virare a mezz’aria. Sfrutta la sua abilità in volo per abbattere la preda al suolo.
 pokemon_desc_0194
-普段は水の中で暮らしているがエサを探すときなどたまに地上に出てくる。陸では毒の粘液で体を覆う。
+Di solito Wooper vive in acqua. Tuttavia, talvolta si avventura sulla terraferma in cerca di cibo. In queste occasioni, si ricopre il corpo di una sostanza appiccicosa e velenosa.
 pokemon_desc_0195
-水の中で口を開けてエサが偶然飛び込んでくるのをただただ待っている。動かないのであまりお腹が空かないのだ。
+In acqua Quagsire attende la preda tenendo sempre la bocca spalancata per catturare qualche ignaro malcapitato. Poiché questo Pokémon non fa molto moto, non è mai troppo affamato.
 pokemon_desc_0196
-認めたトレーナーには極めて忠実。トレーナーを危険から守るために予知能力が発達したといわれている。
+Espeon è estremamente leale nei confronti di qualsiasi Allenatore considerato all’altezza. Si dice che questo Pokémon abbia sviluppato capacità precognitive per proteggere il proprio Allenatore.
 pokemon_desc_0197
-月の波動を受けて進化したポケモン。暗闇にじっと潜み相手をうかがう。襲いかかるとき体の輪っかが光る。
+Umbreon si è evoluto grazie all’esposizione alle onde lunari. Rimane nascosto silenzioso nell’oscurità in attesa di un movimento del suo nemico. I cerchi sul corpo brillano durante l’attacco.
 pokemon_desc_0198
-不幸を運ぶといわれ恐れられていた。キラキラ光るものに興味を示し女性の指輪を取っていこうとする。
+Murkrow era temuto e disprezzato poiché si pensava portasse sfortuna. Questo Pokémon mostra un vivo interesse per tutto ciò che luccica e brilla. Arriva persino a tentare di rubare gli anelli alle signore.
 pokemon_desc_0199
-世界の不思議を解明するため毎日研究しているが頭のシェルダーが外れると全部忘れてしまうらしい。
+Ogni giorno Slowking cerca di comprendere e svelare i misteri del mondo. Tuttavia, pare che questo Pokémon dimentichi tutto ciò che ha imparato se perde lo Shellder che ha sul capo.
 pokemon_desc_0200
-すすり泣くような鳴き声で怖がらせる。相手の怖がる心を赤い玉で吸収して栄養にしているらしい。
+Misdreavus terrorizza le persone con un singhiozzo raccapricciante. Pare usi le sue sfere rosse per assorbire la paura dei nemici e cibarsene.
 pokemon_desc_0201
-古代の文字に似た姿のポケモン。先に生まれたのは文字かアンノーンなのか。研究中だがいまだに謎である。
+Questo Pokémon pare una lettera di un alfabeto antico. A tutt’oggi rimane un mistero chi sia comparso prima, se l’alfabeto o Unown. Sono in corso ricerche in merito ma non si sa ancora praticamente nulla.
 pokemon_desc_0202
-２匹以上集まると我慢比べを始めるが空腹を我慢してしまうのでソーナンストレーナーは注意が必要。
+Quando due o più Wobbuffet si incontrano, diventano competitivi tentando di vanificare la reciproca resistenza. Talvolta fanno anche a gara per vedere chi resiste di più senza cibo. Gli Allenatori devono fare attenzione.
 pokemon_desc_0203
-尻尾の頭にも小さな脳がある。臭いや音に反応して攻撃するので後ろから近寄るといきなりかみつかれる。
+La testa posteriore di Girafarig è dotata di un cervello piccolissimo. Attacca soltanto in risposta agli odori e ai suoni. Avvicinando questo Pokémon da dietro sussiste il pericolo di essere morsi dalla testa posteriore.
 pokemon_desc_0204
-木の枝にぶら下がり獲物を待っている。木を揺らされて食事の邪魔をされると地面に落ちてからいきなり爆発するぞ。
+Pineco pende dal ramo di un albero e attende pazientemente l’arrivo della sua preda. Se l’albero viene scosso mentre il Pokémon mangia, Pineco cade a terra esplodendo senza preavviso.
 pokemon_desc_0205
-鋼鉄のカラの中に本体がいる。獲物を捕まえるときにカラが開くがあまりの速さに中身は見えないのだ。
+Forretress si nasconde all’interno della sua conchiglia d’acciaio temprato. La conchiglia si apre soltanto per catturare la preda, ma il Pokémon ha una rapidità tale che non è possibile osservarne l’interno.
 pokemon_desc_0206
-ドリルのシッポを使って後ろ向きに地面を掘り進み複雑な形の巣穴を地中深くにつくるポケモン。
+Dunsparce ha un trapano al posto della coda, che usa per scavare a ritroso nel terreno. È noto per la complessa forma delle tane che crea sottoterra in profondità.
 pokemon_desc_0207
-音を立てず滑るように滑空する。両腕の大きなツメと足のツメで獲物の顔にしがみつき毒針を刺す。
+Gligar fende l’aria impercettibilmente come se stesse scivolando. Questo Pokémon si aggrappa al viso del nemico usando le zampe posteriori artigliate e le possenti chele sulle zampe anteriori, poi avvelena la preda con il suo aculeo.
 pokemon_desc_0208
-イワークよりも深い地中にすんでいる。地球の中心に向かって掘り進み深さ１キロに達することもある。
+Steelix è noto per i suoi scavi in profondità, a distanze maggiori rispetto a Onix. Sono stati riportati record di profondità pari a 1 km sottoterra.
 pokemon_desc_0209
-キバをむき出して怖い顔をすれば小さなポケモンならおびえて逃げ出す。逃げられたブルーはちょっと寂しそう。
+Mostrando le zanne e ringhiando furiosamente, Snubbull terrorizza i Pokémon più piccoli mettendoli in fuga. Tuttavia, pare intristirsi ogni volta che il nemico scappa atterrito.
 pokemon_desc_0210
-下アゴがとても発達したポケモン。キバが重たいので首を傾げている。驚かさなければ無暗にかみつかない。
+Granbull è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se spaventato, può mordere in modo inconsulto.
 pokemon_desc_0211
-飲み込んだ水の力を利用して全身の毒針を一斉に打ち出す。泳ぐのはちょっと苦手なポケモンだ。
+Qwilfish si gonfia assorbendo acqua. Poi usa la pressione dell’acqua ingerita per sparare i suoi aculei velenosi tutti insieme in un colpo solo. Non si può certo dire che sia un grande nuotatore.
 pokemon_desc_0212
-鋼の硬さを持つ体はちょっとやそっとの攻撃ではびくともしないぞ。ハネを羽ばたかせ体温を調節する。
+Il corpo di Scizor è duro come l’acciaio. Gli attacchi più comuni non riescono neanche a scalfirlo. Sbatte le ali per regolare la propria temperatura corporea.
 pokemon_desc_0213
-岩の下で甲羅の中にたくわえたきのみを食べながら身を潜めている。体液と混ざりきのみはジュースになる。
+Shuckle si nasconde tranquillo sotto le rocce mentre mangia le bacche che ha raccolto precedentemente all’interno della sua corazza. Queste si trasformano in succo col fluido del corpo.
 pokemon_desc_0214
-一直線に敵の懐に潜り込みたくましいツノですくい上げ投げ飛ばす。大木も根こそぎ倒すほどのパワーだ。
+Heracross si lancia all’attacco dritto contro il nemico, lo afferra con forza, lo solleva in aria e poi lo incorna violentemente scagliandolo lontano. Riesce ad abbattere un grosso albero.
 pokemon_desc_0215
-手足のカギヅメを突き立てて木を登る。親のいないすきをねらって木の上にある巣からタマゴを盗んで食べる。
+Sneasel si arrampica sugli alberi conficcando i suoi artigli uncinati nella corteccia. È sempre alla ricerca di nidi incustoditi per rubare le uova e cibarsene mentre i genitori sono assenti.
 pokemon_desc_0216
-ミツの染み込んだ手の平をなめている。ヒメグマのミツは果物とスピアーの集めた花粉がブレンドされてつくられる。
+È solito inzuppare nel miele le zampe anteriori per poi succhiarle avidamente. Teddiursa produce il proprio miele dai frutti e dal polline raccolto da Beedrill.
 pokemon_desc_0217
-森の中にはリングマがエサ集めをする大木や小川があちこちにあるという。毎日エサを集めて森を歩く。
+Si dice che nelle foreste in cui vive Ursaring ci siano molti corsi d’acqua e alberi giganti dove questo Pokémon nasconde le proprie scorte di cibo. Ogni giorno si aggira nella foresta alla ricerca di alimenti.
 pokemon_desc_0218
-体の中では灼熱の溶岩が渦巻いているが冷えると固まってしまい崩れて体が小さくなっていく。
+Nel corpo di Slugma scorre magma liquido. In caso di congelamento, il magma si raffredda e si solidifica. Il corpo diventa fragile e cade a pezzi consumandosi progressivamente.
 pokemon_desc_0219
-カラは皮膚が冷えて固まったもの。触っただけでボロボロと崩れてしまう。マグマに入ると元の大きさに戻る。
+La corazza di Magcargo è formata dalla sua pelle induritasi per effetto del raffreddamento. La corazza è fragile e friabile: cade a pezzi al minimo contatto. Riacquista le sue dimensioni normali immergendosi nel magma.
 pokemon_desc_0220
-地面に鼻を擦りつけてエサを探す。枯草の下に生えたキノコが好物。たまに温泉を掘り当てることがあるよ。
+Swinub cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.
 pokemon_desc_0221
-凍える寒さにも耐えられるように厚くて長い毛皮に覆われている。氷に埋まったエサをキバで掘り出す。
+Piloswine è ricoperto da una fitta chioma di pelo lungo che lo aiuta a contrastare il freddo pungente. Usa le proprie zanne per scavare in cerca del cibo sepolto sotto i ghiacci.
 pokemon_desc_0222
-サンゴの枝は太陽の光を浴びると七色にキラキラ輝きとてもきれい。折れても一晩で元通りに生えてくる。
+Le ramificazioni dei Corsola brillano in sette meravigliosi colori se esposte alla luce del sole. Se qualche ramo si spezza e cade viene rigenerato nell’arco di una notte.
 pokemon_desc_0223
-飲んだ水を腹筋を使い勢いよく吹き出して空を飛ぶ獲物を仕留める。進化が近づくと川を下っていく。
+Remoraid assorbe acqua che espelle ad alta pressione usando la potenza degli addominali per abbattere le prede in volo. Quando si avvicina il momento evolutivo si sposta a valle seguendo il fiume.
 pokemon_desc_0224
-吸盤の腕で相手に絡みつく。動けなくなったところを仕留めるのだ。かなわないときはスミを吐いて逃げる。
+Octillery afferra il nemico con i tentacoli immobilizzandolo prima di sferrare il colpo finale. Se il nemico è molto forte, Octillery sputa inchiostro e scappa.
 pokemon_desc_0225
-尻尾でエサを包み持ち運ぶポケモン。デリバードにエサを分けてもらったおかげでエベレストを登り切れた冒険家がいた。
+Delibird trasporta il cibo avvolgendolo nella coda. Si narra di un esploratore che riuscì a raggiungere la vetta del monte più alto del mondo grazie alla riserva di cibo di questo Pokémon.
 pokemon_desc_0226
-晴れた日には海の上を優雅に跳ねるマンタインの群れを見ることができるよ。テッポウオがくっついていても気にしない。
+Nelle giornate soleggiate è possibile vedere banchi di Mantine nuotare con eleganza sulle onde marine. Talvolta offrono anche un comodo trasporto ai Remoraid.
 pokemon_desc_0227
-全身が硬いヨロイに覆われている。時速３００キロのスピードで空を飛び刀の切れ味を持つハネで切り裂く。
+Skarmory è interamente corazzato all’interno di una dura armatura di protezione. Vola alla velocità di 300 km/h. Lacera il nemico con le sue ali taglienti come la lama di una spada.
 pokemon_desc_0228
-様々な鳴き声を使いわけ仲間と連絡を取りあい獲物を追い込んでいく。チームワークの見事さはポケモン随一。
+Gli Houndour cacciano in squadre organizzate. Comunicano tra loro con svariati versi per intrappolare la preda. Quest’incredibile lavoro di squadra è unico nel suo genere.
 pokemon_desc_0229
-頭のツノが大きく反り返っているヘルガーがグループのリーダー的存在。仲間同士で争いリーダーが決まる。
+In un branco di Houndoom, il capobranco è riconoscibile dalle corna fortemente arcuate all’indietro ed è quello che si dimostra più forte nella lotta contro gli altri.
 pokemon_desc_0230
-生物のすまない深海に生息する。キングドラの欠伸が逆巻く海流を引き起こすと長い間信じられてきた。
+Kingdra vive negli abissi oceanici di solito privi di ogni forma di vita. Si crede che uno sbadiglio di Kingdra generi correnti oceaniche spiraliformi.
 pokemon_desc_0231
-川の畔に縦穴を掘って暮らす。すみかの近くに鼻の印をつけて自分の場所だと仲間に教えているよ。
+Phanpy crea il suo nido scavando delle fosse profonde nel terreno in riva al fiume. Delimita l’area attorno al nido usando la proboscide per indicare la sua proprietà.
 pokemon_desc_0232
-体を丸めて高速回転しながら相手に突進する攻撃が得意。転がり始めるとなかなか止まれなくなる。
+Donphan adora attaccare arrotolandosi in forma sferica e puntando sul nemico ad elevata velocità. Una volta partito, questo Pokémon è molto difficile da fermare.
 pokemon_desc_0233
-人間が科学の力でつくりだした。人工知能を持たせたので新しい仕草や感情をひとりで覚えていく。
+Porygon2 è una creatura artificiale frutto del sapere scientifico. Questo Pokémon è dotato di un’intelligenza artificiale che gli consente d’imparare autonomamente nuovi comportamenti ed emozioni.
 pokemon_desc_0234
-見事な形のツノは美術品として高く売れたために絶滅寸前まで乱獲されたことのあるポケモン。
+Le magnifiche corna ramificate di Stantler venivano vendute a caro prezzo come ornamenti preziosi. Questo ha causato una caccia indiscriminata di questo Pokémon fin quasi all’estinzione.
 pokemon_desc_0235
-尻尾の先からにじみ出る体液で縄張りの周りに自分のマークを描く。５０００種類のマークが見つかっている。
+Smeargle delimita i confini del suo territorio con il fluido corporeo secreto dalla punta della coda. Sono state rinvenute ben 5000 diverse delimitazioni lasciate da questo Pokémon.
 pokemon_desc_0236
-毎日トレーニングしないとストレスがたまってしまうのでトレーナーは育てるときスケジュール管理に工夫が必要だ。
+Tyrogue ha bisogno di allenarsi ogni giorno per scaricare la sua energia. Gli Allenatori che lo allevano devono stabilire e praticare diverse metodologie di allenamento.
 pokemon_desc_0237
-高速回転しながら放つキックは攻撃と防御を兼ねた見事な技。歩くよりも回転したほうが速い。
+Hitmontop rotea sulla testa ad alta velocità sferrando calci violenti. Questa tecnica è molto efficace sia in attacco che in difesa. Il Pokémon si muove molto più velocemente roteando che non camminando.
 pokemon_desc_0238
-元気いっぱい動き回るがよく転ぶ。むっくり起き上がると湖の水面に顔を映して汚れていないか調べる。
+Smoochum scorrazza vivacemente, ma spesso inciampa e cade. Così, appena può, cerca di specchiarsi da qualche parte per assicurarsi di non essersi imbrattato il volto.
 pokemon_desc_0239
-金属に触って体にためた電気が放電してしまうと両腕をぐるぐる回して再び電気をためる。
+Elekid immagazzina elettricità nel corpo. Se, a contatto col metallo, scarica accidentalmente l’elettricità accumulata, inizia a far oscillare gli arti superiori con movimenti circolari per ricaricarsi.
 pokemon_desc_0240
-黄色い炎を口から吹いているときは健康な証拠だが疲れていると黒い煙が混ざるようになるぞ。
+Lo stato di salute di Magby si evince osservando il fuoco che emette dalla bocca. Se sputa fiamme gialle, gode di buona salute, mentre se è stanco o affaticato, le fiamme sono miste a fumo nero.
 pokemon_desc_0241
-毎日２０リットルのミルクをだす。甘いミルクは大人も子どもも大好き。苦手な人はヨーグルトにして食べている。
+Miltank produce 20 litri di latte al giorno. Il latte è apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per farne uno yogurt squisito.
 pokemon_desc_0242
-ふわふわの体毛で悲しんでいる心をキャッチするとどんなに遠くでも駆けつけて笑顔になるしあわせタマゴを分けてあげる。
+Blissey percepisce la tristezza degli altri tramite la sua soffice pelliccia. In tal caso si reca da chi è triste, ovunque si trovi, per condividere un Fortunuovo che riporta il sorriso sul volto afflitto.
 pokemon_desc_0243
-雷のスピードを宿したポケモン。その遠ぼえは雷が落ちたときのように空気を震わせ大地を揺るがす。
+Raikou rappresenta la velocità del fulmine. Il suo ruggito crea terrificanti onde d’urto nell’aria e scuote il suolo come se fosse percosso dalla furia di un fulmine durante il temporale.
 pokemon_desc_0244
-マグマの情熱を宿したポケモン。火山の噴火から生まれたと考えられすべてを焼き尽くす炎を噴き上げる。
+Entei rappresenta l’ardore del magma. Si narra che questo Pokémon sia nato dall’eruzione di un vulcano. Emette lingue di fuoco così violente da incenerire tutto ciò che lambiscono.
 pokemon_desc_0245
-わき水の優しさを宿したポケモン。滑るような身のこなしで大地を走り濁った水を清める力を持つ。
+Suicune rappresenta la purezza delle sorgenti d’acqua dolce. Corre con grazia immerso nella natura. Questo Pokémon ha la facoltà di depurare le acque di scarico.
 pokemon_desc_0246
-地中深くで生まれるヨーギラスは土を食べ尽くして地上へ出ないと親の顔を見ることができないのだ。
+Larvitar nasce nelle viscere della terra. Per emergere in superficie deve farsi strada inghiottendo la terra che lo ostacola. Larvitar non può vedere il volto dei propri genitori finché non emerge.
 pokemon_desc_0247
-体内でつくりだしたガスを圧縮して勢いよく噴射することで飛んでいく。鋼鉄にぶつかっても平気なボディだ。
+All’interno del suo corpo Pupitar genera un gas che comprime ed espelle con forza come il propulsore di un jet. Il suo corpo è estremamente resistente, anche in caso di impatto con acciaio massiccio.
 pokemon_desc_0248
-自分のすみかをつくるために山を一つ崩してしまうほどの強いパワーを持つ。戦う相手を求めて山をさまよう。
+Tyranitar ha una potenza tale da abbattere anche un’intera montagna per crearsi la tana. Vaga tra i monti alla ricerca di nuovi avversari con cui lottare.
 pokemon_desc_0249
-翼を軽く羽ばたかせただけで民家を吹き飛ばす破壊力を持っているために海底で人知れず暮らすようになった。
+Le ali di Lugia hanno un’enorme potenza distruttiva: un leggero battito d’ali è in grado di abbattere una normale abitazione. Perciò il Pokémon ha scelto di vivere lontano dall’uomo, nelle profondità abissali.
 pokemon_desc_0250
-光の当たる角度によって七色に輝くハネは幸せをもたらすという。虹のふもとにすむといわれている。
+Il piumaggio di Ho-Oh brilla in sette colori a seconda dell’angolazione dei raggi luminosi. Si dice che le sue piume portino felicità a chi le possiede. Si narra che viva ai piedi di un arcobaleno.
 pokemon_desc_0251
-時を越え未来からやってきたポケモン。セレビィが姿を現す限り明るい未来が待っていると考えられている。
+Celebi è giunto a noi dal futuro, viaggiando attraverso il tempo. Si dice che ogni sua apparizione preannunci un futuro roseo e splendente.
 pokemon_desc_0252
-足の裏の小さなトゲを引っ掛けて垂直のカベを登ることができる。太い尻尾をたたきつけて攻撃する。
+Treecko è dotato di piccoli uncini sulla pianta delle zampe, che gli consentono di camminare su pareti verticali. Attacca frustando i suoi nemici con la coda grossa e forte.
 pokemon_desc_0253
-体から生えた葉っぱは森の中で敵から姿を隠すときに便利。密林に暮らす木登りの名手。
+Le foglie che crescono sul corpo di Grovyle sono utili per mimetizzarsi contro i nemici nella foresta. Questo Pokémon sa arrampicarsi sugli alberi della giungla con una maestria senza pari.
 pokemon_desc_0254
-体に生えた葉っぱは鋭い切れ味。素早い身のこなしで木の枝を飛び回り敵の頭上や背後から襲いかかるぞ。
+Le foglie che crescono sul corpo di Sceptile hanno margini taglienti. Questo Pokémon è agilissimo, infatti salta da un ramo all’altro e piomba sui nemici sorprendendoli dall’alto.
 pokemon_desc_0255
-トレーナーにくっついてちょこちょこ歩く。口から飛ばす炎は摂氏１０００度。相手を黒コゲにする灼熱の玉だ。
+Torchic segue il proprio Allenatore ovunque, saltellandogli dietro con passo incerto. Questo Pokémon sputa fiammate roventi a 1000 °C, con sfere infuocate capaci di carbonizzare il nemico.
 pokemon_desc_0256
-野山を走り回って足腰を鍛える。スピードとパワーを兼ね備えた足は１秒間に１０発のキックを繰り出す。
+Combusken si allena correndo in campagna e in montagna. Le zampe inferiori sono rapide e potenti e riescono a sferrare dieci calci al secondo.
 pokemon_desc_0257
-戦いになると手首から灼熱の炎を噴き上げ勇敢に挑みかかる、相手が手強いほど激しく燃えあがる。
+In lotta Blaziken emette fiamme micidiali coi suoi pugni, attaccando coraggiosamente il nemico. Più forte è il nemico, tanto più intenso è il fuoco proveniente dai pugni.
 pokemon_desc_0258
-頭のひれはとても敏感なレーダー。水や空気の動きから目を使わずに周りの様子をキャッチすることができる。
+La pinna sulla testa di Mudkip agisce come un radar sensibilissimo. Usando questa pinna come sensore in acqua e in aria, riesce a determinare cosa succede attorno a lui senza bisogno di guardare.
 pokemon_desc_0259
-地上でも生活できるように体の表面を薄い粘膜が包んでいる。潮の引いた海岸で泥遊びをする。
+La superficie corporea di Marshtomp è avvolta da una spessa pellicola appiccicosa che gli consente di vivere sulla terraferma. Questo Pokémon gioca con la fanghiglia sul fondo del mare nei momenti di bassa marea.
 pokemon_desc_0260
-重さ１トン以上ある岩の塊を軽々引っ張るパワーを持つポケモンだ。濁った水中も見通す視力。
+Swampert è molto forte. Ha una forza tale da riuscire a trascinare un masso del peso di 1 tonnellata senza fatica. La sua vista è così acuta da riuscire a penetrare anche l’acqua più torbida.
 pokemon_desc_0261
-動くものを見つけるとすぐにかみつく。獲物がヘトヘトになるまで追いかけ回すが反撃されると尻ごみすることもあるよ。
+Poochyena azzanna al minimo movimento senza riflettere. Caccia la sua preda finché questa non è tanto stanca da cedere. Tuttavia, se il nemico contrattacca, Poochyena talvolta scappa.
 pokemon_desc_0262
-どう猛なうなり声をあげながら姿勢を低くしているときは攻撃の前触れ。鋭くとがったキバでがぶりとかみつく。
+Mightyena invia chiari segnali quando sta preparando un attacco. Inizia a ringhiare cupo e si appiattisce. Morde selvaggiamente con le zanne appuntite e affilate.
 pokemon_desc_0263
-いつもあっちこっちへジグザグ歩くのは好奇心がとても強くて目に映る色んなものに興味を持つからだ。
+Zigzagoon scorrazza a destra e a manca senza sosta, a causa della sua indole molto curiosa. Qualunque cosa veda riesce ad attirare la sua attenzione.
 pokemon_desc_0264
-真っ直ぐに突っ走り障害物があるときは直角に折れ曲がって避ける。緩やかにカーブした道がとても苦手。
+Linoone è solito correre a tutta velocità e sempre in linea retta. Davanti a un ostacolo fa una curva ad angolo retto per evitarlo. Questo Pokémon si trova in difficoltà su percorsi con curve poco accentuate.
 pokemon_desc_0265
-お尻のトゲで木の皮をはがして染み出した樹液を食料にする。吸盤の足はガラスでも滑らない。
+Grazie agli aculei sulla parte posteriore del corpo, Wurmple scorteccia i tronchi degli alberi e si nutre della loro linfa. Le sue zampe sono dotate di ventose che gli consentono di attaccarsi ai vetri senza scivolare.
 pokemon_desc_0266
-落ちないように糸を枝に巻きつけて体を支えながら進化を待っている。小さな穴から外の様子をうかがう。
+Silcoon si lega ai rami degli alberi grazie ad alcuni fili di seta che gli impediscono di cadere. In tale posizione aspetta pazientemente l’evoluzione. Sbircia fuori dal proprio bozzolo di seta attraverso piccoli fori.
 pokemon_desc_0267
-甘い花粉が大好物のポケモン。花をつけた鉢植えを窓辺に置けば花粉を集めに必ず飛んでくるよ。
+Il nutrimento preferito da Beautifly è il polline dei fiori. Per attirare questo Pokémon basta mettere una pianta fiorita sul davanzale: senza dubbio si avvicinerà in cerca di polline.
 pokemon_desc_0268
-マユルドの体は口から出した細い糸が体を包み硬くなったもの。マユの中で進化の準備をしている。
+Cascoon crea il bozzolo protettivo avvolgendo interamente il proprio corpo con finissima seta secreta dalla bocca. Successivamente la seta si indurisce. A questo punto Cascoon si prepara all’evoluzione.
 pokemon_desc_0269
-灯りに引き寄せられる習性を持つ。街灯りに誘われたドクケイルの群れが街路樹の葉っぱを食べ散らかしてしまう。
+Dustox è istintivamente attratto dalla luce. Nugoli di questi Pokémon sono attirati dalla luce intensa delle città, dove causano danni ingenti strappando le foglie delle piante di cui si nutrono lungo le strade urbane.
 pokemon_desc_0270
-池や湖の水面に浮いて暮らす。葉っぱが枯れると弱ってしまうがきれいな水を求めてたまに陸地を移動する。
+Lotad vive in stagni e laghi, galleggiando a pelo d’acqua. S’indebolisce se muoiono le larghe foglie in superficie. In rare occasioni si avventura sulla terraferma in cerca di acqua pulita.
 pokemon_desc_0271
-夕暮れになると活動する夜行性。釣り人を見かけると水中から糸を引っ張りジャマをしては喜んでいる。
+Lombre è un Pokémon notturno, che si sveglia dopo il crepuscolo. È anche molto dispettoso: quando scopre un pescatore, inizia a tirare l’amo sott’acqua e si diverte a spiare la costernazione del malcapitato.
 pokemon_desc_0272
-陽気な音楽を耳にすると踊り出す。ハイキングをしている子どもの合唱に誘われて姿を現すといわれている。
+Ludicolo inizia a ballare appena sente una musica allegra e festosa. Pare che questo Pokémon appaia quando sente il canto gioioso dei bambini durante le escursioni.
 pokemon_desc_0273
-頭のてっぺんを木の枝にくっつけてぶら下がりながら水分を吸い取っている。水を飲むほど体がツヤツヤ光る。
+Seedot si attacca ai rami degli alberi usando il picciolo che ha sul capo. In questa posizione succhia l’umidità dell’albero per nutrirsi. Più acqua assume, più lucido appare il suo corpo.
 pokemon_desc_0274
-うっそうと茂った森にすむポケモン。たまに森を出ては人を驚かせる。長い鼻をつかまれるのは大嫌い。
+Nuzleaf vive in foreste molto fitte. A volte si avventura fuori dalla foresta per spaventare le persone. Questo Pokémon si irrita molto se qualcuno tenta di pizzicargli il lungo naso.
 pokemon_desc_0275
-樹齢１０００年を超えた大木のてっぺんにすむといわれる謎のポケモン。葉っぱの団扇で強風を巻き起こす。
+Shiftry è un misterioso Pokémon che vive sulla cima degli alberi più alti, di solito plurisecolari. Usa le foglie degli arti superiori come ventole per generare terribili raffiche di vento.
 pokemon_desc_0276
-どんな強い相手でも勇敢に挑む。負けてもへこたれない根性の持ち主。お腹が空くと大声で泣いてしまう。
+Taillow affronta coraggiosamente persino i nemici più forti. Anche in caso di sconfitta rimane fiero e spavaldo. Ma quando ha fame, si lamenta rumorosamente.
 pokemon_desc_0277
-はるか上空を円を描くように飛び回り獲物を見つけると急降下。足のツメでがっしりつかんで逃がさない。
+Swellow vola alto sopra le nostre teste disegnando armoniosi archi in cielo. Appena scova una preda si lancia su di essa in picchiata. Swellow cattura poi la sventurata preda con le sue zampe artigliate impedendole la fuga.
 pokemon_desc_0278
-エサや大事なものをくちばしに挟み色んな場所に隠す習性を持つ。風に乗って滑るように空を飛ぶ。
+Wingull ha l’abitudine di trasportare prede e oggetti preziosi nel becco per poi nasconderli dappertutto. Questo Pokémon vola a cavallo dei venti planando in cielo.
 pokemon_desc_0279
-小さなポケモンやタマゴをクチバシに入れて運ぶ空の運び屋だ。海辺の険しい崖に巣をつくる。
+Pelipper fa le veci di un aereo cargo poiché trasporta piccoli Pokémon e uova all’interno del suo becco enorme. Questo Pokémon crea il proprio nido sulle scogliere a picco sul mare.
 pokemon_desc_0280
-頭のツノで人の気持ちを感じ取る。人前にはめったに姿を現さないが前向きな気持ちをキャッチすると近寄る。
+Ralts percepisce le emozioni delle persone usando le corna poste sul capo. Raramente si fa vedere dagli esseri umani, ma se percepisce un’energia positiva provenire da qualcuno è possibile che si avvicini.
 pokemon_desc_0281
-トレーナーの明るい感情に触れているキルリアは美しく成長するという。発達した脳でサイコパワーを操る。
+Si dice che Kirlia cresca molto bene se viene esposto alle emozioni positive del suo Allenatore. Questo Pokémon è dotato di poteri psicocinetici grazie al suo cervello altamente sviluppato.
 pokemon_desc_0282
-未来を予知する能力でトレーナーの危険を察知したとき最大パワーのサイコエネルギーを使うといわれている。
+Gardevoir ha l’abilità di prevedere il futuro. Se percepisce un pericolo imminente per il proprio Allenatore, pare che scateni tutta l’energia psicocinetica di cui è capace.
 pokemon_desc_0283
-つま先から油がにじみ出ているので水の上を滑るように歩けるのだ。池や湖の微生物を食べている。
+Dalla punta delle zampe Surskit secerne un olio che gli consente di camminare sul pelo dell’acqua come se stesse pattinando. Si ciba di organismi microscopici in stagni e laghi.
 pokemon_desc_0284
-触角の目玉模様で敵を威嚇。４枚の羽を使いヘリコプターのように空中で前後左右自由に進める。
+Masquerain intimorisce i nemici con il motivo a forma d’occhio sulle antenne. Agita le quattro ali per volare libero in ogni direzione, anche lateralmente e posteriormente, come fosse un elicottero.
 pokemon_desc_0285
-深い森の湿った地面に生息。落ち葉の下でじっとしていることが多い。落ち葉が積もってできた腐葉土を食べる。
+Shroomish vive nel suolo umido nel cuore della foresta buia. Spesso si nasconde sotto le foglie cadute. Si ciba dell’humus creato dal letto di foglie decomposte sul terreno.
 pokemon_desc_0286
-軽やかなフットワークで敵に近づき伸び縮みする腕でパンチを繰り出す。ボクサー顔負けのテクニックの持ち主。
+Breloom si avvicina al nemico con passettini leggeri e veloci, poi sferra scariche di pugni con gli elastici arti superiori. Le sue tecniche di lotta superano quelle dei pugili più esperti.
 pokemon_desc_0287
-１日２０時間以上寝そべっている。ほとんど体を動かさないので葉っぱを３枚食べれば１日の食事が終わる。
+Slakoth ciondola in ozio per oltre 20 ore al giorno. Poiché si muove così poco, non ha bisogno di molto nutrimento. L’unico pasto giornaliero di questo Pokémon consiste in tre foglie fresche.
 pokemon_desc_0288
-いつも暴れたくてウズウズしている。１分でも座っていることが耐えられない。動いていないとストレスがたまってしまう。
+Vigoroth scalpita e smania continuamente dalla voglia di correre selvaggiamente. Non sopporta di stare fermo neanche un secondo. Il livello di stress di questo Pokémon va alle stelle in mancanza di movimento.
 pokemon_desc_0289
-１日中寝そべったまま暮らすポケモン。手の届く場所に生えている草を食べ草がなくなるとしぶしぶ場所を変える。
+Slaking passa tutto il giorno disteso pigramente, mangiando l’erba che cresce a portata di mano. Dopo aver esaurito l’erba vicino a sé, si sposta controvoglia in un altro luogo.
 pokemon_desc_0290
-何年も真っ暗な土の中で暮らす。木の根っこから栄養を吸収してじっと動かず進化のときを待っている。
+Nincada vive sottoterra per molti anni nell’oscurità più assoluta. Questo Pokémon assume le sostanze nutritive dalle radici degli alberi. Rimane immobile in attesa dell’evoluzione.
 pokemon_desc_0291
-高速で動き回り姿が見えない。鳴き声しか聞こえてこないので長い間透明なポケモンと考えられていた。
+Ninjask si muove a una velocità tale da rendersi praticamente invisibile, nonostante il suo verso si possa udire chiaramente. Per questo motivo, per molto tempo si è pensato che fosse effettivamente invisibile.
 pokemon_desc_0292
-硬い体はぴくりとも動かない。背中から体の空洞をのぞくと魂を吸い取られると信じられている。
+Il corpo coriaceo di Shedinja non si muove neanche di un millimetro. In realtà sembra quasi un guscio vuoto. Si dice che questo Pokémon rubi lo spirito di chiunque osi spiare dentro il suo guscio.
 pokemon_desc_0293
-普段は注意しないと聞き取れないくらい小さな声だが危険を察知すると頭痛を起こすほどの大声で鳴き出す。
+Normalmente la voce di Whismur è molto tenue, quasi impercettibile, anche se ci si concentra. Tuttavia, se questo Pokémon percepisce un pericolo, inizia a emettere suoni assordanti.
 pokemon_desc_0294
-木造の家をコナゴナに吹き飛ばすほどの大声を出して相手を痛めつける。丸い耳がスピーカーの働きをする。
+I suoni assordanti emessi da Loudred sono in grado di abbattere anche una casa in legno. La sua voce è così potente da poter essere usata come attacco contro i nemici. Le sue orecchie tonde fungono da altoparlanti.
 pokemon_desc_0295
-大声の振動で地震を起こす。体の穴から空気を激しく吸い込み始めたら大声を出す前触れだ。
+Exploud è in grado di generare terremoti con le vibrazioni vocali. Quando inala grandi quantità d’aria dalle numerose aperture del corpo, significa che si sta preparando a emettere un grido lancinante.
 pokemon_desc_0296
-何回倒されてもあきらめず立ちあがる。立ちあがる度進化するためのエネルギーが体の中にどんどん蓄えられていく。
+Makuhita è estremamente tenace: anche se messo al tappeto più volte si rialza sempre e contrattacca. Ogni volta che si rialza, questo Pokémon accumula ulteriore energia per la futura evoluzione.
 pokemon_desc_0297
-色んな場所で張り手のけいこに励む。強烈な張り手攻撃をくらうと電信柱も一撃で真っ二つだ。
+Hariyama sferra potenti schiaffi a braccia tese in ogni occasione. Un colpo delle sue violente mani aperte è in grado di spaccare in due un palo della luce.
 pokemon_desc_0298
-投げ縄の要領で尻尾を振り回し投げたときの力で飛んでいく。最高１０メートル飛んだ記録がある。
+Azurill fa roteare la propria coda come un lazo, poi la scaglia lontano. Nel momento del lancio prende il volo anche il suo corpo. Grazie a questa tecnica unica, uno di questi Pokémon è riuscito a lanciarsi a 10 m di distanza.
 pokemon_desc_0299
-磁石の鼻はいつも北を向いている。ノズパス同士は磁石が反発しあうため近くで顔を合わせることができない。
+Il naso magnetico di Nosepass è sempre puntato verso nord. Quando incontra un suo simile, non riesce a guardarlo in volto da vicino perché i nasi magnetici si respingono l’un l’altro.
 pokemon_desc_0300
-動くものを見つけると夢中になって追いかけ回す習性を持つポケモン。自分のシッポを追いかけて目を回す。
+Skitty ha l’abitudine di lasciarsi ammaliare dagli oggetti in movimento e seguirli dando loro la caccia. Questo Pokémon è noto anche per rincorrere la sua stessa coda fino a rimanere stordito.
 pokemon_desc_0301
-マイペースで自由気ままな暮らしを好む。気の向くままエサを食べたり眠ったりしているので１日のリズムがバラバラだ。
+Delcatty preferisce vivere una vita in libertà, in cui poter fare ciò che più gli aggrada in base alle proprie esigenze. Poiché anche gli orari dei pasti e del sonno sono completamente liberi, la sua vita quotidiana è casuale.
 pokemon_desc_0302
-洞窟奥でひっそりと生活する。暗闇で瞳が怪しく輝くとき人の魂を奪うと恐れられている。
+Sableye conduce una vita tranquilla nel profondo delle grotte. Tuttavia, è molto temuto perché si dice che rubi lo spirito degli umani con lo sguardo sinistro dei suoi occhi opalescenti che fendono le tenebre.
 pokemon_desc_0303
-鋼のツノが変形した大きなあご。大人しそうな顔に油断をしていると突然振り向きバクリとかみつかれるぞ。
+Le enormi mascelle di Mawile sono in realtà corna d’acciaio trasformate. Il volto dallo sguardo tanto mansueto serve a indurre i nemici ad abbassare la guardia. Infatti Mawile attacca quando l’avversario meno se l’aspetta.
 pokemon_desc_0304
-鋼の体をつくるため鉄鉱石を山から掘り出して食べているがたまに橋やレールまで食べてしまう困りものだ。
+Il corpo di Aron è costituito d’acciaio. Per mantenerne la consistenza Aron si ciba di pepite di ferro rinvenute scavando in montagna. Talvolta crea enorme scompiglio poiché si nutre anche di ponti e ferrovie.
 pokemon_desc_0305
-栄養満点のわき水をお腹いっぱい飲むことで鋼の体が鍛えられる。美味しいわき水の近くに巣をつくる。
+Lairon tempra la sua fibra d’acciaio ingerendo dosi enormi di minerali altamente nutritivi presenti nell’acqua di sorgente. Questo Pokémon crea la propria dimora nei pressi di sorgenti d’acqua purissima.
 pokemon_desc_0306
-山一つを自分の縄張りにしていて荒らした相手は容赦なくたたきのめす。いつも山の中を見回りしている。
+Aggron è solito delimitare un’intera montagna come suo territorio esclusivo ed è spietato con coloro che osano violare tali confini. Questo Pokémon pattuglia il proprio spazio senza mai abbassare la guardia.
 pokemon_desc_0307
-山奥でヨガの修行をしている。めいそうをしていても集中力が途切れてしまうため修行は終わらない。
+Meditite esegue rigorosi esercizi mentali in montagna. Tuttavia, quando è immerso in meditazione, perde sempre la concentrazione, dovendo così ricominciare da capo. Il suo esercizio dunque non finisce mai.
 pokemon_desc_0308
-めいそうすることで体のエネルギーが高まり第６感が鋭くなるという。野山と一体になって気配を消す。
+Si dice che, grazie alla meditazione, Medicham incrementi la propria energia fisica e affini il sesto senso. Si nasconde efficacemente mimetizzandosi nei campi e in montagna.
 pokemon_desc_0309
-長い体毛に電気をためている。電流で足の筋肉を刺激して爆発的瞬発力を生み出す。
+Electrike accumula l’elettricità nella sua folta pelliccia. Stimola i muscoli degli arti inferiori con cariche elettriche, grazie alle quali ottiene prestazioni e accelerazioni esplosive.
 pokemon_desc_0310
-たてがみからいつも放電しているため火花で山火事を起してしまうことも。戦いになると雷雲をつくりだす。
+Manectric scarica costantemente l’elettricità dalla propria criniera. Spesso le scintille scatenano incendi nei boschi. In lotta questo Pokémon crea nubi temporalesche.
 pokemon_desc_0311
-いつも仲間を応援しているポケモン。仲間が頑張ると体をショートさせてパチパチと火花の音を立てて喜ぶ。
+Plusle agisce sempre da mascotte del gruppo. Ogni volta che un suo compagno ottiene buoni risultati nella lotta, Plusle crea un cortocircuito per provocare l’allegro scoppiettio delle scintille e dimostrare la sua gioia.
 pokemon_desc_0312
-自分よりも仲間の応援が大事。体から発する電気をショートさせて派手に火花を出しながら応援するぞ。
+Minun si impegna a tenere alto il morale dei suoi compagni di squadra, anche a rischio della sua stessa sicurezza. Crea vivaci cortocircuiti con l’elettricità del suo corpo per rallegrare tutta la squadra.
 pokemon_desc_0313
-日が暮れると尻尾から光を出して明るさや点滅で仲間と会話する。イルミーゼの甘い香りに引き寄せられる。
+Quando cala la notte, Volbeat emette una luce intensa dalla coda. Comunica con gli altri regolando l’intensità e l’intermittenza della propria luce. Il Pokémon è attratto dal dolce aroma di Illumise.
 pokemon_desc_0314
-甘い香りでバルビートを引き寄せる。沢山集まったバルビートを誘導して夜空に幾何学的な図形を描くぞ。
+Illumise attrae uno sciame di Volbeat con la sua fragranza dolce. Una volta radunato un gruppo di Volbeat, Illumise dirige lo sciame luminoso, che disegna così figure geometriche nel setoso cielo notturno.
 pokemon_desc_0315
-両手の花をねらう相手には鋭いトゲを飛ばして攻撃する。花の香りは気持ちを和ませる。
+Roselia spara spine molto affilate come fossero proiettili a tutti coloro che tentano di rubargli i fiori dal braccio. Il profumo di questo Pokémon infonde serenità a tutti gli esseri viventi.
 pokemon_desc_0316
-体のほとんどが胃袋でできているので自分と同じ大きさのものものみ込む。特殊な胃液でなんでも消化するぞ。
+Praticamente l’intero corpo di Gulpin è costituito dallo stomaco, che gli consente di ingoiare oggetti delle sue stesse dimensioni. Inoltre, il suo stomaco contiene un fluido speciale in grado di fargli digerire ogni cosa.
 pokemon_desc_0317
-獲物を見つけると毛穴から猛毒の体液を吹き出して浴びせかけるぞ。弱ったところを大きな口でペロリ。
+Quando individua la preda, Swalot spruzza sul bersaglio un ripugnante fluido tossico dai propri pori. Una volta indebolito l’avversario, Swalot lo ingoia intero con la bocca simile a una voragine.
 pokemon_desc_0318
-発達したアゴと鋭くとがったキバは船底をかみ千切るほどの破壊力。キバニアに襲われ沈んだ船は多い。
+Le sviluppate mascelle di Carvanha e i denti estremamente appuntiti e affilati hanno una potenza distruttiva tale da sventrare la carena di una nave. Già molte navi sono state attaccate e affondate da questo Pokémon.
 pokemon_desc_0319
-海のギャングと呼ばれ恐れられている。折れてもすぐに生え変わるキバを持ち大型タンカーも１匹でバラバラにする。
+Soprannominato “Tiranno del mare”, Sharpedo è molto temuto. Se perde qualcuno dei suoi temibili denti, questo ricresce all’istante. Uno di questi Pokémon da solo riesce ad affondare una superpetroliera.
 pokemon_desc_0320
-目の上についている鼻の穴から体にためた海水を吹き出し人を驚かすのが大好きなポケモンだ。
+Le narici di Wailmer sono posizionate sopra gli occhi. È un giocherellone e ama spaventare le persone sparando dalle narici l’acqua del mare, che accumula all’interno del proprio corpo.
 pokemon_desc_0321
-見つかった中では最大のポケモン。大海原をゆったりと泳ぎ大きな口で一気に大量のエサを食べる。
+Wailord è il più grande tra tutti i Pokémon finora identificati. Con la sua gigante mole nuota dolcemente nella vastità del mare aperto, ingoiando enormi quantità di cibo con la bocca enorme.
 pokemon_desc_0322
-たたかれても気がつかない鈍さだが空腹は１秒でも我慢できない。体の中ではマグマが煮えたぎっている。
+Numel è estremamente tardo, tanto da non notare di essere attaccato. Tuttavia, non sa resistere alla fame per più di un secondo. Il suo corpo è un calderone bollente di magma liquido.
 pokemon_desc_0323
-体の中に火山を持つポケモンだ。体にたまった摂氏１万度のマグマを時々背中のコブから噴き上げている。
+Camerupt ha un vulcano all’interno del proprio corpo. Nelle sue vene scorre magma liquido a 10.000 °C. Talvolta le gobbe che ha sulla schiena eruttano, espellendo magma rovente.
 pokemon_desc_0324
-山を掘って石炭を見つけてはせっせと甲羅の空洞に入れて燃やすポケモン。襲われると黒い煙を出して逃げる。
+Torkoal scava in montagna in cerca di carbone. Quando lo trova, lo usa per riempire la cavità della propria corazza e poi lo brucia. In caso di aggressione, emette nubi di fumo nero per poi battere in ritirata.
 pokemon_desc_0325
-シッポでびょんびょん飛び跳ねるポケモン。飛び跳ねる振動で心臓を動かしているので飛び跳ねることは止められないのだ。
+Spoink rimbalza come una molla sulla coda. Il colpo ricevuto dal rimbalzo gli fa battere il cuore. Di conseguenza, non può mai smettere di saltellare, altrimenti il suo cuore smette di battere.
 pokemon_desc_0326
-サイコパワーの波動を黒真珠で強め自由自在に相手を操るポケモン。力を使うとき鼻息が荒くなるぞ。
+Grumpig usa le perle nere del suo corpo per amplificare le onde psichiche e acquisire il pieno controllo del nemico. Quando usa i suoi speciali poteri, il suo respiro diventa affannoso.
 pokemon_desc_0327
-世の中にいるパッチールはみんな違うところにブチ模様があるといわれている。おぼつかない歩みが踊りのように見える。
+Pare che ogni Spinda esistente abbia un motivo maculato unico rispetto agli altri. Il suo passo barcollante e malsicuro dà l’impressione che stia ballando.
 pokemon_desc_0328
-すり鉢状の巣穴の底でじっと獲物が落ちてくるのを待ち続けている。大きなアゴは岩をも砕く威力。
+La tana di Trapinch è ricavata in una ripida fossa a forma di sacca scavata nella sabbia. Il Pokémon attende pazientemente che la preda cada in trappola. Le sue possenti mascelle frantumano anche la pietra.
 pokemon_desc_0329
-２枚のハネを激しく振動させて超音波を出し獲物を気絶させる。人間も頭痛を起こすほどの威力。
+Vibrava attacca la preda generando onde a ultrasuoni con le vigorose vibrazioni delle due ali. Tali onde sono così potenti da causare il mal di testa a chi le sente.
 pokemon_desc_0330
-砂漠の精霊と呼ばれるポケモン。ハネの羽ばたきで砂を舞い上げるため飛んでいるときはいつも砂嵐の中。
+Flygon è detto anche “Spirito primordiale del deserto”. Poiché le sue ali sollevano nubi di sabbia, è sempre accompagnato da una tempesta di sabbia quando vola.
 pokemon_desc_0331
-砂漠など乾燥した地域に生息。強い花の香りで獲物を誘い込み鋭い体のトゲを飛ばして仕留める。
+Cacnea vive in luoghi molto aridi come il deserto. Il suo fiore rilascia un forte aroma per attirare le prede. Quando la preda si avvicina, il Pokémon le spara contro un nugolo di spine del proprio corpo per abbatterla.
 pokemon_desc_0332
-砂漠の日差しで水分を失わないように昼間はじっと立ち尽くしている。気温の下がる夜に活動を始める。
+Di giorno Cacturne rimane immobile in modo da non perdere neanche una goccia d’acqua al sole cocente del deserto. Il Pokémon si desta di notte quando cala la temperatura.
 pokemon_desc_0333
-綿雲のようなふさふさの翼を持つ。人を怖がらず綿の帽子みたいに頭にちょこんと乗っかるポケモンだ。
+Swablu ha ali leggere e soffici molto simili a nuvole di cotone. Non ha paura degli esseri umani. Si posa sulla testa delle persone come fosse un copricapo cotonato.
 pokemon_desc_0334
-綿雲に紛れて大空を舞う。透き通った声でメロディをさえずれば耳にしたものはうっとり夢心地。
+Altaria danza e volteggia nel cielo tra le nubi soffici come batuffoli di cotone. Cantando con la sua voce cristallina, riesce a mandare in onirica estasi chi lo ascolta.
 pokemon_desc_0335
-宿敵ハブネークとの戦いの記憶が体中の細胞に刻み込まれている。敏しょうな身のこなしで攻撃をかわす。
+I ricordi delle lotte contro il suo acerrimo nemico Seviper sono insiti in ogni cellula del corpo di Zangoose. Questo Pokémon riesce a schivare gli attacchi con incredibile maestria.
 pokemon_desc_0336
-先祖代々ザングースと戦ってきた。体のキズは激しい戦いの印。鋭い切れ味の尻尾で攻撃するぞ。
+Da generazioni Seviper è in lotta contro Zangoose, suo nemico dichiarato. Le cicatrici sul suo corpo sono prove di scontri efferati. Questo Pokémon attacca usando la coda a forma di spada.
 pokemon_desc_0337
-隕石の落ちた場所から見つかったため宇宙からやってきたポケモンという説もあるがまだ証明されていない。
+Lunatone è stato scoperto nel luogo dove una volta cadde un meteorite. Si è pertanto dedotto che questo Pokémon venga dallo spazio. Tuttavia, questa teoria non è ancora stata confermata.
 pokemon_desc_0338
-宇宙から落ちてきたといわれる新種。空中に浮かび音もなく移動する。戦いになると強い光を放つ。
+Solrock è una nuova specie di Pokémon che pare sia precipitata dallo spazio. Fluttua a mezz’aria spostandosi silenziosamente. In lotta emana una luce estremamente intensa.
 pokemon_desc_0339
-敏感なヒゲは優れたレーダーだ。ドロの中から２本のヒゲだけを出して獲物が近寄ってくるのを待ち構えている。
+I sensibili baffi di Barboach fungono da sistema radar precisissimo. Il Pokémon vive nel fango, lasciando esposti soltanto i due baffi mentre attende pazientemente che si avvicini la preda.
 pokemon_desc_0340
-縄張り意識がとても強いポケモン。大きな沼全部を縄張りにしている。敵が近づくと暴れて地震を起こす。
+Whiscash è estremamente legato all’area in cui vive e delimita laghi enormi come proprio territorio. All’avvicinarsi di un nemico, s’infuria scatenando terribili terremoti.
 pokemon_desc_0341
-元々外国にすんでいたポケモンをペットとして連れてきたものが野生化した。生命力が強いのでどんどん増えた。
+Originariamente Corphish era stato importato da altre regioni come Pokémon domestico. Attualmente ne sono stati trovati anche allo stato brado. Essendo molto resistente, ha moltiplicato la sua popolazione.
 pokemon_desc_0342
-すぐに戦いを挑む気性の荒さ。シザリガーのすむ池には他の生き物がすみつかず寂しい場所になってしまう。
+Crawdaunt, dalla natura estremamente violenta, sfida sempre a una lotta gli altri esseri viventi, che per questo motivo abbandonano i laghi abitati da questo Pokémon, lasciandoli deserti e desolati.
 pokemon_desc_0343
-一本足で回転しながら移動する。ヤジロンと人間が一緒に暮らす古代の壁画が遺跡から発見された。
+Baltoy si muove piroettando sull’unica estremità inferiore del proprio corpo. La scoperta di alcune rovine antiche ha portato alla luce dipinti di questo Pokémon che viveva a stretto contatto con gli esseri umani.
 pokemon_desc_0344
-古代人の泥人形が怪光線を浴びて生命を宿したといわれている。空中に浮いて移動している。
+Pare che Claydol sia una bambola d’argilla creata dall’uomo primitivo e portata in vita grazie all’esposizione a misteriose radiazioni. Questo Pokémon si muove per levitazione.
 pokemon_desc_0345
-約１億年前に絶滅したポケモン。海底の岩にくっつき花びらのような触手で寄ってきた獲物を捕まえる。
+Lileep si è estinto circa 100 milioni di anni or sono. Questo Pokémon antico si aggrappa alle rocce sui fondali marini e cattura le prede che si avvicinano con i propri tentacoli a forma di petali di fiori.
 pokemon_desc_0346
-海の底でエサを探して歩き回る。木の枝のような首を自在に伸ばして８枚の触手で獲物を捕まえる。
+Cradily scandaglia i fondali oceanici in cerca di nutrimento. Riesce a estendere il collo, simile al tronco di un albero, per catturare ignare prede con i propri otto tentacoli.
 pokemon_desc_0347
-太古の化石から蘇ったポケモン。暖かい海に生息し発達した２本のツメで獲物をがっちりつかむ。
+Anorith è stato rigenerato da un fossile preistorico. Un tempo viveva nei mari caldi. Questo Pokémon afferra saldamente la preda con i suoi due artigli.
 pokemon_desc_0348
-甲羅はあらゆる攻撃をはね返す。伸び縮みする巨大な２本のツメは鉄板をくし刺しにするほどの威力だ。
+La dura corazza di Armaldo protegge da ogni tipo di attacco. I suoi due enormi artigli sono in grado di estendersi e contrarsi. Inoltre sono dotati di una potenza tale da spaccare una lastra d’acciaio.
 pokemon_desc_0349
-生まれつきヒレがボロボロでみっともないため誰にも相手にされないポケモンだ。海と川のどちらでも生活できる。
+Le pinne di Feebas sono logore e sbrindellate fin dalla nascita. A causa di questo suo aspetto disordinato, il Pokémon è solitamente ignorato. È in grado di vivere in mare e nei fiumi.
 pokemon_desc_0350
-最も美しいポケモンといわれている。怒りや憎しみの心を癒して争いを鎮める力を持っている。
+Pare che Milotic sia il più bello tra tutti i Pokémon. Ha il potere di placare emozioni come la rabbia e l’astio, domando così anche le più accese controversie.
 pokemon_desc_0351
-天気によって姿が変わるポケモン。小さい体を守るために大自然の大きなパワーを使えるようになった。
+L’aspetto di Castform cambia con le condizioni atmosferiche. Questo Pokémon ha imparato a usare la potente forza della natura per proteggere il suo corpicino indifeso.
 pokemon_desc_0352
-体の色を自在に変えることで周りの景色に溶けこむことができる。お腹のギザギザ模様だけは変えられない。
+Kecleon è in grado di mutare il colore del proprio corpo per mimetizzarsi con l’ambiente circostante. Tuttavia, fa eccezione il motivo zigzagato sulla pancia, che rimane sempre visibile.
 pokemon_desc_0353
-ねたみ恨みの感情に引き寄せられる。誰かを恨む心が強くなるとカゲボウズが軒下にずらりと並ぶぞ。
+Shuppet è attratto dai sentimenti turpi di gelosia e vendetta. Se qualcuno serba un forte rancore, questi Pokémon arrivano a frotte per annidarsi sotto i cornicioni di casa sua.
 pokemon_desc_0354
-自分の体を針でキズつけるとき強いのろいのエネルギーが発生する。元は捨てられた可哀想なぬいぐるみ。
+Banette genera energia per lanciare terribili maledizioni, conficcandosi alcuni spilli nel corpo. Originariamente questo Pokémon era un dolce peluche, successivamente gettato via.
 pokemon_desc_0355
-どんなに厚いカベも通り抜ける。ねらわれたら最後朝日が昇るまでずっと追いかけられることになるぞ。
+Duskull riesce a passare attraverso i muri indipendentemente dal loro spessore. Una volta scelto un bersaglio perseguita la vittima designata fino all’alba.
 pokemon_desc_0356
-体の中身は空洞でなにもない。ブラックホールのようになんでも吸い込み吸い込まれると戻ってこれないといわれる。
+Il corpo di Dusclops è completamente vuoto. Non contiene assolutamente nulla. Infatti si dice che sia una sorta di buco nero. Il Pokémon assorbe ogni cosa all’interno del proprio corpo, ma non rilascia mai nulla.
 pokemon_desc_0357
-首のフサは甘くて子どもに大人気。果物が大好物で食べ続けていたら首に果物ができるようになったらしい。
+Tutti i bambini conoscono i grappoli di frutti penzolanti attorno al collo di Tropius. Anche il Pokémon stesso ne mangia in continuazione. Pare che il suo amore per la frutta sia all’origine del fatto che egli stesso la produca.
 pokemon_desc_0358
-声を体の空洞に反響させる。怒ったときの鳴き声は敵を吹き飛ばす威力を持った超音波になるぞ。
+Chimecho fa riecheggiare il suo verso dentro al corpo vuoto. Quando s’infuria emette onde a ultrasuoni in grado di abbattere i nemici in volo.
 pokemon_desc_0359
-アブソルが人前に現れると必ず地震や津波などの災害が起こったので災いポケモンという別名で呼ばれた。
+Ogni volta che compare Absol, segue un disastro come un terremoto o un maremoto. Per questo motivo è noto come il Pokémon dei disastri.
 pokemon_desc_0360
-いつもニコニコ笑顔のソーナノ。怒っているときは尻尾に注目。地面をパタパタたたいているぞ。
+Wynaut ha sempre un sorriso grande e genuino stampato sul volto. La coda è indice del suo vero stato d’animo. Se la sbatte violentemente a terra, significa che è infuriato.
 pokemon_desc_0361
-雪の多い土地で暮らすポケモン。春や夏の雪の降らない季節にはしょう乳洞の奥で静かに暮らす。
+Snorunt vive in regioni molto nevose. Nelle stagioni più calde, come l’estate e la primavera, questo Pokémon si ritira a vivere in tranquillità nel cuore delle caverne tra stalattiti e stalagmiti.
 pokemon_desc_0362
-岩の体を氷のよろいでかためた。空気中の水分を凍らせて自由な形に変える能力を持つポケモン。
+Il corpo di Glalie è fatto di pietra rivestita da un’armatura di ghiaccio. Questo Pokémon ha la capacità di congelare l’umidità nell’atmosfera e darle le forme più svariate.
 pokemon_desc_0363
-歩くより転がるほうが断然速い。食事の時間はみんなが一斉に手をたたいて喜ぶので結構うるさいのだ。
+Spheal si muove molto più velocemente rotolando che non camminando. Quando si raggruppano per mangiare, questi Pokémon sbattono le zampette per dimostrare la loro gioia. I loro pasti sono molto rumorosi.
 pokemon_desc_0364
-初めて目にしたものは必ず鼻でクルクル回してみる習性を持つ。タマザラシを回して遊ぶことがある。
+Sealeo è solito giocare con qualsiasi cosa veda per la prima volta, tenendola in equilibrio sulla punta del naso. Talvolta, si diverte a far rotolare sul proprio naso anche Spheal.
 pokemon_desc_0365
-発達した２本のキバは１０トンもある氷山を一撃で粉砕する。脂肪がぶ厚く氷点下でも平気。
+Le due zanne molto sviluppate di Walrein sono in grado di ridurre in polvere blocchi di ghiaccio del peso di 100 quintali. Lo spesso strato di grasso attorno al corpo lo isola dalle rigide temperature polari.
 pokemon_desc_0366
-頑丈なカラは身を守るだけではなく獲物を挟んで捕まえることもできる。育ったパールルの貝殻はキズだらけ。
+La robusta conchiglia di Clamperl è un’eccellente protezione, ma è anche molto utile per intrappolare e catturare la preda. Di solito una conchiglia giunta alla sua completa maturità è segnata da tacche e graffi.
 pokemon_desc_0367
-とても深い海の底にすんでいるため長い間人に見つからなかった。暗い深海でもよく見える目を持つ。
+L’esistenza di Huntail è rimasta a lungo sconosciuta perché vive solo in mare a incredibili profondità. Con la sua vista così acuta riesce a vedere chiaramente persino nel buio pesto dei fondali marini.
 pokemon_desc_0368
-南の深海に生息するポケモン。深海の水圧に鍛えられた体はちょっとの攻撃ではキズもつかない。
+Gorebyss vive nei mari meridionali a profondità estreme. Il suo corpo è strutturato in modo da poter resistere all’incredibile pressione degli abissi. Proprio per questo il Pokémon è immune agli attacchi comuni.
 pokemon_desc_0369
-１億年の長い間まったく姿が変わらずに深海で暮らしていたポケモン。歯のない口で微生物だけを食べる。
+Relicanth è una specie esistente da 100 milioni di anni senza alcuna mutazione di forma. Questo antichissimo Pokémon si nutre di microrganismi, come prova la sua bocca sdentata.
 pokemon_desc_0370
-熱帯の浅い海で暮らしている。カップルを見つけると後ろにくっついて泳ぐことからこの名前がつけられた。
+Luvdisc vive nei mari tropicali poco profondi. Questo Pokémon a forma di cuore ha preso questo nome perché segue le coppie innamorate che scorge tra le onde oceaniche.
 pokemon_desc_0371
-大空を飛ぶことを夢見て繰り返し断崖から飛び降りているうちに頭が鍛えられ鋼鉄のように硬くなった。
+Bagon serba in sé il sogno di volare alto in cielo. Nei suoi vani tentativi di spiccare il volo, si lancia a picco dalle alture. A causa di queste rovinose cadute, la testa gli è diventata dura come l’acciaio temprato.
 pokemon_desc_0372
-硬いカラの内部は細胞が変化して新しい体をつくっている最中。カラがとても重いので動きは鈍いぞ。
+All’interno della corazza-armatura di Shelgon, le cellule sono in continua trasformazione per creare un corpo completamente nuovo. La corazza pesantissima rende difficili i movimenti.
 pokemon_desc_0373
-翼が欲しいと強く思い続けてきた結果体の細胞が突然変異を起こし見事な翼が生えてきたという。
+Salamence rappresenta la realizzazione del sogno atavico e irrinunciabile di volare. Si dice che questo forte desiderio abbia scatenato l’improvvisa mutazione delle sue cellule, portando infine alla crescita di ali meravigliose.
 pokemon_desc_0374
-体の中では血液の代りに強力な磁力が巡っている。磁力の波動で仲間と会話する。
+Al posto del sangue, il corpo di Beldum è attraversato da una potente forza magnetica. Il Pokémon comunica con gli altri inviando impulsi magnetici controllati.
 pokemon_desc_0375
-２匹のダンバルが合体した姿。２つの脳を磁力の神経が結ぶことで強いサイコエネルギーを生み出す。
+Fondendo insieme due Beldum, si crea Metang. I cervelli dei Beldum sono uniti da un sistema nervoso magnetico. Questo particolare sistema di unione genera forti poteri psicocinetici.
 pokemon_desc_0376
-４つの脳みそはスーパーコンピュータよりも速く難しい計算の答えを出す。４本脚を折りたたみ空中に浮かぶ。
+Metagross è dotato in tutto di quattro cervelli, che combinati assieme riescono a risolvere difficili calcoli più rapidamente di un supercomputer. Riesce a fluttuare nell’aria facendo rientrare le quattro zampe.
 pokemon_desc_0377
-昔人に封印されたポケモン。戦いで体が崩れると自分で新しい岩を探して直すという。
+Molto tempo fa Regirock era stato imprigionato dagli esseri umani. Se subisce danni in lotta, cerca nuove rocce adatte per riparare le rotture.
 pokemon_desc_0378
-氷河時代につくられた氷の体は炎でも溶かすことができない。マイナス２００度の冷気を操る。
+Il corpo di Regice è stato creato durante l’era glaciale. Il corpo congelato non può essere fuso neanche col fuoco. Questo Pokémon riesce a gestire perfettamente l’aria gelida a -200 °C.
 pokemon_desc_0379
-どんな金属よりも硬い体を持つ。体の中は空洞になっているらしく食べているものも分からないポケモンだ。
+Registeel ha un corpo più duro di ogni tipo di metallo. Pare inoltre che all’interno sia totalmente vuoto. Nessuno sa cosa mangi questo Pokémon.
 pokemon_desc_0380
-人間の心を敏感に感じとる。敵意をキャッチすると全身の羽を逆立てて激しく鳴き声で威嚇する。
+Latias è sensibilissimo alle emozioni delle persone. Se percepisce una certa ostilità, questo Pokémon arruffa le piume su tutto il corpo ed emette un grido lancinante per intimidire il nemico.
 pokemon_desc_0381
-見たものや考えたイメージを相手に映像として見せる能力を持つ。人間の言葉を理解することができる。
+Latios ha l’abilità di far vedere agli altri l’immagine di ciò che ha visto o immaginato nella propria testa. Questo Pokémon è intelligente e capisce il linguaggio umano.
 pokemon_desc_0382
-自然のエネルギーによってゲンシカイキし本来の姿を取り戻す。その力は嵐を呼び寄せ海を広げる。
+L’energia della natura può causare l’archeorisveglio di questo Pokémon, facendolo tornare al suo aspetto originario. Può provocare diluvi torrenziali in grado di espandere la superficie dei mari.
 pokemon_desc_0383
-大地の化身と伝わるポケモン。自然のエネルギーを求めてカイオーガと争いを繰り返したという伝説がある。
+Si dice che questo Pokémon abbia un profondo legame con le terre emerse. Le leggende narrano dei suoi continui scontri con Kyogre per ottenere l’energia della natura.
 pokemon_desc_0384
-何億年も生き続けているといわれる。グラードンとカイオーガの争いを治めたという伝説が残されている。
+Si dice che abbia centinaia di milioni di anni. Secondo la leggenda, mise fine alla lotta tra Groudon e Kyogre.
 pokemon_desc_0385
-目覚めたとき頭の短冊に書かれた願いをかなえるという伝説をもつ。危険を感じると眠ったまま戦う。
+La leggenda racconta che Jirachi realizza ogni desiderio scritto su bigliettini che trova attaccati alla propria testa, quando si sveglia. In caso di pericolo, lotta senza mai svegliarsi.
 pokemon_desc_0386
-レーザーを浴びた宇宙ウィルスのＤＮＡが突然変異を起こして生まれたポケモン。胸の水晶体が脳みそらしい。
+Il DNA di un virus spaziale ha subito un’improvvisa mutazione, in seguito all’esposizione a un raggio laser. Questo ha dato vita a Deoxys. Pare che l’organo cristallino sul suo petto costituisca il cervello.
 pokemon_category_0000
 --
 pokemon_category_0001
-たねポケモン
+Pokémon Seme
 pokemon_category_0002
-たねポケモン
+Pokémon Seme
 pokemon_category_0003
-たねポケモン
+Pokémon Seme
 pokemon_category_0004
-とかげポケモン
+Pokémon Lucertola
 pokemon_category_0005
-かえんポケモン
+Pokémon Fiamma
 pokemon_category_0006
-かえんポケモン
+Pokémon Fiamma
 pokemon_category_0007
-かめのこポケモン
+Pokémon Tartaghina
 pokemon_category_0008
-かめポケモン
+Pokémon Tartaruga
 pokemon_category_0009
-こうらポケモン
+Pokémon Crostaceo
 pokemon_category_0010
-いもむしポケモン
+Pokémon Baco
 pokemon_category_0011
-さなぎポケモン
+Pokémon Bozzolo
 pokemon_category_0012
-ちょうちょポケモン
+Pokémon Farfalla
 pokemon_category_0013
-けむしポケモン
+Pokémon Millepiedi
 pokemon_category_0014
-さなぎポケモン
+Pokémon Bozzolo
 pokemon_category_0015
-どくばちポケモン
+Pokémon Velenape
 pokemon_category_0016
-ことりポケモン
+Pokémon Uccellino
 pokemon_category_0017
-とりポケモン
+Pokémon Uccello
 pokemon_category_0018
-とりポケモン
+Pokémon Uccello
 pokemon_category_0019
-ねずみポケモン
+Pokémon Topo
 pokemon_category_0020
-ねずみポケモン
+Pokémon Topo
 pokemon_category_0021
-ことりポケモン
+Pokémon Uccellino
 pokemon_category_0022
-くちばしポケモン
+Pokémon Becco
 pokemon_category_0023
-へびポケモン
+Pokémon Serpente
 pokemon_category_0024
-コブラポケモン
+Pokémon Cobra
 pokemon_category_0025
-ねずみポケモン
+Pokémon Topo
 pokemon_category_0026
-ねずみポケモン
+Pokémon Topo
 pokemon_category_0027
-ねずみポケモン
+Pokémon Topo
 pokemon_category_0028
-ねずみポケモン
+Pokémon Topo
 pokemon_category_0029
-どくばりポケモン
+Pokémon Velenago
 pokemon_category_0030
-どくばりポケモン
+Pokémon Velenago
 pokemon_category_0031
-ドリルポケモン
+Pokémon Trapano
 pokemon_category_0032
-どくばりポケモン
+Pokémon Velenago
 pokemon_category_0033
-どくばりポケモン
+Pokémon Velenago
 pokemon_category_0034
-ドリルポケモン
+Pokémon Trapano
 pokemon_category_0035
-ようせいポケモン
+Pokémon Fata
 pokemon_category_0036
-ようせいポケモン
+Pokémon Fata
 pokemon_category_0037
-きつねポケモン
+Pokémon Volpe
 pokemon_category_0038
-きつねポケモン
+Pokémon Volpe
 pokemon_category_0039
-ふうせんポケモン
+Pokémon Pallone
 pokemon_category_0040
-ふうせんポケモン
+Pokémon Pallone
 pokemon_category_0041
-こうもりポケモン
+Pokémon Pipistrello
 pokemon_category_0042
-こうもりポケモン
+Pokémon Pipistrello
 pokemon_category_0043
-ざっそうポケモン
+Pokémon Malerba
 pokemon_category_0044
-ざっそうポケモン
+Pokémon Malerba
 pokemon_category_0045
-フラワーポケモン
+Pokémon Fiore
 pokemon_category_0046
-きのこポケモン
+Pokémon Fungo
 pokemon_category_0047
-きのこポケモン
+Pokémon Fungo
 pokemon_category_0048
-こんちゅうポケモン
+Pokémon Insetto
 pokemon_category_0049
-どくがポケモン
+Pokémon Velentarma
 pokemon_category_0050
-もぐらポケモン
+Pokémon Talpa
 pokemon_category_0051
-もぐらポケモン
+Pokémon Talpa
 pokemon_category_0052
-ばけねこポケモン
+Pokémon Graffimiao
 pokemon_category_0053
-シャムネコポケモン
+Pokémon Nobilgatto
 pokemon_category_0054
-あひるポケモン
+Pokémon Papero
 pokemon_category_0055
-あひるポケモン
+Pokémon Papero
 pokemon_category_0056
-ぶたざるポケモン
+Pokémon Suinpanzé
 pokemon_category_0057
-ぶたざるポケモン
+Pokémon Suinpanzé
 pokemon_category_0058
-こいぬポケモン
+Pokémon Cagnolino
 pokemon_category_0059
-でんせつポケモン
+Pokémon Leggenda
 pokemon_category_0060
-おたまポケモン
+Pokémon Girino
 pokemon_category_0061
-おたまポケモン
+Pokémon Girino
 pokemon_category_0062
-おたまポケモン
+Pokémon Girino
 pokemon_category_0063
-ねんりきポケモン
+Pokémon Psico
 pokemon_category_0064
-ねんりきポケモン
+Pokémon Psico
 pokemon_category_0065
-ねんりきポケモン
+Pokémon Psico
 pokemon_category_0066
-かいりきポケモン
+Pokémon Megaforza
 pokemon_category_0067
-かいりきポケモン
+Pokémon Megaforza
 pokemon_category_0068
-かいりきポケモン
+Pokémon Megaforza
 pokemon_category_0069
-フラワーポケモン
+Pokémon Fiore
 pokemon_category_0070
-ハエとりポケモン
+Pokémon Moschivoro
 pokemon_category_0071
-ハエとりポケモン
+Pokémon Moschivoro
 pokemon_category_0072
-くらげポケモン
+Pokémon Medusa
 pokemon_category_0073
-くらげポケモン
+Pokémon Medusa
 pokemon_category_0074
-がんせきポケモン
+Pokémon Roccia
 pokemon_category_0075
-がんせきポケモン
+Pokémon Roccia
 pokemon_category_0076
-メガトンポケモン
+Pokémon Megatone
 pokemon_category_0077
-ひのうまポケモン
+Pokémon Cavalfuoco
 pokemon_category_0078
-ひのうまポケモン
+Pokémon Cavalfuoco
 pokemon_category_0079
-まぬけポケモン
+Pokémon Ronfone
 pokemon_category_0080
-やどかりポケモン
+Pokémon Paguro
 pokemon_category_0081
-じしゃくポケモン
+Pokémon Calamita
 pokemon_category_0082
-じしゃくポケモン
+Pokémon Calamita
 pokemon_category_0083
-かるがもポケモン
+Pokémon Selvanatra
 pokemon_category_0084
-ふたごどりポケモン
+Pokémon Biuccello
 pokemon_category_0085
-みつごどりポケモン
+Pokémon Triuccello
 pokemon_category_0086
-あしかポケモン
+Pokémon Otaria
 pokemon_category_0087
-あしかポケモン
+Pokémon Otaria
 pokemon_category_0088
-ヘドロポケモン
+Pokémon Melma
 pokemon_category_0089
-ヘドロポケモン
+Pokémon Melma
 pokemon_category_0090
-２まいがいポケモン
+Pokémon Bivalve
 pokemon_category_0091
-２まいがいポケモン
+Pokémon Bivalve
 pokemon_category_0092
-ガスじょうポケモン
+Pokémon Gas
 pokemon_category_0093
-ガスじょうポケモン
+Pokémon Gas
 pokemon_category_0094
-シャドーポケモン
+Pokémon Ombra
 pokemon_category_0095
-いわへびポケモン
+Pokémon Serpesasso
 pokemon_category_0096
-さいみんポケモン
+Pokémon Ipnosi
 pokemon_category_0097
-さいみんポケモン
+Pokémon Ipnosi
 pokemon_category_0098
-さわがにポケモン
+Pokémon Granchio
 pokemon_category_0099
-はさみポケモン
+Pokémon Chela
 pokemon_category_0100
-ボールポケモン
+Pokémon Ball
 pokemon_category_0101
-ボールポケモン
+Pokémon Ball
 pokemon_category_0102
-たまごポケモン
+Pokémon Uovo
 pokemon_category_0103
-やしのみポケモン
+Pokémon Nocecocco
 pokemon_category_0104
-こどくポケモン
+Pokémon Solitario
 pokemon_category_0105
-ほねずきポケモン
+Pokémon Guardaossi
 pokemon_category_0106
-キックポケモン
+Pokémon Tiracalci
 pokemon_category_0107
-パンチポケモン
+Pokémon Tirapugni
 pokemon_category_0108
-なめまわしポケモン
+Pokémon Linguaccia
 pokemon_category_0109
-どくガスポケモン
+Pokémon Velenuvola
 pokemon_category_0110
-どくガスポケモン
+Pokémon Velenuvola
 pokemon_category_0111
-とげとげポケモン
+Pokémon Punzoni
 pokemon_category_0112
-ドリルポケモン
+Pokémon Trapano
 pokemon_category_0113
-たまごポケモン
+Pokémon Uovo
 pokemon_category_0114
-ツルじょうポケモン
+Pokémon Liana
 pokemon_category_0115
-おやこポケモン
+Pokémon Genitore
 pokemon_category_0116
-ドラゴンポケモン
+Pokémon Drago
 pokemon_category_0117
-ドラゴンポケモン
+Pokémon Drago
 pokemon_category_0118
-きんぎょポケモン
+Pokémon Pescerosso
 pokemon_category_0119
-きんぎょポケモン
+Pokémon Pescerosso
 pokemon_category_0120
-ほしがたポケモン
+Pokémon Stella
 pokemon_category_0121
-なぞのポケモン
+Pokémon Misterioso
 pokemon_category_0122
-バリアーポケモン
+Pokémon Barriera
 pokemon_category_0123
-かまきりポケモン
+Pokémon Mantide
 pokemon_category_0124
-ひとがたポケモン
+Pokémon Umanoide
 pokemon_category_0125
-でんげきポケモン
+Pokémon Elettrico
 pokemon_category_0126
-ひふきポケモン
+Pokémon Sputafuoco
 pokemon_category_0127
-くわがたポケモン
+Pokémon Cervolante
 pokemon_category_0128
-あばれうしポケモン
+Pokémon Torobrado
 pokemon_category_0129
-さかなポケモン
+Pokémon Pesce
 pokemon_category_0130
-きょうあくポケモン
+Pokémon Atroce
 pokemon_category_0131
-のりものポケモン
+Pokémon Trasporto
 pokemon_category_0132
-へんしんポケモン
+Pokémon Mutante
 pokemon_category_0133
-しんかポケモン
+Pokémon Evoluzione
 pokemon_category_0134
-あわはきポケモン
+Pokémon Bollajet
 pokemon_category_0135
-かみなりポケモン
+Pokémon Luminoso
 pokemon_category_0136
-ほのおポケモン
+Pokémon Fiamma
 pokemon_category_0137
-バーチャルポケモン
+Pokémon Virtuale
 pokemon_category_0138
-うずまきポケモン
+Pokémon Spirale
 pokemon_category_0139
-うずまきポケモン
+Pokémon Spirale
 pokemon_category_0140
-こうらポケモン
+Pokémon Crostaceo
 pokemon_category_0141
-こうらポケモン
+Pokémon Crostaceo
 pokemon_category_0142
-かせきポケモン
+Pokémon Fossile
 pokemon_category_0143
-いねむりポケモン
+Pokémon Sonno
 pokemon_category_0144
-れいとうポケモン
+Pokémon Gelo
 pokemon_category_0145
-でんげきポケモン
+Pokémon Elettrico
 pokemon_category_0146
-かえんポケモン
+Pokémon Fiamma
 pokemon_category_0147
-ドラゴンポケモン
+Pokémon Drago
 pokemon_category_0148
-ドラゴンポケモン
+Pokémon Drago
 pokemon_category_0149
-ドラゴンポケモン
+Pokémon Drago
 pokemon_category_0150
-いでんしポケモン
+Pokémon Genetico
 pokemon_category_0151
-しんしゅポケモン
+Pokémon Novaspecie
 pokemon_category_0152
-はっぱポケモン
+Pokémon Foglia
 pokemon_category_0153
-はっぱポケモン
+Pokémon Foglia
 pokemon_category_0154
-ハーブポケモン
+Pokémon Erbe
 pokemon_category_0155
-ひねずみポケモン
+Pokémon Fuocotopo
 pokemon_category_0156
-かざんポケモン
+Pokémon Vulcano
 pokemon_category_0157
-かざんポケモン
+Pokémon Vulcano
 pokemon_category_0158
-おおあごポケモン
+Pokémon Mascellone
 pokemon_category_0159
-おおあごポケモン
+Pokémon Mascellone
 pokemon_category_0160
-おおあごポケモン
+Pokémon Mascellone
 pokemon_category_0161
-みはりポケモン
+Pokémon Esplorante
 pokemon_category_0162
-どうながポケモン
+Pokémon Lungocorpo
 pokemon_category_0163
-ふくろうポケモン
+Pokémon Gufo
 pokemon_category_0164
-ふくろうポケモン
+Pokémon Gufo
 pokemon_category_0165
-いつつぼしポケモン
+Pokémon Pentastra
 pokemon_category_0166
-いつつぼしポケモン
+Pokémon Pentastra
 pokemon_category_0167
-いとはきポケモン
+Pokémon Tela
 pokemon_category_0168
-あしながポケモン
+Pokémon Lungazampa
 pokemon_category_0169
-こうもりポケモン
+Pokémon Pipistrello
 pokemon_category_0170
-あんこうポケモン
+Pokémon Pescatore
 pokemon_category_0171
-ライトポケモン
+Pokémon Luce
 pokemon_category_0172
-こねずみポケモン
+Pokémon Topino
 pokemon_category_0173
-ほしがたポケモン
+Pokémon Stella
 pokemon_category_0174
-ふうせんポケモン
+Pokémon Pallone
 pokemon_category_0175
-はりたまポケモン
+Pokémon Pallapunte
 pokemon_category_0176
-しあわせポケモン
+Pokémon Felicità
 pokemon_category_0177
-ことりポケモン
+Pokémon Uccellino
 pokemon_category_0178
-せいれいポケモン
+Pokémon Magico
 pokemon_category_0179
-わたげポケモン
+Pokémon Lana
 pokemon_category_0180
-わたげポケモン
+Pokémon Lana
 pokemon_category_0181
-ライトポケモン
+Pokémon Luce
 pokemon_category_0182
-フラワーポケモン
+Pokémon Fiore
 pokemon_category_0183
-みずねずみポケモン
+Pokémon Acquatopo
 pokemon_category_0184
-みずうさぎポケモン
+Pokémon Acquniglio
 pokemon_category_0185
-まねポケモン
+Pokémon Imitazione
 pokemon_category_0186
-かえるポケモン
+Pokémon Rana
 pokemon_category_0187
-わたくさポケモン
+Pokémon Gramigna
 pokemon_category_0188
-わたくさポケモン
+Pokémon Gramigna
 pokemon_category_0189
-わたくさポケモン
+Pokémon Gramigna
 pokemon_category_0190
-おながポケモン
+Pokémon Lungacoda
 pokemon_category_0191
-たねポケモン
+Pokémon Seme
 pokemon_category_0192
-たいようポケモン
+Pokémon Sole
 pokemon_category_0193
-うすばねポケモン
+Pokémon Alachiara
 pokemon_category_0194
-みずうおポケモン
+Pokémon Acquapesce
 pokemon_category_0195
-みずうおポケモン
+Pokémon Acquapesce
 pokemon_category_0196
-たいようポケモン
+Pokémon Sole
 pokemon_category_0197
-げっこうポケモン
+Pokémon Lucelunare
 pokemon_category_0198
-くらやみポケモン
+Pokémon Oscurità
 pokemon_category_0199
-おうじゃポケモン
+Pokémon Reale
 pokemon_category_0200
-よなきポケモン
+Pokémon Strido
 pokemon_category_0201
-シンボルポケモン
+Pokémon Simbolo
 pokemon_category_0202
-がまんポケモン
+Pokémon Pazienza
 pokemon_category_0203
-くびながポケモン
+Pokémon Lungocollo
 pokemon_category_0204
-みのむしポケモン
+Pokémon Larva
 pokemon_category_0205
-みのむしポケモン
+Pokémon Larva
 pokemon_category_0206
-つちへびポケモン
+Pokémon Terraserpe
 pokemon_category_0207
-とびさそりポケモン
+Pokémon Aliscorpio
 pokemon_category_0208
-てつへびポケモン
+Pokémon Ferroserpe
 pokemon_category_0209
-ようせいポケモン
+Pokémon Fata
 pokemon_category_0210
-ようせいポケモン
+Pokémon Fata
 pokemon_category_0211
-ふうせんポケモン
+Pokémon Pallone
 pokemon_category_0212
-はさみポケモン
+Pokémon Chela
 pokemon_category_0213
-はっこうポケモン
+Pokémon Muffa
 pokemon_category_0214
-１ぽんヅノポケモン
+Pokémon Monocorno
 pokemon_category_0215
-かぎづめポケモン
+Pokémon Lamartigli
 pokemon_category_0216
-こぐまポケモン
+Pokémon Orsetto
 pokemon_category_0217
-とうみんポケモン
+Pokémon Letargo
 pokemon_category_0218
-ようがんポケモン
+Pokémon Lava
 pokemon_category_0219
-ようがんポケモン
+Pokémon Lava
 pokemon_category_0220
-いのぶたポケモン
+Pokémon Maiale
 pokemon_category_0221
-いのししポケモン
+Pokémon Suino
 pokemon_category_0222
-さんごポケモン
+Pokémon Corallo
 pokemon_category_0223
-ふんしゃポケモン
+Pokémon Jet
 pokemon_category_0224
-ふんしゃポケモン
+Pokémon Jet
 pokemon_category_0225
-はこびやポケモン
+Pokémon Consegna
 pokemon_category_0226
-カイトポケモン
+Pokémon Aquilone
 pokemon_category_0227
-よろいどりポケモン
+Pokémon Armuccello
 pokemon_category_0228
-ダークポケモン
+Pokémon Buio
 pokemon_category_0229
-ダークポケモン
+Pokémon Buio
 pokemon_category_0230
-ドラゴンポケモン
+Pokémon Drago
 pokemon_category_0231
-ながはなポケモン
+Pokémon Nasone
 pokemon_category_0232
-よろいポケモン
+Pokémon Armatura
 pokemon_category_0233
-バーチャルポケモン
+Pokémon Virtuale
 pokemon_category_0234
-おおツノポケモン
+Pokémon Grancorno
 pokemon_category_0235
-えかきポケモン
+Pokémon Pittore
 pokemon_category_0236
-けんかポケモン
+Pokémon Baruffa
 pokemon_category_0237
-さかだちポケモン
+Pokémon Verticale
 pokemon_category_0238
-くちづけポケモン
+Pokémon Bacio
 pokemon_category_0239
-でんきポケモン
+Pokémon Elettrico
 pokemon_category_0240
-ひだねポケモン
+Pokémon Carbonvivo
 pokemon_category_0241
-ちちうしポケモン
+Pokémon Bovino
 pokemon_category_0242
-しあわせポケモン
+Pokémon Felicità
 pokemon_category_0243
-いかずちポケモン
+Pokémon Tuono
 pokemon_category_0244
-かざんポケモン
+Pokémon Vulcano
 pokemon_category_0245
-オーロラポケモン
+Pokémon Aurora
 pokemon_category_0246
-いわはだポケモン
+Pokémon Peldisasso
 pokemon_category_0247
-だんがんポケモン
+Pokémon Guscioduro
 pokemon_category_0248
-よろいポケモン
+Pokémon Armatura
 pokemon_category_0249
-せんすいポケモン
+Pokémon Immersione
 pokemon_category_0250
-にじいろポケモン
+Pokémon Arcobaleno
 pokemon_category_0251
-ときわたりポケモン
+Pokémon Tempovia
 pokemon_category_0252
-もりトカゲポケモン
+Pokémon Legnogeco
 pokemon_category_0253
-もりトカゲポケモン
+Pokémon Legnogeco
 pokemon_category_0254
-みつりんポケモン
+Pokémon Foresta
 pokemon_category_0255
-ひよこポケモン
+Pokémon Pulcino
 pokemon_category_0256
-わかどりポケモン
+Pokémon Rampollo
 pokemon_category_0257
-もうかポケモン
+Pokémon Vampe
 pokemon_category_0258
-ぬまうおポケモン
+Pokémon Fango Pesce
 pokemon_category_0259
-ぬまうおポケモン
+Pokémon Fango Pesce
 pokemon_category_0260
-ぬまうおポケモン
+Pokémon Fango Pesce
 pokemon_category_0261
-かみつきポケモン
+Pokémon Morso
 pokemon_category_0262
-かみつきポケモン
+Pokémon Morso
 pokemon_category_0263
-まめだぬきポケモン
+Pokémon Procione
 pokemon_category_0264
-とっしんポケモン
+Pokémon Sfrecciante
 pokemon_category_0265
-いもむしポケモン
+Pokémon Baco
 pokemon_category_0266
-さなぎポケモン
+Pokémon Bozzolo
 pokemon_category_0267
-ちょうちょポケモン
+Pokémon Farfalla
 pokemon_category_0268
-さなぎポケモン
+Pokémon Bozzolo
 pokemon_category_0269
-どくがポケモン
+Pokémon Velentarma
 pokemon_category_0270
-うきくさポケモン
+Pokémon Alga
 pokemon_category_0271
-ようきポケモン
+Pokémon Giocoso
 pokemon_category_0272
-のうてんきポケモン
+Pokémon Spensierato
 pokemon_category_0273
-どんぐりポケモン
+Pokémon Ghianda
 pokemon_category_0274
-いじわるポケモン
+Pokémon Scaltro
 pokemon_category_0275
-よこしまポケモン
+Pokémon Burbero
 pokemon_category_0276
-こツバメポケモン
+Pokémon Rondinella
 pokemon_category_0277
-ツバメポケモン
+Pokémon Rondine
 pokemon_category_0278
-うみねこポケモン
+Pokémon Gabbiano
 pokemon_category_0279
-みずどりポケモン
+Pokémon Alacquatico
 pokemon_category_0280
-きもちポケモン
+Pokémon Sensazione
 pokemon_category_0281
-かんじょうポケモン
+Pokémon Emozione
 pokemon_category_0282
-ほうようポケモン
+Pokémon Abbraccio
 pokemon_category_0283
-あめんぼポケモン
+Pokémon Sfiorapozze
 pokemon_category_0284
-めだまポケモン
+Pokémon Occhi
 pokemon_category_0285
-きのこポケモン
+Pokémon Fungo
 pokemon_category_0286
-きのこポケモン
+Pokémon Fungo
 pokemon_category_0287
-なまけものポケモン
+Pokémon Ozioso
 pokemon_category_0288
-あばれザルポケモン
+Pokémon Indocile
 pokemon_category_0289
-ものぐさポケモン
+Pokémon Pigrizia
 pokemon_category_0290
-したづみポケモン
+Pokémon Novizio
 pokemon_category_0291
-しのびポケモン
+Pokémon Ninja
 pokemon_category_0292
-ぬけがらポケモン
+Pokémon Cambiapelle
 pokemon_category_0293
-ささやきポケモン
+Pokémon Sussurro
 pokemon_category_0294
-おおごえポケモン
+Pokémon Vocione
 pokemon_category_0295
-そうおんポケモン
+Pokémon Fragore
 pokemon_category_0296
-こんじょうポケモン
+Pokémon Coraggio
 pokemon_category_0297
-つっぱりポケモン
+Pokémon Sberletese
 pokemon_category_0298
-みずたまポケモン
+Pokémon Pois
 pokemon_category_0299
-コンパスポケモン
+Pokémon Bussola
 pokemon_category_0300
-こねこポケモン
+Pokémon Micio
 pokemon_category_0301
-おすましポケモン
+Pokémon Finezza
 pokemon_category_0302
-くらやみポケモン
+Pokémon Oscurità
 pokemon_category_0303
-あざむきポケモン
+Pokémon Inganno
 pokemon_category_0304
-てつヨロイポケモン
+Pokémon Corazza
 pokemon_category_0305
-てつヨロイポケモン
+Pokémon Corazza
 pokemon_category_0306
-てつヨロイポケモン
+Pokémon Corazza
 pokemon_category_0307
-めいそうポケモン
+Pokémon Meditazione
 pokemon_category_0308
-めいそうポケモン
+Pokémon Meditazione
 pokemon_category_0309
-いなずまポケモン
+Pokémon Lampo
 pokemon_category_0310
-ほうでんポケモン
+Pokémon Scossa
 pokemon_category_0311
-おうえんポケモン
+Pokémon Incitamento
 pokemon_category_0312
-おうえんポケモン
+Pokémon Incitamento
 pokemon_category_0313
-ほたるポケモン
+Pokémon Lucciola
 pokemon_category_0314
-ほたるポケモン
+Pokémon Lucciola
 pokemon_category_0315
-いばらポケモン
+Pokémon Spina
 pokemon_category_0316
-いぶくろポケモン
+Pokémon Stomaco
 pokemon_category_0317
-どくぶくろポケモン
+Pokémon Velenosacco
 pokemon_category_0318
-どうもうポケモン
+Pokémon Feroce
 pokemon_category_0319
-きょうぼうポケモン
+Pokémon Brutale
 pokemon_category_0320
-たまくじらポケモン
+Pokémon Balenottero
 pokemon_category_0321
-うきくじらポケモン
+Pokémon Megabalena
 pokemon_category_0322
-どんかんポケモン
+Pokémon Torpore
 pokemon_category_0323
-ふんかポケモン
+Pokémon Eruzione
 pokemon_category_0324
-せきたんポケモン
+Pokémon Carbone
 pokemon_category_0325
-とびはねポケモン
+Pokémon Molla
 pokemon_category_0326
-あやつりポケモン
+Pokémon Raggiro
 pokemon_category_0327
-ぶちパンダポケモン
+Pokémon Macchipanda
 pokemon_category_0328
-ありじごくポケモン
+Pokémon Trappola
 pokemon_category_0329
-しんどうポケモン
+Pokémon Vibrazione
 pokemon_category_0330
-せいれいポケモン
+Pokémon Magico
 pokemon_category_0331
-サボテンポケモン
+Pokémon Cactus
 pokemon_category_0332
-カカシぐさポケモン
+Pokémon Spavento
 pokemon_category_0333
-わたどりポケモン
+Pokémon Alidicotone
 pokemon_category_0334
-ハミングポケモン
+Pokémon Canterino
 pokemon_category_0335
-ネコイタチポケモン
+Pokémon Furogatto
 pokemon_category_0336
-キバへびポケモン
+Pokémon Zannaserpe
 pokemon_category_0337
-いんせきポケモン
+Pokémon Meteorite
 pokemon_category_0338
-いんせきポケモン
+Pokémon Meteorite
 pokemon_category_0339
-ひげうおポケモン
+Pokémon Baffetti
 pokemon_category_0340
-ひげうおポケモン
+Pokémon Baffetti
 pokemon_category_0341
-ごろつきポケモン
+Pokémon Birbone
 pokemon_category_0342
-ならずものポケモン
+Pokémon Canaglia
 pokemon_category_0343
-どぐうポケモン
+Pokémon Argilla
 pokemon_category_0344
-どぐうポケモン
+Pokémon Argilla
 pokemon_category_0345
-ウミユリポケモン
+Pokémon Fiordimare
 pokemon_category_0346
-いわつぼポケモン
+Pokémon Lepade
 pokemon_category_0347
-むかしエビポケモン
+Pokémon Primaceo
 pokemon_category_0348
-かっちゅうポケモン
+Pokémon Piastre
 pokemon_category_0349
-さかなポケモン
+Pokémon Pesce
 pokemon_category_0350
-いつくしみポケモン
+Pokémon Tenerezza
 pokemon_category_0351
-てんきポケモン
+Pokémon Meteo
 pokemon_category_0352
-いろへんげポケモン
+Pokémon Mutacolore
 pokemon_category_0353
-にんぎょうポケモン
+Pokémon Pupazzo
 pokemon_category_0354
-ぬいぐるみポケモン
+Pokémon Marionetta
 pokemon_category_0355
-おむかえポケモン
+Pokémon Requiem
 pokemon_category_0356
-てまねきポケモン
+Pokémon Ipnosguardo
 pokemon_category_0357
-フルーツポケモン
+Pokémon Frutto
 pokemon_category_0358
-ふうりんポケモン
+Pokémon Vencampana
 pokemon_category_0359
-わざわいポケモン
+Pokémon Catastrofe
 pokemon_category_0360
-ほがらかポケモン
+Pokémon Brillante
 pokemon_category_0361
-ゆきかさポケモン
+Pokémon Cappelneve
 pokemon_category_0362
-がんめんポケモン
+Pokémon Tuttomuso
 pokemon_category_0363
-てたたきポケモン
+Pokémon Rotolante
 pokemon_category_0364
-たままわしポケモン
+Pokémon Rotapalla
 pokemon_category_0365
-こおりわりポケモン
+Pokémon Spaccagelo
 pokemon_category_0366
-２まいがいポケモン
+Pokémon Bivalve
 pokemon_category_0367
-しんかいポケモン
+Pokémon Abissi
 pokemon_category_0368
-なんかいポケモン
+Pokémon Sudmarino
 pokemon_category_0369
-ちょうじゅポケモン
+Pokémon Longevità
 pokemon_category_0370
-ランデブーポケモン
+Pokémon Rendezvous
 pokemon_category_0371
-いしあたまポケモン
+Pokémon Rocciotesta
 pokemon_category_0372
-にんたいポケモン
+Pokémon Resistenza
 pokemon_category_0373
-ドラゴンポケモン
+Pokémon Drago
 pokemon_category_0374
-てっきゅうポケモン
+Pokémon Ferrosfera
 pokemon_category_0375
-てつツメポケモン
+Pokémon Ferrunghia
 pokemon_category_0376
-てつあしポケモン
+Pokémon Ferrarto
 pokemon_category_0377
-いわやまポケモン
+Pokémon Picco
 pokemon_category_0378
-ひょうざんポケモン
+Pokémon Iceberg
 pokemon_category_0379
-くろがねポケモン
+Pokémon Ferro
 pokemon_category_0380
-むげんポケモン
+Pokémon Eone
 pokemon_category_0381
-むげんポケモン
+Pokémon Eone
 pokemon_category_0382
-かいていポケモン
+Pokémon Oceano
 pokemon_category_0383
-たいりくポケモン
+Pokémon Continente
 pokemon_category_0384
-てんくうポケモン
+Pokémon Stratosfera
 pokemon_category_0385
-ねがいごとポケモン
+Pokémon Desiderio
 pokemon_category_0386
-ＤＮＡポケモン
+Pokémon DNA

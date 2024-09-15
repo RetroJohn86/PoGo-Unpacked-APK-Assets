@@ -1,536 +1,538 @@
 test_key
-測試
+Test
 screen_you_title
-自己
+me
 screen_friends_title
-朋友
+friends
 social_add_friends
-新增朋友
+Add Friend
 friend_code_title
-訓練家代碼
+Trainer Code
 enter_friend_code_prompt
-若要新增朋友，請輸入該訓練家的代碼
+To add someone to your Friend List, enter their Trainer Code.
 your_friend_code_title
-自己的訓練家代碼
+Your Trainer Code
 other_section_title
-其他
+Other
 send_gift_action
-傳送友情禮物
+Send Gift
 trade_action
-交換
+Trade
 incoming_friend_request_prompt
-收到 {0} 件朋友申請
+{0} people sent you Friend Requests.
 incoming_friend_request_prompt_singular
-收到1件朋友申請
+One person sent you a Friend Request.
 screen_title_friend_requests
-朋友申請
+Friend Requests
 accept_friend_request_prompt
-收到1件朋友申請
+Sent you a Friend Request!
 became_friends_prompt
-和 {0} 成為朋友了！
+You and {0} are now friends.
 sent_friend_request_prompt
-傳送了1件朋友申請
+You sent a Friend Request.
 share_title
-分享
+Share
 your_friend_code_desc
-其他訓練家輸入此代碼後，即可將你追加為朋友
+Others can input this Trainer Code to add you as a friend.
 social_add_friend_qr
-二維條碼
+QR Code
 social_add_friend_facebook
-透過Facebook新增朋友
+Import friends from Facebook
 friend_sent_you_gift_notification
-收到 {0} 傳送的友情禮物了！
+{0} sent you a Gift!
 select_giftbox_to_send_prompt
-要傳送哪一個友情禮物？
+Which Gift do you want to send?
 send_giftbox_prompt
-傳送友情禮物
+Send Gift
 gift_from_prompt
-祝你有愉快的一天！
+Greetings from
 friend_request_accepted_prompt
-和 {0} 成為朋友了！
+You and {0} are now friends!
 error_opened_daily_max_number_of_gifts
-開啟次數已達本日上限
+Daily limit reached. Come back tomorrow to open more Gifts.
 remove_friend_confirmation
-確定要刪除這個朋友嗎？
+Are you sure you want to remove this friend?
 error_already_sent_gift_today
-今天已經傳送過友情禮物了
+You already sent this Trainer a Gift today.
 error_friend_has_unopened_gift
-對方尚未開啟上次傳送的友情禮物
+Your friend still has an unopened Gift from you.
 error_player_not_found
-錯誤訓練家代碼：找不到此訓練家
+Invalid Trainer Code; Trainer not found.
 error_friend_request_does_not_exist
-朋友申請不存在
+Friend Request does not exist.
 error_senders_friends_list_full
-{0} 的朋友名單已滿
+{0}'s Friend List is full.
 error_friends_list_full
-你的朋友名單滿了！
+Your Friend List is full.
 friend_request_declined_prompt
-已回絕朋友申請
+You declined this Friend Request.
 error_get_friends_requests_failed
-無法取得朋友申請，請稍後再試一次
+Failed to get Friend Requests. Try again later.
 error_get_friends_list_failed
-無法取得朋友名單，請稍後再試一次
+Failed to get Friend List. Try again later.
 error_send_friend_request_title
-給 {0} 的朋友申請傳送失敗
+Failed to send a Friend Request to {0}.
 error_player_already_friend
-你和這個訓練家已經是朋友了
+You're already friends with this Trainer.
 error_friend_request_max_friends
-你的朋友名單滿了！
+Your Friend List is full.
 error_friend_request_friend_inbox_full
-對方有太多未開啟的朋友申請
+This Trainer has too many pending Friend Requests.
 error_max_friend_requests_sent
-朋友申請數已達上限
+You've sent all the Friend Requests you can right now.
 sent_you_a_gift
-收到 {0} 送來的友情禮物了！
+{0} sent you a Gift!
 item_friend_gift_box_name
-友情禮物
+Gift
 item_friend_gift_box_desc
-只有收到的人才能打開的禮物。裡面裝滿了許多方便的道具。
+A box that you can send to a friend. Contains a variety of useful items.
 sent_friend_request_success
-已向 {0} 傳送朋友申請！
+You sent a Friend Request to {0}!
 friendslist_sort_lastactivity
-最近的活動
+Last Activity
 friendslist_sort_level
-友誼等級
+Friendship Level
 friendslist_sort_alphabet
-名字
+Name
 giftbox_log_opened
-打開來自 {0} 的友情禮物！
+Opened a Gift from {0}.
 today
-今天
+Today
 yesterday
-昨天
+Yesterday
 two_plus_days_ago
-2天前
+2+ days ago
 manage_items_button
-整理道具
+Manage Items
 upgrade_item_bag_button
-升級包包
+Upgrade Item Bag
 error_open_gift_bag_full
-請在開禮物之前清出包包的空間或升級包包
+Please make space or upgrade your Item Bag before opening the gift.
 friend_opened_your_gift
-你的友情禮物讓 {0} 獲得了 {1} 個道具！
+{0} received {1} items from your Gift!
 friend_opened_your_gift_singular
-你的友情禮物讓 {0} 獲得了1個道具！
+{0} received 1 item from your Gift.
 social_remove_friend
-刪除朋友
+Remove Friend
 send_gift_prompt
-傳送友情禮物
+Send a Gift
 friendship_strengthened
-和 {0} 的友誼等級提升了！
+Friendship level with {0} increased!
 trade_select_header
-可交換的寶可夢
+Pokémon to Trade
 trade_exclusion_reason_mythical
-不能交換幻之寶可夢
+Mythical Pokémon can't be traded.
 trade_exclusion_reason_slashed
-不能交換這隻寶可夢
+This Pokémon cannot be traded.
 trade_exclusion_reason_disabled
-發生錯誤，無法傳送這隻寶可夢
+This Pokémon can't be traded due to an error.
 share_my_friend_code_message
-請加我為Pokémon GO的朋友！我的訓練家代碼是 {0} ！
+Let's be friends in Pokémon GO! My Trainer Code is {0}!
 friendship_milestone_notification_toast
-和 {0} 成為好朋友了！
+You and {0} are now Good Friends!
 friendship_detail_unlock_reqs_singular
-再一起玩 {0} 天，就能成為 {1}！
+Play together for {0} more days to become {1}s!
 friendship_detail_unlock_reqs_plural
-再一起玩 {0} 天，就能成為 {1}！
+Play together for {0} more days to become {1}s!
 friendship_detail_capabilities
-獎勵
+Bonus
 friendship_detail_just_friends
-提升友誼等級後，將可獲得獎勵！點擊心型圖示，確認細節。
+If you increase your Friendship level, you'll earn bonuses! Tap a heart to see more.
 friendship_detail_trade
-交換
+Trade
 friendship_detail_battle
-道館對戰／團體戰
+Gym Battle / Raid Battle
 raid_friendship_bonus
-友誼
+Friendship
 friendship_strengthened_header
-友誼等級上升
+Friendship Level Increased
 friendship_detail_attack_bonus
-攻擊獎勵
+Attack bonus
 friendship_detail_raid_bonus
-團體戰獎勵
+Raid bonus
 gym_battle_victory_subtitle_alone
-踢館成功
+You defeated this Gym
 gym_battle_victory_subtitle_with_friend
-一起踢館成功：
+You defeated this Gym with
 friendship_level_0
-朋友
+Friend
 friendship_level_1
-好朋友
+Good Friend
 friendship_level_2
-給力好朋友
+Great Friend
 friendship_level_3
-麻吉好朋友
+Ultra Friend
 friendship_level_4
-正港好朋友
+Best Friend
 friendship_detail_ball_singular
-+{0} 顆球
++{0} Ball
 friendship_detail_ball_plural
-+{0} 顆球
++{0} Balls
 friendship_milestone_notification_toast_3
-和 {0} 成為給力好朋友了！
+You and {0} are now Great Friends!
 friendship_milestone_notification_toast_4
-和 {0} 成為麻吉好朋友了！
+You and {0} are now Ultra Friends!
 friendship_milestone_notification_toast_5
-和 {0} 成為正港好朋友了！
+You and {0} are now Best Friends!
 friend_singular
-朋友
+friend
 friend_plural
-朋友
+friends
 see_details
-查看詳情
+SEE DETAILS
 sent_gift_to_friend
-把友情禮物傳送給 {0} 了！
+Sent a Gift to {0}.
 settings_gift_received
-收到友情禮物
+Gift Received
 error_no_gifts_in_inventory
-包包裡沒有友情禮物，去寶可補給站找找看吧！
+You have no Gifts in your inventory. Visit a PokéStop to look for them!
 trade_detail_appraisal
-調查：
+Appraisal:
 trade_exclusion_reason_friend_level
-友誼等級不足，無法進行交換
+Your Friendship level with this friend isn't high enough to complete this trade.
 trade_exclusion_reason_traded
-不能再次交換這隻寶可夢
+This Pokémon can't be traded again.
 trade_exclusion_reason_gym_deployed
-這隻寶可夢已被指派至道館
+This Pokémon is assigned to a Gym.
 trade_exclusion_reason_buddy
-不能交換夥伴寶可夢
+This Pokémon is your Buddy Pokémon.
 trade_exclusion_reason_stamina
-不能交換虛弱的寶可夢
+This Pokémon is not at full health.
 attack_bonus
-攻擊獎勵
+Attack Bonus
 raid_bonus_ball
-團體戰獎勵
+Raid Bonus Balls
 new_feature_unlocked
-成功解鎖的新獎勵
+New Bonuses Unlocked
 error_cannot_invite_yourself
-不能將自己加入朋友名單
+You can't add yourself to your own Friend List!
 change_your_code_button
-變更代碼
+CHANGE MY CODE
 change_your_code_title
-變更自己的訓練家代碼
+Change your Trainer Code
 change_your_code_message
-確定要變更自己的訓練家代碼嗎？代碼變更後，目前的朋友名單並不會受到影響，但你將無法使用變更前的訓練家代碼接收朋友申請。
+Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 your_code_changed
-訓練家代碼已更新
+Trainer Code has been changed.
 badge_max_level_friends
-和 {0} 名訓練家成為正港好朋友
+Become Best Friends with {0} Trainers.
 badge_max_level_friends_value_format
 N0
 error_invite_already_sent
-已向此訓練家傳送朋友申請
+You have already sent an invite to this Trainer.
 badge_max_level_friends_singular
-和 {0} 名訓練家成為正港好朋友
+Become Best Friends with {0} Trainer.
 screen_title_notification
-通知
+Notifications
 badge_max_level_friends_title
-偶像
+Idol
 badge_trading_distance_title
-飛行員
+Pilot
 badge_trading_title
-紳士
+Gentleman
 trade_exclusion_reason_egg
-不能交換蛋
+Eggs can't be traded.
 trade_tut_stardust_needed
-交換時需使用星星沙子
+Trade with Stardust
 trade_tut_stardust_needed_message
-交換寶可夢時需使用的星星沙子數量將依寶可夢而異。交換特殊寶可夢時需進行「特殊交換」，而特殊交換需要使用的星星沙子會比一般交換多。提升兩人之間的友誼等級，便可減少進行特殊交換時所需使用的星星沙子數量。
+The amount of Stardust needed for trading varies. Trades for certain Pokémon are called Special Trades and require more Stardust. Increasing your Friendship level will reduce the amount of Stardust required for Special Trades.
 trade_tut_special_trade
-特殊交換
+Special Trades
 trade_tut_special_trade_message
-特殊交換一天只能進行一次。傳說的寶可夢、異色寶可夢及自己圖鑑裡沒有的寶可夢皆為特殊交換對象。
+Legendary Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex all require a Special Trade. You can only make one Special Trade a day.
 trade_tut_candy_bonus
-糖果獎勵
+Candy Bonuses
 trade_tut_candy_bonus_message
-進行交換時，你和朋友之間的距離必須小於100公尺。如果兩隻寶可夢被捕捉的地點距離越遠（～100公里），交換時就能獲得越多糖果。 
+You need to be within 100 meters of a friend to start a trade. You can earn a bonus depending on where the Pokémon in the trade were caught. The farther apart their caught locations (up to around 100 km), the more Candy you'll earn! 
 trade_tut_strength_adjust
-寶可夢的強度將會被調整
+Pokémon CP and HP in Trade
 trade_tut_strength_adjust_message
-交換寶可夢時，寶可夢的CP及HP將依對方的訓練家等級及兩人之間的友誼等級隨機變動。
+When you trade a Pokémon to a friend, you can see the range of CP and HP that it could have. This range adjusts based on your friend's level and will also be affected by your Friendship level. After you complete the trade, the stats of both Pokémon will change randomly to reflect the new range.
 error_gift_invalid_state
-發生錯誤，無法傳送友情禮物
+Cannot send Gift due to an error.
 trade_activity_log
-用 {0} 和 {2} 交換了 {1}
+Traded {0} for {1} with {2}.
 error_generate_friendcode_failed
-無法取得訓練家代碼
+Failed to get your Trainer Code.
 error_invite_already_received
-此訓練家已向你提出朋友申請
+This Trainer has already sent you a Friend Request.
 add_friends_privacy_prompt
-朋友之間可以相互確認彼此的個人檔案及最近捕捉到的寶可夢。當你傳送友情禮物或跟朋友交換寶可夢時，他可能會知道你的所在位置。
+Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
 visit_help_center_prompt
-詳情請參閱常見問題
+For more information, visit the Help Center.
 friendship_detail_no_bonus
-無獎勵
+No bonuses.
 social_no_friends
-和朋友一起玩遊戲可以解鎖交換功能，並獲得獎勵！
+Play together with your friends to unlock trades, Premier Balls, and power-ups for battle!
 gift_sent_toast
-成功送出友情禮物！
+Gift sent!
 friends_list_level_format
 Lv {0}
 badge_trading
-交換 {0} 隻寶可夢
+Trade {0} Pokémon.
 badge_trading_value_format
 N0
 badge_trading_distance
-交換寶可夢時累積的距離達 {0} 公里
+Earn {0} km across the distance of all Pokémon trades.
 badge_trading_distance_value_format
 N0
 log_player_sent_you_a_friend_request
-收到 {0} 傳來的朋友申請了！
+{0} sent you a Friend Request!
 log_player_accepted_your_friend_request
-{0} 接受你的朋友申請了！
+{0} accepted your Friend Request!
 trading_confirm
-確定
+Confirm
 trading_cancel
-取消
+Cancel
 trading_me
-自己
+Me
 trade_player_me
-自己
+Me
 trading_player_level
 Lv. {0}
 trading_details_warning
-由於朋友的訓練家等級較低，寶可夢的CP及HP將被調低
+Your friend's Trainer level is lower than yours, so CP and HP are reduced.
 social_player_level_too_low
-目前系統僅開放訓練家等級達到 {0} 級以上的訓練家使用朋友功能。此功能將依序開放給所有訓練家使用，敬請耐心等候。
+The friend feature is currently available for level {0} and above. Please check back to find out when it's available for you.
 error_social_player_banned
-無法使用此功能
+You cannot access this feature.
 trade_friend_is_selecting
-正在等待 {0} 選擇寶可夢……
+Waiting for {0} to select their Pokémon...
 trading_confirmed
-確定
+Confirmed
 trading_waiting
-正在等待……
+Waiting...
 friend_invite_accepted_toast
-和 {0} 成為朋友了！
+You and {0} are now friends!
 friend_invite_received_toast
-收到 {0} 傳來的朋友申請了！
+{0} sent you a Friend Request!
 trade_friend_left_title
-朋友退出本次交換
+Trade expired.
 trade_friend_left_message
-本次交換已被取消
+This trade was canceled.
 trade_cannot_confirm
-尚未確定
+Cannot confirm yet
 trade_friend_not_present
-正在等待 {0}……
+Waiting for {0} to be available for trading.
 trade_confirm_quit_title
-確定要退出交換嗎？
+Do you want to cancel this trade?
 trade_confirm_quit_message
-若是離開此畫面，這次交換將會被取消
+If you leave now, you won't trade with {0}. 
 friendship_detail_unlocked_trading
-可交換的寶可夢種類：
+You can trade the following Pokémon:
 friendship_detail_stardust_discount
-星星沙子折扣獎勵
+Stardust discount
 trade_regular_in_pokedex
-圖鑑裡所有的一般寶可夢
+Regular Pokémon in Pokédex
 trade_regular_non_pokedex
-所有一般寶可夢
+All regular Pokémon
 trade_regional_non_pokedex
-所有地區型態的寶可夢
+All regional Pokémon
 trade_form_non_pokedex
-所有樣子不同的寶可夢
+All Pokémon form variants
 trade_legendary_non_pokedex
-所有傳說的寶可夢
+All Legendary Pokémon
 trade_shiny_non_pokedex
-所有異色寶可夢
+All Shiny Pokémon
 trading_canceled
-已取消
+Canceled
 trade_special_in_pokedex
-已登錄至圖鑑的傳說的寶可夢或異色寶可夢
+Legendary or Shiny Pokémon in Pokédex
 trade_exclusion_reason_player_cannot_afford
-星星沙子不足
+You do not have enough Stardust.
 trade_exclusion_reason_friend_cannot_afford
-朋友的星星沙子不足
+Your friend doesn't have enough Stardust.
 trade_exclusion_reason_player_reached_daily_limit
-今天已經做過特殊交換囉
+You've already made a Special Trade today.
 trade_exclusion_reason_friend_reached_daily_limit
-朋友今天已經做過特殊交換囉
+Your friend has already made a Special Trade today.
 trade_error_unknown
-暫時無法使用交換功能，請稍後再試一次
+Trading service temporarily unavailable. Try again later.
 trade_error_friend_not_found
-無法找到 {0} 來進行交換
+Couldn't find {0} to trade with.
 trade_error_open_expired
-與 {0} 的交換已結束
+This trade with {0} has expired.
 trade_error_out_of_range
-{0} 不在可交換的範圍內
+{0} is out of range for trading.
 trade_error_below_min_level
-{0} 的訓練家等級太低，無法使用交換功能
+{0} is below the minimum level to trade.
 trade_error_reached_daily_limit
-已達到本日交換上限，請稍後再試一次
+Daily trading limit reached. Come back tomorrow to trade more.
 trade_error_friend_reached_daily_limit
-{0} 已達到本日交換上限
+{0} has reached the daily trading limit for today.
 trade_error_not_enough_stardust
-目前星星沙子不足，無法和 {0} 進行交換
+You don't have enough Stardust to trade with {0} right now.
 trade_error_friend_not_enough_stardust
-{0} 的星星沙子不足，無法和你進行交換
+{0} doesn't have enough Stardust to trade with you right now.
 trade_error_select_expired
-本次交換已結束
+This trading session has expired.
 trade_error_confirm_expired
-本次交換已結束
+This trading session has expired.
 trade_error_confirm_daily_limit
-今天不能再交換這隻寶可夢了
+You've reached the daily limit for trading this Pokémon.
 trade_error_get
-無法取得交換狀態
+Error fetching trade status
 trade_appraise_low_1
-整體而言，這隻 {0} 應該很難在對戰中派上用場。
+Overall, this {0} is not likely to make much headway in battle.
 trade_appraise_mid_1
-整體而言，這隻 {0} 比平均值好一些。
+Overall, this {0} is above average.
 trade_appraise_high_1
-整體而言，這隻 {0} 吸引了我的注意力。
+Overall, this {0} has certainly caught my attention.
 trade_appraise_best_1
-整體而言，這隻 {0} 實在太棒了！牠是隻讓人驚豔的寶可夢！
+Overall, this {0} is a wonder! What a breathtaking Pokémon!
 trade_appraise_low_2
-整體而言，這隻 {0} 可能不太適合對戰，但我蠻喜歡牠的！
+Overall, this {0} may not be great in battle, but I still like it!
 trade_appraise_mid_2
-整體而言，這隻 {0} 算是一隻不錯的寶可夢。
+Overall, this {0} is a decent Pokémon.
 trade_appraise_high_2
-整體而言，這隻 {0} 算是一隻蠻強的寶可夢。
+Overall, this {0} is a strong Pokémon.
 trade_appraise_best_2
-整體而言，這隻 {0} 實在太有魅力了。牠一定是所向無敵啊！
+Overall, this {0} simply amazes me. It can accomplish anything!
 trade_appraise_low_3
-整體而言，這隻 {0} 還有很多進步的空間。
+Overall, this {0} has room for improvement as far as battling goes.
 trade_appraise_mid_3
-整體而言，這隻 {0} 還算不錯！
+Overall, this {0} is pretty decent!
 trade_appraise_high_3
-整體而言，這隻 {0} 真的蠻強的！
+Overall, this {0} is really strong!
 trade_appraise_best_3
-整體而言，這隻 {0} 在對戰中應該是所向披靡！
+Overall, this {0} looks like it can really battle with the best of them!
 settings_friend_request_accepted
-對方接受朋友申請時
+Friend Request Accepted
 settings_friend_request_received
-收到朋友申請時
+Friend Request Received
 copy_friend_code_title
-複製訓練家代碼
+COPY MY TRAINER CODE
 copy_friend_code_toast
-已複製訓練家代碼
+Your Trainer Code has been copied!
 trade_error_minimum_level
-訓練家等級達到 {0} 級後才可使用交換功能
+You must be at least level {0} to trade.
 friend_caught_a_pokemon
-{0} 捉到1隻 {1} 了！
+{0} caught a {1}!
 trade_friend_joined
-可以和 {0} 交換寶可夢了！
+You can trade your Pokémon with {0}!
 special_trade_confirm_title
-要進行特殊交換嗎？
+Do you want to make a Special Trade?
 special_trade_confirm_message
-一天只能進行一次特殊交換
+You can only make a Special Trade once a day.
 trade_error_cooldown_time
-交換機器冷卻中：還剩 {0}
+Trading cooldown: {0} remaining
 trade_friend_connected_toast
-{0} 連上線了！
+{0} has connected!
 trade_all_except_mythical
-除了幻之寶可夢之外的所有寶可夢
+All Pokémon except Mythical
 trade_tips_p0
-你只能和人在附近的朋友進行交換
+You can only trade with friends who are nearby.
 trade_tips_p1|0
-一天只能進行一次特殊交換
+Special Trades can only occur once a day.
 trade_tips_p1|1
-不能把交換來的寶可夢再拿去交換
+You can't trade a Pokémon that has been traded previously.
 trade_tips_p1|2
-交換後，寶可夢的基礎能力將會被隨機調整
+The stats of the traded Pokémon will randomly change after trading.
 trade_tips_p1|3
-你可以點擊畫面上方的「？」圖示，確認交換的規則
+You can find the trading rules using the Help button located above.
 trade_tips_p1|4
-如果朋友的訓練家等級比你低，那麼交換來的寶可夢CP和HP將會被調整
+If your friend’s Trainer level is lower than yours, the traded Pokémon’s potential CP and HP will be adjusted.
 trade_tips_p2|0
-如果想交換尚未登錄至圖鑑的寶可夢，就必須使用特殊交換
+Pokémon not yet registered in your Pokédex require a Special Trade. 
 trade_tips_p2|1
-友誼等級達到「好朋友後」，才可以進行特殊交換
+Your Friendship level must reach Good Friend in order to complete a Special Trade.
 trade_tips_p2|2
-如果交換來的寶可夢是在遙遠的地方被捉到的，交換時將可以獲得額外的獎勵糖果
+You'll receive bonus Candy if the locations where the traded Pokémon were caught are far apart (up to around 100 km).
 trade_tips_p2|3
-當友誼等級提升，交換時所需的星星沙子數量將會驟減
+The amount of Stardust required for trading drastically reduces as your Friendship level increases.
 trade_tips_p2|4
-交換異色寶可夢、傳說的寶可夢及尚未登錄至圖鑑的寶可夢時，需使用特殊交換 
+Shiny Pokémon, Legendary Pokémon, and Pokémon not currently in your Pokédex require a Special Trade. 
 trade_tips_p2|5
-特殊交換會使用大量的星星沙子
+Completing a Special Trade requires a large amount of Stardust.
 trade_tips_p2|6
-常和朋友交換寶可夢，可以提升友誼等級
+Your Friendship level with a friend increases when you trade Pokémon to each other frequently.
 trade_tips_p2|7
-不能交換幻之寶可夢
+Mythical Pokémon can't be traded.
 trade_warning_your_level_lower
-由於你的訓練家等級比朋友低，寶可夢的CP及HP將被調低
+Your Trainer level is lower than your friend's, so CP and HP will be reduced.
 trade_warning_friend_level_lower
-由於朋友的訓練家等級較低，寶可夢的CP及HP將被調低
+Your friend's Trainer level is lower than yours, so CP and HP will be reduced.
 trade_ending_prompt|0
-{0} 送 {1} 來了！
+{0} sent over {1}.
 trade_ending_prompt|1
-好好照顧 {0} 喔！
+Take good care of {0}!
 trade_exclusion_favorite
-這隻寶可夢已被設為「我的最愛」
+This Pokémon is a favorite Pokémon.
 social_my_code
-我的訓練家代碼
+MY TRAINER CODE
 decline_friend_request_confirmation
-確定要刪除這個朋友申請嗎？
+Are you sure you want to delete this Friend Request?
 decline_friend_request_confirmation_message
-刪除此朋友申請後，對方將再也無法傳送朋友申請給你
+Once you delete this Friend Request, this Trainer won't be able to send you another Friend Request.
 friend_request_deleted_confirmation
-已刪除朋友申請
+Friend Request Deleted
 send_gift_button
-傳送
+Send
 open_gift_button
-開啟
+Open
 next_button
-下一步
+Next
 trade_error_rpc
-不明交換錯誤
+Unknown Trade Error
 trade_tut_proximity
-和朋友交換
+Trading with Friends
 trade_tut_proximity_message
-你只能和人在附近的朋友進行交換
+You can trade with a friend only when you're near each other.
 social_send_my_code
-分享訓練家代碼
+SHARE MY TRAINER CODE
 social_send_code_prompt
-輸入訓練家代碼，傳送朋友申請
+Send a Friend Request by entering your friend's Trainer Code.
 trainer_name_label
-訓練家名稱
+Trainer Name
 trainer_code_label
-訓練家代碼
+Trainer Code
 trade_toast_must_cancel_first
-請先取消確認
+Please cancel your confirmation first.
 trade_toast_must_connect_first
-請等待朋友上線
+Please wait for your friend to connect.
 trade_bonus
-交換獎勵
+Trade Bonus
 accept
-接受
+Accept
 delete
-刪除
+Delete
 filter_key_traded
-交換
+traded
 no_notifications_message
-沒有通知
+No notifications.
 social_qr_code_prompt
-請朋友掃描此QR Code
+Scan this QR code with another Trainer's scanner.
 social_qr_scan_prompt
-掃描朋友的QR Code
+Scan a Trainer's QR code
 social_qr_code_header
-自己的代碼
+MY CODE
 social_qr_scan_header
-掃描
+SCAN
 social_other_friend_add_title
-其他
+OTHERS
 set_friend_nickname
-設定暱稱
+Set Nickname
 select_gift_to_delete_prompt
-選擇要丟棄的友情禮物
+Select Gift to discard
 delete_gift_confirmation
-確定要丟棄這個友情禮物嗎？
+Are you sure you want to discard this Gift?
 social_my_qr_code
-我的二維條碼
+My QR Code
 social_lucky_pokemon_label
-閃亮亮寶可夢
+Lucky Pokémon
 friendslist_sort_gift
-友情禮物
+Gift
 error_set_friend_nickname
-設定暱稱時出現錯誤
+Error setting nickname.
 error_set_friend_nickname_length
-暱稱太長
+Nickname length is too long.
 friendslist_sort_nickname
-暱稱
+Nickname
 pokedex_details_lucky
 Lucky:
 pokemon_info_multi_transfer_lucky_pokemon_error
 You can't select Lucky Pokémon.
 pokemon_lucky_info_transfer_to_professor_confirmation
 Do you really want to transfer this Lucky Pokémon?
+filter_key_lucky
+lucky

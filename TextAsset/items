@@ -1,618 +1,618 @@
 item_great_ball_desc
-Poké Bola de alto rendimento. Tem um índice de êxito superior ao da Poké Bola padrão.
+A high-performance ball with a higher catch rate than a standard Poké Ball.
 item_great_ball_name
-Grande Bola
+Great Ball
 item_hyper_potion_desc
-Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos.
+A spray-type medicine that restores the HP of one Pokémon by {1} points.
 item_hyper_potion_name
-Hiperpoção
+Hyper Potion
 item_master_ball_desc
-A Poké Bola com melhor desempenho. Pega qualquer Pokémon selvagem sem falha.
+The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail.
 item_master_ball_name
-Bola Mestra
+Master Ball
 item_max_potion_desc
-Remédio em spray que cura machucados e que restaura todos os PS de um Pokémon.
+A spray-type medicine that completely restores all HP of a single Pokémon.
 item_max_potion_name
-Poção Máxima
+Max Potion
 item_revive_desc
-Remédio para reanimar Pokémon desmaiados e que também restaura metade de seus PS.
+A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP.
 item_revive_name
-Reviver
+Revive
 item_max_revive_desc
-Remédio para reanimar Pokémon desmaiados e que também restaura todos os seus PS.
+A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon's maximum HP.
 item_max_revive_name
-Máximo Reviver
+Max Revive
 item_poke_ball_desc
-Um dispositivo para pegar Pokémon selvagens, que é jogado como uma bola os encapsulando.
+A device for catching wild Pokémon. It's thrown like a ball, comfortably encapsulating its target.
 item_poke_ball_name
-Poké Bola
+Poké Ball
 item_potion_desc
-Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos.
+A spray-type medicine that restores the HP of one Pokémon by {1} points.
 item_potion_name
-Poção
+Potion
 item_razz_berry_desc
-Dê esta Fruta a um Pokémon para pegá-lo com mais facilidade.
+Feed this to a Pokémon to make it easier to catch.
 item_razz_berry_name
-Fruta Frambo
+Razz Berry
 item_special_camera_name
-Câmera
+Camera
 item_special_camera_desc
-Você poderá usar a sua câmera para fotografar Pokémon selvagens quando os encontrar.
+When you encounter Pokémon in the wild, you can use your camera to photograph them.
 item_super_potion_desc
-Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos.
+A spray-type medicine that restores the HP of one Pokémon by {1} points.
 item_super_potion_name
-Superpoção
+Super Potion
 item_ultra_ball_desc
-Poké Bola com desempenho superior. Tem um índice de êxito superior ao da Grande Bola.
+An ultra-performance ball with a higher catch rate than a Great Ball.
 item_ultra_ball_name
-Ultra Bola
+Ultra Ball
 item_x_attack_desc
-INDEFINIDO
+UNDEFINED
 item_x_attack_name
-Ataque X
+X Attack
 item_x_defense_desc
-INDEFINIDO
+UNDEFINED
 item_x_defense_name
-Defesa X
+X Defense
 item_x_miracle_desc
-INDEFINIDO
+UNDEFINED
 item_x_miracle_name
-INDEFINIDO
+UNDEFINED
 item_bluk_berry_desc
-INDEFINIDO
+UNDEFINED
 item_bluk_berry_name
-Fruta Roama
+Bluk Berry
 item_wepar_berry_desc
-INDEFINIDO
+UNDEFINED
 item_wepar_berry_name
-Fruta Ocipêra
+Wepear Berry
 item_nanab_berry_desc
-Dê esta fruta a um Pokémon para acalmá-lo e torná-lo menos imprevisível.
+Feed this to a Pokémon to calm it down, making it less erratic.
 item_nanab_berry_name
-Fruta Anaba
+Nanab Berry
 item_pinap_berry_desc
-Dê esta fruta a um Pokémon para receber mais doces ao pegá-lo.
+Feed this to a Pokémon to receive more Candy when you catch it.
 item_pinap_berry_name
-Fruta Caxí
+Pinap Berry
 item_pokemon_bag_name
-Upgrade da caixa de Pokémon
+Pokémon Box Upgrade
 item_pokemon_bag_desc
-Aumenta o tamanho da sua coleção de Pokémon.
+Increases the size of your Pokémon collection.
 item_item_pack_name
-Combo de itens
+Item Pack
 item_item_pack_desc
-Aumenta o tamanho da sua Bolsa.
+Increases the size of your Bag.
 pokeball.20_title
-20 Poké Bolas
+20 Poké Balls
 pokeball.20_description
-20 Poké Bolas para pegar Pokémon selvagens!
+20 standard Poké Balls to catch wild Pokémon!
 pokeball.100_title
-100 Poké Bolas
+100 Poké Balls
 pokeball.100_description
-100 Poké Bolas para pegar Pokémon selvagens!
+100 standard Poké Balls to catch wild Pokémon!
 pokeball.200_title
-200 Poké Bolas
+200 Poké Balls
 pokeball.200_description
-200 Poké Bolas para pegar Pokémon selvagens!
+200 standard Poké Balls to catch wild Pokémon!
 pokemonstorageupgrade.1_title
-Upgrade do estoque de Pokémon
+Pokémon Storage Upgrade
 pokemonstorageupgrade.1_description
-Aumenta o estoque de Pokémon em {0}.
+Increases the max number of Pokémon you can carry by {0}.
 itemstorageupgrade.1_title
-Upgrade da Bolsa
+Bag Upgrade
 itemstorageupgrade.1_description
-Aumenta o estoque de itens em {0}.
+Increases the max number of items you can carry by {0}.
 item_lucky_egg_name
-Ovo da Sorte
+Lucky Egg
 item_lucky_egg_desc
-Um ovo cheio de felicidade e que faz você ganhar o dobro de PE por 30 minutos.
+A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes.
 luckyegg.1_title
-Ovo da Sorte
+Lucky Egg
 luckyegg.1_description
-Um Ovo cheio de felicidade que faz você ganhar o dobro de PE por 30 minutos.
+A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes.
 luckyegg.5_title
-5 Ovos da Sorte
+5 Lucky Eggs
 luckyegg.5_description
-5 Ovos cheios de felicidade que fazem você ganhar o dobro de PE por 30 minutos.
+5 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
 luckyegg.8_title
-8 Ovos da Sorte
+8 Lucky Eggs
 luckyegg.8_description
-8 Ovos cheios de felicidade que fazem você ganhar o dobro de PE por 30 minutos.
+8 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
 luckyegg.25_title
-25 Ovos da Sorte
+25 Lucky Eggs
 luckyegg.25_description
-25 Ovos cheios de felicidade que fazem você ganhar o dobro de PE por 30 minutos.
+25 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
 item_incense_ordinary_name
-Incenso
+Incense
 item_incense_ordinary_desc
-Incenso de fragrância misteriosa que atrai Pokémon selvagens até você por 30 minutos.
+Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes.
 incenseordinary.1_title
-Incenso
+Incense
 incenseordinary.1_description
-Incenso de fragrância misteriosa que atrai Pokémon selvagens até você por 30 minutos.
+Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes.
 incenseordinary.8_title
-8 Incensos
+8 Incense
 incenseordinary.8_description
-8 Incensos. A fragrância misteriosa atrai Pokémon selvagens até você por 30 minutos.
+8 Incense. The mysterious fragrance lures wild Pokémon to your location for 30 minutes.
 incenseordinary.25_title
-25 Incensos
+25 Incense
 incenseordinary.25_description
-25 Incensos. A fragrância misteriosa atrai Pokémon selvagens até você por 30 minutos.
+25 Incense. The mysterious fragrance lures wild Pokémon to your location for 30 minutes.
 incubatorbasic.1_title
-Incubadora de Ovo
+Egg Incubator
 incubatorbasic.1_description
-Dispositivo de incubação que ajuda a chocar um Ovo conforme você anda. Pode ser usado 3 vezes.
+A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses.
 item_incubator_basic_name
-Incubadora de Ovo
+Egg Incubator
 item_incubator_basic_desc
-Dispositivo de incubação que ajuda a chocar um Ovo conforme você anda. Pode ser usado 3 vezes.
+A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses.
 item_incubator_basic_unlimited_name
-Incubadora de Ovo ∞
+Egg Incubator ∞
 item_incubator_basic_unlimited_desc
-Dispositivo de incubação que choca um Ovo após uma certa distância caminhada. Uso ilimitado!
+A device that incubates an Egg as you walk until it's ready to hatch. Unlimited use!
 pokecoin.1000_title
-1.000 Pokémoedas apenas para teste
+1,000 PokéCoins for test only
 pokecoin.1000_description
 
 pokecoin.100_title
-100 Pokémoedas
+100 PokéCoins
 pokecoin.100_description
 
 pokecoin.550_title
-550 Pokémoedas
+550 PokéCoins
 pokecoin.550_description
 
 pokecoin.1200_title
-1.200 Pokémoedas
+1,200 PokéCoins
 pokecoin.1200_description
 
 pokecoin.2500_title
-2.500 Pokémoedas
+2,500 PokéCoins
 pokecoin.2500_description
 
 pokecoin.5200_title
-5.200 Pokémoedas
+5,200 PokéCoins
 pokecoin.5200_description
 
 pokecoin.14500_title
-14.500 Pokémoedas
+14,500 PokéCoins
 pokecoin.14500_description
 
 item_troy_disk_name
-Módulo Atrair
+Lure Module
 item_troy_disk_desc
-Atrai Pokémon a uma Poképarada por 30 minutos. Pode beneficiar outras pessoas por perto.
+A module that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby.
 troydisk.1_title
-Módulo Atrair
+Lure Module
 troydisk.1_description
-Atrai Pokémon a uma Poképarada por 30 minutos. Pode beneficiar outras pessoas por perto.
+Modules that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby.
 troydisk.8_title
-8 Módulos Atrair
+8 Lure Modules
 troydisk.8_description
-Atrai Pokémon a uma Poképarada por 30 minutos. Pode beneficiar outras pessoas por perto.
+8 Lure Modules. Modules that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby.
 item_sun_stone_name
-Pedra Solar
+Sun Stone
 item_sun_stone_desc
-Pedra peculiar que faz com que certas espécies de Pokémon evoluam. É vermelha como o sol ao entardecer.
+A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun.
 item_kings_rock_name
-Pedra do Rei
+King's Rock
 item_kings_rock_desc
-Pedra que faz com que certas espécies de Pokémon evoluam. Lembra uma coroa.
+A rock that can make certain species of Pokémon evolve. It looks like a crown.
 item_metal_coat_name
-Revestimento Metálico
+Metal Coat
 item_metal_coat_desc
-Revestimento que faz com que certas espécies de Pokémon evoluam. É uma película de metal especial.
+A coating that can make certain species of Pokémon evolve. It is a special metallic film.
 item_dragon_scale_name
-Escama de Dragão
+Dragon Scale
 item_dragon_scale_desc
-Escama que faz com que certas espécies de Pokémon evoluam. É robusta e resistente.
+A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 item_up_grade_name
-Melhora
+Up-Grade
 item_up_grade_desc
-Dispositivo transparente que faz com que certas espécies de Pokémon evoluam. Produzido pela Silph Co.
+A transparent device that can make certain species of Pokémon evolve. It was produced by Silph Co.
 avatar_f_backpack_cute_bundle_icon
-Mochila com laço
+Bow-Tie Bag
 avatar_f_backpack_default_bundle_icon
-Mochila urbana
+Urban Pack
 avatar_f_backpack_empty_bundle_icon
-Sem bolsa
+No Bag
 avatar_f_belt_simple_bundle_icon
-Fivela plana
+Flat Buckle
 avatar_f_belt_default_bundle_icon
-Fivela de Poké Bola
+Ball Buckle
 avatar_f_belt_empty_bundle_icon
-Sem cinto
+No Belt
 avatar_f_glasses_mask_bundle_icon
-Máscara misteriosa
+Mystery Mask
 avatar_f_glasses_3d_bundle_icon
-Óculos 3D
+Future Specs
 avatar_f_glasses_thick_bundle_icon
-Óculos para ler
+Focus Frames
 avatar_f_glasses_empty_bundle_icon
-Sem óculos
+No Glasses
 avatar_f_gloves_default_bundle_icon
-Luvas sem dedos
+Fingerless Gloves
 avatar_f_gloves_empty_bundle_icon
-Sem luvas
+No Gloves
 avatar_f_hat_knitted_bundle_icon
-Gorro de lã
+Power-Up Knit Cap
 avatar_f_hat_fedora_bundle_icon
-Chapéu com aba
+Felt Fedora
 avatar_f_hat_tophat_bundle_icon
-Cartola
+Top Hat
 avatar_f_hat_casket_bundle_icon
-Boina
+Newsy Cap
 avatar_f_hat_default_a_bundle_icon
-Chapéu de Poké Bola
+Ball Cap
 avatar_f_hat_default_b_bundle_icon
-Chapéu esportivo
+Sports Cap
 avatar_f_hat_empty_bundle_icon
-Sem chapéu
+No Hat
 avatar_f_necklace_heart_bundle_icon
-Gargantilha com coração
+Love Choker
 avatar_f_necklace_star_bundle_icon
-Gargantilha com estrela
+Super Choker
 avatar_f_necklace_default_bundle_icon
-Gargantilha de fita
+Ribbon Choker
 avatar_f_necklace_empty_bundle_icon
-Sem colar
+No Necklace
 avatar_f_pants_neon_bundle_icon
-Calça legging
+Liquid Leggings
 avatar_f_pants_skinnyjeans_bundle_icon
-Calça colada
+Skinny Jeans
 avatar_f_pants_shorts_bundle_icon
-Short curto
+Track Shorts
 avatar_f_pants_miniskirt_wave_bundle_icon
-Saia ondulada
+Wave Skirt
 avatar_f_pants_miniskirt_bundle_icon
-Saia listrada
+Striped Skirt
 avatar_f_pants_miniskirt_turbine_bundle_icon
-Saia godê
+Turbine Skirt
 avatar_f_pants_default_bundle_icon
-Body de corrida
+Sprint Suit
 avatar_f_shirt_tshirt_pikachu_bundle_icon
-Blusa de Pikachu
+Pikachu Tee
 avatar_f_shirt_tanktop_pikachu_bundle_icon
-Camiseta de Pikachu
+Pikachu Tank
 avatar_f_shirt_tanktop_charizard_bundle_icon
-Camiseta de Charizard
+Charizard Tank
 avatar_f_shirt_sweater_valor_bundle_icon
-Gola alta da Equipe Valor
+Team Valor Turtleneck
 avatar_f_shirt_sweater_mystic_bundle_icon
-Gola alta da Equipe Sabedoria
+Team Mystic Turtleneck
 avatar_f_shirt_sweater_instinct_bundle_icon
-Gola alta da Equipe Instinto
+Team Instinct Turtleneck
 avatar_f_shirt_sweater_30_bundle_icon
-Gola alta trinta
+The Thirty
 avatar_f_shirt_tshirt_cycling_bundle_icon
-Blusa esportiva
+Active Tee
 avatar_f_shirt_buttondown_bundle_icon
-Camisa de botão colada
+Fitted Shirt
 avatar_f_shirt_tanktop_bundle_icon
-Camiseta de Treinador
+Trainer Tank
 avatar_f_shirt_default_bundle_icon
-Manga longa clássica
+Classic Longsleeve
 avatar_f_shoes_default_bundle_icon
-Tênis de correr
+Running Shoes
 avatar_f_shoes_empty_bundle_icon
-Sem calçados
+No Footwear
 avatar_f_socks_thighhighs_bundle_icon
-Polainas de lã
+Wool Leg Warmers
 avatar_f_socks_default_bundle_icon
-Polainas longas
+Long Leg Warmers
 avatar_f_socks_empty_bundle_icon
-Sem meias
+No Socks
 avatar_m_backpack_default_bundle_icon
-Mochila de Treinador
+Trainer Backpack
 avatar_m_backpack_empty_bundle_icon
-Sem bolsa
+No Bag
 avatar_m_glasses_mask_bundle_icon
-Máscara misteriosa
+Mystery Mask
 avatar_m_glasses_3d_bundle_icon
-Óculos 3D
+Future Specs
 avatar_m_glasses_thick_bundle_icon
-Óculos para ler
+Focus Frames
 avatar_m_glasses_empty_bundle_icon
-Sem óculos
+No Glasses
 avatar_m_gloves_default_bundle_icon
-Luvas sem dedos
+Fingerless Gloves
 avatar_m_gloves_empty_bundle_icon
-Sem luvas
+No Gloves
 avatar_m_hat_fedora_bundle_icon
-Chapéu com aba
+Felt Fedora
 avatar_m_hat_tophat_bundle_icon
-Cartola
+Top Hat
 avatar_m_hat_casket_bundle_icon
-Boina
+Newsy Cap
 avatar_m_hat_default_bundle_icon
-Viseira de Treinador
+Trainer Visor
 avatar_m_hat_empty_bundle_icon
-Sem chapéu
+No Hat
 avatar_m_pants_sweats_bundle_icon
-Calça de treino esportiva
+Active Sweatpants
 avatar_m_pants_skinnyjeans_bundle_icon
-Calça justa
+Skinny Jeans
 avatar_m_pants_default_bundle_icon
-Calção esportivo
+Trainer Shorts
 avatar_m_shirt_blazer_bundle_icon
-Blazer
+Business Blazer
 avatar_m_shirt_longsleeves_charizard_bundle_icon
-Pulôver de Charizard
+Charizard Pullover
 avatar_m_shirt_longsleeves_pikachu_bundle_icon
-Pulôver de Pikachu
+Pikachu Pullover
 avatar_m_shirt_tshirt_instinct_bundle_icon
-Camisa da Equipe Instinto
+Team Instinct Tee
 avatar_m_shirt_tshirt_mystic_bundle_icon
-Camisa da Equipe Sabedoria
+Team Mystic Tee
 avatar_m_shirt_tshirt_valor_bundle_icon
-Camisa da Equipe Valor
+Team Valor Tee
 avatar_m_shirt_turtleneck_30_bundle_icon
-Gola alta trinta
+The Thirty
 avatar_m_shirt_tshirt_geometric_bundle_icon
-Camisa diagonal
+Diagonal Tee
 avatar_m_shirt_sweatshirt_sporty_bundle_icon
-Moletom esportivo
+Sports Hoodie
 avatar_m_shirt_sweatshirt_streak_bundle_icon
-Moletom faixa
+Streak Hoodie
 avatar_m_shirt_default_2_bundle_icon
-Moletom clássico
+Classic Hoodie
 avatar_m_shirt_default_1_bundle_icon
-Moletom coluna
+Column Hoodie
 avatar_m_shirt_default_0_bundle_icon
-Moletom banda
+Sash Hoodie
 avatar_m_shirt_default_3_bundle_icon
-Moletom ponta
+Point Hoodie
 avatar_m_shoes_default_bundle_icon
-Tênis de correr
+Running Shoes
 avatar_m_shoes_empty_bundle_icon
-Sem calçados
+No Footwear
 avatar_m_socks_default_bundle_icon
-Meia-calça
+Leggings
 avatar_m_socks_empty_bundle_icon
-Sem meias
+No Socks
 avatar_m_hat_magikarp_bundle_icon
-Chapéu de Magikarp
+Magikarp Hat
 avatar_f_hat_magikarp_bundle_icon
-Chapéu de Magikarp
+Magikarp Hat
 avatar_m_hat_adventure_bundle_icon
-Chapéu de expedição
+Expedition Hat
 avatar_f_hat_adventure_bundle_icon
-Chapéu de expedição
+Expedition Hat
 paidraidticket.1_title
-Passe de Reide Premium
+Premium Raid Pass
 paidraidticket.1_description
-Um Passe de Reide que pode ser usado para participar de um Reide.
+A Raid Pass can be used to join a Raid Battle.
 maxrevive.6_title
-6 Máximo Reviver
+6 Max Revives
 maxrevive.6_description
-6 Máximo Reviver que podem reviver um Pokémon desmaiado e restaurar todos os seus PS.
+6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 oneyearanniversary.1_title
-Caixa de Aniversário
+Anniversary Box
 maxpotion.10_title
-10 Poções Máximas
+10 Max Potions
 maxpotion.10_description
-10 Poções Máximas que restauram todos os PS de 10 Pokémon.
+10 Max Potions to completely restore the HP of 10 Pokémon.
 f_shirt_tshirt_fest_chicago_2017_bundle_icon
-Camiseta do Festival de <i>Pokémon GO</i>
+GO Fest Tee
 m_shirt_tshirt_fest_chicago_2017_bundle_icon
-Camiseta do Festival de <i>Pokémon GO</i>
+GO Fest Tee
 bundle.general1.small.1_title
-Combo Especial
+Special Box
 bundle.general1.medium.1_title
-Combo Supergenial
+Great Box
 bundle.general1.large.1_title
-Combo Ultraespecial
+Ultra Box
 avatar_m_hat_mimikyu_icon
-Chapéu disfarce de Mimikyu
+Mimikyu's Disguise Hat
 avatar_f_hat_mimikyu_icon
-Chapéu disfarce de Mimikyu
+Mimikyu's Disguise Hat
 f_hat_ultra_bundle_icon
-Chapéu de Ultra Moon
+Ultra Moon Hat
 f_shirt_ultra_bundle_icon
-Blusa de Ultra Moon
+Ultra Moon Tank
 f_backpack_ultra_bundle_icon
-Mochila de Ultra Moon
+Ultra Moon Bag
 f_pants_ultra_bundle_icon
-Short de Ultra Moon
+Ultra Moon Shorts
 f_shoes_ultra_bundle_icon
-Sandálias de Ultra Moon
+Ultra Moon Sandals
 m_hat_ultra_bundle_icon
-Chapéu de Ultra Sun
+Ultra Sun Hat
 m_shirt_ultra_bundle_icon
-Regata de Ultra Sun
+Ultra Sun Tank
 m_backpack_ultra_bundle_icon
-Mochila de Ultra Sun
+Ultra Sun Bag
 m_pants_ultra_bundle_icon
-Bermuda de Ultra Sun
+Ultra Sun Shorts
 m_shoes_ultra_bundle_icon
-Tênis de Ultra Sun
+Ultra Sun Shoes
 item_star_piece_name
-Pedaço de Estrela
+Star Piece
 item_star_piece_desc
-Um pequeno caco de uma linda joia que faz você ganhar 50% a mais de Poeira Estelar por 30 minutos.
+A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
 starpiece.1_description
-Um pequeno caco de uma linda joia que faz você ganhar 50% a mais de Poeira Estelar por 30 minutos.
+A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
 starpiece.8_description
-8 Pedaços de Estrela que fazem você ganhar 50% a mais de Poeira Estelar por 30 minutos.
+8 Star Pieces. Earns 50% more Stardust for 30 minutes.
 starpiece.25_description
-25 Pedaços de Estrela que fazem você ganhar 50% a mais de Poeira Estelar por 30 minutos.
+25 Star Pieces. Earns 50% more Stardust for 30 minutes.
 starpiece.1_title
-Pedaço de Estrela
+Star Piece
 starpiece.8_title
-8 Pedaços de Estrela
+8 Star Pieces
 starpiece.25_title
-25 Pedaços de Estrela
+25 Star Pieces
 bundle.general2.small.1_title
-Combo de Inverno
+Winter Box
 bundle.general3.small.1_title
-Combo de Inverno
+Winter Box
 bundle.general2.medium.1_title
-Combo Supergenial
+Great Box
 bundle.general3.medium.1_title
-Combo Supergenial
+Great Box
 bundle.general2.large.1_title
-Combo Ultraespecial
+Ultra Box
 bundle.general3.large.1_title
-Combo Ultraespecial
+Ultra Box
 m_shoes_fisher_bundle_icon
-Bota de pescador
+Fisherman Boots
 m_hat_jogger_bundle_icon
-Viseira de corredor
+Jogger Visor
 m_glasses_jogger_bundle_icon
-Óculos escuros de corredor
+Jogger Sunglasses
 m_shirt_jogger_bundle_icon
-Top de corredor
+Jogger Tank Top
 m_pants_jogger_bundle_icon
-Bermuda de corredor
+Jogger Shorts
 m_shoes_jogger_bundle_icon
-Tênis de corredor
+Jogger Shoes
 m_gloves_jogger_bundle_icon
-Relógio de corredor
+Jogger Watch
 f_shirt_battlegirl_bundle_icon
-Top de lutadora
+Battle Girl Tank Top
 f_gloves_battlegirl_bundle_icon
-Luvas de lutadora
+Battle Girl Gloves
 f_pants_battlegirl_bundle_icon
-Shorts de lutadora
+Battle Girl Shorts
 f_shoes_battlegirl_bundle_icon
-Tênis de lutadora
+Battle Girl Shoes
 avatar_f_pants_battlegirl_bundle_icon
-Shorts de lutadora
+Battle Girl Shorts
 avatar_f_shoes_battlegirl_bundle_icon
-Tênis de lutadora
+Battle Girl Shoes
 avatar_m_gloves_jogger_bundle_icon
-Relógio de corredor
+Jogger Watch
 avatar_m_pants_jogger_bundle_icon
-Bermuda de corredor
+Jogger Shorts
 avatar_f_gloves_battlegirl_bundle_icon
-Luvas de lutadora
+Battle Girl Gloves
 avatar_f_shirt_battlegirl_bundle_icon
-Top de lutadora
+Battle Girl Tank Top
 avatar_m_shirt_jogger_bundle_icon
-Top de corredor
+Jogger Tank Top
 avatar_m_shoes_jogger_bundle_icon
-Tênis de corredor
+Jogger Shoes
 avatar_m_glasses_jogger_bundle_icon
-Óculos escuros de corredor
+Jogger Sunglasses
 avatar_m_shoes_fisher_bundle_icon
-Bota de pescador
+Fisherman Boots
 avatar_m_hat_jogger_bundle_icon
-Viseira de corredor
+Jogger Visor
 avatar_m_pants_fisher_bundle_icon
-Calça de pescador
+Fisherman Pants
 avatar_m_shirt_fisher_bundle_icon
-Veste de pescador
+Fisherman Vest
 avatar_m_hat_fisher_bundle_icon
-Boné de pescador
+Fisherman Cap
 avatar_f_hat_teamrocket_bundle_icon
-Chapéu da Equipe Rocket
+Team Rocket Hat
 avatar_f_shirt_teamrocket_0_bundle_icon
-Blusa da Equipe Rocket
+Team Rocket Top
 avatar_f_shirt_teamrocket_1_bundle_icon
-Blusa da Equipe Rainbow Rocket
+Team Rainbow Rocket Top
 avatar_f_gloves_teamrocket_bundle_icon
-Luvas da Equipe Rocket
+Team Rocket Gloves
 avatar_f_belt_teamrocket_1_bundle_icon
-Cinto da Equipe Rainbow Rocket
+Team Rainbow Rocket Belt
 avatar_f_pants_teamrocket_bundle_icon
-Saia da Equipe Rocket
+Team Rocket Skirt
 avatar_f_shoes_teamrocket_0_bundle_icon
-Botas da Equipe Rocket
+Team Rocket Boots
 avatar_f_shoes_teamrocket_1_bundle_icon
-Botas da Equipe Rainbow Rocket
+Team Rainbow Rocket Boots
 avatar_m_hat_teamrocket_bundle_icon
-Chapéu da Equipe Rocket
+Team Rocket Hat
 avatar_m_shirt_teamrocket_0_bundle_icon
-Camisa da Equipe Rocket
+Team Rocket Top
 avatar_m_shirt_teamrocket_1_bundle_icon
-Camisa da Equipe Rainbow Rocket
+Team Rainbow Rocket Top
 avatar_m_gloves_teamrocket_bundle_icon
-Luvas da Equipe Rocket
+Team Rocket Gloves
 avatar_m_pants_teamrocket_bundle_icon
-Calça da Equipe Rocket
+Team Rocket Pants
 avatar_m_shoes_teamrocket_0_bundle_icon
-Botas da Equipe Rocket
+Team Rocket Boots
 avatar_m_shoes_teamrocket_1_bundle_icon
-Botas da Equipe Rainbow Rocket
+Team Rainbow Rocket Boots
 avatar_f_belt_teamrocket_0_bundle_icon
-Cinto da Equipe Rocket
+Team Rocket Belt
 avatar_m_hat_frlg_bundle_icon
-Boné FireRed
+FireRed Cap
 avatar_m_shirt_frlg_bundle_icon
-Camisa FireRed
+FireRed Top
 avatar_m_backpack_frlg_bundle_icon
-Mochila FireRed
+FireRed Backpack
 avatar_m_gloves_frlg_bundle_icon
-Pulseiras FireRed
+FireRed Wristbands
 avatar_m_pants_frlg_bundle_icon
-Calça FireRed
+FireRed Pants
 avatar_m_shoes_frlg_bundle_icon
-Sapatos FireRed
+FireRed Shoes
 avatar_f_hat_frlg_bundle_icon
-Chapéu LeafGreen
+LeafGreen Hat
 avatar_f_shirt_frlg_bundle_icon
-Blusa LeafGreen
+LeafGreen Top
 avatar_f_backpack_frlg_bundle_icon
-Bolsa LeafGreen
+LeafGreen Bag
 avatar_f_gloves_frlg_bundle_icon
-Pulseiras LeafGreen
+LeafGreen Wristbands
 avatar_f_pants_frlg_bundle_icon
-Saia LeafGreen
+LeafGreen Skirt
 avatar_f_shoes_frlg_bundle_icon
-Sapatos LeafGreen
+LeafGreen Shoes
 avatar_f_shirt_gymleader_bundle_icon
-Blusa de Líder de Ginásio
+Gym Leader Top
 avatar_f_gloves_gymleader_bundle_icon
-Luvas de Líder de Ginásio
+Gym Leader Gloves
 avatar_f_pants_gymleader_bundle_icon
-Saia de Líder de Ginásio
+Gym Leader Skirt
 avatar_f_shoes_gymleader_bundle_icon
-Tênis de Líder de Ginásio
+Gym Leader Shoes
 avatar_m_shirt_gymleader_bundle_icon
-Camisa de Líder de Ginásio
+Gym Leader Top
 avatar_m_gloves_gymleader_bundle_icon
-Luvas de Líder de Ginásio
+Gym Leader Gloves
 avatar_m_pants_gymleader_bundle_icon
-Bermuda de Líder de Ginásio
+Gym Leader Shorts
 avatar_m_shoes_gymleader_bundle_icon
-Tênis de Líder de Ginásio
+Gym Leader Shoes
 bundle.general4.small.1_title
-Combo Dia Comunitário
+Community Day Box
 avatar_f_shirt_earthday_2018_bundle_icon
-Blusa Surfe Blue
+Surf Blue Shirt
 avatar_m_shirt_earthday_2018_bundle_icon
-Blusa Surfe Blue
+Surf Blue Shirt
 bundle.general2.small.1.itembox_title
-Combo de Itens (beta)
+Item Box (Beta)
 bundle.general2.medium.1.itembox_title
-Combo de Itens prata (beta)
+Silver Item Box (Beta)
 bundle.general2.large.1.itembox_title
-Combo de Itens ouro (beta)
+Gold Item Box (Beta)
 avatar_m_shirt_mew_bundle_icon
-Camiseta de Mew
+Mew Shirt
 avatar_f_shirt_mew_bundle_icon
-Camiseta de Mew
+Mew Shirt
 avatar_m_shirt_latias_latios_bundle_icon
-Camisa de Latios e Latias
+Latias & Latios Shirt
 avatar_f_shirt_latias_latios_bundle_icon
-Blusa de Latios e Latias
+Latias & Latios Shirt
 avatar_f_hat_pikachufan_bundle_icon
-Gigolete Fã de Pikachu
+Pikachu Fan Headband
 avatar_f_shirt_pikachufan_bundle_icon
-Blusa Fã de Pikachu
+Pikachu Fan Shirt
 avatar_f_pants_pikachufan_bundle_icon
-Short Fã de Pikachu
+Pikachu Fan Shorts
 avatar_f_shoes_pikachufan_bundle_icon
-Tênis Fã de Pikachu
+Pikachu Fan Shoes
 avatar_m_hat_pikachufan_bundle_icon
-Gigolete Fã de Pikachu
+Pikachu Fan Headband
 avatar_m_shirt_pikachufan_bundle_icon
-Blusa Fã de Pikachu
+Pikachu Fan Shirt
 avatar_m_pants_pikachufan_bundle_icon
-Bermuda Fã de Pikachu
+Pikachu Fan Shorts
 avatar_m_shoes_pikachufan_bundle_icon
-Tênis Fã de Pikachu
+Pikachu Fan Shoes
 avatar_f_glasses_teardrop_bundle_icon
-Óculos escuros aviador
+Aviator Sunglasses
 m_glasses_teardrop_bundle_icon
-Óculos escuros aviador
+Aviator Sunglasses
