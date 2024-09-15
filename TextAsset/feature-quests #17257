@@ -1,564 +1,564 @@
 quests_quest
-Tareas
+Missioni
 quests_list_gui_title
-Progreso de la investigación
+Progressi delle ricerche
 quests_list_gui_tab_challenges
-De campo
+Sul campo
 quests_list_gui_tab_special
-Especial
+Speciali
 quests_claim_reward
-¡RECLAMA RECOMPENSAS!
+Ottieni il premio!
 quests_professor_willow
-Profesor Willow
+Professor Willow
 quests_mobile_calling
-Llamada
+Chiamata in arrivo
 quests_remove_challenge_prompt
-¿Eliminar investigación de campo?
+Vuoi annullare questa ricerca sul campo?
 quests_remove_challenge_desc
-Puedes visitar una Poképarada para encontrar otra.
+Puoi visitare un Pokéstop per trovarne un’altra.
 quests_daily_challenge_reset
-La tarjeta de desafíos diarios se restablece en <color=cyan>{0}</color>.
+Il registro si azzererà tra <color=cyan>{0}</color>.
 quests_new_challenge_received
-¡Nueva investigación de campo!
+Nuova ricerca sul campo disponibile!
 quests_get_new_challenge_prompt
-¡Visita Poképaradas para encontrar más investigaciones de campo!
+Visita i Pokéstop per nuove ricerche sul campo!
 quests_step_complete
-¡Tarea completada!
+Missione completata!
 quest_pokemon_appears
-¡Aparece un Pokémon!
+Appare un Pokémon
 quests_claim_field_research_first
-¡Primero debes reclamar tu logro de investigación!
+Devi prima ottenere la ricompensa per la tua scoperta straordinaria.
 quest_breakthrough_completed
-¡Investigación de campo completada!
+Ricerca sul campo completata!
 quests_log_complete_quest
-Investigación completada: {0}
+Ricerca completata: {0}
 quests_log_research_breakthrough
-Logro de investigación conseguido.
+Hai fatto una scoperta straordinaria!
 quests_collect_stamps
-¡Colecciona sellos!
+Raccogli i timbri!
 quests_collect_stamps_message
-¡Completa investigaciones de campo para coleccionar sellos y lograr recompensas! Solo puedes recibir un sello de investigación al día por completar una investigación de campo.
+Completa una ricerca sul campo per raccogliere i timbri necessari per i premi. Ricorda che puoi ricevere al massimo un timbro al giorno per ogni ricerca sul campo portata a termine.
 quest_battle_gym_plural
-Combate en un Gimnasio {0} veces
+Lotta in una Palestra {0} volte
 quest_battle_gym_singular
-Combate en un Gimnasio 1 vez
+Lotta in una Palestra
 quest_battle_raid_plural
-Participa en {0} incursiones
+Partecipa a {0} raid
 quest_battle_raid_singular
-Participa en 1 incursión
+Partecipa a un raid
 quest_battle_supereffective_charge_plural
-Usa un ataque cargado supereficaz en {0} combates
+Usa un attacco caricato superefficace in {0} lotte
 quest_battle_supereffective_charge_singular
-Usa un ataque cargado supereficaz en 1 combate
+Usa un attacco caricato superefficace in una lotta
 quest_catch_feed_plural
-Usa {0} bayas para ayudarte a capturar Pokémon
+Usa {0} bacche per catturare Pokémon
 quest_catch_feed_singular
-Usa 1 baya para ayudarte a capturar Pokémon
+Usa una bacca per catturare un Pokémon
 quest_catch_pokemon_plural
-Captura {0} Pokémon
+Cattura {0} Pokémon
 quest_catch_pokemon_singular
-Captura 1 Pokémon
+Cattura un Pokémon
 quest_catch_special0_plural
-Captura {0} Ditto
+Cattura {0} Ditto
 quest_catch_special0_singular
-Captura 1 Ditto
+Cattura un Ditto
 quest_catch_special1_plural
-Captura {0} Oddish o Bellsprout
+Cattura {0} Oddish o Bellsprout
 quest_catch_special1_singular
-Captura 1 Oddish o Bellsprout
+Cattura un Oddish o un Bellsprout
 quest_catch_special2_plural
-Captura {0} Swablu
+Cattura {0} Swablu
 quest_catch_special2_singular
-Captura 1 Swablu
+Cattura uno Swablu
 quest_catch_special3_plural
-Captura {0} Pidgey o Murkrow
+Cattura {0} Pidgey o Murkrow
 quest_catch_special3_singular
-Captura 1 Pidgey o Murkrow
+Cattura un Pidgey o un Murkrow
 quest_catch_special4_plural
-Captura {0} Treecko o Mudkip
+Cattura {0} Treecko o Mudkip
 quest_catch_special4_singular
-Captura 1 Treecko o Mudkip
+Cattura un Treecko o un Mudkip
 quest_catch_special5_plural
-Captura {0} Meowth o Skitty
+Cattura {0} Meowth o Skitty
 quest_catch_special5_singular
-Captura 1 Meowth o Skitty
+Cattura un Meowth o uno Skitty
 quest_catch_type_bug_plural
-Captura {0} Pokémon de tipo Bicho
+Cattura {0} Pokémon di tipo Coleottero
 quest_catch_type_bug_singular
-Captura 1 Pokémon de tipo Bicho
+Cattura un Pokémon di tipo Coleottero
 quest_catch_type_dark_plural
-Captura {0} Pokémon de tipo Siniestro
+Cattura {0} Pokémon di tipo Buio
 quest_catch_type_dark_singular
-Captura 1 Pokémon de tipo Siniestro
+Cattura un Pokémon di tipo Buio
 quest_catch_type_dragon_plural
-Captura {0} Pokémon de tipo Dragón
+Cattura {0} Pokémon di tipo Drago
 quest_catch_type_dragon_singular
-Captura 1 Pokémon de tipo Dragón
+Cattura un Pokémon di tipo Drago
 quest_catch_type_electric_plural
-Captura {0} Pokémon de tipo Eléctrico
+Cattura {0} Pokémon di tipo Elettro
 quest_catch_type_electric_singular
-Captura 1 Pokémon de tipo Eléctrico
+Cattura un Pokémon di tipo Elettro
 quest_catch_type_fairy_plural
-Captura {0} Pokémon de tipo Hada
+Cattura {0} Pokémon di tipo Folletto
 quest_catch_type_fairy_singular
-Captura 1 Pokémon de tipo Hada
+Cattura un Pokémon di tipo Folletto
 quest_catch_type_fighting_plural
-Captura {0} Pokémon de tipo Lucha
+Cattura {0} Pokémon di tipo Lotta
 quest_catch_type_fighting_singular
-Captura 1 Pokémon de tipo Lucha
+Cattura un Pokémon di tipo Lotta
 quest_catch_type_fire_plural
-Captura {0} Pokémon de tipo Fuego
+Cattura {0} Pokémon di tipo Fuoco
 quest_catch_type_fire_singular
-Captura 1 Pokémon de tipo Fuego
+Cattura un Pokémon di tipo Fuoco
 quest_catch_type_flying_plural
-Captura {0} Pokémon de tipo Volador
+Cattura {0} Pokémon di tipo Volante
 quest_catch_type_flying_singular
-Captura 1 Pokémon de tipo Volador
+Cattura un Pokémon di tipo Volante
 quest_catch_type_ghost_plural
-Captura {0} Pokémon de tipo Fantasma
+Cattura {0} Pokémon di tipo Spettro
 quest_catch_type_ghost_singular
-Captura 1 Pokémon de tipo Fantasma
+Cattura un Pokémon di tipo Spettro
 quest_catch_type_grass_plural
-Captura {0} Pokémon de tipo Planta
+Cattura {0} Pokémon di tipo Erba
 quest_catch_type_grass_singular
-Captura 1 Pokémon de tipo Planta
+Cattura un Pokémon di tipo Erba
 quest_catch_type_ground_plural
-Captura {0} Pokémon de tipo Tierra
+Cattura {0} Pokémon di tipo Terra
 quest_catch_type_ground_singular
-Captura 1 Pokémon de tipo Tierra
+Cattura un Pokémon di tipo Terra
 quest_catch_type_ice_plural
-Captura {0} Pokémon de tipo Hielo
+Cattura {0} Pokémon di tipo Ghiaccio
 quest_catch_type_ice_singular
-Captura 1 Pokémon de tipo Hielo
+Cattura un Pokémon di tipo Ghiaccio
 quest_catch_type_normal_plural
-Captura {0} Pokémon de tipo Normal
+Cattura {0} Pokémon di tipo Normale
 quest_catch_type_normal_singular
-Captura 1 Pokémon de tipo Normal
+Cattura un Pokémon di tipo Normale
 quest_catch_type_poison_plural
-Captura {0} Pokémon de tipo Veneno
+Cattura {0} Pokémon di tipo Veleno
 quest_catch_type_poison_singular
-Captura 1 Pokémon de tipo Veneno
+Cattura un Pokémon di tipo Veleno
 quest_catch_type_psychic_plural
-Captura {0} Pokémon de tipo Psíquico
+Cattura {0} Pokémon di tipo Psico
 quest_catch_type_psychic_singular
-Captura 1 Pokémon de tipo Psíquico
+Cattura un Pokémon di tipo Psico
 quest_catch_type_rock_plural
-Captura {0} Pokémon de tipo Roca
+Cattura {0} Pokémon di tipo Roccia
 quest_catch_type_rock_singular
-Captura 1 Pokémon de tipo Roca
+Cattura un Pokémon di tipo Roccia
 quest_catch_type_steel_plural
-Captura {0} Pokémon de tipo Acero
+Cattura {0} Pokémon di tipo Acciaio
 quest_catch_type_steel_singular
-Captura 1 Pokémon de tipo Acero
+Cattura un Pokémon di tipo Acciaio
 quest_catch_type_water_plural
-Captura {0} Pokémon de tipo Agua
+Cattura {0} Pokémon di tipo Acqua
 quest_catch_type_water_singular
-Captura 1 Pokémon de tipo Agua
+Cattura un Pokémon di tipo Acqua
 quest_catch_types_sunny_plural
-Captura {0} Pokémon de tipo Planta, Fuego o Tierra
+Cattura {0} Pokémon di tipo Erba, Fuoco o Terra
 quest_catch_types_sunny_singular
-Captura 1 Pokémon de tipo Planta, Fuego o Tierra
+Cattura un Pokémon di tipo Erba, Fuoco o Terra
 quest_catch_weather_boost_plural
-Captura {0} Pokémon potenciado por el tiempo atmosférico
+Cattura {0} Pokémon potenziati da condizioni atmosferiche
 quest_catch_weather_boost_singular
-Captura 1 Pokémon potenciado por el tiempo atmosférico
+Cattura un Pokémon potenziato da condizioni atmosferiche
 quest_evolve_singular
-Haz evolucionar 1 Pokémon
+Fai evolvere un Pokémon
 quest_evolve_plural
-Haz evolucionar {0} Pokémon
+Fai evolvere {0} Pokémon
 quest_evolve_type_fire_plural
-Haz evolucionar {0} Pokémon de tipo Fuego
+Fai evolvere {0} Pokémon di tipo Fuoco
 quest_evolve_type_fire_singular
-Haz evolucionar 1 Pokémon de tipo Fuego
+Fai evolvere un Pokémon di tipo Fuoco
 quest_hatch_egg_plural
-Haz eclosionar {0} Huevos
+Fai schiudere {0} Uova
 quest_hatch_egg_singular
-Haz eclosionar 1 Huevo
+Fai schiudere un Uovo
 quest_land_excellent_plural
-Acierta {0} lanzamientos excelentes
+Effettua {0} tiri eccellenti
 quest_land_excellent_singular
-Acierta 1 lanzamiento excelente
+Effettua un tiro eccellente
 quest_land_great_curveball_plural
-Acierta {0} grandes lanzamientos de bola curva
+Lancia {0} palle curve con risultato ottimo
 quest_land_great_curveball_singular
-Acierta 1 gran lanzamiento de bola curva
+Lancia una palla curva con risultato ottimo
 quest_land_great_plural
-Acierta {0} grandes lanzamientos
+Effettua {0} ottimi tiri
 quest_land_great_singular
-Acierta 1 gran lanzamiento
+Effettua un ottimo tiro
 quest_land_inarow_curveball_plural
-Acierta {0} lanzamientos de bola curva seguidos
+Lancia {0} palle curve di fila
 quest_land_inarow_excellent_curveball_plural
-Acierta {0} lanzamientos excelentes de bola curva seguidos
+Lancia {0} palle curve di fila con risultato eccellente
 quest_land_inarow_great_curveball_plural
-Acierta {0} grandes lanzamientos de bola curva seguidos
+Lancia {0} palle curve di fila con risultato ottimo
 quest_land_inarow_great_plural
-Acierta {0} grandes lanzamientos seguidos
+Effettua {0} ottimi tiri di fila
 quest_land_inarow_nice_curveball_plural
-Acierta {0} buenos lanzamientos de bola curva seguidos
+Lancia {0} palle curve di fila con un bel risultato
 quest_land_inarow_nice_plural
-Acierta {0} buenos lanzamientos seguidos
+Effettua {0} bei tiri di fila
 quest_land_nice_plural
-Acierta {0} buenos lanzamientos
+Effettua {0} bei tiri
 quest_land_nice_singular
-Acierta 1 buen lanzamiento
+Effettua un bel tiro
 quest_power_up_plural
-Da más poder a un Pokémon {0} veces
+Potenzia i Pokémon {0} volte
 quest_power_up_singular
-Da más poder a un Pokémon 1 vez
+Potenzia un Pokémon una volta
 quest_visit_pokestop_new_plural
-Da vueltas a {0} fotodiscos en Poképaradas donde no hayas estado antes
+Fai girare {0} dischi Pokéstop mai visitati prima
 quest_visit_pokestop_new_singular
-Da vueltas a 1 fotodisco en una Poképarada donde no hayas estado antes
+Fai girare un disco Pokéstop mai visitato prima
 quest_visit_pokestops_plural
-Da vueltas a {0} fotodiscos en Poképaradas o Gimnasios
+Fai girare {0} dischi Pokéstop
 quest_visit_pokestops_singular
-Da vueltas a 1 fotodisco en una Poképarada o Gimnasio
+Fai girare un disco Pokéstop
 quest_win_gym_plural
-Gana {0} combates de Gimnasio
+Vinci {0} sfide in Palestra
 quest_win_gym_singular
-Gana 1 combate de Gimnasio
+Vinci una sfida in Palestra
 quest_win_raid_3_singular
-Gana en 1 incursión de nivel 3 o superior
+Vinci un raid di livello 3 o superiore
 quest_win_raid_3_plural
-Gana en {0} incursiones de nivel 3 o superior
+Vinci {0} raid di livello 3 o superiore
 quest_win_raid_plural
-Gana en {0} incursiones
+Vinci {0} raid
 quest_win_raid_singular
-Gana en 1 incursión
+Vinci un raid
 quest_reach_level
-Alcanza el nivel {0}
+Raggiungi il livello {0}
 quest_reach_kanto_silver
-Consigue 1 insignia de Kanto plateada
+Ricevi il livello argento del premio Kanto
 quest_reach_kanto_gold
-Consigue 1 insignia de Kanto dorada
+Ricevi il livello oro del premio Kanto
 quest_walk_buddy_plural
-Consigue {0} Caramelos caminando con tu compañero
+Guadagna {0} caramelle camminando con il tuo compagno
 quest_walk_buddy_singular
-Consigue 1 Caramelo caminando con tu compañero
+Guadagna una caramella camminando con il tuo compagno
 quest_evolve_special0_singular
-Haz evolucionar 1 Magikarp
+Fai evolvere un Magikarp
 quest_catch_special_mew
-¡Captura 1 Mew!
+Cattura Mew!
 quest_title_mew
-Un descubrimiento singular
+Una scoperta misteriosa
 quest_title_mew_0
-Un descubrimiento singular (1/8)
+Una scoperta misteriosa (1/8)
 quest_title_mew_1
-Un descubrimiento singular (2/8)
+Una scoperta misteriosa (2/8)
 quest_title_mew_2
-Un descubrimiento singular (3/8)
+Una scoperta misteriosa (3/8)
 quest_title_mew_3
-Un descubrimiento singular (4/8)
+Una scoperta misteriosa (4/8)
 quest_title_mew_4
-Un descubrimiento singular (5/8)
+Una scoperta misteriosa (5/8)
 quest_title_mew_5
-Un descubrimiento singular (6/8)
+Una scoperta misteriosa (6/8)
 quest_title_mew_6
-Un descubrimiento singular (7/8)
+Una scoperta misteriosa (7/8)
 quest_title_mew_7
-Un descubrimiento singular (8/8)
+Una scoperta misteriosa (8/8)
 quest_complete_mew
-Un descubrimiento singular
+Una scoperta misteriosa
 quest_special_dialogue_mew_0_0
-%PLAYERNAME%, ¿qué tal? ¡Cómo pasa el tiempo! ¡Te has convertido en un hacha!
+%PLAYERNAME%, come va? È da tanto che non ci vediamo, ne hai fatta di strada da allora!
 quest_special_dialogue_mew_0_1
-Quería pedirte ayuda. Como ya sabes, estudio a los Pokémon y sus hábitats. A lo largo de los años, he aprendido un montón, pero recientemente he encontrado rastros de algo misterioso.
+Avrei bisogno del tuo aiuto. Come ben saprai, conduco ricerche sui Pokémon e sui loro habitat. Eppure, nonostante abbia imparato tanto nel corso degli anni, ultimamente sono incappato in alcuni indizi alquanto misteriosi.
 quest_special_dialogue_mew_0_2
-Me preguntaba si podías echarme una mano para resolver este misterio. ¿Qué me dices?
+Mi chiedevo perciò se ti andasse di darmi una mano a scoprire di che si tratta. Che ne dici?
 quest_special_dialogue_mew_0_3
-¿Sí? ¡Genial!
+Dici davvero? Fantastico!
 quest_special_dialogue_mew_0_4
-Lo primero es calibrar mis herramientas de trabajo para tu área.
+Innanzitutto occorre calibrare i miei strumenti con i dati della tua area.
 quest_special_dialogue_mew_0_5
-¿Podrías hacer esto?\n{0}\n{1}\n{2}
+Ecco le tre missioni che vorrei tu portassi a termine:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_mew_1_0
-Genial. ¡Gracias, %PLAYERNAME%! Ahora podré detectar cualquier cosa fuera de lo normal.
+Perfetto. Grazie, %PLAYERNAME%! Ora dovrei essere in grado di rilevare qualsiasi cosa al di fuori dell’ordinario.
 quest_special_dialogue_mew_1_1
-¡Creo que deberíamos estar atentos para no perdernos un Pokémon singular! Los Pokémon singulares son extremadamente raros y poderosos, y muchos piensan que ni existen.
+Cerchiamo di tenere bene gli occhi aperti... I Pokémon misteriosi: sono creature rarissime e molto potenti, anche se tante persone credono che esistano solo nelle leggende.
 quest_special_dialogue_mew_1_2
-¿Me podrías ayudar a montar mi equipo por tu hábitat local? ¡Será un momento perfecto para que saques a explorar un poco a tu compañero y hagas eclosionar algunos Huevos!
+Mi daresti una mano a calibrare i miei strumenti per la tua area? Intanto potresti approfittarne per fare un giro con il tuo compagno Pokémon e far schiudere qualche Uovo.
 quest_special_dialogue_mew_1_3
-¿Podrías hacer esto?\n{0}\n{1}\n{2}
+Queste sono le missioni che vorrei tu portassi a termine:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_mew_2_0
-¡Increíble! Esto confirma mi sospecha inicial. ¡Creo que hay evidencia de que Mew existe!
+Incredibile! Le mie ipotesi erano giuste: abbiamo trovato prove dell’esistenza di Mew!
 quest_special_dialogue_mew_2_1
-Un Pokémon encontrado en una jungla lejos hacia el sur que se pensaba extinguido. Es tan raro que muchos expertos dicen que es un mito. Solo unas cuantas personas en el mundo lo han visto.%BREAK% Aparentemente, solo se les aparece a aquellos puros de corazón y con un fuerte deseo de verlo.
+Mew fu originariamente scoperto in un luogo remoto tanto tempo fa, successivamente è stato considerato estinto, dato che da allora nessuno lo aveva più avvistato.
 quest_special_dialogue_mew_2_2
-Mis colegas en Kanto, incluido mi instructor, el Profesor Oak, pasaron muchas horas estudiando a Mew. ¡Parece que nuestros descubrimientos coinciden con los de ellos!
+I miei colleghi della regione di Kanto, incluso il mio insegnante, il Professor Oak, hanno studiato a lungo Mew. Ora sembra che i nostri risultati corrispondano!
 quest_special_dialogue_mew_2_3
-Según nuestra investigación, se dice que Mew ha sido visto usando toda clase de movimientos. ¡Esta observación nos ha llevado a muchos a decir que Mew es el antepasado de todos los Pokémon!
+Secondo le nostre ricerche, si dice che Mew possa utilizzare ogni tipo di mossa, per cui siamo inclini a pensare che Mew possa essere l’antenato di tutti i Pokémon!
 quest_special_dialogue_mew_2_4
-Puede que estudiando a los Pokémon en combate aprendamos más.
+Forse studiando i Pokémon durante le lotte impareremo ancora di più.
 quest_special_dialogue_mew_2_5
-Por favor, haz esto:\n{0}\n{1}\n{2}
+Per favore completa le seguenti missioni:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_mew_3_0
-¡Buen trabajo, %PLAYERNAME%! Esto nos ayudará a tomar el camino acertado.
+Ben fatto, %PLAYERNAME%! Questo ci aiuterà a muoverci nella direzione giusta.
 quest_special_dialogue_mew_3_1
-¿Sabías lo que dicen de que Mew posee el mapa genético de todos los Pokémon? ¡Los secretos de Mew podrían ser la clave para entender el misterio del crecimiento y la evolución de los Pokémon!
+Si dice che Mew custodisca i codici genetici di tutti i Pokémon. I segreti che avvolgono Mew potrebbero aiutarci a comprendere i misteri della crescita e dell’evoluzione dei Pokémon!
 quest_special_dialogue_mew_3_2
-¡Vamos a estudiar un poco la evolución Pokémon para aprender más sobre Mew!
+Mettiamoci al lavoro sullo studio dell’evoluzione dei Pokémon così da capire qualcosa di più su Mew.
 quest_special_dialogue_mew_3_3
-Por favor, haz esto:\n{0}\n{1}\n{2}
+Per favore completa le seguenti missioni:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_mew_4_0
-Increíble. Sencillamente increíble. ¿No es maravillosa la evolución? ¡Aprendo algo nuevo cada vez que la veo!
+Veramente affascinante. Le evoluzioni sono un fenomeno sorprendente: c’è sempre qualcosa da imparare!
 quest_special_dialogue_mew_4_1
-Con los datos que hemos recopilado hasta ahora, ¡debería poder señalar la ubicación de Mew! Parece que...
+Con i dati in nostro possesso finora, dovrei poter ritrovare la posizione di Mew. Sembra che...
 quest_special_dialogue_mew_4_2
-¡Sí, parece que Mew ha estado recientemente de visita en tu área! Hmm... Interesante. En ese caso, alguien debería haber informado de un avistamiento...
+Sì! Sembra proprio che Mew sia passato da poco dalle tue parti! Uhm, interessante perché il tal caso qualcuno avrebbe dovuto segnalarne l’avvistamento.
 quest_special_dialogue_mew_4_3
-¿Quizás Mew está escondido o haciéndose pasar por otro Pokémon? ¡Estudiemos otros Pokémon que usan estos trucos y el mejor modo de capturarlos!
+Forse Mew si sta nascondendo, oppure ha assunto le sembianze di un altro Pokémon? Esaminiamo i Pokémon con tali capacità e vediamo qual è il modo migliore di catturarli.
 quest_special_dialogue_mew_4_4
-Por favor, haz esto:\n{0}\n{1}\n{2}
+Per favore completa le seguenti missioni:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_mew_5_0
-¡Gracias, %PLAYERNAME%! Gracias a ti, ¡he llegado a la conclusión de que Mew es invisible!
+Grazie, %PLAYERNAME%! Grazie al tuo aiuto ho capito che Mew si è reso invisibile!
 quest_special_dialogue_mew_5_1
-Recopilemos datos para crear una herramienta para encontrarlo. Tengo una idea... Necesito que me ayudes estudiando de cerca unos poderosos Pokémon.
+Ora raccoglieremo dei dati per costruire uno strumento in grado di rilevarlo. Ho un’idea: dovrò chiederti però di studiare da vicino alcuni Pokémon molto potenti!
 quest_special_dialogue_mew_5_2
-¿Podrías hacer lo siguiente?\n{0}\n{1}\n{2}
+Potresti completare queste missioni per me?\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_mew_6_0
-¡Bien! Mi prototipo funciona de maravilla. ¡He mejorado el modo RA de tu cámara para que ahora puedas ver Pokémon invisibles!
+Benissimo, il mio prototipo funziona alla grande! Ho aggiornato la tua modalità AR aggiungendo la possibilità di scovare i Pokémon invisibili.
 quest_special_dialogue_mew_6_1
-Lo último es hacer que aparezca Mew. Se dice que solo aparece ante aquellos de corazón puro y con un fuerte deseo de encontrarse con él.
+Non rimane che attirare Mew verso di noi. È risaputo che Mew appaia solo alle persone pure di cuore e che dimostrano un fortissimo desiderio di incontrarlo.
 quest_special_dialogue_mew_6_2
-¡Enseñémosle a Mew lo bien que lo haces y cuánto deseamos verlo!
+Facciamo vedere a Mew il tuo valore e quanto tu sia impaziente di vederlo!
 quest_special_dialogue_mew_6_3
-Intentemos hacer lo siguiente:\n{0}\n{1}\n{2}
+Proviamo con queste missioni:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_mew_7_0
-¡Hemos capturado a Mew! ¡Genial! Esto sí que es un momento inolvidable.
+Abbiamo catturato Mew, fantastico! Questa sì che è un’esperienza da ricordare.
 quest_special_dialogue_mew_7_1
-¡Ahora puedes entender por qué me encanta estudiar a los Pokémon! El mundo entero aguarda ahí fuera a ser descubierto. ¡Así que sal a divertirte!
+Adesso capirai perché amo così tanto studiare i Pokémon. C’è un mondo intero da scoprire là fuori, perciò esci e divertiti!
 quest_special_dialogue_mew_7_2
-Mis ayudantes y yo tendremos más investigaciones especiales para ti en el futuro. Así que... ¡hasta pronto!
+Io e i miei assistenti avremo in serbo alcune ricerche speciali per te nel futuro, perciò restiamo in contatto!
 quest_transfer_pokemon_plural
-Transfiere {0} Pokémon
+Trasferisci {0} Pokémon
 quest_land_excellent_curveball_singular
-Acierta 1 lanzamiento excelente de bola curva
+Lancia una palla curva con risultato eccellente
 quest_land_excellent_curveball_plural
-Acierta {0} lanzamientos excelentes de bola curva
+Lancia {0} palle curve con risultato eccellente
 quests_come_back_soon
-¡Vuelve mañana!
+A domani!
 quests_come_back_soon_message
-¡Vuelve mañana a por otro sello de investigación!
+Ritorna domani per un altro timbro per la ricerca!
 quest_more_reseach_coming_soon
-¡Más investigaciones próximamente!
+Presto in arrivo altre ricerche!
 quest_reward_desc_1
-¡Colecciona sellos para desbloquear logros de investigación del Profesor Willow!
+Ottieni timbri per sbloccare le scoperte straordinarie del Professor Willow!
 quest_reward_desc_2
-Se consigue con:
+Farai una scoperta straordinaria se ottieni
 quest_reward_desc_3_plural
-¡{0} sellos más!
+altri {0} timbri!
 quest_reward_desc_3_singular
-¡{0} sello más!
+un altro timbro!
 quest_breakthrough_reward_stardust
-Polvos Estelares
+Polvere di stelle
 quest_breakthrough_reward_mystery
-Objetos sorpresa
+Oggetti misteriosi
 quest_land_inarow_excellent_plural
-Acierta {0} lanzamientos excelentes seguidos
+Effettua {0} tiri eccellenti di fila
 quest_reward_mysterious_pokemon_appeared
-¡Ha aparecido un Pokémon misterioso!
+È apparso un Pokémon insolito!
 quest_reward_encounter_uses_ar
-Se necesita usar RA para capturar a este Pokémon.
+Devi essere in modalità AR per catturare questo Pokémon.
 quest_reward_start_encounter
-Comenzar encuentro
+Affrontalo subito
 quest_reward_encounter_later
-Más tarde
+Più tardi
 pokemon_mythic_info_transfer_to_professor_impossible
-{0} es un Pokémon singular y no puede ser transferido.
+{0} è un Pokémon misterioso e non può essere trasferito.
 quests_when_to_collect_next_stamp
-¡Mañana puedes conseguir otro sello de investigación!
+Domani potrai ottenere un altro timbro per le tue ricerche!
 quests_streak_broken
-¡Progreso interrumpido!
+Serie interrotta!
 badge_challenge_quests
-Completa {0} tareas de investigación de campo
+Completa {0} missioni della ricerca sul campo
 badge_challenge_quests_title
 Pokémon Ranger
 badge_challenge_quests_value_format
 N0
 quests_stamp_date_format
-d MMM.
+d MMM
 quests_breakthrough_major_reward_header
-¡Logro!
+Scoperta straordinaria!
 quests_story_major_reward_header
-¡Investigación especial completada!
+Ricerca speciale completata!
 pokemon_info_multi_transfer_mythic_pokemon_error
-No puedes seleccionar Pokémon singulares.
+I Pokémon misteriosi non possono essere trasferiti.
 disabled_mythic
-No se pueden dejar Pokémon singulares en los Gimnasios.
+I Pokémon misteriosi non possono essere lasciati nelle Palestre.
 quests_breakthrough_conversation_1
-¡Buen trabajo con tu investigación de campo! Parece que hemos aprendido un montón.
+La ricerca sul campo sta procedendo molto bene. Stai imparando un sacco di cose!
 quests_breakthrough_conversation_2
-¡Sigue haciéndolo así de bien! Y ahora vamos a ver lo que hemos descubierto.
+Stai andando alla grande. Vediamo cosa hai scoperto!
 quest_catch_special6_plural
-Captura {0} Mareep
+Cattura {0} Mareep
 quests_field_research_task
-TAREA DE INVESTIGACIÓN DE CAMPO
+Missione di ricerca sul campo
 quests_field_research_task_desc
-Ya has completado la tarea de investigación de campo de esta Poképarada hoy.
+Hai completato la missione di ricerca sul campo di oggi di questo Pokéstop.
 quests_completed_story_quests_header
-COMPLETADAS
+Completate
 quest_evolve_type_electric_plural
-Haz evolucionar {0} Pokémon de tipo Eléctrico.
+Fai evolvere {0} Pokémon di tipo Elettro
 quest_evolve_type_electric_singular
-Haz evolucionar 1 Pokémon de tipo Eléctrico.
+Fai evolvere un Pokémon di tipo Elettro
 quest_evolve_type_flying_plural
-Haz evolucionar {0} Pokémon de tipo Volador.
+Fai evolvere {0} Pokémon di tipo Volante
 quest_evolve_type_flying_singular
-Haz evolucionar 1 Pokémon de tipo Volador.
+Fai evolvere un Pokémon di tipo Volante
 quest_evolve_type_ice_plural
-Haz evolucionar {0} Pokémon de tipo Hielo.
+Fai evolvere {0} Pokémon di tipo Ghiaccio
 quest_evolve_type_ice_singular
-Haz evolucionar 1 Pokémon de tipo Hielo.
+Fai evolvere un Pokémon di tipo Ghiaccio
 quest_evolve_type_water_plural
-Haz evolucionar {0} Pokémon de tipo Agua.
+Fai evolvere {0} Pokémon di tipo Acqua
 quest_evolve_type_water_singular
-Haz evolucionar 1 Pokémon de tipo Agua.
+Fai evolvere un Pokémon di tipo Acqua
 quest_land_nice_electric_plural
-Captura {0} Pokémon de tipo Eléctrico con buenos lanzamientos.
+Cattura {0} Pokémon di tipo Elettro con dei bei tiri
 quest_catch_types_rainy_plural
-Captura {0} Pokémon de tipo Agua, Eléctrico o Bicho.
+Cattura {0} Pokémon di tipo Acqua, Elettro o Coleottero
 quest_catch_types_rainy_singular
-Captura 1 Pokémon de tipo Agua, Eléctrico o Bicho.
+Cattura un Pokémon di tipo Acqua, Elettro o Coleottero
 quest_catch_types_snowy_plural
-Captura {0} Pokémon de tipo Hielo o Acero.
+Cattura {0} Pokémon di tipo Ghiaccio o Acciaio
 quest_catch_types_snowy_singular
-Captura 1 Pokémon de tipo Hielo o Acero.
+Cattura un Pokémon di tipo Ghiaccio o Acciaio
 quest_catch_types_windy_plural
-Captura {0} Pokémon de tipo Volador, Psíquico o Dragón.
+Cattura {0} Pokémon di tipo Volante, Psico o Drago
 quest_catch_types_windy_singular
-Captura 1 Pokémon de tipo Volador, Psíquico o Dragón.
+Cattura un Pokémon di tipo Volante, Psico o Drago
 quest_catch_special7_plural
-Captura {0} Charmander.
+Cattura {0} Charmander
 quest_adventure_hatch_egg_plural
-Semana de Aventuras: Haz eclosionar {0} Huevos
+Settimana dellʼavventura: fai schiudere {0} Uova
 quest_adventure_walk_buddy_plural
-Semana de Aventuras: Consigue {0} Caramelos caminando con tu compañero
+Settimana dellʼavventura: aggiudicati {0} caramelle andando in giro con il tuo compagno
 quest_adventure_visit_pokestop_new_plural
-Semana de Aventuras: Da vueltas a {0} fotodiscos en Poképaradas donde no hayas estado antes
+Settimana dellʼavventura: fai girare {0} dischi di Pokéstop mai visitati prima
 quest_adventure_evolve_singular
-Semana de Aventuras: Haz evolucionar 1 Omanyte o Kabuto
+Settimana dellʼavventura: fai evolvere un Omanyte o un Kabuto
 quest_evolve_special1_singular
-Evolucionar 1 Horsea
+Fai evolvere un Horsea
 quest_catch_special8_plural
-Capturar {0} Larvitar
+Cattura {0} Larvitar
 quest_waterfestival_win_raid_singular
-Festival Acuático: Gana en 1 incursión
+Festival dell’Acqua: vinci un raid
 quest_waterfestival_catch_special9_plural
-Festival Acuático: Captura {0} Magikarp o Wailmer
+Festival dell’Acqua: cattura {0} Magikarp o Wailmer
 quest_waterfestival_catch_type_water_plural
- Festival Acuático: Captura {0} Pokémon de tipo Agua
+Festival dell’Acqua: cattura {0} Pokémon di tipo Acqua
 quest_waterfestival_catch_feed_plural
-Festival Acuático: Usa {0} bayas para ayudarte a capturar Pokémon
+Festival dell’Acqua: usa {0} bacche per facilitare la cattura di Pokémon
 quest_waterfestival_hatch_egg_singular
-Festival Acuático: Haz eclosionar 1 Huevo
+Festival dell’Acqua: fai schiudere un Uovo
 quest_waterfestival_evolve_plural
-Festival Acuático: Haz evolucionar {0} Shellder
+Festival dell’Acqua: fai evolvere {0} Shellder
 quest_gofest_0
-Festival de Pokémon GO: Captura {0} Pokémon
+Festival di Pokémon GO: cattura {0} Pokémon
 quest_gofest_1
-Festival de Pokémon GO: Visita {0} Poképaradas
+Festival di Pokémon GO: visita {0} Pokéstop
 quest_gofest_2
-Festival de Pokémon GO 2018: Consigue 1 Caramelo caminando con tu compañero
+Festival di Pokémon GO: ottieni una caramella camminando con il tuo compagno
 quest_gofest_3
-Festival de Pokémon GO 2018: Haz eclosionar 1 Huevo
+Festival di Pokémon GO: fai schiudere un Uovo
 quest_title_gofest
-Festival de Pokémon GO 2018
+Festival di Pokémon GO 2018
 quest_title_gofest_0
-Festival de Pokémon GO 2018 (1/5)
+Festival di Pokémon GO 2018 (1/5)
 quest_title_gofest_1
-Festival de Pokémon GO 2018 (2/5)
+Festival di Pokémon GO 2018 (2/5)
 quest_title_gofest_2
-Festival de Pokémon GO 2018 (3/5)
+Festival di Pokémon GO 2018 (3/5)
 quest_title_gofest_3
-Festival de Pokémon GO 2018 (4/5)
+Festival di Pokémon GO 2018 (4/5)
 quest_title_gofest_4
-Festival de Pokémon GO 2018 (5/5)
+Festival di Pokémon GO 2018 (5/5)
 quest_catch_special9_plural
-Captura {0} Unown
+Cattura {0} Unown
 quest_catch_special10_plural
-Captura {0} Plusle
+Cattura {0} Plusle
 quest_catch_special11_plural
-Captura {0} Minun
+Cattura {0} Minun
 quest_special_dialogue_gofest_0_0
-¡%PLAYERNAME%! ¡Qué bien que lo has conseguido!
+%PLAYERNAME%! Dai, che ce l’hai fatta!
 quest_special_dialogue_gofest_0_1
-Yo pensaba pasar un día genial jugando con Pokémon, pero, como habrás podido ver, ¡en el parque están ocurriendo toda clase de fenómenos geológicos inusuales!
+Mi aspettavo una giornata piena zeppa di divertimento targato Pokémon, ma come vedi nel parco stanno accadendo strani fenomeni geologici!
 quest_special_dialogue_gofest_0_2
-Tenemos que averiguar qué está pasando y arreglarlo, así que te pido ayuda.
+Dobbiamo scoprirne le cause e cercare di riportare la situazione alla normalità. Ho bisogno del tuo aiuto.
 quest_special_dialogue_gofest_0_3
-Ahora que ya estás aquí, necesito que formes parte de mi equipo de investigación élite.
+Visto che ci sei, devi entrare a far parte della mia squadra di ricercatori fuoriclasse.
 quest_special_dialogue_gofest_0_4
-Lo primero es lo primero: ¿podrías ayudar a inspeccionar el parque y obtener algunos suministros?
+Per prima cosa, potresti darmi una mano a ispezionare il parco e a raccogliere delle provviste?
 quest_special_dialogue_gofest_0_5
-¿Podrías hacer esto?\n{0}\n{1}\n{2}
+Queste sono le missioni che vorrei tu portassi a termine:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_gofest_1_0
-¡Guau! Como habrás podido ver, ¡en el parque están ocurriendo hoy toda clase de fenómenos geológicos inusuales!
+Perdinci! Avrai notato anche tu che oggi stanno accadendo un sacco di strani fenomeni geologici nel parco!
 quest_special_dialogue_gofest_1_1
-No estoy seguro de qué ha podido haberlo causado, simplemente aparecieron de la nada ... ¡y parecen ser cada vez más grandes!
+Non sono sicuro delle cause... sono cominciati dal nulla e sembrano diventare sempre peggio!
 quest_special_dialogue_gofest_1_2
-Lo que sea que lo esté causando, el hábitat del parque local aquí está bastante perturbado por todos los cambios.
+Qualunque siano le origini, l’habitat del parco ne sta risentendo parecchio.
 quest_special_dialogue_gofest_1_3
-Los Pokémon locales están confundidos... ¡Parece que están actuando de forma más agresiva y territorial!
+I Pokémon sembrano in preda alla confusione e stanno diventando sempre più aggressivi e territoriali!
 quest_special_dialogue_gofest_1_4
-Veamos si podemos ayudar atrapando algunos Pokémon para que la situación sea un poco más estable.
+Vediamo se riusciamo a catturarne alcuni per cercare di stabilizzare la situazione.
 quest_special_dialogue_gofest_1_5
-¡Atrapa 20 Pokémon de tipo Fuego, Acero, Agua, Planta, Roca o Hielo!
+Cattura 20 Pokémon di tipo Fuoco, Acqua, Erba, Ghiaccio, Roccia e Acciaio!
 quest_special_dialogue_gofest_2_0
-Bueno, parece que había algunos Pokémon bastante poderosos causando el alboroto. ¡Gracias por encargarte de ellos! Estoy seguro de que serán grandes amigos.
+Ma guarda un po’, sembra che siano stati dei Pokémon alquanto potenti a causare tutta questa confusione. Grazie per essertene occupato! Sono sicuro che diventerete grandi amici.
 quest_special_dialogue_gofest_2_1
-Sin embargo, no estoy seguro de que eso fuera suficiente: los hábitats extraños están tan activos como antes. El parque local y todos los Pokémon parecen preocupados. ¡Necesitamos llegar al fondo de la cuestión!
+Purtroppo non credo che sia finita qui... Quegli strani fenomeni continuano... Sia il parco che i Pokémon sembrano risentirne. Dobbiamo cercare di andare al fondo di questa faccenda!
 quest_special_dialogue_gofest_2_2
-He estado viendo unos Pokémon inusuales llamados Unown flotando por la zona ...
+Noto un sacco di quegli strani Pokémon, gli Unown, volteggiare in giro...
 quest_special_dialogue_gofest_2_3
-Estos Pokémon tienen forma de escritura antigua... ¡y creo que pueden estar intentando decirnos algo! Creo que quieren que llamemos a un poderoso Pokémon: ¿el guardián del bosque? Apuesto a que, si seguimos a los Unown por el parque, ¡nos llevarán hasta este Pokémon!
+Questi Pokémon hanno la forma delle lettere di un alfabeto antico e credo che stiano cercando di dirci qualcosa! Forse vogliono evocare il potente Pokémon protettore delle foreste? Scommetto che se seguiamo gli Unown nel parco ci condurranno proprio a quel Pokémon!
 quest_special_dialogue_gofest_2_4
-Hagamos las siguientes tareas de investigación.\n{0}\n{1}\n{2}
+Completa queste missioni:\n- {0}\n- {1}\n- {2}
 quest_special_dialogue_gofest_3_0
-¡Asombroso! Nunca pensé que vería a Celebi aquí.
+Incredibile! Non avrei mai pensato di incontrare un Celebi qui!
 quest_special_dialogue_gofest_3_1
-Creo que la habilidad de Celebi de viajar en el tiempo puede ser justo lo que necesitamos para arreglar la situación.
+Credo proprio che la sua capacità di viaggiare nel tempo potrebbe darci una mano a risolvere questa situazione.
 quest_special_dialogue_gofest_3_2
-¡Celebi puede retroceder en el tiempo y detener estas distorsiones mientras siguen siendo pequeñas!
+Celebi potrebbe tornare indietro nel tempo e fermare le anomalie sul nascere!
 quest_special_dialogue_gofest_3_3
-Es una tarea difícil... ¡Debemos asegurarnos de que Celebi tenga todo el apoyo que necesita!
+È un compito difficile... Dobbiamo dare a Celebi tutto il supporto necessario!
 quest_special_dialogue_gofest_3_4
-Los Plusle y Minun en el parque serían perfectos para ayudarnos.
+I Plusle e i Minun nel parco sarebbero perfetti per aiutarci.
 quest_special_dialogue_gofest_3_5
-¡Estos Pokémon son famosos por encantarles el trabajo en equipo y animar a sus compañeros con sus chispas!
+Questi Pokémon sono noti per il loro amore per il lavoro di squadra e incitano i propri compagni con dei pompon fatti di scintille!
 quest_special_dialogue_gofest_3_6
-Si conseguimos un montón de ellos, creo que podrán trabajar juntos para animar de verdad a Celebi.
+Se ne catturiamo un bel po’, credo proprio che ce la farebbero a spronare Celebi a dare il meglio di sé!
 quest_special_dialogue_gofest_3_7
-¡Entonces, Celebi podrá enfocar su poder en regresar al pasado y prevenir este problema antes de que comience!
+Usando i propri poteri potrebbe infatti ritornare indietro nel passato ed evitare il sorgere di questo problema!
 quest_special_dialogue_gofest_3_8
-¡Rápido, %PLAYERNAME%, completemos estas tareas de investigación!\n{0}\n{1}
+Ehi, %PLAYERNAME%! Cerchiamo di completare queste missioni velocemente!\n- {0}\n- {1}
 quest_special_dialogue_gofest_4_0
-¡Ha funcionado! Parece que los inusuales hábitats están volviendo a la normalidad poco a poco.
+Ha funzionato! Sembra che quegli strani habitat stiano piano piano tornando alla normalità.
 quest_special_dialogue_gofest_4_1
-Parece que Celebi ha regresado sin problemas del pasado para quedarse contigo. ¡Parece que habéis creado un vínculo!
+Celebi è ritornato sano e salvo dal passato e vuole stare con te. Sembra proprio cha abbiate un legame speciale!
 quest_special_dialogue_gofest_4_2
-¡Apuesto a que el próximo fin de semana el parque habrá vuelto a la normalidad! ¡Celebi es realmente un Pokémon maravilloso!
+Scommetto che entro il prossimo fine settimana tutto sarà ritornato alla normalità nel parco! Celebi è davvero un Pokémon sorprendente!
 quest_special_dialogue_gofest_4_3
-¡Gracias por toda tu ayuda hoy! No podríamos haberlo hecho sin ti.
+Grazie per l’aiuto! Non ce l’avrei fatta da solo!
 quest_special_dialogue_gofest_4_4
-¡Este fin de semana será uno digno de recordar!
+Questo fine settimana rimarrà indimenticabile!
 quest_catch_special12_plural
-Captura {0} Squirtle
+Cattura {0} Squirtle
 quests_claim_story_quest_encounter_first
-¡Primero debes completar tu encuentro de investigación especial!
+Devi prima completare l'incontro della tua ricerca speciale!
 quest_catch_special13_plural
-Captura {0} Roselia
+Cattura {0} Roselia
 quest_evolve_type_grass_plural
-Haz evolucionar {0} Pokémon de tipo Planta
+Fai evolvere {0} Pokémon di tipo Erba
 quest_evolve_type_grass_singular
-Haz evolucionar 1 Pokémon de tipo Planta
+Fai evolvere un Pokémon di tipo Erba
 quest_catch_basic_types_plural
-Captura {0} Pokémon de tipo Planta, Agua o Fuego
+Cattura {0} Pokémon di tipo Erba, Acqua o Fuoco
 quest_evolve_eevee_types_singular
-Haz evolucionar 1 Pokémon de tipo Eléctrico, Agua o Fuego
+Fai evolvere un Pokémon di tipo Elettro, Acqua o Fuoco
 quest_evolve_eevee_types_plural
-Haz evolucionar {0} Pokémon de tipo Eléctrico, Agua o Fuego
+Fai evolvere {0} Pokémon di tipo Elettro, Acqua o Fuoco
 quest_land_nice_curve_singular
-Acierta 1 buen lanzamiento de bola curva 
+Lancia una palla curva con un bel risultato
 quest_land_nice_curve_plural
-Acierta {0} buenos lanzamientos de bola curva
+Lancia {0} palle curve con un bel risultato

@@ -1,1616 +1,1616 @@
 badge_capture_total
-Fange {0} Pokémon.
+捉到 {0} 隻寶可夢
 badge_capture_total_title
-Sammler
+收藏家
 badge_capture_total_value_format
 N0
 badge_defeated_fort
-Gewinne {0} Kämpfe.
+在 {0} 場對戰中獲勝
 badge_defeated_fort_title
-Kämpfer
+對戰
 badge_defeated_fort_value_format
 N0
 badge_encountered_total
-Begegne {0} Pokémon.
+遇見 {0} 隻寶可夢
 badge_encountered_total_title
-Entdecker
+遭遇
 badge_encountered_total_value_format
 N0
 badge_evolved_total
-Entwickle {0} Pokémon.
+讓 {0} 隻寶可夢進化
 badge_evolved_total_title
-Forscher
+研究員
 badge_evolved_total_value_format
 N0
 badge_hatched_total
-Brüte {0} Eier aus.
+孵化 {0} 顆蛋
 badge_hatched_total_title
-Züchter
+培育家
 badge_hatched_total_value_format
 N0
 badge_pokedex_entries
-Trage {0} Pokémon im Pokédex ein.
+在寶可夢圖鑑裡登錄 {0} 隻關都地區的寶可夢！
 badge_pokedex_entries_title
-Kanto
+關都
 badge_pokedex_entries_value_format
 N0
 badge_pokestops_visited
-Besuche {0} PokéStops.
+拜訪 {0} 個寶可補給站
 badge_pokestops_visited_title
-Backpacker
+背包客
 badge_pokestops_visited_value_format
 N0
 badge_travel_km
-Laufe {0:0.#} km.
+行走 {0:0.#} km
 badge_travel_km_title
-Jogger
+慢跑者
 badge_travel_km_value_format
 N1
 badge_unique_pokestops
-Besuche {0} verschiedene PokéStops.
+拜訪 {0} 個獨特的寶可補給站
 badge_unique_pokestops_title
-Verschiedene PokéStops
+獨特的寶可補給站
 badge_unique_pokestops_value_format
 N0
 badge_you_earned
-Glückwunsch! Du hast eine Medaille verdient!
+恭喜你！得到獎牌了！
 badge_big_magikarp
-Fange {0} große Karpador.
+捉到 {0} 隻巨大的鯉魚王
 badge_big_magikarp_title
-Angler
+釣魚者
 badge_big_magikarp_value_format
 N0
 badge_small_rattata
-Fange {0} winzige Rattfratz.
+捉到 {0} 迷你的小拉達
 badge_small_rattata_title
-Teenager
+短褲小子
 badge_small_rattata_value_format
 N0
 badge_pikachu
-Fange {0} Pikachu.
+捉到 {0} 隻皮卡丘
 badge_pikachu_title
-Pikachu-Fan
+皮卡丘粉絲
 badge_pikachu_value_format
 N0
 badge_deployed_total
-Weise {0} Pokémon Arenen zu!
+將 {0} 隻寶可夢指派到道館！
 badge_deployed_total_title
-Pokémon bei Arenen
+道館裡的寶可夢
 badge_deployed_total_value_format
 N0
 badge_battle_attack_won
-Gewinne {0} Arenakämpfe.
+贏得 {0} 場道館對戰
 badge_battle_attack_won_title
-Kämpferin
+對戰女孩
 badge_battle_attack_won_value_format
 N0
 badge_battle_training_won
-Trainiere {0}-mal.
+訓練 {0} 隻寶可夢
 badge_battle_training_won_title
-Ass-Trainer 
+精英訓練家
 badge_battle_training_won_value_format
 N0
 badge_battle_defend_won
-Gewinne {0} Verteidigungskämpfe!
+成功防禦道館 {0} 次！
 badge_battle_defend_won_title
-Gewonnene Vert.-Kämpfe
+成功防禦道館的次數
 badge_battle_defend_won_value_format
 N0
 badge_prestige_raised
-Erhöhe Arena-Prestige um {0}.
+將道館聲望值提升了 {0} ！
 badge_prestige_raised_title
-Prestige erhöht
+道館聲望上揚
 badge_prestige_raised_value_format
 N0
 badge_prestige_dropped
-Setze Arena-Prestige um {0} herab.
+讓道館聲望值減少了 {0} ！
 badge_prestige_dropped_title
-Prestige gesenkt
+道館聲望下降
 badge_prestige_dropped_value_format
 N0
 badge_type_normal
-Fange {0} Pokémon vom Typ Normal.
+捉到 {0} 隻一般屬性的寶可夢
 badge_type_normal_title
-Schulkind
+小學生
 badge_type_normal_value_format
 N0
 badge_type_fighting
-Fange {0} Pokémon vom Typ Kampf.
+捉到 {0} 隻格鬥屬性的寶可夢
 badge_type_fighting_title
-Schwarzgurt
+空手道王
 badge_type_fighting_value_format
 N0
 badge_type_flying
-Fange {0} Pokémon vom Typ Flug.
+捉到 {0} 隻飛行屬性的寶可夢
 badge_type_flying_title
-Vogelfänger 
+養鳥人
 badge_type_flying_value_format
 N0
 badge_type_poison
-Fange {0} Pokémon vom Typ Gift.
+捉到 {0} 隻毒屬性的寶可夢
 badge_type_poison_title
-Punker
+壞女孩
 badge_type_poison_value_format
 N0
 badge_type_ground
-Fange {0} Pokémon vom Typ Boden.
+捉到 {0} 隻地面屬性的寶可夢
 badge_type_ground_title
-Ruinenmaniac
+遺跡迷
 badge_type_ground_value_format
 N0
 badge_type_rock
-Fange {0} Pokémon vom Typ Gestein.
+捉到 {0} 隻岩石屬性的寶可夢
 badge_type_rock_title
-Wanderer
+登山男
 badge_type_rock_value_format
 N0
 badge_type_bug
-Fange {0} Pokémon vom Typ Käfer.
+捉到 {0} 隻蟲屬性的寶可夢
 badge_type_bug_title
-Käfersammler
+捕蟲少年
 badge_type_bug_value_format
 N0
 badge_type_ghost
-Fange {0} Pokémon vom Typ Geist.
+捉到 {0} 隻幽靈屬性的寶可夢
 badge_type_ghost_title
-Hexe
+靈異迷
 badge_type_ghost_value_format
 N0
 badge_type_steel
-Fange {0} Pokémon vom Typ Stahl.
+捉到 {0} 隻鋼屬性的寶可夢
 badge_type_steel_title
-Eisenbahner
+鐵路員工
 badge_type_steel_value_format
 N0
 badge_type_fire
-Fange {0} Pokémon vom Typ Feuer.
+捉到 {0} 隻火屬性的寶可夢
 badge_type_fire_title
-Hitzkopf
+營火專家
 badge_type_fire_value_format
 N0
 badge_type_water
-Fange {0} Pokémon vom Typ Wasser.
+捉到 {0} 隻水屬性的寶可夢
 badge_type_water_title
-Schwimmer
+泳褲小伙子
 badge_type_water_value_format
 N0
 badge_type_grass
-Fange {0} Pokémon vom Typ Pflanze.
+捉到 {0} 隻草屬性的寶可夢
 badge_type_grass_title
-Gärtner
+園藝家
 badge_type_grass_value_format
 N0
 badge_type_electric
-Fange {0} Pokémon vom Typ Elektro.
+捉到 {0} 隻電屬性的寶可夢
 badge_type_electric_title
-Rocker
+電氣搖滾團
 badge_type_electric_value_format
 N0
 badge_type_psychic
-Fange {0} Pokémon vom Typ Psycho.
+捉到 {0} 隻超能力屬性的寶可夢
 badge_type_psychic_title
-Psycho
+超能力者
 badge_type_psychic_value_format
 N0
 badge_type_ice
-Fange {0} Pokémon vom Typ Eis.
+捉到 {0} 隻冰屬性的寶可夢
 badge_type_ice_title
-Skifahrer
+滑雪者
 badge_type_ice_value_format
 N0
 badge_type_dragon
-Fange {0} Pokémon vom Typ Drache.
+捉到 {0} 隻龍屬性的寶可夢
 badge_type_dragon_title
-Drachenprofi
+馴龍師
 badge_type_dragon_value_format
 N0
 badge_type_dark
-Fange {0} Pokémon vom Typ Unlicht.
+捉到 {0} 隻惡屬性的寶可夢
 badge_type_dark_title
-Halbstarke
+大姐頭
 badge_type_dark_value_format
 N0
 badge_type_fairy
-Fange {0} Pokémon vom Typ Fee.
+捉到 {0} 隻妖精屬性的寶可夢
 badge_type_fairy_title
-Träumerin
+童話少女
 badge_type_fairy_value_format
 N0
 battle_pokemon_already_in_list
-Bereits zum Kampf ausgewählt
+已在同行隊伍中
 boot_loading
-Lädt ...
+LOADING...
 boot_beta_warning
-Diese Software befindet sich in der Entwicklung und ist vertraulich zu behandeln. Nicht teilen, zeigen oder an andere verteilen.
+本軟體目前仍在開發中，所有資訊不得公開。請勿向他人展示或分享軟體中的資訊。
 boot_safety_warning
-Bleibe wachsam. Behalte immer deine Umgebung im Auge!
+請隨時注意四周環境，小心安全
 boot_safety_warning_1
-Spiele <i>Pokémon GO</i> nicht beim Autofahren.
+請勿邊玩遊戲邊走路或開車
 boot_safety_warning_2
-Betritt beim Spielen von <i>Pokémon GO</i> keine Privatgrundstücke.
+請勿擅闖禁止進入的區域
 boot_safety_warning_3
-Betritt beim Spielen von <i>Pokémon GO</i> kein gefährliches Gelände.
+請勿進入危險的地區
 confirm_use_effective
-{0} war effektiv.
+{0} 有效
 confirm_use_ineffective
-{0} war nicht effektiv.
+{0} 無效
 confirm_use_tap_to_use
-Tippe auf das Item, um es zu benutzen.
+點擊道具來使用
 date_format
-dd.MM.yyyy
+yyyy年 M月 d日
 egg_anticipation
-Was ist wohl drin?!
+會孵出什麼呢！？
 egg_hatching
-Oh?
+哦？
 egg_received
-So ein Glück! Du hast ein Ei erhalten!
+得到了1顆蛋！你真是太幸運了！
 egg_walk_to_hatch
-Laufe {0} km, um das Ei schlüpfen zu lassen!
+走 {0} 公里來孵化這顆蛋！
 egg_confirm
-Bericht
+概要
 encounter_gotcha
-Klasse!
+太好了！
 encounter_pokemon_was_caught
-{0} wurde gefangen!
+捉到 {0} 了！
 encounter_pokemon_broke_free
-Das Pokémon hat sich befreit!
+寶可夢逃出來了！
 encounter_pokemon_ran_away
-Oh nein! Das wilde {0} ist geflüchtet.
+喔不！野生的 {0} 逃走了！
 encounter_received_evolution_shard
-{0} Entwicklungsscherben erhalten!
+得到了 {0} 個進化碎片！
 encounter_no_pokeball
-Keine Pokébälle
+沒有精靈球
 encounter_score_curveball
-Curveball
+曲球
 encounter_score_excellent_throw
-Fabelhafter Wurf
+Excellent Throw
 encounter_score_first_catch
-Erster Fang des Tages
+今天的第1隻
 encounter_score_great_throw
-Großartiger Wurf
+Great Throw
 encounter_score_milestone
-Bonus
+獎勵
 encounter_score_new_pokemon
-Neues Pokémon
+新的寶可夢
 encounter_score_nice_throw
-Guter Wurf
+Nice Throw
 encounter_score_one_shot
-Mit einem Wurf
+一擊中的
 encounter_score_pokemon_caught
-Pokémon gefangen
+捕捉寶可夢
 encounter_score_total_exp
-{0} EP
+{0} XP
 encounter_miss_throw
-Daneben ...
+Miss...
 encounter_nice_throw
-Gut!
+Nice!
 encounter_excellent_throw
-Einfach fabelhaft!
+Excellent!
 encounter_great_throw
-Großartig!
+Great!
 encounter_wild_pokemon_appeared
-Ein wildes <b>{0}</b> erscheint!
+野生的 <b>{0}</b> 出現了！
 encounter_pokeball_inventory_empty
-Keine Pokébälle mehr!
+沒有精靈球了！
 encounter_score_total
-Gesamt
+TOTAL
 encounter_berry_already_used
-Du hast schon eine Beere benutzt.
+你已經用過樹果了
 encounter_unknown_cp
-???
+？？？
 err_get_bundle
-Spieldaten konnten nicht vom Server abgerufen werden.
+無法自伺服器取得遊戲資料
 err_get_digest
-Spieldaten konnten nicht vom Server abgerufen werden.
+無法自伺服器取得遊戲資料
 err_get_player
-Spielerinfos konnten nicht vom Server abgerufen werden.
+無法自伺服器取得玩家資訊
 err_go_settings
-Einstellungen
+設定
 err_gps_off
-Dein GPS ist ausgeschaltet. Für <i>Pokémon GO</i> muss dein GPS eingeschaltet sein.
+GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 err_gps_silent
-GPS-Signal nicht gefunden.
+無法取得GPS訊號
 err_location_not_measured
-Standort konnte nicht geortet werden.
+無法偵側目前位置
 err_no_internet
-Keine Internetverbindung.
+無法連線至網路
 err_retry
-Erneut versuchen
+重試
 err_skip
-Jetzt nicht
+稍後
 err_update
-Aktualisieren
+更新
 err_update_now
-Eine neue Version von <i>Pokémon GO</i> ist erhältlich. Möchtest du das Spiel jetzt aktualisieren?
+有新版本的Pokémon GO可以下載了。要現在更新嗎？
 err_taking_you_to_app_store
-Aktualisieren, um fortzufahren ...
+更新
 feedback_added_xp
-+{0} EP
++{0} XP
 general_accept
-Akzeptieren
+同意
 general_error
-Fehler
+錯誤
 general_network_error
-Netzwerkfehler
+網路錯誤
 general_button_select
-Auswählen
+確定
 general_cancel
-Abbrechen
+取消
 general_no
-Nein
+No
 general_ok
-O. K.
+OK
 general_pokemon
-Pokémon
+寶可夢
 general_pokemon_inventory_full
-Aufbewahrungslimit erreicht!
+你的同行隊伍已經滿了
 general_sign_out
-Abmelden
+登出
 general_sign_out_confirm
-Bist du sicher, dass du dich abmelden willst?
+確定要登出嗎？
 general_yes
-Ja
+Yes
 gym_approach_battles_won
-Gewonnene Kämpfe:
+BATTLES WIN：
 gym_defeated
-Die Arena wurde besiegt!
+道館被人攻佔了！
 gym_gym_is_too_far
-Diese Arena ist zu weit entfernt.
+這間道館太遠了
 gym_leader_defeated
-Der Arenaleiter wurde besiegt!
+道館館主被打敗了！
 gym_level
-Arenalevel
+道館等級
 gym_lose_prestige
-Prestige um {0} gesunken.
+聲望值下降了 {0}
 gym_no_more_slots
-Die Arena ist bereits voll.
+道館成員已達上限
 gym_player_is_already_member
-Du bist schon Mitglied dieser Arena.
+你已經是這間道館的成員了
 gym_prestige
-Prestige
+聲望
 gym_win_prestige
-Prestige um {0} gestiegen.
+聲望值提升了 {0}
 gym_results_pokemon_defeated
-Besiegte Pokémon:
+打敗的寶可夢：
 gym_results_xp_awarded
-EP
+XP
 gym_results_prestige_change
-Arena-Prestige:
+道館聲望：
 gym_results_victory
-Du hast gewonnen!
+You win!
 gym_results_defeat
-Du hast verloren!
+You lose!
 gym_results_timed_out
-Die Zeit ist abgelaufen!
+Time's up!
 gym_level_too_low
-Kehre zurück, wenn du Level {0} erreicht hast!
+先把等級提升到 {0} 再回來對戰吧！
 gym_under_construction
-Arenen sind noch im Bau.
+道館施工中
 gym_start_battle_error
-Kampf konnte nicht begonnen werden.
+無法開始對戰
 item_bag_deployed
-Pokémon zugewiesen – Item kann nicht eingesetzt werden.
+寶可夢已被指派至道館，無法使用道具
 item_bag_irrelevant
-Dieses Item kann hier nicht eingesetzt werden.
+無法在此使用這個道具
 item_bag_no_items
-Keine Items verfügbar.
+沒有可用的道具
 item_bag_potion_fainted
-Tränke können nicht auf ein kampfunfähiges Pokémon angewendet werden.
+無法對瀕死的寶可夢使用傷藥
 item_bag_potion_full_health
-Dieses Pokémon ist bereits völlig geheilt.
+這隻寶可夢的體力是全滿的
 item_bag_revive_not_fainted
-Beleber können nur auf ein kampfunfähiges Pokémon angewendet werden.
+只能給瀕死的寶可夢使用
 item_use
-Benutzen
+使用
 buff_already_applied
-Du hast dieses Hilfsmittel schon verwendet.
+正在使用中
 onboard_accept_tos
-Akzeptieren
+同意
 onboard_decline_tos
-Nicht akzeptieren
+不同意
 onboard_short_tos
-<i>Pokémon GO</i> ist ein standortbezogenes Spiel. Deine Standortinformationen werden von dieser App erfasst und sind bei bestimmten Handlungen im Spiel für andere Spieler möglicherweise sichtbar.
+Pokémon GO是一款使用行動定位服務的遊戲，系統將會收集你的位置資訊。當你在遊戲中進行特定操作時，其他玩家有可能會看到你的位置資訊。
 onboard_link_tos
-Lies dir die Nutzungsbedingungen vollständig durch, bevor du diese Bedingungen akzeptierst.
+請詳細閱讀服務條款
 onboard_tos_title
-Nutzungsbedingungen von <i>Pokémon GO</i>
+Pokémon GO 服務條款
 onboard_are_you_sure_decline_tos
-Bist du sicher, dass du nicht akzeptieren möchtest?
+真的不同意嗎？
 onboard_terms_of_service
-Nutzungsbedingungen
+服務條款
 onboard_select_your_avatar
-Wähle deinen Look aus.
+請選擇你的造型
 onboard_done_customization
-Bist du fertig?
+都準備好了嗎？
 onboard_select_a_name
-Wie willst du von den anderen Trainern und mir genannt werden?
+我跟其他訓練家該怎麼稱呼你？
 onboard_name_too_short_error
-Etwas länger!
+可以再長一點嗎？
 onboard_name_invalid_characters_error
-Es sind nur Buchstaben und Zahlen erlaubt.
+只能使用英文字母和數字
 onboard_name_too_long_error
-Etwas kürzer!
+可以再短一點嗎？
 onboard_name_not_available
-Dieser Name steht nicht zur Verfügung.
+無法使用這個暱稱
 onboard_name_not_valid
-Dieser Name ist nicht gültig.
+這個暱稱無效
 onboard_name_owned
-Dieser Name wird bereits von einem anderen Trainer benutzt.
+這個暱稱已被其他訓練家使用
 onboard_name_cannot_change
-Serverfehler
+伺服器錯誤
 onboard_name_fail
-Ein Fehler ist aufgetreten. Versuche es mit einem anderen Namen.
+發生錯誤，請輸入其他暱稱
 onboard_enter_name_prompt
-Gib ein, wie dich die anderen Trainer nennen sollen.
+你希望別的訓練家怎麼稱呼你呢？
 onboard_enter_name_hint
-Spitzname
+暱稱
 onboard_name_are_you_sure
-Bist du sicher, dass du <b>{0}</b> genannt werden möchtest?
+確定要用 <b>{0}</b> 這個暱稱嗎？
 pokedex_all_types
-Alle Typen
+所有屬性
 pokedex_notencountered
-Noch nicht begegnet
+還沒遇見的寶可夢
 pokedex_page_all
-Alle
+所有
 pokedex_page_caught
-Gefangen:
+已捕捉：
 pokedex_page_seen
-Gesehen:
+已找到：
 pokedex_page_name_not_seen
-??????
+？？？？？
 pokedex_details_seen
-Gesehen:
+已找到：
 pokedex_details_caught
-Gefangen:
+已捕捉：
 pokedex_details_type
-Typ:
+屬性：
 pokedex_details_type_not_caught
----
+ーーー
 pokedex_details_weight
-Gewicht:
+體重：
 pokedex_details_weight_not_caught
-???
+？？？
 pokedex_details_height
-Größe:
+身高：
 pokedex_details_height_not_caught
-???
+？？？
 pokedex_details_category_not_caught
-???
+？？？？？寶可夢
 pokedex_details_evolution
-Entwicklung
+進化
 pokedex_sort_alphabet
-Name
+名稱
 pokedex_sort_date
-Funddatum
+時間
 pokedex_sort_hp
-KP
+HP
 pokedex_sort_level
-Wettkampfpunkte
+攻擊力
 pokedex_sort_number
-Nr.
+編號
 pokedex_sort_favorite
-Favorit
+我的最愛
 pokedex_registered_to_pokedex
-Im Pokédex registriert
+已登錄至寶可夢圖鑑
 pokemon_info_type
-Typ
+屬性
 pokemon_info_weight
-Gewicht
+體重
 pokemon_info_height
-Größe
+身高
 pokemon_info_cp
-WP
+CP
 pokemon_info_powerup_section
-Power-up
+強化
 pokemon_info_powerup_button
-Power-up
+強化
 pokemon_info_powerup_need_candies
-Du benötigst mehr {0}-Bonbons.
+{0} 的糖果不夠
 pokemon_info_powerup_need_stardusts
-Du benötigst mehr Sternenstaub.
+需要更多星星沙子
 pokemon_info_powerup_player_lv_too_low
-Trainer-Level zu niedrig, um Power-up zu verwenden.
+訓練家等級不足，無法強化
 pokemon_info_powerup_pokemon_deployed
-{0} ist einer Arena zugewiesen.
+{0} 已被指派至道館
 pokemon_info_powerup_confirmation
-Möchtest du bei {0} ein Power-up verwenden?
+要強化 {0} 嗎？
 pokemon_info_evolve_button
-Entwickeln
+進化
 pokemon_info_evolve_need_candies
-Du benötigst mehr {0}-Bonbons.
+{0} 的糖果不夠
 pokemon_info_evolve_pokemon_deployed
-{0} ist einer Arena zugewiesen.
+{0} 已被指派至道館
 pokemon_info_evolve_need_stardusts
-Du benötigst mehr Sternenstaub.
+需要更多星星沙子
 pokemon_info_transfer_favorite_error
-Ein als Favorit markiertes Pokémon kann nicht verschickt werden.
+不能傳送設為「我的最愛」的寶可夢！
 pokemon_info_pokemon_is_released
-{0} wurde freigelassen.
+{0} 再見！
 pokemon_info_candy_label
-{0}-Bonbon
+{0}的糖果
 pokemon_info_stardust_label
-Sternenstaub
+星星沙子
 pokemon_info_transfer_to_professor
-Verschicken
+傳送
 pokemon_info_heal
-Heilen
+治療
 pokemon_info_transfer_to_professor_confirmation
-<size=40><b>Möchtest du {0} wirklich an den Professor schicken?</b></size>\n\nNachdem du es an den Professor geschickt hast, kannst du es nicht zurückholen.
+<size=36><b>確定要將 {0} 傳送給博士？</b></size>\n\n傳送後將無法取消
 pokemon_info_transfer_to_professor_result
-Erfolgreich verschickt! {0}-Bonbon vom Professor erhalten!
+傳送成功！博士送來 {0} 顆糖果。
 pokemon_info_transfer_failed
-{0} konnte aufgrund eines unbekannten Fehlers nicht verschickt werden.
+發生不明錯誤，無法傳送 {0} 。
 pokemon_info_release_deployed
-Zugewiesen
+已被指派
 pokemon_type_normal
-Normal
+一般
 pokemon_type_fighting
-Kampf
+格鬥
 pokemon_type_flying
-Flug
+飛行
 pokemon_type_poison
-Gift
+毒
 pokemon_type_ground
-Boden
+地面
 pokemon_type_rock
-Gestein
+岩石
 pokemon_type_bug
-Käfer
+蟲
 pokemon_type_ghost
-Geist
+幽靈
 pokemon_type_steel
-Stahl
+鋼
 pokemon_type_fire
-Feuer
+火
 pokemon_type_water
-Wasser
+水
 pokemon_type_grass
-Pflanze
+草
 pokemon_type_electric
-Elektro
+電
 pokemon_type_psychic
-Psycho
+超能力
 pokemon_type_ice
-Eis
+冰
 pokemon_type_dragon
-Drache
+龍
 pokemon_type_dark
-Unlicht
+惡
 pokemon_type_fairy
-Fee
+妖精
 pokestop_item_inventory_full
-Dein Beutel ist voll.
+你的包包已經裝滿了
 pokestop_no_items_found
-Versuche es später noch mal.
+請稍後再試
 pokestop_pokestop_is_too_far
-Dieser PokéStop ist zu weit entfernt.
+這個寶可補給站太遠了
 profile_player_level
-Level
+等級
 profile_start_date
-Startdatum:
+開始日：
 profile_button_activity_log
-Tagebuch
+冒險筆記
 profile_button_customize
-Individualisieren
+換裝
 recycle_dialog_prefix
-{0}
+丟棄
 recycle_dialog_suffix
-wegwerfen?
+{0}？
 screen_title_item_bag
-Items
+道具
 screen_title_pokedex
-Pokédex
+寶可夢圖鑑
 screen_title_pokemon_inventory
-Pokémon
+寶可夢
 screen_title_pokemon_inventory_egg
-EIER
+蛋
 screen_title_settings
-Einstellungen
+設定
 screen_title_tips
-Tipps
+小秘訣
 team_name_team0
-Ohne Team
+未選擇隊伍
 team_name_team1
-Team Weisheit
+叡智隊
 team_name_team2
-Team Wagemut
+武勇隊
 team_name_team3
-Team Intuition
+靈犀隊
 pick_team_intro
-Willkommen bei den Arenakämpfen!
+歡迎來到道館！
 pick_team_desc
-Um diese Arena zu kontrollieren, musst du dich zusammen mit deinen Pokémon im Kampf gegen andere messen! Drei Teams kämpfen um die Kontrolle der Arenen. Du musst einem Team beitreten, um kämpfen zu können.
+訓練家們分做3支隊伍，以對戰方式爭奪各地的道館。選擇你要加入的隊伍，和成員們一起訓練寶可夢、參加道館對戰吧！
 pick_team1_desc
-Willkommen im Team Weisheit!
+歡迎加入叡智隊！
 pick_team2_desc
-Willkommen im Team Wagemut!
+歡迎加入武勇隊！
 pick_team3_desc
-Willkommen im Team Intuition!
+歡迎加入靈犀隊！
 pick_team_title
-Entscheide dich für ein Team.
+選擇你要加入的隊伍
 pick_team_confirmation
-Willkommen im Team {0}!
+歡迎加入 {0} 隊！
 pick_team_rejection
-Konnte wegen Fehler nicht ausgeführt werden.
+發生錯誤，無法加入
 pokemon_info_evolution_confirmation
-Möchtest du {0} entwickeln?
+你要讓 {0} 進化嗎？
 pokemon_info_evolution_failed
-{0} konnte sich aus unbekanntem Grund nicht entwickeln.
+發生不明錯誤，無法讓 {0} 進化
 settings_music
-Musik
+音樂
 settings_sound_effects
-Soundeffekte
+音效
 settings_vibration
-Vibrieren
+震動
 settings_battery_saver
-Batteriesparer
+省電設定
 settings_sfida
 Pokémon GO Plus
 settings_sfida_about_link
-Über Pokémon GO Plus
+關於 Pokémon GO Plus
 inventory_egg
-Ei
+蛋
 pokemon_info_evolution_crystals
-Entwicklungsscherben
+進化碎片
 pokemon_info_evolution_crystals_remaining
-Du brauchst noch {0}!
+還差 {0} 個！
 pokemon_evolution_tap_to_evolve
-Zum Entwickeln drauftippen!
+點擊牠來進化！
 about_screen_tos_btn
-Nutzungsbedingungen
+服務條款
 about_screen_licenses_btn
-Lizenzen
+授權
 about_screen_btn
-Über <i>Pokémon GO</i>
+關於 Pokémon GO
 about_screen_title
-Über <i>Pokémon GO</i>
+關於 Pokémon GO
 about_screen_copyright1
 ©2016-2017 Niantic, Inc.
 about_screen_copyright2
 ©2016-2017 Pokémon.
 about_screen_copyright3
-©1995–2017 Nintendo/Creatures Inc./GAME FREAK inc.
+©1995–2017 Nintendo / Creatures Inc. / GAME FREAK inc.
 settings_go_to_support
-Hilfe-Center
+常見問題
 settings_are_you_sure_support_prompt
-Willst du das Spiel verlassen und zur Support-Website gehen?
+確定要結束遊戲，前往常見問題的網頁嗎？
 levelup_items_unlocked
-Freigeschaltete Items
+開放新道具了
 levelup_sequence_text
-Level-Aufstieg!
+升級！
 pokenav_nearby
-In der Nähe
+附近的寶可夢
 pokenav_my_pokedex
-Mein Pokédex
+我的寶可夢圖鑑
 admin_name_was_banned
-Bitte wähle einen neuen Benutzernamen aus.
+此暱稱無法使用，請重新輸入
 encounter_pokemon_not_in_range
-Dieses Pokémon ist zu weit entfernt.
+這隻寶可夢太遠了
 super_effective
-Sehr effektiv!
+效果絕佳！
 not_very_effective
-Nicht sehr effektiv …
+效果不太好……
 attack_dodge
-Ausgewichen!
+閃躲成功！
 gym_deploy_confirmation
-Bist du sicher, dass du {0} der Arena zuweisen möchtest? Es kehrt erst dann wieder in deine Sammlung zurück, wenn es in der Arena kampfunfähig wird.
+確定要將 {0} 指派到道館嗎？在別人踢館成功之前，牠將無法回到你的同行隊伍
 shop_screen_title
-Shop
+商店
 shop_category_bundles
-Bundles
+套組
 shop_category_items
-Items
+道具
 shop_category_upgrades
-Upgrades
+升級
 shop_category_pokecoins
-PokéMünzen
+寶可幣
 shop_confirm_coins_title
-In-App-Kauf bestätigen
+確定購買
 shop_confirm_coins_details
-Willst du 1 {0} für {1:C} kaufen?
+你要用 {1:C} 買1個 {0} 嗎？
 shop_confirm_buy
-Kaufen
+購買
 shop_confirm_item_purchase
-Möchtest du {0} PokéMünzen für {1} einlösen?
+你要用 {0} 枚寶可幣交換 {1} 嗎？
 shop_exchange_for_prefix
-Einlösen
+以寶可幣交換
 shop_exchange_for_suffix
  
 shop_purchase_failure
-Kauf gescheitert. Bitte versuche es noch mal.
+無法購買。請再試一次。
 shop_need_more_coins
-Du brauchst mehr PokéMünzen!
+你需要更多寶可幣！
 shop_need_more_get_coins
-Hol dir {0}.
+取得 {0}
 shop_need_more_go_to_coins
-Zu PokéMünzen
+購買寶可幣
 screen_title_shop
-Shop
+商店
 shop_inventory_full
-Aufbewahrungslimit erreicht!
+你的包包已經滿了！
 shop_inventory_full_visit_shop
-Besuche den Shop, um deinen Beutel zu erweitern.
+去商店擴充包包的容量吧
 quickstart_title
-Schnellstart
+玩法
 quickstart_pokestopfar_0
-Dies ist ein PokéStop.
+這是寶可補給站。
 quickstart_pokestopfar_1
-Ein Ort in der echten Welt, an dem du Pokébälle und andere Items finden kannst.
+你可以在這裡找到精靈球和其他道具。
 quickstart_pokestopnear_0
-Der PokéStop ändert seine Form, wenn du nah genug dran bist. Tippe drauf, um ihn zu öffnen.
+當你靠近寶可補給站的時候，它的形狀會改變。試著點擊它吧。
 quickstart_pokestopspin_0
-Drehe die Scheibe, um Items zu erhalten. Zum Einsammeln drauftippen oder drüberstreichen.
+滑動畫面中央的轉盤，就會有道具出現喔。
 quickstart_gymmap_0
-Dies ist eine Arena.
+這是道館。
 quickstart_gymmap_1
-Teams kämpfen um die Kontrolle dieser Standorte.
+3支隊伍在這裡一決高下，爭奪道館的所有權。
 quickstart_gymbuttons_0
-Weise eines deiner Pokémon einer leeren Arena zu, um sie für dein Team in Besitz zu nehmen. Stärke eine freundliche Arena, indem du ihr eines deiner Pokémon zuweist, um bei der Verteidigung zu helfen.
+把1隻寶可夢指派至公開道館後，你的隊伍即可占領該道館。把你的寶可夢指派到相同顏色的我方道館，跟隊友一起防禦道館吧。
 quickstart_gymbuttons_1
-Trainiere das Pokémon in einer freundlichen Arena, um das Prestige und den Level der Arena zu erhöhen.
+在我方道館訓練寶可夢，便可提升道館的聲望值和等級。
 quickstart_gymbuttons_2
-Fordere eine gegnerische Arena heraus, um deren Prestige und Level zu senken.
+挑戰敵方道館，降低該道館的聲望值和等級。
 quickstart_battledodge_0
-Streiche im Kampf nach links oder rechts, um Attacken auszuweichen.
+對戰時，你可以左右滑動畫面來閃避攻擊。
 shop_inventory_full_go_to_upgrades
-Zu Upgrades
+前往升級選單
 encounter_too_many_pokemon
-Deine Pokémon-Box ist voll. Du kannst im Shop mehr Platz kaufen.
+你的寶可夢盒子已經滿了。請到商店擴充盒子容量。
 pokestop_too_many_items
-Dein Beutel ist voll. Du kannst im Shop mehr Platz für Items kaufen.
+你的包包已經滿了。請到商店擴充包包容量。
 iap_category_items
-Items
+道具
 iap_category_upgrades
-Upgrades
+升級
 iap_category_bundle
-Bundles
+套組
 iap_category_pokecoins
-PokéMünzen
+寶可幣
 iap_category_none
-Nicht kategorisiert
+其他
 shop_something_went_wrong
-Etwas ist schiefgegangen. Versuche es noch mal.
+發生錯誤。請再試一次。
 shop_daily_bonus_amount
-{0} PokéMünzen
+{0} 枚寶可幣
 age_gate_screen
-Gib dein Geburtdatum ein.
+請輸入你的出生年月日
 month_jan
-Jan.
+1
 month_feb
-Febr.
+2
 month_mar
-März
+3
 month_apr
-Apr.
+4
 month_may
-Mai
+5
 month_jun
-Juni
+6
 month_jul
-Juli
+7
 month_aug
-Aug.
+8
 month_sep
-Sept.
+9
 month_oct
-Okt.
+10
 month_nov
-Nov.
+11
 month_dec
-Dez.
+12
 submit_age_button
-Absenden
+確定
 registration_choice_screen
-Wähle ein Konto aus, mit dem du dich registrieren möchtest.
+請選擇你要註冊的帳號
 login_choice_screen
-Anmelden mit
+請選擇登入方式
 ptc_login_button
-Pokémon Trainer Club
+寶可夢訓練家俱樂部
 google_login_button
 Google
 ptc_login_title
-Pokémon Trainer Club
+寶可夢訓練家俱樂部
 ptc_forgot_username
-Benutzernamen vergessen?
+忘了你的用戶名稱？
 ptc_forgot_password
-Passwort vergessen?
+忘了你的密碼？
 privacy_policy_title
-<i>Pokémon GO</i>-Datenschutzrichtlinien
+Pokémon GO 隱私權政策
 privacy_policy_button
-Datenschutzrichtlinien
+隱私權政策
 login_username
-Benutzernamen eingeben
+輸入用戶名稱
 login_password
-Passwort eingeben
+輸入密碼
 facebook_login_button
 Facebook
 ptc_login_submit
-Anmelden
+登入
 ptc_need_to_register_button
-Registrieren
+註冊
 ptc_error_activation_required
-Aktiviere dein Konto, um <i>Pokémon GO</i> zu spielen.
+請先啟動你的帳號
 google_auth_failed
-Authentifizierung fehlgeschlagen. Versuche es noch mal.
+無法進行認證，請再試一次。
 ptc_auth_failed
-Authentifizierung fehlgeschlagen. Versuche es noch mal.
+無法進行認證，請再試一次。
 fb_auth_failed
-Authentifizierung fehlgeschlagen. Versuche es noch mal.
+無法進行認證，請再試一次。
 fb_auth_error_no_email
-Nutze ein Facebook-Konto, das mit einer E-Mail-Adresse verbunden ist.
+請使用已登錄電子郵件地址的Facebook帳號。
 authentication_revoked_error
-Verbindung zum Server konnte nicht hergestellt werden.
+無法連線至伺服器。
 shop_daily_bonus_header
-Ein besonderes Geschenk vom Professor!
+博士送來了特別的禮物！
 shop_daily_bonus_button
-Super, vielen Dank!
+太棒了，謝啦！
 shop_coming_soon
-Demnächst erhältlich!
+敬請期待
 shop_fully_upgraded
-Das Upgrade für {0} ist vollständig!
+你的 {0} 已經升到最高等級了！
 incubator_selector_header
-Brutmaschinen
+孵化器
 incubator_selector_uses_left
-Noch {0} ×
+可用 {0} 次
 incubator_choose_egg
-Wähle ein Ei zum Ausbrüten aus.
+請選擇要孵化的蛋
 egg_detail_put_in_incubator
-Benutze eine Brutmaschine, um dieses Ei auszubrüten.
+可用孵化器來孵蛋
 egg_detail_hatch_walk
-Gehe zu Fuß, um dieses Ei auszubrüten.
+帶著蛋走路，就可以讓它孵化喔
 egg_detail_start_incubation
-Ausbrüten beginnen
+開始孵蛋
 inventory_no_eggs
-Sammle mehr Eier!
+去收集蛋吧！
 incubator_selector_infinite_uses
 ∞
 pokestop_disk_empty_title
-Freier Modulsteckplatz
+空模組插槽
 pokestop_disk_empty_desc
-Hier kann ein PokéStop-Modul installiert werden.
+可插入寶可補給站模組
 pokestop_disk_inventory_title
-PokéStop-Module
+寶可補給站模組
 pokestop_out_of_disks
-Sammle mehr PokéStop-Module!
+去收集更多寶可補給站模組吧！
 pokestop_disk_activate_error_already_has_disk
-Du benötigst PokéStop-Module.
+你需要寶可補給站模組
 pokestop_disk_activate_error
-PokéStop-Modul konnte nicht installiert werden.
+無法插入模組
 pokestop_disk_error_out_of_range
-Zu weit vom PokéStop entfernt!
+這個寶可補給站太遠了
 pokemon_favorite_error
-Pokémon konnte nicht zu Favoriten hinzugefügt werden.
+無法將寶可夢設為我的最愛
 pokemon_unfavorite_error
-Pokémon konnte nicht aus Favoriten entfernt werden.
+無法移除我的最愛
 defender_bonus_header
-Du hast {0} Pokémon Arenen zugewiesen.
+訓練家已指派 {0} 隻寶可夢
 defender_bonus_title
-Verteidigerbonus
+防禦獎勵
 defender_bonus_timer
-Erhältlich in {0}
+請在 {0} 內領取
 defender_bonus_collect_now
-Jetzt erhältlich!
+領取獎勵！
 defender_bonus_nothing_deployed
-Du musst ein Pokémon einer Arena zuweisen, um einen Verteidigerbonus erhalten zu können.
+要將寶可夢指派到道館，才可領取防禦獎勵
 first_time_ar_mode_prompt_title
-Nutze deine Kamera, um Pokémon in der echten Welt zu finden! 
+透過鏡頭，在真實世界中尋找寶可夢吧！
 first_time_ar_mode_prompt_description
-Versuch's mal. Du kannst sie jederzeit wieder ausschalten.
+試試看吧。你隨時都可以用AR鍵關閉這個功能。
 first_time_ar_mode_prompt_ar_on_btn
-Ja, Kamera an!
+好，打開照相機！
 first_time_ar_mode_prompt_ar_off_btn
-Vielleicht später
+等會再說
 nickname_set_nickname
-Spitznamen eingeben
+設定暱稱
 battle_no_pokemon_left
-Keine Pokémon mehr
+沒有可以對戰的寶可夢
 battle_round_number
-{0}. Kampf
+BATTLE {0}
 battle_round_victory
-Gewonnen!
+WIN！
 battle_special_toast
-{0} hat {1} eingesetzt!
+{0} 使出了{1}！
 battle_surrender_confirmation
-Möchtest du wirklich aufgeben?
+確定要投降嗎？
 pgp_unpaired
-Pokémon GO Plus entkoppelt.
+Pokémon GO Plus 的配對已被解除
 pgp_connection_lost
-Verbindung verloren. Drücke den Knopf, um sie wiederherzustellen.
+連線已結束。請點擊按鈕，重新連線。
 pgp_click_to_connect
-Drücke den Knopf auf dem Pokémon GO Plus, um die Verbindung herzustellen.
+請按下Pokémon GO Plus的按鈕，建立連線
 pgp_connected
-Verbindung zu Pokémon GO Plus erfolgreich.
+已連線至Pokémon GO Plus
 pgp_log_dowser_start
-Suche nach {0} begonnen.
+開始搜尋 {0}
 pgp_log_dowser_lost
-Suche fehlgeschlagen; {0} verloren.
+{0} 的搜尋失敗了
 pgp_log_dowser_stop
-Suche nach {0} abgebrochen.
+停止搜尋 {0}
 pgp_log_received_items
-{0} Items von PokéStop{1} erhalten.
+在寶可補給站 {1} 得到 {0} 個道具
 pgp_log_pokemon_caught
-{0} wurde gefangen!
+捉到 {0} 了！
 pgp_log_pokemon_fled
-{0} ist geflüchtet.
+{0} 逃走了
 pgp_low_battery
-Die Batterie des Pokémon GO Plus ist schwach.
+Pokémon GO Plus 剩餘電量不足
 pgp_bluetooth_is_off
-Bluetooth ist deaktiviert. Aktiviere es in den Einstellungen deines Geräts.
+尚未開啟藍牙
 activity_log_title
-Tagebuch
+冒險筆記
 activity_log_clear
-Aktivitätslog löschen
+清除紀錄
 activity_log_clear_confirmation
-Möchtest du das Aktivitätslog löschen? Dieser Vorgang kann nicht abgebrochen werden.
+確定要清除紀錄嗎？清除紀錄後將無法回復
 activity_log_show_more
-Mehr
+顯示更多
 activity_log_remove
-Entfernen
+刪除
 activity_log_remove_confirmation
-Möchtest du diesen Eintrag entfernen?
+確定要刪除嗎？
 pgp_weak_signal
-Das Signal ist schwach. Tritt näher an das Gerät.
+訊號微弱。請將Pokémon GO Plus移至行動裝置附近
 pgp_install_pgp_app
-Installiere die Pokémon GO Plus App.
+安裝Pokémon GO Plus應用程式
 pgp_error_auth
-Gerät konnte nicht authentifiziert werden.
+無法認證行動裝置
 pgp_error_cannot_connect
-Verbindung zum Gerät fehlgeschlagen.
+無法連線至行動裝置
 pgp_disconnected
-Verbindung zu Pokémon GO Plus getrennt.
+已結束與Pokémon GO Plus的連線
 pgp_caught_pokemon
-Du hast ein Pokémon gefangen.
+捉到寶可夢了！
 pgp_retrieved_no_items
-Du hast keine Items vom PokéStop erhalten.
+未能從寶可補給站得到任何道具
 server_lockout
-Serverfehler. Bitte später erneut versuchen.
+感謝各位玩家的熱烈支持\n\n我們會盡快解決伺服器的問題，請稍後再試一次！
 field_test_lockout
-Vielen Dank für deine Teilnahme am Testlauf von Pokémon GO!\nBis bald!
+感謝你來參加Pokémon GO的測試！\n我們很快就會再見面的！
 ar_encounter_no_gyro_err
-Wir können die Orientierung deines Handys nicht ermitteln. Möchtest du den AR-Modus ausschalten?
+我們無法偵測到行動裝置的定向。要關閉AR模式嗎？
 ar_encounter
 AR
 first_time_walk_title
-Zeit für einen Spaziergang!
+該去走路了！
 first_time_walk_description
-Bewege dich in der echten Welt, um deinen Avatar zu bewegen.
+當你在現實世界移動時，畫面中的訓練家也會一起移動
 first_time_walk_button
-Nichts wie raus und GO!
+Let's GO!
 pokemon_nickname_error
-Gib einen anderen Spitznamen ein.
+請輸入別的暱稱
 general_hp
-KP
+HP
 general_cp
-WP
+CP
 general_xp
-EP
+XP
 settings_email_marketing
-Infos zu Veranstaltungen, Aktionen und Updates an meine E-Mail-Adresse schicken
+接收Pokémon GO的活動、優惠、促銷內容等最新訊息。
 help_center_link
-https://support.pokemongo.nianticlabs.com/hc/de
+https://support.pokemongo.nianticlabs.com/hc/en-us
 settings_report_issues
-Vordringlichen Fehler melden
+回報重要問題
 report_issues_link
-https://pokemongo.nianticlabs.com/support/contact/de
+https://pokemongo.nianticlabs.com/support/contact/en
 settings_are_you_sure_report_prompt
-Möchtest du das Spiel verlassen, um einen Fehler zu melden?
+確定要離開遊戲去回報問題嗎？
 authentication_retry_prompt
-Anmeldung fehlgeschlagen.
+無法登入
 authentication_failed_try_again
-Erneut versuchen
+再試一次
 authentication_failed_sign_out
-Über ein anderes Konto versuchen.
+以其他帳號登入
 general_attack
-Angriffs-Wert
+攻擊
 general_defense
-Verteidigungs-Wert
+防禦
 general_stamina
-KP-Wert
+HP
 safety_warning_yes
-Ich bin Mitfahrer
+我不是駕駛
 codename_warning_message
-<size=36><b>Willst du deinen Spitznamen ändern?</b></size>\n\nDu kannst deinen Spitznamen nur ein Mal ändern. Andere Trainer können ihn sehen, wähle ihn mit Sorgfalt!
+<size=36><b>確定要更改暱稱嗎？</b></size>\n\n暱稱只能變更一次。其他的訓練家也會看到你的暱稱，請好好考慮後再做決定。
 codename_already_yours
-Du heißt bereits so!
+這是你現在的暱稱！
 codename_are_you_sure
-<size=36><b>Bist du sicher, dass du {0} genannt werden möchtest?</b></size>\n\nDu kannst deinen Spitznamen nur ein Mal ändern.
+<size=36><b>確定要更改成 {0} 嗎？</b></size>\n\n暱稱只能變更一次。
 codename_reassign_success
-Jetzt heißt du {0}.
+你的暱稱已變更為 {0}
 speed_modal_too_fast
-Du bewegst dich zu schnell!
+你移動的速度太快了！
 speed_modal_slow_down
-<i>Pokémon GO</i> nicht beim Fahren spielen!
+請不要在開車時玩Pokémon GO
 settings_change_nickname
-Spitznamen ändern
+更改暱稱
 pokemon_info_appraise
-BEWERTUNG
+調查寶可夢
 gym_sponsored
-GESPONSERT
+SPONSORED
 pgp_log_pokemon_hatched
-{0} ist geschlüpft!
+孵出 {0} 了！
 nearby_pokemon_poi_title
-In der Nähe
+附近的寶可夢
 nearby_pokemon_grass_title
-Gesichtet
+目擊紀錄
 nearby_pokemon_find_grass_info
-Suche diese wilden Pokémon!
+也許牠就在附近！
 nearby_pokemon_missing_poi
-Keine Pokémon in der Nähe. Laufe ein bisschen herum!
+附近沒有寶可夢。去別的地方看看吧！
 nearby_pokemon_missing_grass
-Noch keine Pokémon gesichtet.
+尚未有目擊紀錄
 nearby_pokemon_tracking_lost_title
-Das Pokémon ist geflohen!
+寶可夢逃走了！
 nearby_pokemon_tracking_lost
-Versuche es mit einem anderen Pokémon auf der Liste „In der Nähe“.
+去尋找附近的寶可夢吧
 nearby_pokemon_view_button
-Anzeigen
+尋找
 nearby_pokemon_clear_button
-Entfernen
+取消
 settings_sfida_icon_toggle
-Pokémon GO Plus-Symbol anzeigen
+顯示Pokémon GO Plus的圖示
 settings_sfida_bluetooth_disabled
-Bluetooth ist deaktiviert. Aktiviere es in den Einstellungen deines Geräts.
+尚未開啟藍牙功能。請在行動裝置的設定中開啟藍牙功能。
 settings_sfida_device_name
 Pokémon GO Plus
 settings_sfida_about_url
 https://support.pokemon.com/hc/articles/360000954814
 settings_sfida_devices
-Verfügbare Geräte
+可用的裝置
 settings_sfida_howto_pair
-Fehlerbehebung
+配對出現問題時
 settings_sfida_howto_pair_url
 https://support.pokemon.com/hc/articles/360000955374
 pgp_bluetooth_unauthorized
-Fehlende Bluetooth-Berechtigungen. Aktiviere Bluetooth in den Einstellungen deines Geräts.
+尚未允許開啟藍牙功能。請在行動裝置的設定中開啟藍牙功能。
 pgp_bluetooth_enabling
-Bluetooth wird aktiviert ...
+正在開啟藍牙功能…
 pgp_bluetooth_not_supported
-Dieses Gerät unterstützt Bluetooth Smart nicht.
+此行動裝置不支援Bluetooth Smart
 pgp_pokestop_in_range
-PokéStop in deiner Nähe!
+發現寶可補給站了！
 pgp_pokemon_in_range
-Pokémon in deiner Nähe!
+找到寶可夢了！
 pgp_start_session
-Verbindung zu Pokémon GO Plus wird hergestellt ...
+正在連線至Pokémon GO Plus…
 pgp_stop_session
-Verbindung zu Pokémon GO Plus wird getrennt ...
+正在結束與Pokémon GO Plus的連線…
 pgp_scaning
-Pokémon GO Plus gefunden... \nDrücke den Knopf auf dem Pokémon GO Plus.
+正在搜尋Pokémon GO Plus…\n請按下Pokémon GO Plus的按鈕
 pgp_registering
-Pokémon GO Plus wird registriert ...
+正在登錄Pokémon GO Plus…
 buddy_set
-Kumpel
+夥伴
 pokemon_info_transfer_pokemon_buddy
-Du kannst deinen Kumpel nicht verschicken!
+不能傳送設為夥伴的寶可夢！
 buddy_walked_found_candy
-{0} hat ein Bonbon gefunden!
+{0} 找到1顆糖果！
 buddy_walk
-Geh mit deinem Kumpel spazieren!
+和你的夥伴一起走路吧！
 buddy_title
-MEIN KUMPEL
+我的夥伴
 buddy_chosen
-<b>{0}</b> ist jetzt dein Kumpel!
+<b>{0}</b>！就決定是你了！
 pgp_error_failed_to_register
-Fehler beim Registrieren des Geräts
+無法登錄
 pgp_error_device_not_found
-Gerät nicht gefunden
+未能搜尋到裝置
 buddy_swap1
-Bist du sicher, dass du deinen Kumpel wechseln möchtest?
+確定要更換夥伴嗎？
 buddy_swap2
-Alle bisherigen Fortschritte geht verloren.
+之前累積的步行距離將會歸零
 general_and
 & {0}
 buddy_total_walked
-Insgesamt {0:0.#} km gelaufen!
+總共走了 {0:0.#} 公里！
 banned_player_lockout_1
-Dein Konto wurde gesperrt, weil du die Nutzungsbedingungen verletzt hast.\n\nWeitere Informationen dazu findest du im Hilfe-Center.
+你的帳號已因違反服務條款而被停權。\n\n關於帳號停權處分，請參閱常見問題。
 banned_player_lockout_2
-Weitere Informationen findest du im Hilfe-Center.
+詳細資訊
 pokemon_info_address_format
-{0}, {1}, {2}
+{2}, {1} {0}
 settings_sfida_store
-Kaufe ein Pokémon GO Plus
+購買Pokémon GO Plus
 settings_sfida_store_url
 https://www.nintendo.co.jp/pokemongoplus/
 unauthorized_device_lockout_1
-Dieses Gerät, Betriebssystem oder diese Software ist nicht mit <i>Pokémon GO</i> kompatibel.
+你的裝置、作業系統或軟體與Pokémon GO不相容
 unauthorized_device_lockout
-Dieses Gerät, Betriebssystem oder diese Software ist nicht mit <i>Pokémon GO</i> kompatibel.
+你的裝置、作業系統或軟體與Pokémon GO不相容
 unauthorized_device_help_center_link
-https://pokemongo.nianticlabs.com/support/unauthorized-device/de
+https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 banned_player_help_center_link
-https://pokemongo.nianticlabs.com/support/banned/de
+https://pokemongo.nianticlabs.com/support/banned/en
 pgp_tip_title
 Pokémon GO Plus
 pgp_tips_1_text_1
-Wenn ein Pokémon in der Nähe ist, vibriert das Gerät und blinkt:
+當寶可夢出現在附近時，裝置將會震動並閃爍
 pgp_tips_1_text_2
-GRÜN für Pokémon, die du gefangen hast
+如果是以前有捉過的寶可夢，將會亮起綠燈
 pgp_tips_1_text_3
-GELB für Pokémon, die du noch nicht gefangen hast
+如果是沒有捉過的寶可夢，將會亮起黃燈
 pgp_tips_1_text_4
-Drücke auf den Knopf, um es zu fangen!
+按下按鈕，捕捉寶可夢！
 pgp_tips_next
-Weiter
+Next
 pgp_tips_2_text_1
-Nachdem du den Knopf gedrückt hast, leuchtet er entweder:
+按下按鈕之後
 pgp_tips_2_text_2
-MEHRFARBIG, wenn du das Pokémon erfolgreich gefangen hast
+成功捕捉時，將會亮起七彩的光芒
 pgp_tips_2_text_3
-ROT, wenn das Pokémon geflüchtet ist
+如果寶可夢逃走了，將會亮起紅燈
 pgp_tips_3_text_1
-Wenn du in Reichweite eines PokéStops kommst, vibriert das Gerät und das Licht blinkt BLAU.
+當你靠近寶可補給站時，Pokémon GO Plus將會震動，並亮起藍燈
 pgp_tips_3_text_2
-Drücke auf den Knopf, um den PokéStop nach Items zu durchsuchen. Das Licht blinkt mehrfarbig, wenn du etwas findest, und rot, wenn du dich nicht in Reichweite befindest.
+按下按鈕後，若亮起七彩燈光，便代表已收到道具；若亮起紅燈，則代表寶可補給站太遠，無法接收道具。
 pgp_tips_got_it
-Alles klar!
+OK
 player_cheating_warning
-Wir haben Aktivitäten unter deinem Konto festgestellt, die andeuten, dass du oder eine andere Person, die auf dein Konto zugreift, modifizierte Client-Software oder nicht autorisierte Software einer Drittpartei nutzt, die auf Pokémon GO in einer Weise zugreift, welche gegen unsere Nutzungsbedingungen verstößt. Bitte beachte, dass die Nutzung einer solchen Software zum Verlust deines Kontos führen kann. Solltest du eine solche Software genutzt haben, raten wir dir, die Nutzung dieser einzustellen. Wenn du auf bestimmte, nicht autorisierte Apps oder Websites von Dritten zugegriffen hast, ist es auch möglich, dass dein Konto kompromittiert wurde. Wir empfehlen eine sofortige Änderung deines Passworts.
+我們偵測到你或是正在使用你帳號的人正以改造過的用戶端軟體，或是未許可的第三方軟體連線至Pokémon GO。請注意，這樣的行為違反我們的服務條款，並可能會導致你失去帳號。如果你正在使用這樣的軟體，我們強烈建議你停止使用。如果你曾經使用未經許可的第三方應用程式，或是前往特定網站，你的帳號有可能已被盜用。我們建議你立刻更換密碼。
 training_round_number
-{0}. Match
+Match {0}
 badge_capture_bonus_reward
-Fangbonus: +{0} für Typ {1}
+{1} 屬性的捕捉獎勵 ＋ {0}
 settings_sfida_notifications
-Benachrichtigungen
+通知
 settings_sfida_pokemon
-Pokémon in der Nähe
+附近的寶可夢
 settings_sfida_pokestops
-PokéStop in der Nähe
+附近的寶可補給站
 badge_detail_reward_header
-Belohnungen
+Rewards
 profile_category_medals
-Medaillen
+獎牌
 quest_first_catch_of_the_day
-Erster Fang des Tages
+今天捉到的第1隻
 quest_streak_format
-SERIE: {0} TAG(E)!
+連續第 {0} 天！
 quest_daily_bonus_title
-Tagesbonus
+每日獎勵
 encounter_score_catch_streak
-Serienbonus
+連續獎勵
 quest_first_pokestop_of_the_day
-Erster PokéStop des Tages
+今天拜訪的第1個寶可補給站
 encounter_caught_metamon
-Oh?
+哦？
 app_exit_confirmation_message
-Willst du <i>Pokémon GO</i> beenden?
+要結束Pokémon GO嗎？
 gym_deploy_lockout
-Kampfgewinner haben Vorrang.
+對戰贏家擁有優先權
 gym_battle_lockout
-Versuche es später noch mal.
+請稍後再試一次
 batch_transfer_confirm
-<size=36><b>Möchtest du wirklich {0} Pokémon an den Professor schicken?</b></size>\n\nNachdem du sie an den Professor geschickt hast, kannst du sie nicht zurückholen.
+<size=36><b>確定要將這 {0} 隻寶可夢傳送給博士嗎？</b></size>\n\n傳送開始後將無法取消。
 batch_transfer_header
-Pokémon wählen
+選擇寶可夢
 batch_transfer_result
-Bonbons vom Professor erhalten!
+收到博士送來的糖果
 shop_category_holiday_special
-Festtagsangebote
+假日特惠
 shop_limited_time
-Nur für kurze Zeit!
+限時搶購！
 shop_sale
-Angebot
+Sale
 shop_contents
-Inhalt:
+內含：
 bundle.xmas.small.1_title
-Spezialbox
+特別禮盒
 bundle.xmas.medium.1_title
-Superbox
+超級禮盒
 bundle.xmas.large.1_title
-Hyperbox
+高級禮盒
 bundle.newyears.small.1_title
-Bronzebox
+銅禮盒
 bundle.newyears.medium.1_title
-Silberbox
+銀禮盒
 bundle.newyears.large.1_title
-Jubiläumsbox
+週年慶禮盒
 privacy_policy_update_notice
-Bitte lies die aktualisierten Pokémon GO-Datenschutzrichtlinien bezüglich der Erfassung von personenbezogenen Daten in Verbindung mit Social Gameplay.
+請閱讀更新後的Pokémon GO隱私權政策，確認用戶使用朋友功能時遊戲系統將如何處理個人資料。
 privacy_policy_url
-https://www.nianticlabs.com/privacy/pokemongo/de
+https://www.nianticlabs.com/privacy/pokemongo/en
 screen_title_news
-Neuigkeiten
+快訊
 evolution_item_use
-Gib deinem Pokémon das Item!
+對寶可夢用用看這個道具吧！
 shop_quick_coins_get_them_here
-Hol sie dir hier oder besuche den Shop.
+你可以在這裡或到商店購買寶可幣
 avatar_equip_item
-Speichern
+確定
 avatar_hair
-Haare
+頭髮
 avatar_eyes
-Augen
+眼睛
 avatar_skin
-Haut
+膚色
 badge_pokedex_entries_gen2_value_format
 N0
 badge_pokedex_entries_gen2
-Registriere {0} Pokémon im Pokédex, die zuerst in der Johto-Region entdeckt wurden.
+在寶可夢圖鑑裡登錄 {0} 隻城都地區的寶可夢！
 badge_pokedex_entries_gen2_title
-Johto
+城都
 badge_unown_title
-Icognito
+未知圖騰
 badge_unown_value_format
 N0
 badge_unown
-Fange {0} Icognito.
+捉到 {0} 隻未知圖騰
 avatar_award_new_style
-Neue Looks!
+追加了新的服飾！
 avatar_award_show_me
-Zeigen
+前往商店
 general_more
-Mehr
+More
 shop_quick_coins_title
-Du hast keine PokéMünzen mehr!
+寶可幣不夠！
 avatar_lock_level
-Wird bei Level {0} freigeschaltet.
+將在等級 {0} 開放
 avatar_lock_badge
-Wird mit {1}-{0}medaille freigeschaltet.
+將在 {1} 獎牌的第 {0} 階段開放
 encounter_item_berries
-Beeren
+樹果
 encounter_item_pokeballs
-Pokébälle
+精靈球
 avatar_wearing_item
-Aktueller Look
+目前的造型
 shop_exchange
-Einlösen
+交換
 onboard_change_anytime
-Du kannst dies jederzeit ändern.
+隨時都可以變更
 avatar_edit_appearance_title
-Aussehen
+造型
 pokemon_shiny_info_transfer_to_professor_confirmation
-Möchtest du dieses Schillernde Pokémon wirklich an den Professor schicken?
+確定要傳送這隻異色寶可夢嗎？
 pokemon_info_multi_transfer_shiny_pokemon_error
-Du kannst keine Schillernden Pokémon wählen.
+不能選擇異色寶可夢
 shop_quick_balls_title
-Du hast keine Pokébälle mehr!
+沒有精靈球了！
 shop_quick_balls_get_them_here
-Hol sie dir hier oder gehe zu einem PokéStop.
+請用寶可金幣交換，或到寶可補給站收集。
 encounter_out_of_berries
-Du hast keine Beeren mehr!
+沒有樹果了
 avatar_hats
-Mützen
+帽子
 avatar_glasses
-Brillen
+眼鏡
 avatar_necklaces
-Halsketten
+項鍊
 avatar_tops
-Oberteile
+上衣
 avatar_bags
-Rucksäcke
+包包
 avatar_gloves
-Handschuhe
+手套
 avatar_belts
-Gürtel
+皮帶
 avatar_bottoms
-Unterteile
+下身
 avatar_outfits
-Outfits
+服裝
 avatar_socks
-Socken
+襪子
 avatar_shoes
-Schuhe
+鞋子
 avatar_style_unlocked
-Neuer Artikel hinzugefügt!
+有新服飾囉！
 pokemon_info_evolve_need_key_item
-Du brauchst ein besonderes Item.
+需要特殊道具
 pokedex_sort_family
-Entwicklung
+進化
 pokestop_unavailable
-Dieser PokéStop ist derzeit geschlossen.
+目前無法使用此寶可補給站
 gym_poi_unavailable
-Diese Arena ist derzeit geschlossen.
+目前無法使用此道館
 promo_enter_code_prompt
-Gib deinen Promo-Code ein.
+請輸入促銷代碼
 promo_enter_code_success_response
-Code angenommen!
+成功！
 promo_enter_code_title
-PROMOS
+促銷活動
 promo_enter_code_failure_response
-Dieser Code ist nicht gültig.
+此代碼無效
 promo_enter_code_already_redeemed_response
-Dieser Code wurde bereits eingelöst.
+已兌換過此代碼
 promo_redeem_button
-EINLÖSEN
+兌換
 profile_total_xp
-Gesamt-EP
+總XP
 profile_category_stats
-Statistik
+狀態
 shop_coin_iap_unavailable
-Du brauchst mehr PokéMünzen!
+你需要更多寶可幣！
 pokestop_disk_error_closed_soon
-Dieser PokéStop schließt bald. Es können keine Module hinzugefügt werden.
+寶可補給站即將關閉。無法使用誘餌模組。
 pokestop_unavailable_soon
-Dieser PokéStop schließt bald.
+此寶可補給站即將關閉
 item_move_reroll_no_other_moves
-{0} kann keine anderen Attacken lernen.
+{0} 無法學會其他招式！
 gyms_disabled_update
-Arenen sind noch im Bau.
+道館施工中
 gym_feed_too_frequent
-Das Pokémon möchte keine Beeren mehr. Versuche es später noch mal.
+寶可夢不想再吃樹果了。稍後再試一次吧。
 get_directions_action
-Wegbeschreibung >
+規劃路徑
 congratulations_exclusive_raid_ticket
-Glückwunsch, {0}!
+{0}，恭喜你！
 raids_invite_only_event
-Hinweis: Für diesen Event ist eine Einladung erforderlich.
+*僅限受邀的訓練家參加
 raid_exclusive_description
-Dies ist eine Belohnung für einen früheren Sieg bei {0}!\nBesuche die Arena zur angegebenen Zeit, um am EX-Raid-Kampf teilzunehmen!
+這是紀念你在 {0} 的團體戰中獲勝的獎品！\n請在上述時間前往道館，參加VIP團體戰！
 raid_exclusive_general_info
-Du bist zu einem EX-Raid eingeladen.\nHier ist dein EX-Raid-Pass.
+收到VIP團體戰的邀請了。\n這是你的入場券。
 raid_exclusive_invitation
-Einladung
+邀請函
 pokemon_info_goto_gym_button
-ZUR ARENA
+前往道館
 pokemon_info_panel_defended_gym_raid_active_message
-Raid im Gange! Dein Pokémon wird in die Arena zurückkehren, sobald der Raid vorbei ist.
+團體戰開打中！你的寶可夢會在團體戰結束後回到同行隊伍。
 gym_remote_view_info_desc
-Beeren sind aus der Entfernung weniger effektiv. Gehe näher an die Arena ran, um die Wirksamkeit zu steigern!
+遠距餵食樹果的效果沒有那麼好。請盡量在道館附近餵寶可夢吃樹果！
 screen_title_exclusive_tickets
-EX-Raid-Pässe
+VIP團體戰入場券
 pokemon_info_remote_gym_closed
-Diese entfernte Arena ist derzeit geschlossen.
+道館目前並未開放。
 pokemon_info_multi_transfer_legendary_pokemon_error
-Du kannst keine Legendären Pokémon wählen.
+不能選擇傳說的寶可夢。
 pokemon_legendary_info_transfer_to_professor_confirmation
-Möchtest du dieses Legendäre Pokémon wirklich an den Professor schicken?
+你真的要傳送這隻傳說的寶可夢嗎？
 webcam_setup_problem
-Zugriff auf die Kamera deines Geräts ist fehlgeschlagen. Überprüfe die Kamera-Berechtigungen.
+無法啟動照相機
 qr_decode_problem
-QR Code Erkennung fehlgeschlagen. Versuche, ihn manuell einzugeben.
+無法辨識二維條碼。請嘗試以手動輸入。
 event_registration_success
-Du hast dich erfolgreich für {0} registriert!
+成功登入 {0} 了！
 qr_code_title
-QR Code scannen
+掃描二維條碼
 pokestop_button_manual_input_2
-Zur manuellen Eingabe wechseln
+切換至手動輸入
 badge_chicago_fest_july_2017_title
-<i>Pokémon GO</i>-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2017
-Chicago, 22. Juli 2017
+2017/7/22 @ 芝加哥
 chicago_fest_july_2017_title
-<i>Pokémon GO</i>-Fest
+Pokémon GO Fest
 title_raid_has_ended
-Der Raid ist vorbei.
+這場團體戰已經結束了
 journal_received_raid_ticket
-Du bist zu einem EX-Raid bei {0} eingeladen.
+收到 {0} 的VIP團體戰邀請函了
 players_in_lobby_count
-{0} Spieler in der Lobby
+訓練家數：{0}
 pikachu_outbreak_yokohama_title
 Pokémon GO STADIUM
 badge_pikachu_outbreak_yokohama_2017
-Yokohama, August 2017
+2017/8 @ 横浜
 passcode_rpc_error
-Der Code konnte nicht eingelöst werden.
+兌換代碼時發生錯誤
 passcode_rpc_timeout
-Timeout bei der Anforderung zur Einlösung des Codes. Prüfe die Netzwerkeinstellungen und versuche es noch mal.
+未能在時間內兌換代碼，請確認網路狀態並再試一次。
 badge_pikachu_outbreak_yokohama_2017_title
-Pikachu-Schwarm 2017
+皮卡丘大量發生中2017
 badge_legendary_battle_won_value_format
 N0
 badge_legendary_battle_won_title
-Kampflegende
+對戰傳奇
 badge_legendary_battle_won
-Gewinne {0} Legendäre Raids.
+在 {0} 場傳說團體戰中獲勝
 item_legendary_raid_ticket_name
-EX-Raid-Pass
+VIP團體戰入場券
 item_legendary_raid_ticket_desc
-EX-Raid-Pass für die Teilnahme an einem besonderen Raid-Kampf. Du kannst diesen Pass nur bei dem angegebenen, zeitlich begrenzten Event verwenden.
+用來參加特別團體戰的VIP團體戰入場券。只限在特定時間舉辦的活動中使用。
 incubatorsuper.1_title
-Super-Brutmaschine
+超級孵化器
 incubatorsuper.1_description
-Eine stärkere Ei-Brutmaschine, die ein Ei schneller ausbrütet. Nach 3 Einsätzen geht sie kaputt.
+一種更強大的孵化器，可以讓蛋更快孵化。使用3次後就會壞掉。
 item_incubator_super_name
-Super-Brutmaschine
+超級孵化器
 item_incubator_super_desc
-Eine stärkere Ei-Brutmaschine, die ein Ei schneller ausbrütet. Nach 3 Einsätzen geht sie kaputt.
+一種更強大的孵化器，可以讓蛋更快孵化。使用3次後就會壞掉。
 raid_log_received_items
-{0} Items beim Raid erhalten.
+在團體戰中得到 {0} 個道具！
 exclusive_raid_log_received_items
-{0} Items beim EX-Raid erhalten.
+在VIP團體戰中得到 {0} 個道具！
 pgp_log_received_items_gym
-{0} Items vom Arena-PokéStop erhalten.
+在道館的寶可補給站中得到 {0} 個道具！
 pokemon_info_multi_transfer_costume_pokemon_error
-Du kannst keine Event-Pokémon wählen.
+無法選擇特殊的寶可夢！
 pokemon_costume_info_transfer_to_professor_confirmation
-Möchtest du dieses Event-Pokémon wirklich an den Professor schicken?
+確定要傳送\n這隻特殊的寶可夢嗎？
 badge_safari_zone_europe_2017_title
-GO-Safari-Zone: Europa 2017
+GO Safari Zone - Europe 2017
 badge_safari_zone_europe_2017
-Europa, 16. September 2017
+2017年9月16日 歐洲
 safari_event
-Pokémon-GO-Safari-Zone
+GO Safari Zone - Europe 2017
 raid_error_never_joined_battle
-Der Raid, an dem du teilgenommen hattest, ist bereits vorbei. Wähle einen anderen aus.
+你嘗試參加的團體戰已經結束了。請參加其他團體戰。
 settings_sfida_howto_pair_prompt
-Verbindung zu Pokémon GO Plus kann nicht hergestellt werden.\nMöchtest du dir Tipps zur Fehlerbehebung ansehen? 
+無法連線至Pokémon GO Plus。\n要開啟常見問題的網頁嗎？
 badge_safari_zone_europe_2017_10_07_title
-GO-Safari-Zone: Europa 2017
+GO Safari Zone - 2017年歐洲
 badge_safari_zone_europe_2017_10_07
-Europa, 7. Oktober 2017
+2017年10月7日 歐洲
 badge_safari_zone_europe_2017_10_14_title
-GO-Safari-Zone: Europa 2017
+GO Safari Zone - 2017年歐洲
 badge_safari_zone_europe_2017_10_14
-Europa, 14. Oktober 2017
+2017年10月14日 歐洲
 exclusive_raid_log_cancelled
-Der EX-Raid, der für den {0} um {1} Uhr in Arena {2} angesetzt war, ist abgesagt.
+原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
 passcode_log_received_items
-{0} Items durch Code {1} erhalten.
+以代碼 {1} 獲得了 {0} 個道具
 passcode_log_received_badge
-Orden durch Code {0} erhalten.
+以代碼 {0} 獲得了獎牌
 cancelled_ex_raid_message
-Der EX-Raid, der für den {0} um {1} Uhr in Arena {2} angesetzt war, ist abgesagt.
+原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
 cancelled_ex_raid_items_prompt
-Hier sind ein paar Items für dich. Trainiere weiter!
+請收下這些道具，繼續訓練寶可夢們吧！
 cancelled_ex_raid_ticket_title
-ABGESAGTE EX-RAID-PÄSSE
+已取消的VIP團體戰入場券
 blacklisted_app_found_lockout
-Wir haben auf diesem Gerät ein Programm entdeckt, das gegen die Nutzungsbedingungen von Pokémon GO verstößt. Entferne es, um fortfahren zu können.
+我們偵測到此裝置上安裝了違反Pokémon GO服務條款的應用程式。請移除該應用程式後再開始遊戲。
 badge_pokedex_entries_gen3_value_format
 N0
 badge_pokedex_entries_gen3
-Registriere {0} Pokémon im Pokédex, die zuerst in der Hoenn-Region entdeckt wurden.
+在寶可夢圖鑑裡登錄 {0} 隻豐緣地區的寶可夢！
 badge_pokedex_entries_gen3_title
-Hoenn
+豐緣
 deploy_battle_party_member_prompt
-Achtung: {0} gehört einem Kampfteam an. Wenn du es einer Arena zuweist, wird es aus dem Kampfteam entfernt.
+警告： {0} 是對戰小組的成員。如果你把牠指派到道館，牠將會從對戰小組中被移除。
 party_creation_error_max_hit
-Du hast keinen freien Platz in deinem Kampfteam.
+對戰小組已無空間
 delete_battle_party_prompt
-Möchtest du das {0}-Kampfteam löschen?
+要刪除 {0} 這個對戰小組嗎？
 ar_plus_prompt_title
-Fange Pokémon wie nie zuvor mit der brandneuen AR+!
+用全新AR+來捉寶可夢，享受前所未有的樂趣！
 ar_plus_prompt_description
-Du kannst dies jederzeit in den Einstellungen ändern.
+你隨時都可以在設定選單更改設定。
 ar_plus_show_me
-Zeig es mir!
+用用看
 ar_plus_no_thanks
-Vielleicht später
+不用了，謝謝
 ar_plus_safety_prompt
-Vergewissere dich, dass du dich an einem sicheren Ort befindest, bevor du AR+ verwendest.
+使用AR+前請先確認四周安全。
 ar_plus_change_anytime_from_settings
-Du kannst AR+ jederzeit in den Einstellungen aktivieren/deaktivieren.
+你可以在設定選單開啟或關閉AR+。
 ar_plus_got_it
-Alles klar!
+OK
 ar_plus_look_around_toast
-Sieh dich mit der Kamera auf einem \noffenen, ebenen Gelände um.
+在平坦開放的地方\n慢慢改變照相機的角度
 ar_plus_safety_toast
-Verwende AR+ nur an \neinem sicheren Ort!
+請務必確保\n在安全的地方使用AR+。
 ar_plus_tap_bush_toast
-Tippe, um das Pokémon zu finden.
+點擊草叢來尋找寶可夢吧！
 settings_ar_plus
 AR+
 encounter_score_ar_plus_bonus
-Experte
+專家
 ar_plus_tutorial_0
-Bewege dein Gerät langsam vor einem flachen, offenen Bereich, bis es eine Oberfläche erkennt.
+請在確認四周安全後，在平坦開放的地方移動裝置，讓照相機辨識出平坦的表面。
 ar_plus_tutorial_1
-Tippe auf das hohe Gras, um das Pokémon zu finden.
+點擊螢幕上的草叢來尋找寶可夢。
 ar_plus_tutorial_2
-Nähere dich langsam dem Pokémon, um es zu fangen und Bonus-Belohnungen zu erhalten!
+捕捉時距離寶可夢越近，就能獲得越多獎勵。
 login_failure_wrong_credentials
-Benutzername oder Passwort ist nicht korrekt.
+使用者名稱或密碼不正確。
 news_see_details
-Alles anzeigen
+閱讀全文
 news_today
-Heute
+今天
 news_yesterday
-Gestern
+昨天
 news_days_ago
-Vor {0} Tag(en)
+{0} 天前
 error_device_unsupported
-Gerät nicht unterstützt
+不支援的裝置
 view_supported_devices
-Zum Hilfe-Center
+開啟常見問題
 device_unsupported_explanation
-Pokémon GO unterstützt dein Gerät nicht mehr. Weitere Informationen dazu, welche Geräte mit Pokémon GO kompatibel sind, findest du in unserem Hilfe-Center.
+很抱歉，Pokémon GO不再支援你所使用的裝置。請至常見問題確認Pokémon GO支援的裝置。
 new_arrivals
-Neu eingetroffen!
+NEW！
 avatar_shop_description
-Neue Outfits erhältlich!
+新品上架！
 style_shop
-STYLE-SHOP
+服飾商店
 iap_category_avatar
-Style-Shop
+服飾商店
 privacy_policy_text
-Niantic Datenschutzrichtlinie<br><br><br>Tag des Inkrafttretens:  18. Juni 2018<br><br>Wir sind Niantic. Wir stellen Real-World Augmented Reality Platforms zur Verfügung, die Ihnen die Interaktion in geteilten Welten ermöglicht, die sich nahtlos in die reale Welt einfügen. Hierfür benötigen wir Informationen über Sie. Der Schutz Ihrer Privatsphäre liegt uns am Herzen. Wir nutzen Ihre Daten nur, wenn wir eine rechtliche Grundlage hierfür haben. Diese Datenschutzbestimmungen soll Ihnen verständlich machen, welche Daten wir erheben, wie wir diese nutzen und welche Optionen Sie haben, wenn Sie eines unserer Spiele spielen, unsere Websites nutzen, Produkte von uns kaufen oder an Live Events und Werbeaktionen teilnehmen (die "Dienste").<br><br>Bitte beachten Sie, dass zusätzlich zu den nachstehenden allgemeinen Informationen detailliertere Informationen am Schluss dieser Datenschutzrichtlinie in den "Spielspezifischen Angaben" (Game Specific Disclosures) darüber enthalten sind, wie bestimmte, von uns angebotene Dienste Ihre Daten nutzen.<br><br>Bitte lesen Sie auch unsere Nutzungsbedingungen (Terms of Service), die in dem zwischen Ihnen und Niantic abgeschlossenen Vertrag enthalten sind.<br><br>Wer entscheidet, wie Ihre Daten genutzt werden?<br><br>Niantic, Inc. ist verantwortlich für Entscheidungen, wie wir Ihre persönlichen Daten nutzen. Sollten Sie Fragen oder Kommentare bezüglich der Richtlinie haben, so können Sie<br><br>uns eine E-Mail senden an privacy@nianticlabs.com;<br><br>sich schriftlich an folgende Anschrift wenden: 1 Ferry Building Suite 200, San Francisco, CA 94111;<br><br>unseren Datenschutzbeauftragten unter dpo@nianticlabs.com kontaktieren.<br><br>Die Daten, die wir von Ihnen erheben, und wie wir diese nutzen<br><br>Diese Datenschutzrichtlinie bezieht sich auf unsere Nutzung von Daten, die benutzt werden können oder könnten, um Sie zu identifizieren ("personenbezogene Daten"). Sie beziehen sich nicht auf Daten, die nicht dafür genutzt werden können, um Sie zu identifizieren ("anonyme Daten").<br><br>Wir müssen bestimmte personenbezogene Daten erheben und nutzen, um Ihnen unsere Dienste anbieten und unsere Zusagen Ihnen gegenüber einhalten zu können, wie in den Nutzungsbedingungen vereinbart.<br><br>Wenn Sie sich für unsere Dienste anmelden, so überlassen Sie uns freiwillig personenbezogene Daten, z.B. wenn Sie sich für einen Account anmelden. Wir erheben und nutzen diese Daten, um Sie authentifizieren zu können, wenn Sie sich bei einem Account anmelden und die Dienste nutzen, um sicherstellen zu können, dass Sie fähig und in der Lage sind, die Dienste zu empfangen und dass Sie die korrekte Version der Dienste erhalten. Diese Angaben umfassen den Benutzernamen, den Sie für die Nutzung unserer Dienste im Spiel verwenden sowie  interne Account-IDs, die wir Ihrem Account zuordnen.<br><br>Zur Nutzung unserer Dienste müssen Sie einen Account bei einem unterstützten Single-Sign-On- Service Dritter haben. Als solche sind die von uns erhobenen Daten auch davon abhängig,  welche Accounts Dritter Sie zur Nutzung wählen, deren Datenschutzbestimmungen und was Ihre Datenschutzeinstellungen mit diesen Diensten uns an Einsicht gestatten, wenn Sie deren Dienste für den Zugang zu Niantic-Diensten nutzen.<br><br>Wenn Sie sich dafür entscheiden, Ihren Google-Account mit den Diensten zu verlinken, so erfassen wir Ihre Google E-Mail-Adresse und ein von Google bereitgestelltes Authentifizierungstoken.<br><br>Wenn Sie sich dafür entscheiden, Ihren Facebook-Account mit den Diensten zu verlinken, so erfassen wir eine von Facebook bereitgestellte eindeutige Benutzerkennung und, sofern Sie uns dies gestatten, Ihre eingetragene Facebook E-Mail-Adresse.<br><br>Je nachdem, bei welchem Dienst Sie sich anmelden, können wir andere Single-Sign-On-Services unterstützen und zusätzliche personenbezogene Daten von diesen erheben. Näheres entnehmen Sie bitte den Spielspezifischen Angaben am Ende der Datenschutzrichtlinie.<br><br>Einige Drittanbieter können Sie darüber informieren, dass sie uns zusätzliche Angaben, wie z.B. Ihr öffentliches Profil, zur Verfügung stellen, wenn Sie ihre Single-Sign-On-Services nutzen. Wir erheben diese Daten nicht von diesen Drittanbietern.<br><br>Wir erheben und nutzen Ihre Gerätestandortdaten, während Sie unsere Dienste nutzen, insbesondere wie Sie sich bewegen und einschließlich der Ereignisse, die während des Spiels eintreten. Unsere Dienste umfassen Standort-basierte Spiele, deren Kernfunktion es ist, ein mit Ihrem tatsächlichen Aufenthaltsort verknüpftes Spielerlebnis zu bieten, deshalb müssen wir wissen, wo Sie diese Spiele für sich betreiben wollen und wo Sie den Standort von In-Game-Ressourcen planen (z.B. Poké innerhalb von Pokémon GO). Wir identifizieren Ihren Standort durch Nutzung einer Vielzahl von Technologien, einschließlich GPS, der WiFi-Punkte, über die Sie auf den Dienst zugreifen und Mobilfunkbasisstationen-Triangulation.<br><br>Ferner erheben und nutzen wir Ihre Spielaktionen und –erfolge sowie bestimmte Informationen über Ihr Mobilgerät, die während des Spiels gesammelt wurden (einschließlich Gerätekennungen, Geräte-Betriebssystem, Modell, Einstellungen und Informationen über auf Ihrem Gerät installierte Anwendungen Dritter), um die Dienste für Sie zu betreiben und sicherzustellen, dass wir allen Spielern ein faires Spielerlebnis in Übereinstimmung mit unseren Nutzungsbedingungen (einschließlich Betrugsbekämpfungsmaßnahmen) ermöglichen.<br><br>Ferner nutzen wir die vorstehend genannten Informationen und Daten zum Aufzeigen von spielgesponserten Standorten, die sich in Ihrer Nähe befinden, als Teil des Spielerlebnisses.<br><br>Wir nutzen die vorstehend genannten Informationen und Daten, um Ihnen technischen Support und Kundendienst anbieten zu können.<br><br>Sie stellen uns auch personenbezogene Daten zur Verfügung, wenn Sie einen Einkauf durch uns tätigen, unsere Publikationen abonnieren, wenn Sie an einem Gewinnspiel, einer Werbeaktion, einer Verlosung oder Umfrage teilnehmen oder mit uns kommunizieren. Je nachdem, welchen Dienst Sie nutzen, können diese Daten Ihren Namen, Ihre Postanschrift, Telefonnummer, Ihren Wohnort, Ihr Geburtsdatum (dies wird zur Überprüfung Ihrer Teilnahmeberechtigung benötigt) und Ihre E-Mail-Anschrift umfassen. Wir nutzen diese Angaben, um Ihnen gegenüber diese Dienste erbringen und Ihnen einen diesbezüglichen Kundendienst zur Verfügung stellen zu können.<br><br>Des Weiteren haben und berufen wir uns auf ein berechtigtes Interesse an der Nutzung Ihrer personenbezogenen Daten wie folgt:<br><br>Nutzung Ihrer IP-Adresse, Browser-Typ, Betriebssystem, die Webseite, die Sie vor Zugriff auf unsere Dienste besucht haben, die Seiten unserer Dienste, die Sie durchgeblättert haben, oder die von Ihnen verwendeten Features (Funktionen) und die Zeit, die Sie mit dem Besuch dieser Seiten oder Features (Funktionen) verbracht haben, die Links auf unseren Diensten, die Sie anklicken, Gerätekennungen und Ihre App-Einkäufe, um zu verstehen, wer unsere Dienste wie in Anspruch nimmt.<br><br>Nutzung Ihrer Kontaktdaten, namentlich Ihrer E-Mail-Anschrift, um mit Ihnen bei der Bereitstellung von technischem Support und Kundenservice kommunizieren zu können.<br><br>Nutzung Ihrer E-Mail-Anschrift und Geräteinformation, um Updates und Nachrichten über die Dienste mit Ihnen entweder im Rahmen der Spiele oder per E-Mail teilen zu können. Sie können sich jederzeit in Ihren Geräte-Einstellungen oder App-Einstellungen hiervon abmelden.<br>Um soziale Funktionen zur Verfügung zu stellen, welche es Ihnen ermöglichen mit anderen Spielern zu interagieren und zu spielen, einschließlich die Kommunikation mit diesen zu speichern,Ihre Freunde zu finden und von ihnen gefunden zu werden und Ihre Spielhandlungen und -erfolge mit Ihren Freunden zu teilen.<br><br>Angebot neuer oder zusätzlicher Leistungsmerkmale.<br><br>Organisation und Durchführung von Live Events, die auf unseren Spielen basieren oder unsere Spiele kennzeichnen. Beachten Sie bitte, dass, wenn Sie an Live Events teilnehmen, Ihre Spielhandlungen und –erfolge, Ihr Spielebenutzername und Ihr Avatar für andere Teilnehmer und für die Öffentlichkeit sichtbar werden (z.B. auf dem während des Events gezeigten Leaderboard und Online).<br><br>Durchführung von Betrugsbekämpfungsmaßnahmen und Sicherstellung, dass Sie und andere Teilnehmer unsere Nutzungsbedingungen einhalten.<br><br>Vornahme rechtlicher oder regulatorischer Auskünfte.<br><br>Wir werden Ihre Daten ausschließlich für die Vornahme nachstehender Handlungen nutzen, sofern wir Ihre Zustimmung hierfür haben:<br><br>Importieren von Facebook-Freundeslisten. Wenn Sie die Einwilligung in einigen unserer Spiele erteilen, werden wir von Ihrem verlinkten Facebook-Konto die Liste Ihrer Freunde, die das Spiel ebenfalls spielen und diese Einwilligung ebenfalls erteilt haben, importieren. Wenn Sie diese Einwilligung erteilt haben, werden Ihr Facebook-Profilbild und Nutzername für Ihre Freunde im Spiel sichtbar. Sie können Ihre Meinung jederzeit ändern und anderen Spielern zu jeder Zeit in den App-Einstellungen diese Berechtigung entziehen. Diese Einwilligungen bezüglich unserer Spiele können Sie auch direkt in Ihren Facebook-Kontoeinstellungen widerrufen.<br><br>Versendung von Marketingmaterialien an Sie per E-Mail oder via App. Sie können sich jederzeit in Ihren Geräte-Einstellungen oder App-Einstellungen hiervor abmelden.<br><br>Wir berufen uns ferner bei der Verwendung von Cookies oder ähnlichen Technologien auf Ihre Zustimmung. Bitte entnehmen Sie weitere Informationen über unsere Verwendung von Cookies (https://www.nianticlabs.com/cookies/de) unserer Cookies Richtlinie. Sofern Cookies personenbezogene Daten erfassen, werden wir diese nur mit Ihrer ausdrücklichen Zustimmung in anonymisierter Form oder unter einem Pseudonym verarbeiten.<br><br>Während Sie die Verwendung von Cookies durch Ihre Browser-Einstellungen unterbinden können, antwortet Niantic derzeit nicht auf ein "Do Not Track"-Signal im HTTP-Header von Ihrem Browser oder Ihrer Mobilanwendung, weil kein Industriestandard existiert, wie dieses Signal zu interpretieren ist.<br><br>Mit wem tauschen wir Daten aus<br><br>Wir tauschen keine personenbezogenen Daten, die wir von Ihnen oder im Hinblick auf Sie erhoben haben, mit Dritten aus, ausgenommen hiervon sind die nachstehend beschriebenen Fälle:<br><br>Mit unseren Service-Anbietern ausgetauschte Daten. Wir beauftragen Drittanbieter, die mit uns bei der Verwaltung und Bereitstellung von Diensten zusammenarbeiten. Im Rahmen dieser Zusammenarbeit verarbeiten diese Ihre personenbezogenen Daten in unserem Auftrag. Diese Drittanbieter haben Zugang zu Ihren personenbezogenen Daten lediglich für die Erbringung von Dienstleistungen in unserem Auftrag, und zwar in Übereinstimmung mit dieser Datenschutzrichtlinie; wir stellen ferner sicher, dass jeder Drittanbieter vertraglich verpflichtet ist, Ihre personenbezogenen Daten nicht für andere Zwecke weiterzugeben oder zu nutzen. Die mit uns zusammenarbeitenden Anbieter unterstützen uns, wie nachstehend aufgeführt:<br><br>Betrieb und Wartung unserer Mobil-Spiele durch Plattformen und Software-Tools Dritter;<br>Durchführung von Inhalte-Moderation und Crash-Analytik;<br>Durchführung von E-Mail-und mobilen Nachrichtenkampagnen;<br>Durchführung von Spiel- und Marketing-Analytik;<br>Organisation von Live Events, Gewinnspielen, Verlosungen und Werbeaktionen, einschließlich Registrierung von Spielern, Verwaltung von Anmeldungen und Anwesenheit, Überprüfung der Teilnahmeberechtigung und Preisauszahlung;<br>Bereitstellung von technischem Support und Kundendienst.<br><br>Mit anderen Spielern ausgetauschte Daten. Wenn Sie die Dienste nutzen, und insbesondere wenn Sie unsere Spiele spielen, wenn Sie soziale Funktionen dieser Spiele nutzen, oder an Live Events teilnehmen, dann werden wir bestimmte personenbezogene Daten mit anderen Spielern teilen. Diese personenbezogenen Daten umfassen Ihr Spiele-Profil (wie zum Beispiel Ihren Benutzernamen, Ihren Avatar und Ihr Team), Ihre Spielhandlungen und –erfolge, Ihren tatsächlichen Aufenthaltsort, von welchem aus Sie an den Spielen teilgenommen haben (zum Beispiel Ihre PokéStops bei der Nutzung von Pokémon GO oder Portale bei der Nutzung von Ingress) und Ihre öffentlichen Spielnachrichten.. Näheres entnehmen Sie bitte den Spielspezifischen Angaben am Ende dieser Datenschutzrichtlinie.<br><br>Mit Dritten ausgetauschte Daten. Wir teilen anonyme Daten mit Dritten zwecks Industrie- und Marktanalyse.Wenn Sie uns Ihre ausdrückliche Einwilligung dazu erteilt haben, werden wir möglicherweise personenbezogene Daten mit Drittverlagspartner zum Zwecke des Direktmarketings teilen.<br><br>Zu unserem Schutz und zum Schutz Dritter weitergegebene Daten. Wir arbeiten mit Regierungs- und Vollzugsbehörden oder privaten Akteuren bei der Durchsetzung und Einhaltung gesetzlicher Vorschriften zusammen. Wir tauschen Daten bezüglich Ihrer Person nur dann mit Regierungs- oder Vollzugsbehörden oder privaten Akteuren nur dann aus, wenn wir das für erforderlich oder angemessen halten, (a) um auf Forderungen, rechtliche Verfahren (einschließlich Vorladungen und Haftbefehle) zu reagieren; (b) um unser Eigentum, unsere Rechte und unsere Sicherheit und das Eigentum, die Rechte und die Sicherheit Dritter und der Öffentlichkeit im Allgemeinen zu schützen; und (c) um etwaige Aktivitäten, die wir als unrechtmäßig, unlauter oder rechtlich einklagbar ansehen, zu prüfen und zu unterbinden.<br><br>In Zusammenhang mit geschäftlichen Transaktionen weitergegebene Daten. Daten, die wir von unseren Nutzern erhoben haben, einschließlich personenbezogene Daten, gehören zum Betriebsvermögen. Wird unser Unternehmen von einem Dritten infolge einer Fusion, eines Erwerbs oder eines Asset Deals von einem Dritten erworben oder wird unser Vermögen von einem Dritten im Falle unserer Betriebsaufgabe oder unserer Insolvenz erworben, so wird unser Vermögen insgesamt oder in Teilen, einschließlich Ihrer personenbezogenen Daten einem Dritterwerber in Zusammenhang mit der Transaktion übertragen bzw. an diesen weitergegeben.<br><br>Wie werden Ihre personenbezogenen Daten übermittelt<br><br>Niantic betreibt seine Dienste weltweit. Ihre personenbezogenen Daten werden sehr wahrscheinlich in einem Land außerhalb Ihres Heimatlandes, einschließlich USA, für die in dieser Datenrichtlinie  skizzierten Zwecke gespeichert. Die Datenschutzgesetze in diesen Ländern sind möglicherweise nicht dieselben wie in Ihrem Heimatland.<br><br>Wenn wir Ihre personenbezogenen Daten vom Europäischen Wirtschaftsraum in andere Länder, einschließlich USA, übermitteln, so stellen wir sicher, dass Ihren personenbezogenen Daten ein ähnliches Schutzniveau wie innerhalb des Europäischen Wirtschaftsraums gewährt wird, und zwar indem sichergestellt wird, dass zumindest eine der nachstehenden Garantien erbracht wird:<br><br>Das Land, in das Ihre personenbezogenen Daten übermittelt werden, ist ein Land, das nach Ansicht der Europäischen Kommission – wie der Europäische Wirtschaftsraum - ein angemessenes Schutzniveau für personenbezogene Daten bietet.<br><br>Wenn wir mit Service Providern zusammen arbeiten, verwenden wir spezielle, von der Europäischen Kommission genehmigte Verträge, die personenbezogenen Daten denselben Schutz wie in Europa gewähren.<br><br>Wenn wir mit Service Providern in den USA zusammen arbeiten, so sind diese Teil des EU-US-Datenschutzschilds, wonach sie verpflichtet sind, Ihren personenbezogenen Daten denselben Schutz wie im Europäischen Wirtschaftsraum zu gewähren.<br><br>Wie wir Ihre personenbezogenen Daten sichern<br><br>Wir haben vor Ort angemessene Sicherheitsmaßnahmen getroffen, um Ihre personenbezogenen Daten vor zufälligem Verlust, unbefugter Verwendung oder unbefugtem Zugang, unsachgemäßer Änderung oder Weitergabe zu schützen. Wir beschränken ferner den Zugang zu Ihren personenbezogenen Daten gegenüber Arbeitnehmern, Vertretern, Auftragnehmern und sonstigen Dritten, die für ihre Tätigkeit Kenntnis von diesen Daten haben müssen. Sie werden Ihre personenbezogenen Daten ausschließlich entsprechend unseren Anweisungen verarbeiten und unterliegen einer Vertraulichkeitsverpflichtung.  Wir haben Verfahren etabliert, um eine mutmaßliche Verletzung des Schutzes personenbezogener Daten handhaben zu können, und wir werden Sie und eine zuständige Regulierungsbehörde von einer Verletzung in Kenntnis setzen, sofern wir hierzu rechtlich verpflichtet sind.<br><br>Wie lange werden wir Ihre personenbezogenen Daten speichern<br><br>Wir werden Ihre personenbezogenen Daten solange speichern, wie wir diese für die Erbringung der Dienste Ihnen gegenüber und zur Erfüllung der in dieser Datenschutzrichtlinie genannten Zwecke benötigen. Dies gilt auch für eine Person, mit der wir Ihre Daten austauschen und die Dienste in unserem Auftrag erbringt.<br><br>Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen und wenn wir diese nicht mehr speichern müssen, um unseren rechtlichen oder regulatorischen Verpflichtungen nachzukommen, werden wir Ihre Daten aus unseren Systemen löschen oder sie anonymisieren, so dass sie nicht länger mit Ihnen in Verbindung gebracht werden können.<br><br>Ihre Rechte und Wahlmöglichkeiten<br><br>Sie haben bestimmte Rechte im Hinblick auf Ihre personenbezogenen Daten. Zur Ausübung dieser Rechte kontaktieren Sie uns bitte:<br><br>Für Pokémon GO hier (https://support.pokemongo.nianticlabs.com/hc/articles/115008306667).<br><br>Für Ingress hier (https://support.ingress.com/hc/).<br><br>Für alle anderen Dienste unter privacy@nianticlabs.com.<br><br>Sie können:<br><br>Zugang zu den personenbezogenen Daten, die wir über Sie speichern, fordern.<br><br>Ihre personenbezogenen Daten löschen oder korrigieren. Ihre Account-Daten können Sie am einfachsten über Ihre App-Einstellungen aktualisieren. Sie können ferner eine Kundendienst-/Support-Anfrage über unsere Support Website hier (https://support.pokemongo.nianticlabs.com/hc/articles/222060687) für Pokémon GO, oder hier (https://support.ingress.com/hc/articles/206618198) für Ingress einreichen.<br><br>Einwände gegen unsere Verarbeitung Ihrer personenbezogenen Daten erheben. Einige der von uns gespeicherten personenbezogenen Daten sind für die Erbringung der Dienste Ihnen gegenüber durch uns erforderlich sowie zur Erfüllung der von uns Ihnen gegenüber in den Nutzungsbedingungen gemachten Zusagen.<br><br>von uns die Einstellung der Nutzung Ihrer personenbezogenen Daten, auch für Marketing- und Werbezwecke, fordern (aber bedenken Sie, dass wir Ihre personenbezogenen Daten nutzen müssen, damit Sie die Dienste in Anspruch nehmen können).<br><br>Ihre personenbezogenen Daten an eine andere Organisation übermitteln lassen (sofern dies technisch möglich ist).<br><br>sich bei einer Regulierungsbehörde beschweren. Wir würden es begrüßen, Ihre Anliegen direkt zu bearbeiten, deshalb würden wir es vorziehen, wenn Sie zuerst mit uns Kontakt aufnehmen. Wenn Sie jedoch im Europäischen Wirtschaftsraum ansässig und der Ansicht sind, dass wir Datenschutzgesetze nicht eingehalten haben, so können Sie sich bei unserer Regulierungsbehörde, dem UK Information Commissioner's Office, oder bei Ihrer lokalen Aufsichtsbehörde beschweren.<br><br>Das Gesetz sieht unter bestimmten Umständen Ausnahmen von diesen Rechten vor. Wenn Sie eines der Rechte aufgrund einer Ausnahmeregelung nicht ausüben können, so erklären wir Ihnen, warum dies so ist.<br><br>Wir bieten Ihnen Möglichkeiten hinsichtlich der Erhebung, Nutzung und dem Austausch Ihrer personenbezogenen Daten, und wir werden die von Ihnen getroffene Entscheidung respektieren. Bitte beachten Sie jedoch, dass, wenn Sie sich entscheiden, uns nicht die von uns geforderten personenbezogenen Daten zu überlassen, Sie möglicherweise keinen Zugang zu allen Features (Funktionen) der Dienste haben werden.<br><br>Wir wollen Sie innerhalb von 30 Tagen mit den von Ihnen geforderten Informationen versorgen bzw. das Resultat komplettieren.<br><br>Kinder<br><br>Allgemein gilt: Wenn Sie außerhalb des Europäischen Wirtschaftsraums ansässig sind, ist Kindern unter 13 Jahren die Nutzung der Dienste untersagt. Wenn Sie innerhalb des Europäischen Wirtschaftsraums ansässig sind, so können Sie die Dienste nur nutzen, wenn Sie älter als 16 Jahre sind oder das Alter haben, in dem Sie der Verarbeitung personenbezogener Daten in Ihrem Wohnsitzland  zustimmen müssen. Wir gestatten jedoch Kindern die Nutzung des Pokémon GO Service, vorausgesetzt, dass uns die elterliche Zustimmung vorliegt. Nähere Einzelheiten entnehmen Sie  bitte den Spielspezifischen Angaben am Ende dieser Datenschutzrichtlinie.<br><br>Wenn wir erfahren, dass wir personenbezogene Daten eines Kinders unter 13 Jahren oder im Europäischen Wirtschaftsraum eines Kindes unter 16 Jahren oder eines Kindes in einem Alter  erhoben haben, das die elterliche Zustimmung zur Verarbeitung personenbezogener Daten benötigt, und uns diese elterliche Zustimmung nicht vorliegt, so ergreifen wir Schritte, um diese Daten aus unseren Dateien sobald wie möglich zu löschen.<br><br>Änderungen dieser Datenschutzrichtlinie<br><br>Etwaige, von uns erhobene personenbezogene Daten werden von der Datenschutzrichtlinie erfasst, die zum Zeitpunkt der Datenerhebung in Kraft ist. Wir können diese Datenschutzrichtlinie zu gegebener Zeit abändern. Sie werden über etwaige wesentliche Änderungen angemessen informiert.<br><br>Dritte<br><br>Durch die Nutzung unserer Dienste haben Sie Zugang zu Links zu Websites und Diensten, die sich im Eigentum von Dritten befinden oder von Dritten betrieben werden (jeder ein "Drittanbieter"), Etwaige Daten, die Sie im Hinblick auf einen Drittanbieter oder einem Drittanbieter liefern oder die von einem Drittanbieter erhoben werden, werden direkt dem Eigentümer oder Betreiber des Drittanbieters zur Verfügung gestellt und unterliegen den Datenschutzrichtlinien des Eigentümers oder Betreibers. Wir sind nicht verantwortlich für den Inhalt, den Datenschutz oder die Sicherheitsvorkehrungen und –richtlinien eines Drittanbieters. Zum Schutz Ihrer Daten empfehlen wir Ihnen, die Datenschutzbestimmungen aller Drittanbieter, auf die Sie zugreifen, gründlich zu prüfen.<br><br>11. Spielspezifische Angaben<br><br>Zusätzliche Datenschutzinformationen für Pokémon GO<br><br>Pokémon Trainer Club Accounts. Sie können sich für Pokémon GO anmelden, indem Sie Ihren Pokémon Trainer Club ("PTC") Account Dritter verwenden, der von The Pokémon Company International ("TPCI") verwaltet wird. Wenn Sie sich dafür entscheiden, werden wir von TPCI Ihre bei PTC registrierte E-Mail-Adresse, Ihren PTC Benutzernamen und eine eindeutige Benutzerkennung erfassen. Wenn Sie Ihren Account im Namen Ihres autorisierten Kindes registrieren, werden wir auch einige personenbezogene Daten über Ihr Kind erheben. Der unten stehende Absatz "Accounts für Kinder" enthält weitere Informationen hierzu.<br><br>Accounts für Kinder. Wir erfüllen die Vorschriften zur elterlichen Zustimmung, wie sie vom Gesetz zum Schutz der Privatsphäre von Kindern im Internet der USA (U.S. Children´s Online Privacy Protection Act (COPPA)) und den europäischen Datenschutzgesetzen (einschließlich, ohne Beschränkung auf die Datenschutz-Grundverordnung) vorgeschrieben sind, durch ein von TPCI durchgeführtes Verifikations- und Zustimmungsverfahren. Wie in den Nutzungsbedingungen von Pokémon GO beschrieben, muss der Elternteil oder der gesetzliche Vormund ("Elternteil") jedes Kindes, das unter 13 Jahre alt ist, oder im EWR unter 16 Jahre alt ist, oder in dem Alter ist, für das eine Zustimmung zur Verarbeitung personenbezogener Daten erforderlich ist ("Kind"), sich bei TPCI über einen PTC Account registrieren, bevor das Kind das Spiel aufrufen und spielen kann. Der Elternteil muss TPCI bestimmte personenbezogene Daten über das Kind entsprechend der TPCI-Datenschutzrichtlinie zur Verfügung stellen. Davon erfasst Niantic von TPCI lediglich die persönliche E-Mail-Adresse des Kindes und das Datum, an dem das Kind die oben aufgeführten Altersgrenzen überschreitet.<br><br>Nachdem ein Elternteil einen PTC-Account registriert hat, überprüft TPCI für US-Bürger die Identität des Elternteils, indem TPCI nach der Summe der ersten und der letzten Ziffer der Sozialversicherungsnummer des Elternteils und nach dem Namen, Geburtsdatum und der Postanschrift des Elternteils fragt.  TPCI teilt diese Informationen nicht mit uns. Nachdem TPCI die Identität des Elternteils überprüft hat, bittet sie den Elternteil darum, das Einverständnis dazu zu erteilen, dass das Kind auf Pokémon GO zugreift.  Falls ein Elternteil nicht das Einverständnis dazu erteilt, dass ein Kind auf Pokémon GO zugreift und es verwendet, oder falls seine Identität nicht über das Zustimmungsverfahren verifiziert wird, sperrt Niantic die Registrierung des Kindes bei Pokémon GO und verhindert, dass das Kind auf das Spiel zugreift und es verwendet.<br><br>Die Eltern sind dazu berechtigt, die weitere Erhebung, Verwendung und/oder Weitergabe von personenbezogenen Daten Ihres Kindes zu verweigern, indem sie uns benachrichtigen. Als Elternteil nehmen Sie zur Kenntnis, dass Niantic ein berechtigtes Interesse daran hat, die über die Dienste erhobenen Informationen Ihres Kindes ausschließlich zum Zweck der Verwaltung oder des Bereitstellung der Dienste Drittanbietern zur Verfügung zu stellen, wie in Absatz 3 dieser Datenschutzrichtlinie beschrieben.<br><br>Mit anderen Spielern geteilte Informationen. Wenn Sie bestimmte Handlungen in Pokémon GO ausführen oder eine Gym einnehmen, wird Ihr Benutzername (oder der Benutzername Ihres autorisierten Kindes) öffentlich über das Spiel ausgetauscht, andere Spieler eingeschlossen, im Zusammenhang mit dem Gym-Standort.<br><br>Daten von Apple Watch und Apple Health App Wenn Sie Pokémon GO mit Ihrer Apple Watch verwenden, verwenden wir mit Ihrer Einwilligung Apple HealthKit APIs, um bestimmte Daten über Ihre Fitness-Aktivität (Schrittzahl, Kaloirenverbrauch und gelaufene Strecke) auf der Health-App-Datenbank Ihres Geräts zu lesen und/oder zu schreiben (die "Health-App-Daten").  Wir können Ihre Health-App-Daten in Verbindung mit Ihrem Pokémon-GO-Benutzerkonto auf unseren Servern speichern.  Wir verwenden Health-App-Daten, um Ihnen bestimmte Funktionen im Spiel zur Verfügung zu stellen (wie zum Beispiel gelaufene Strecke, um Eier auszubrüten), und um sicherzustellen, dass Sie ein "Credit" in Ihrer Apple Health App für die Strecke bekommen, die Sie während des Pokémon-GO-Spiels zurücklegen.  Wir verwenden Health-App-Daten nicht für Marketing- oder Werbezwecke.  Wir speichern keine Health-App-Daten in iCloud.  Ohne Ihre Einwilligung kann Pokémon GO weder aus der Health-App-Datenbank lesen noch in sie schreiben.<br>Zusätzliche Datenschutzinformationen für Ingress<br><br>Öffentlich geteilte Informationen. Wenn Sie Ingress spielen, werden die folgenden Informationen über Sie als Teil des Gameplays über das Spiel geteilt (einschließlich mit anderen Spielern direkt innerhalb der App, in Spiel-Mitteilungen, die an andere Spieler als Teil des Gameplays gemailt werden, und online auf der Ingress-Intel-Map-Website), und werden daher öffentlich zugänglich: Ihr Benutzername innerhalb des Spiels, Nachrichten, die an andere Nutzer in COMMS gesendet wurden, Portale innerhalb des Spiels, auf die Sie zugreifen sowie Ihr Gerätestandort, immer wenn Sie innerhalb des Spiels eine Aktion ausführen.<br>
+Niantic隱私權政策<br>自西元2018年6月18日起生效<br><br>我們是美商Niantic股份有限公司（Niantic, Inc.）。我們提供於真實世界中擴增實境的平台服務，旨在讓您於共享的世界中進行互動，並與現實世界無縫融合，為此，我們需要您的資訊。保護您的隱私對我們而言至關重要，我們僅於有法律依據之情況下使用您的資訊。本隱私權政策將幫助您了解我們所蒐集之資訊、我們如何使用該等資訊及當您玩任何一款我們的遊戲、使用我們的網站、自此處購買商品或參加現場或促銷活動時（以下稱「服務」）擁有的選擇。<br><br>請注意，除了以下的一般資訊外，關於特定服務如何使用您個人資訊之特定資訊將於本隱私權政策末端之「遊戲特別聲明」中提供。<br><br>您亦應詳閱我們的服務條款，服務條款構成您與Niantic間的契約內容。<br><br>誰決定如何使用您的資訊？<br><br>Niantic, Inc.是決定如何使用您個人資訊的數據控制者。若您對本政策有任何疑問或意見，您可以選擇：<br><br>發送電子郵件至privacy@nianticlabs.com<br>寫信給我們，地址為1 Ferry Building Suite 200, San Francisco, CA 94111<br>發送電子郵件至dpo@nianticlabs.com聯繫我們的資料保護主管（Data Protection Officer）<br><br>我們蒐集關於您之資訊與我們使用該等資訊之方式<br><br>本隱私權政策涵蓋我們對於任何可用於識別您身分的資訊（下稱「個人資料」）之使用。惟並不涵蓋無法識別您身分的資訊（下稱「匿名資料」）之使用。<br><br>為了向您提供服務並履行我們於服務條款中向您作出的承諾，我們需要蒐集與使用特定個人資料：<br><br>當您註冊我們的服務時，例如，註冊一個帳號時，即視為您自願提供我們個人資料。我們蒐集與使用這些資訊，以便在您登入帳戶並使用服務時對您進行身份驗證，以確保您有資格且能夠接收服務，並使您收到正確版本的服務。該資訊包括您為了在我們的服務中使用而選擇之遊戲使用者名稱，以及我們分配予您的內部帳號。<br><br>您必須擁有可支援第三方單一登錄服務之帳戶才能使用我們的服務。因此，我們所蒐集的個人資料亦取決於您選擇使用之第三方帳戶、其隱私權政策及您於第三方之隱私權設定中允許我們可以在您使用第三方提供之服務以獲取Niantic服務時所看見之資訊。<br><br>若您選擇以Google帳戶連結到服務，我們會蒐集您的Google電子郵件地址及Google提供的身份驗證代碼。<br>若您選擇將您的Facebook帳戶與服務進行連結，我們將蒐集由Facebook提供的唯一使用者身分（user ID），如獲得您許可，亦包括您於Facebook註冊的電子郵件地址。<br><br>根據您所註冊的特定服務，我們可能會支持其他第三方單一登錄服務，並從中蒐集更多個人資料。欲知更多詳情，請閱讀本隱私權政策末端部分之遊戲特別聲明。<br><br>某些第三方服務提供者可能會通知您，他們將於您使用其單一登錄服務時提供額外資訊，例如，您的公開個人資訊予我們，然而，我們並不從他們那邊蒐集該等資訊。<br><br>當您使用我們的服務時，我們將蒐集並使用您的裝置位置資訊，包括遊戲過程中您的移動路徑與發生之事件。我們的服務包含以玩家所在地為基礎的遊戲，其核心特色在於提供與您真實世界為置中相互連結之遊戲體驗，因此我們必須知道您在哪裡以為您操作遊戲，並計畫遊戲中資源分配的位置（例如PokémonGO中的寶可夢補給站（PokéStops））。我們使用各種技術以識別您的位置，包括GPS、您為獲取服務而連結之WiFi熱點及手機基地台之三角定位測量法。<br><br>為了提供您服務並確保依據服務條款（包括反欺詐和反作弊措施）我們可為所有玩家提供公平的遊戲體驗，我們還會蒐集與使用您於遊戲內的操作行為及成就，以及於遊戲過程中所蒐集到有關您行動裝置的某些資訊（包括：設備辨識碼、設備作業系統、型號、設定以及裝置上所安裝的第三方應用程式之相關資訊）。<br><br>我們亦將使用上述資訊以顯示鄰近您的遊戲內贊助地點，作為您遊戲體驗的一部分。<br><br>我們將進一步使用上述資訊，以為您提供技術與客戶支援。<br><br>當您於向我們購買商品、訂閱我們的刊物、參加比賽、促銷活動、抽獎活動、調查或與我們聯絡時，代表您已同意提供我們您的個人資料。該個人資料之範圍取決於您使用哪些服務，可能包括您的姓名、郵寄地址、電話號碼、居住國家、出生日期（驗證資格所必須）以及電子郵件地址。我們將使用這些資訊來為您提供服務與相關客戶支援。<br><br>除此之外，就您的個人資料之使用，我們係具有且基於下述合法權益之目的：<br><br>使用您的IP位置、瀏覽器類型、作業系統、獲取您之前瀏覽我們服務的頁面資訊、您瀏覽過有關於我們的服務頁面或您使用過的功能，以及在這些頁面或功能上花費的時間、您於服務中點擊的連結、設備辨識碼，以及為了了解誰在使用我們的服務與如何使用我們的服務，亦包含您在遊戲過程中採取的操作行為、遊戲中的使用者設定與偏好設定及於應用程式內的購買行為。<br><br>為了與您溝通以提供技術和客戶支援，將使用您的聯繫資訊，即您的電子郵件地址。<br><br>為了於遊戲中或藉由電子郵件與您分享與服務有關的更新及新聞，將使用您的電子郵件地址和裝置資訊。您可以隨時於裝置設定或應用程式內設定取消訂閱。<br><br>為了在我們的遊戲中提供您可以與其他玩家互動及遊戲之社交功能，包括：儲存您與這些玩家的溝通訊息、搜尋您的朋友及被您的朋友搜尋到、以及與您的朋友分享您的遊戲體驗及成就。<br><br>為了提供服務之新的功能或額外的功能。<br><br>為了規畫和舉辦以我們遊戲為基礎或特色之現場活動。請注意，當您參與現場活動時，您於遊戲中的操作行為及成就、遊戲中的使用者名稱和您的頭像將被其他活動參與者及公眾看見（例如：活動中和線上所顯示的排行榜）。<br><br>為了執行反欺詐和反作弊措施，並確保您和其他使用者遵守我們的服務條款。<br><br>為了依法進行揭露。<br><br>若我們取得您的同意，我們只會為以下目的使用您的個人資料：<br><br>若您選擇在我們的部分遊戲中允許我們取用您的Facebook好友名單（Facebook User Friends），我們將從您連結的Facebook帳號中匯入您的好友名單中，也在玩該款遊戲且允許取用好友名單的好友。若您開啟允許取用，您在遊戲中的朋友們都可以看得到您在Facebook上的大頭照及顯示的名稱。您可以在任何時候改變心意而從您的應用程式中的朋友設定將其他玩家解除好友設定。您也可以直接從您的Facebook帳號設定中撤銷對於我們遊戲的取用允許。<br>透過電子郵件或應用程式內通知向您發送行銷資料。您可隨時於裝置設定或應用程式內設定取消訂閱。<br>當我們使用cookie或類似技術時，我們需要您的同意。請參閱我們的cookie (https://www.nianticlabs.com/cookies/zh_hant) 政策以進一步了解我們如何使用cookie。以cookie蒐集個人資料時，我們只會於您明示同意之情況下，以匿名或以假名形式處理之。<br><br>儘管您可能會藉由瀏覽器設定禁用cookie，但Niantic目前不會對來自瀏覽器或手機應用程式之HTTP標頭（header）中「不要追蹤」（Do Not Track）的信號有所反應，因目前仍缺乏如何解釋該信號之產業標準。<br><br>與我們共享資訊的對象<br><br>除非有下述情形，否則我們不會分享自您蒐集的或與您有關的任何個人資料：<br><br>與我們的服務提供者分享資訊。我們邀請第三方服務提供者與我們一起管理及提供服務。第三方作為提供服務之成員，他們將代表我們處理您的個人資料。第三方服務提供者僅於代表我們提供服務或依循本隱私權政策為的目的之情形下，始可接觸您的個人資料。此外，我們確保每個第三方服務提供者都有義務不揭露或使用您的個人資料於任何其他目的。我們使用的服務提供者將幫助我們：<br><br>藉由第三方平台和軟體工具，經營、管理和維護我們的手機遊戲；<br>執行內容檢測和故障分析；<br>經營電子郵件和手機簡訊活動；<br>執行遊戲和行銷分析；<br>管理現場活動、比賽、抽獎和促銷活動，包括玩家報名、簽到和出席情況之管理、確認參加資格及獎品發放；<br>提供技術和客戶支援。<br><br>與其他玩家分享的資訊。當您使用服務時，特別是當您玩我們的遊戲、在這些遊戲中使用社交功能、或參加現場活動時，我們將與其他玩家分享某些個人資料。此等個人資料包括您在遊戲中的簡介（如：您的使用者名稱、您的頭像以及您的團隊）、您在遊戲中的操作和成就、您在遊戲中所互動的遊戲資源其所對應到的真實世界的位置（例如PokémonGO中的寶可夢補給站（PokéStops）或是Ingress中的能量塔（Portals））以及您於遊戲中的公開資訊。欲了解更多詳情，請閱讀本隱私權政策末尾的遊戲特別聲明。<br><br>與第三方分享的資訊。我們與第三方分享匿名資料以進行產業和市場分析。只有當我們獲得您的明示同意，我們才可能與我們處理發布資訊之第三方合作夥伴基於直接營銷之目的分享您的個人資料。我們不會向任何第三方分享您的個人資料以用於直接營銷之目的。<br><br>為保護我們和保護他人而揭露之資訊。我們與政府和執法官員或私人單位合作，執行和遵守法律。我們僅在合理相信必要或適當的情況下，向政府或執法官員或私人單位分享您的資訊：（a）為回應法律主張、法律程序（包括傳票和權利證明）;（b）為保護我們的財產、權利和安全以及第三方或一般公眾的財產、權利和安全；以及（c）調查和阻止任何我們認為非法、不道德或可以合法行動之活動。<br><br>與商業交易有關之資訊揭露。我們從使用者蒐集的資訊（包括個人資料）是一項商業資產。如果我們由於合併、收購或資產出售等交易而被第三方收購，或者如果在我們倒閉或破產的情況下，我們的資產被第三方收購，我們部分或全部資產（包括您的個人資料）將在交易中揭露或移轉予收購方。<br><br>個人資料之移轉方式<br><br>Niantic於全球提供服務。出於本隱私權政策中列出之目的，您的個人資料很可能會被移轉並存儲於您本國以外的國家，包括美國。這些國家的資料保護法可能與您本國的資料保護法不一樣。<br><br>如果我們將您的個人資料自歐洲經濟區（EEA）移轉至其他國家（包括美國），我們確保實施以下保障措施中至少一項，以為您的個人資料提供與歐洲經濟區近似程度之保護：<br><br>您個人資料移轉到的國家是一個提供了歐盟執行委員會認為具適當資訊保護程度且該資訊保護程度與歐洲經濟區相當之國家。<br><br>當我們與服務提供者合作時，我們與服務提供者簽訂歐盟執行委員會批准的特定合約，這些合約將提供個人資料與在歐洲時相同程度的保護。<br><br>我們與美國服務提供者合作時，該服務提供者為歐盟-美國隱私護盾（EU-US Privacy Shield）的成員，歐盟-美國隱私護盾（EU-US Privacy Shield）要求該服務提供者為您的個人資料提供與在歐洲經濟區中相同程度的保護。<br><br>個人資料安全維護<br><br>我們有適當的安全措施以防止您的個人資料被意外遺失、使用或未經授權地獲取、不適當地更改或揭露。我們亦限制提供您個人資料予員工、代理商、承包商和其他有業務需要之第三方。前述人員將依我們的指示處理您的個人資料，並負有保密義務。我們已制定任何涉嫌違反個人資料保護的處理程序，並會在法律要求的情況下通知您以及負責的監管機構。<br><br>個人資料保存期限<br><br>在我們需要向您提供服務並履行本隱私權政策中規定之目的期間內，我們將會保留您的個人資料。其亦適用於我們分享您個人資料的對象以及代表我們提供服務之人。<br><br>當我們不再需要使用您的個人資料，並且不需要為遵守法令義務而保存您的個人資料時，我們會將其從我們的系統中刪除或將其匿名，以使其不再與您相關。<br><br>您得行使之權利及選擇<br><br>您對於您的個人資料有特定之權利。為了行使這些權利，請透過以下方式與我們聯繫：<br><br>有關Pokémon GO，請點這裡 (https://support.pokemongo.nianticlabs.com/hc/articles/115008306667)。<br>有關Ingress，請點這裡 (https://support.ingress.com/hc/)。<br>有關其他服務，請聯繫privacy@nianticlabs.com。<br><br>如果您是位於歐洲經濟區（或賦與類似權利的國家）的使用者，則可以：<br><br>要求我們提供我們所持有之您的個人資料。<br>刪除或更正您的個人資料。更新您帳戶資訊最簡單的方式係透過您應用軟體內的設置。您也可以透過我們的支援網站提出客戶支援需求；對於Pokémon GO，請點這裡 (https://support.pokemongo.nianticlabs.com/hc/articles/222060687)；對於Ingress，請點這裡 (https://support.ingress.com/hc/articles/206618198)。<br>反對我們處理您的個人資料。我們所持有的部分個人資料，是我們向您提供服務並履行我們在服務條款中向您作出的承諾的必要資料。<br>要求我們停止使用您的個人資料，包括用於行銷和推銷之目的（請注意，有時我們需要使用您的個人資料以提供服務）。<br>將您的個人資料移轉到其他組織（在技術可行範圍內）。<br>向監管機構投訴。我們希望有機會直接處理您的疑慮，因此我們希望您先與我們聯繫。但若您位於歐洲經濟區，並且認為我們沒有遵守資訊保護法，您可以向我們的監管機構、英國資訊委員辦公室（UK Information Commissioner’s Office）或您當地的監管機構投訴。<br><br>法律規定，在某些情況下，上述權利存有例外情形。當您因前開例外規定而發生無法行使上述權利時，我們會向您解釋原因。<br><br>我們為您提供關於個人資料蒐集、使用和分享方面的選擇，且我們會尊重您的選擇。請注意，若您決定不向我們提供我們要求的個人資料，可能造成無法向您提供全部的服務。<br><br>我們致力於30天內提供相關資訊或完成您的需求。<br><br>兒童<br><br>一般來說，如果您不在歐洲經濟區，13歲以下的兒童不得使用服務。如果您居住在歐洲經濟區，您必須超過16歲的，或者超過在您居住的國家所定須要得他人同意始能處理個人資料之年齡，始得使用服務。不過，我們確實允許兒童們使用Pokémon GO服務，只要我們取得必要之家長同意。欲了解更多詳情，請閱讀本隱私權政策末端之遊戲特別聲明。<br><br>如果我們了解到我們蒐集了13歲以下兒童的個人資料，或者在歐洲經濟區16歲以下或須要得他人同意始能處理個人資料之年齡以下之人的個人資料，且我們未取得父母同意時，我們將盡快從我們的文件中刪除該資訊。<br><br>本隱私權政策之更改<br><br>我們蒐集的任何個人資料都被蒐集該資訊時有效之隱私權政策所涵蓋。我們可能會不時更改本隱私權政策。任何重大變更將提供您合理通知。<br><br>第三方<br><br>在使用我們的服務時，您可以瀏覽第三方擁有或經營之網站和服務的連結（下稱「第三方服務」）。您提供給第三方服務或由第三方服務蒐集的任何資訊均直接提供給第三方服務的所有者或經營者，並適用該所有者或經營者的隱私權政策。我們不對任何第三方服務的內容、隱私或安全措施和政策負責。為保護您的資訊，我們建議您仔細閱讀您所瀏覽的所有第三方服務的隱私權政策。<br><br>遊戲特別聲明<br><br>Pokémon GO額外隱私權資訊<br><br>寶可夢訓練師俱樂部帳號。您可以使用由寶可夢公司（TPCI）管理的第三方寶可夢訓練師俱樂部（PTC）帳號註冊Pokémon GO。如果您選擇這樣做，我們將從TPCI蒐集您的PTC註冊電子郵件地址、您的PTC使用者名稱和唯一的PTC使用者身分（ID）。如果您代表您的授權兒童註冊您的PTC帳戶，我們還會蒐集一些關於您兒童的個人資料。欲了解更多詳情，請參閱下方「兒童帳戶」一節。<br><br>兒童帳戶。我們依據美國兒童線上隱私權保護法（U.S. Children’s Online Privacy Protection Act ，COPPA）和歐洲資訊保護法規（包括但不限於歐盟資料保護規範（General Data Protection Regulation，GDPR）），透過TPCI處理的驗證和同意程序，遵守取得父母同意的規定。如Pokémon GO服務條款所述，每個13歲以下之兒童、或歐洲經濟區中16歲以下或者須要得他人同意始能處理個人資料之年齡以下之兒童（下稱「兒童」）之父母或法定監護人（下稱「家長」），必須先透過PTC帳戶向TPCI註冊，然後其兒童才能獲取和使用遊戲。家長必須根據TPCI隱私權政策向TPCI提供有關兒童的特定個人資料。其中，Niantic只會從TPCI蒐集兒童的個人電子郵件地址，以及兒童超過上述年齡限制的日期。<br><br>對於美國居民，在家長註冊PTC帳戶後，TPCI將通過要求家長的社會安全號碼的第一位數字和最後一位數字之總合以及家長的姓名、出生日期和街道地址來驗證家長的身份。TPCI不會與我們分享這些訊息。TPCI驗證家長的身份後，會要求家長同意兒童存取或使用Pokémon GO。如果家長不同意兒童存取和使用Pokémon GO或未透過同意程序驗證其身份，Niantic將禁止該兒童註冊Pokémon GO並阻止該兒童訪問和使用遊戲。<br><br>家長有權通知我們拒絕進一步蒐集、使用和（或）揭露他們的兒童的個人資料。作為家長，您了解Niantic有合法權益將透過服務所蒐集到的您的兒童的資訊提供予第三方服務提供者，惟僅用於管理或提供服務，詳如本隱私權政策第3點所述。<br><br>與其他玩家分享的訊息。當您在Pokémon GO中採取某些行動並佔領一個道館時，您的（或您的授權兒童的）使用者名稱將透過遊戲道館與其他玩家公開分享有關該道館位置之相關資訊。。<br><br>Apple Watch和Apple健康應用程式數據。如果您在Apple Watch上使用Pokémon GO，並取得您的同意，我們將使用Apple HealthKit APIs讀取和（或）寫入您的健身活動數據（步數、卡路里消耗和步行距離）於您裝置上的健康應用程式數據資料庫（下稱「健康應用程式數據」）。我們可能會將健康應用程式數據儲存於與您的Pokémon GO帳戶連結之伺服器中。我們使用健康應用程式數據為您提供遊戲中的某些功能（例如：孵蛋的步行距離），並確保您在Apple健康應用程式中獲得於玩Pokémon GO時所有您步行之「積分」。我們不會將健康應用程式數據用於行銷或廣告目的。我們不會將健康應用程式數據儲存於iCloud中。未經您的同意，Pokémon GO無法讀取或寫入健康應用程式數據資料庫。<br><br>Ingress額外隱私權資訊<br><br>資訊公開分享。當您玩Ingress時，作為遊戲的一部分，您將透過遊戲分享以下有關您的資訊（包括直接在應用程式中與其他玩家分享、透過電子郵件發送遊戲通知給其他玩家作為遊戲的一部分、以及於Ingress英特爾地圖網站上線），因此您的資訊將可被公眾取得，例如：您的遊戲使用者名稱、發送給COMMS中其他使用者的訊息、您所互動的遊戲傳送門，以及您在遊戲中採取行動時的裝置位置。<br>
 err_incense_already_active
-Du benutzt bereits Rauch.
+目前已在使用薰香
 err_incense_no_items
-Kein Rauch im Beutel.
+包包裡沒有薰香
 err_lucky_egg_no_items
-Kein Glücks-Ei im Beutel.
+包包裡沒有幸運蛋
 err_lucky_egg_cannot_use
-Glücks-Ei konnte jetzt nicht eingesetzt werden.
+目前無法使用幸運蛋
 err_tm_cannot_use
-TM konnte jetzt nicht eingesetzt werden.
+目前無法使用招式學習器
 err_berry_cannot_feed
-Du kannst jetzt keine Beere verwenden.
+目前無法使用莓果
 err_pokemon_could_not_evolve
-Das Pokémon konnte sich nicht entwickeln.
+這隻寶可夢無法進化
 err_pokemon_could_not_be_found
-Das Pokémon konnte nicht gefunden werden.
+沒找到這隻寶可夢
 err_item_cannot_use
-Das Item konnte jetzt nicht eingesetzt werden.
+目前無法使用這個道具
 err_pokemon_already_encountered
-Du bist diesem Pokémon bereits begegnet.
+已經遇過這隻寶可夢了
 err_cannot_change_buddy
-Kumpel konnte jetzt nicht gewechselt werden.
+目前無法替換夥伴
 err_gym_battle_completed
-Der Arenakampf wurde bereits abgeschlossen!
+已經完成這場道館對戰了！
 err_gym_battle_ended
-Der Arenakampf ist beendet!
+這場道館對戰已經結束了！
 err_fetch_raid_details
-Raid-Details konnten nicht abgerufen werden.
+無法讀取團體戰細節
 err_cannot_join_raid_group
-Du kannst dieser Raid-Gruppe nicht beitreten.
+無法參加團體戰
 err_leave_raid_lobby
-Du kannst die Raid-Lobby nicht verlassen.
+無法離開這場團體戰
 err_avatar_incorrect
-Avatar ungültig
+虛擬人偶出現錯誤
 err_raid_unavailable
-Dieser Raid ist nicht mehr verfügbar.
+這場團體戰已結束
 err_raid_lobby_not_found
-Diese Raid-Lobby existiert nicht!
+團體戰入口不存在！
 err_gym_deploy
-Dein Pokémon konnte nicht zugewiesen werden.
+無法指派這隻寶可夢
 err_bundle_request
-Content konnte nicht vom Server heruntergeladen werden.
+自伺服器下載時出現錯誤
 alola_pokedex_header
-Alola-Form
+阿羅拉的樣子
 privacy_policy_short_button
-Datenschutz
+隱私權
 pokemon_info_caught
-GEFANGEN
+捕捉
 pokemon_info_hatched
-AUSGEBRÜTET
+孵化
 pokemon_info_trade
-GETAUSCHT
+交換
 terms_of_service_url
-https://www.nianticlabs.com/terms/pokemongo/de/
+https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 no_news_message
-Keine Neuigkeiten.
+沒有快訊
 view_in_map
-Auf Karte ansehen
+在地圖中查看
 badge_chicago_fest_july_2018_sat_north_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sat_south_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sun_north_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sun_south_title
-Pokémon GO-Fest
+Pokémon GO Fest
 badge_chicago_fest_july_2018_sat_north
-Chicago, 14. Juli 2018 – Nord
+2018年7月14日 芝加哥（北）
 badge_chicago_fest_july_2018_sat_south
-Chicago, 14. Juli 2018 – Süd
+2018年7月14日 芝加哥（南）
 badge_chicago_fest_july_2018_sun_south
-Chicago, 15. Juli 2018 – Süd
+2018年7月15日 芝加哥（南）
 badge_chicago_fest_july_2018_sun_north
-Chicago, 15. Juli 2018 – Nord
+2018年7月15日 芝加哥（北）
 error_contains_bad_text
-Dieser Name enthält unzulässigen Text.
+此名稱內含不恰當的文字
 pokestop_item_passcode_inventory_full
-Dein Beutel ist voll oder du befindest dich außerhalb der Reichweite des Check-in-Ortes.
+包包已滿，或是距離可登入的地點太遠
 error_weak_network
-Deine Netzwerkverbindung ist derzeit nicht stabil. Versuche es später noch mal.
+網路狀況不穩定，請稍後再試一次
 badge_apac_partner_july_2018_1
-26. Juli 2018
+July 26, 2018
 badge_apac_partner_july_2018_2
-27. Juli 2018
+July 27, 2018
 badge_apac_partner_july_2018_3
-28. Juli 2018
+July 28, 2018
 badge_apac_partner_july_2018_4
-29. Juli 2018
+July 29, 2018
 badge_apac_partner_july_2018_5
-30. Juli 2018
+July 30, 2018
 badge_apac_partner_july_2018_1_title
-Pokémon GO-Spezialwochenende
+Pokémon GO Special Weekend
 badge_apac_partner_july_2018_2_title
-Pokémon GO-Spezialwochenende
+Pokémon GO Special Weekend
 badge_apac_partner_july_2018_3_title
-Pokémon GO-Spezialwochenende
+Pokémon GO Special Weekend
 badge_apac_partner_july_2018_4_title
-Pokémon GO-Spezialwochenende
+Pokémon GO Special Weekend
 badge_apac_partner_july_2018_5_title
-Pokémon GO-Spezialwochenende
+Pokémon GO Special Weekend

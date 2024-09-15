@@ -1,210 +1,210 @@
 onboard_welcome_screen|1
-你好！\n我是維羅博士。
+Olá!\nSou Professor Willow.
 onboard_welcome_screen|2
-你知道這世上有種叫做寶可夢的奇妙生物嗎？
+Sabia que este mundo é habitado por criaturas conhecidas como Pokémon?
 onboard_welcome_screen|3
-世界上到處都可以找到寶可夢。
+Pokémon podem ser encontrados em todo canto.
 onboard_welcome_screen|4
-有些在地上奔跑，有些在天空中飛翔，有些棲息在水邊、山林裡……
+Alguns correm por campos, outros voam pelo céu, alguns vivem em montanhas, outros em florestas ou perto d’água…
 onboard_welcome_screen|5
-我這輩子都在研究牠們的生態和分布狀況。
+Passei minha vida estudando eles e sua distribuição geográfica.
 onboard_welcome_screen|6
-你願意跟我一起做研究嗎？
+Poderia me ajudar com minha pesquisa?
 onboard_welcome_screen|7
-太棒了！你就是我要找的人！
+Maravilha!
 onboard_welcome_screen|8
-請你去世界各地收集寶可夢！
+Você terá que achar e colecionar Pokémon de todas as partes.
 onboard_welcome_screen|9
-選擇你的探險裝備吧。
+Escolha um estilo para a sua aventura.
 first_time_encounter|1
-附近就有寶可夢！
+Há um Pokémon por perto!
 first_time_encounter|2
-這裡有一些精靈球。用精靈球去捕捉寶可夢吧！
+Aqui estão algumas Poké Bolas. Elas ajudarão você a pegar um!
 onboard_caught_pokemon|1
-恭喜！\n你捉到你的第一隻寶可夢了！
+Parabéns!\nVocê pegou seu primeiro Pokémon!
 onboard_caught_pokemon|2
-你真是個有潛力的訓練家！\n我該怎麼稱呼你？
+Você é um Treinador de Pokémon talentoso!\nComo se chama?
 onboard_change_name|1
-訓練家你好！我該怎麼稱呼你？
+Oi! Como você se chama mesmo?
 onboard_name_registered|1
-真是個好名字！\n以後也請多多指教囉！
+Que nome legal!\nPrazer em conhecer você!
 onboard_name_registered|2
-在探險的路上，你會用到精靈球和其他的道具。
+Você precisará de mais Poké Bolas e de outros itens durante a sua exploração.
 visit_a_pokestop|1
-你可以在寶可補給站得到這些道具。
+Itens podem ser encontrados em Poképaradas.
 visit_a_pokestop|2
-路上的雕像、紀念碑等等，都有可能是寶可補給站喔。
+Elas estão situadas em pontos interessantes, como esculturas e monumentos.
 visit_a_pokestop|3
-接下來，請你去世界各地探險，並把捕捉到的寶可夢登錄在寶可夢圖鑑上！
+A partir de agora, você poderá explorar o mundo todo. Espero que saia por aí pegando Pokémon e os registrando no seu Pokédex!
 visit_a_pokestop|4
-來去尋找寶可夢吧！
+Vamos nessa!
 __backup__
-厲害！看來你捉到 {1} 屬性的 {0} 了！
+Bom trabalho! Parece que pegou {0}, um Pokémon de tipo {1}!
 first_time_gym_low_level|1
-這裡是道館，你可以在此測試寶可夢對戰的技巧。
+Isto é um Ginásio, um lugar onde você pode pôr à prova suas habilidades em batalhas Pokémon.
 first_time_gym_low_level|2
-看來你身為寶可夢訓練家的經驗還不是很豐富。
+Você precisa de mais experiência como Treinador de Pokémon.
 first_time_gym_low_level|3
-等你升到 {0} 級的時候再來吧！
+Volte quando alcançar o nível {0}!
 first_time_gym_team_intro|1
-哇！看來你捉了不少寶可夢，而且還累積了不少寶可夢訓練家的經驗值呢。真是太棒了！
+Parece que você adquiriu experiência como um Treinador de Pokémon!
 first_time_gym_team_intro|2
-看來你已經做好參加寶可夢對戰的準備了！
+Está na hora de participar de batalhas Pokémon!
 first_time_gym_team_intro|3
-我有3位非常優秀的助手…
+Eu tenho três ótimos assistentes.
 first_time_gym_team_intro|4
-他們各自帶領一支隊伍，在不同領域研究寶可夢。
+Cada um dirige uma equipe e possui um método diferente para pesquisar Pokémon.
 first_time_gym_team_intro|5
-在道館裡進行寶可夢對戰，也是他們研究的一環。
+Parte de sua pesquisa é conduzindo batalhas Pokémon nos Ginásios.
 first_time_gym_team_intro|6
-他們非常希望你能成為他們的一員。
+Eles não veem a hora de você fazer parte de uma equipe.
 team_yellow_intro|1
-嘿！我的名字是史帕克，我是靈犀隊的隊長。
+Ei! Me chamo Spark, sou líder da Equipe Instinto.
 team_yellow_intro|2
-寶可夢是擁有優異直覺的生物。
+Os Pokémon são criaturas com uma intuição excepcional.
 team_yellow_intro|3
-我想這優越直覺的祕密，一定和牠們誕生的過程有關。
+Acho que o segredo da intuição deles tem a ver com a forma como nascem.
 team_yellow_intro|4
-所以我研究的對象是從蛋孵化的寶可夢。
+É por isso que estou pesquisando os Pokémon que chocaram de Ovos.
 team_yellow_intro|5
-相信你的直覺，就能百戰百勝！
+Você nunca perde quando segue seus instintos!
 team_blue_intro|1
-我是布蘭雪，叡智隊的隊長。
+Me chamo Blanche, líder da Equipe Sabedoria.
 team_blue_intro|2
-寶可夢的知識博大精深。
+A sabedoria dos Pokémon é imensurável.
 team_blue_intro|3
-我在研究牠們進化的理由。
+Estou pesquisando o motivo pelo qual evoluem.
 team_blue_intro|4
-我的隊伍？
+Minha equipe?
 team_blue_intro|5
-只要冷靜分析，我們絕對不會輸…！
+Analisamos com calma toda situação, não podemos perder!
 team_red_intro|1
-我叫坎迪拉，是武勇隊的隊長！
+Me chamo Candela, sou líder da Equipe Valor!
 team_red_intro|2
-寶可夢比人類還堅強、還熱心！
+Os Pokémon são mais fortes que os humanos e são bondosos também!
 team_red_intro|3
-我在研究強化寶可夢能力的方法，尋求牠們真正的力量。
+Estou pesquisando formas de aprimorar o poder natural dos Pokémon na busca do poder verdadeiro.
 team_red_intro|4
-我們隊伍訓練出來的寶可夢在對戰中絕對是所向披靡！
+Não há dúvidas de que os Pokémon que nossa equipe treinou são os mais fortes em batalha!
 team_red_intro|5
-你準備好了嗎？
+Está pronto?
 team_yello_welcom|1
-你的選擇是對的！我就知道你會加入我這一隊！一起去參加寶可夢對戰吧！
+Boa escolha! Sabia que ia escolher a nossa equipe! Saia para se divertir em batalhas Pokémon!
 team_blue_welcom|1
-加入我這隊這是最符合邏輯的選擇。在對戰中也別忘了保持冷靜。
+A única opção lógica. Lembre-se de ficar calmo em batalha.
 quickstart_pokestopfar|1
-這是寶可補給站。
+Isto é uma Poképarada.
 quickstart_pokestopfar|2
-你可以在這裡找到精靈球和其他道具。
+É um local no mundo real onde pode-se encontrar Poké Bolas e outros itens.
 quickstart_pokestopnear|1
-當你靠近寶可補給站的時候，它的形狀會改變。試著點擊它吧。
+A Poképarada mudará de forma quando chegar perto dela. Toque-a para interagir com ela.
 quickstart_pokestopspin|1
-轉動畫面中央的轉盤，就會有道具出現喔。
+Gire o centro da estrutura para gerar itens. Toque ou passe o dedo nos itens para recolhê-los.
 quickstart_gymmap|1
-這是道館。
+Isto é um Ginásio.
 quickstart_gymmap|2
-3支隊伍會在這裡一決高下，爭奪道館的所有權。
+As equipes batalham pelo controle destes locais no mundo real.
 quickstart_gymbuttons_assign|1
-把1隻寶可夢指派到公開道館後，你的隊伍就可以占領那間道館。把你的寶可夢指派到相同顏色的我方道館，跟隊友一起防禦道館吧。
+Designe um de seus Pokémon a um Ginásio vazio para reivindicá-lo à sua equipe. Fortaleça um Ginásio amigo designando um de seus Pokémon para ajudar a defendê-lo.
 quickstart_gymbuttons_train|1
-在我方道館訓練寶可夢，便可提升道館的聲望值和等級。
+Treine seus Pokémon em um Ginásio amigo para aumentar o prestígio e o nível do Ginásio.
 quickstart_gymbuttons_battle|1
-挑戰敵方道館，降低該道館的聲望值和等級。
+Desafie um Ginásio rival para diminuir o prestígio e o nível dele.
 quickstart_battledodge|1
-對戰時，你可以左右滑動畫面來閃避攻擊。
+Durante uma batalha, deslize o dedo para a direita ou esquerda para desviar de ataques.
 appraise_intro_1|1
-嗨，{0}。我來分析一下你的 {1} 吧。
+Oi, {0}. Posso analisar seu {1} se você quiser.
 appraise_size_tiny_1|1
-你的 {0} 是我們有史以來見過最小的。太驚人了。
+Seu {0} é menor do que os que temos no registro. Impressionante.
 appraise_size_small_1|1
-你的 {0} 比一般尺寸小。
+Seu {0} está abaixo da média de tamanho.
 appraise_size_large_1|1
-你的 {0} 比一般尺寸大。
+Seu {0} está acima da média de tamanho.
 appraise_size_huge_1|1
-你的 {0} ……真是太巨大了。這個尺寸實在是異常地大。太厲害了！
+O tamanho de seu {0} é colossal. Isto é realmente incrível. Fascinante!
 appraise_stat_low_1|1
-就我個人而言，我覺得牠算是蠻普通的。
+Creio que seus dados não estão fora do normal.
 appraise_stat_mid_1|1
-牠十分地強大，能力仍在成長中。
+Seus dados estão muito bons.
 appraise_stat_high_1|1
-我必須說，牠的能力讓人驚豔。
+Devo dizer que seus dados são impressionantes.
 appraise_stat_best_1|1
-牠的能力完全超出我的預測，太不可思議了！
+Seus dados excederam meus cálculos. É Incrível!
 appraise_overall_low_1|1
-整體而言，你的 {0} 應該很難在對戰中派上用場。
+Em geral, parece que seu {0} não chegará longe em batalha.
 appraise_overall_mid_1|1
-整體而言，你的 {0} 比平均值好一些。
+Em geral, seu {0} está acima da média.
 appraise_overall_high_1|1
-整體而言，你的 {0} 吸引了我的注意力。
+Em geral, seu {0} com certeza chamou minha atenção.
 appraise_overall_best_1|1
-整體而言，你的 {0} 實在太棒了！牠是隻讓人驚豔的寶可夢！
+Em geral, seu {0} é uma maravilha! Que Pokémon deslumbrante!
 appraise_outro_1|1
-這就是我的分析。再會。
+Minha análise termina aqui. Adeus.
 appraise_intro_2|1
-你好！{0}！我們來看看你的 {1} 吧！
+Oi, {0}! Vamos dar uma olhada em seu {1}?
 appraise_size_tiny_2|1
-你的 {0} 實在太小了，我差點就沒注意到牠的存在呢！
+Seu {0} é tão pequeno que quase não o vi!
 appraise_size_small_2|1
-天啊，好小一隻 {0}！好可愛喔！
+Oun, que {0} pequeno! É muito fofo.
 appraise_size_large_2|1
-我跟你說，你的 {0} 算是蠻大的。
+Sem dúvidas, seu {0} é muito grande!
 appraise_size_huge_2|1
-你的 {0} 真是巨大！是我看過最大的！
+Seu {0} é gigante, o maior que já vi!
 appraise_stat_low_2|1
-牠的能力不太適合對戰。
+Seus dados não indicam que será bom em batalhas.
 appraise_stat_mid_2|1
-就牠的能力來看，牠在對戰中應該會有不錯的表現。
+Seus dados indicam que cumprirá seu objetivo em batalha.
 appraise_stat_high_2|1
-牠的能力真是優秀！真叫人興奮！
+Seus dados são excelentes! Que emoção!
 appraise_stat_best_2|1
-哇！牠的能力太驚人了！
+Estou impressionado com seus dados. UAU!
 appraise_overall_low_2|1
-整體而言，你的 {0} 可能不太適合對戰，但我蠻喜歡牠的！
+Em geral, seu {0} pode até não ser bom em batalha, mas gosto mesmo assim!
 appraise_overall_mid_2|1
-整體而言，你的 {0} 算是一隻不錯的寶可夢。
+Em geral, seu {0} não está nada mal.
 appraise_overall_high_2|1
-整體而言，你的 {0} 是一隻很強的寶可夢。你應該引以為傲！
+Em geral, seu {0} é muito forte. Deve estar orgulhoso!
 appraise_overall_best_2|1
-整體而言，你的 {0} 實在太有魅力了。牠一定是所向無敵啊！
+Em geral, seu {0} simplesmente me fascina. Pode conseguir o que quiser!
 appraise_outro_2|1
-希望我有幫上你的忙。冒險路上小心囉！
+Espero ter ajudado. Até mais!
 appraise_intro_3|1
-嘿！{0}！你要我看看你的 {1} 嗎？
+Ei, {0}! Quer que eu examine seu {1}?
 appraise_size_tiny_3|1
-哇喔！這是我有史以來看過最小的 {0} ！
+Ua… Uau. Este é o menor {0} que já vi!
 appraise_size_small_3|1
-你的 {0} 似乎有點偏小，你不覺得嗎？
+Seu {0} é um pouco pequeno para sua espécie, não acha?
 appraise_size_large_3|1
-你的 {0} 真的好大！
+Seu {0} é muito grande!
 appraise_size_huge_3|1
-你的 {0} 也太巨大了吧！
+Seu {0} é ENORME!
 appraise_stat_low_3|1
-牠看起來很OK，但感覺就普通了些。
+Seus dados estão... bons, eu acho, mas um pouco básicos.
 appraise_stat_mid_3|1
-相信我！牠看起來真的蠻強的！
+Tem bons dados, sem dúvida alguma!
 appraise_stat_high_3|1
-牠實在是太強了！讓人印象深刻！
+Seus dados são muito fortes. Impressionante!
 appraise_stat_best_3|1
-這是我見過最強的等級了！無庸置疑！
+Seus dados são os melhores que já vi! Sem dúvidas!
 appraise_overall_low_3|1
-整體而言，你的 {0} 還有很多進步的空間。
+Em geral, seu {0} poderia melhorar no que se refere a batalhas.
 appraise_overall_mid_3|1
-整體而言，你的 {0} 還算不錯！
+Em geral, seu {0} está muito bem!
 appraise_overall_high_3|1
-整體而言，你的 {0} 真的蠻強的！
+Em geral, seu {0} é muito forte!
 appraise_overall_best_3|1
-整體而言，你的 {0} 在對戰中應該是所向披靡！
+Em geral, seu {0} parece que pode enfrentar os melhores!
 appraise_outro_3|1
-相信我的直覺吧！拜啦！
+É o que acho! Até mais!
 appraise_stat_highest_1|1
-牠的 {0} 非常值得期待。
+Vejo que seus dados de {0} são seus melhores atributos.
 appraise_stat_highest_tie_1|1
-而且牠的 {0} 也不遑多讓。
+Seu {0} é do mesmo calibre.
 appraise_stat_highest_2|1
-{0} 是牠最強大的武器。
+Seus dados de {0} são seus atributos mais fortes.
 appraise_stat_highest_tie_2|1
-牠的 {0} 也讓我印象深刻。
+Seus dados de {0} também me impressionam.
 appraise_stat_highest_3|1
-牠的 {0} 極為強大。
+Sua melhor qualidade é <b>{0}</b>.
 appraise_stat_highest_tie_3|1
-{0} 也非常不錯！
+Seu {0} também está ótimo!

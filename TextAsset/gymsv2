@@ -1,15 +1,15 @@
 gymbadge_sort_recent
-Recente
+Data
 gymbadge_sort_alphabetical
 Nome
 gymbadge_sort_nearby
-Por perto
+Vicinanze
 gymbadge_sort_score
-Pontos
+Punti
 gymbadge_sort_progress
-Progresso
+Progressi
 day_abbrev
-d
+g
 hour_abbrev
 h
 minute_abbrev
@@ -17,428 +17,428 @@ m
 second_abbrev
 s
 gymbadge_aboutthisgym
-Sobre este Ginásio
+Info sulla Palestra
 gymbadge_totalgymactivity
-Atividade total do Ginásio
+Attività generale della Palestra
 gymbadge_statslabel_won
-Vitórias
+Vittorie
 gymbadge_statslabel_defended
-Defesa
+Difesa (giorni)
 gymbadge_statslabel_fed
-Guloseimas
+Snack
 gym_removal_notification_toast
-{0} batalhou duro e voltou!
+{0} ha lottato con tutte le sue forze e ha fatto ritorno!
 pokemon_hungry_notification_toast
-{0} precisa de guloseima!
+{0} ha bisogno di uno snack!
 pokemon_won_notification_toast
-{0} defendeu o Ginásio!
+{0} ha difeso la Palestra!
 nearby_raid_notification_toast
-Batalha de Reide por perto está para começar!
+Raid in preparazione nei dintorni!
 gym_removal_notification_toast|1
-{0} voltou após uma batalha difícil!
+{0} è tornato dopo una lotta estenuante!
 gym_removal_notification_toast|2
-{0} foi nocauteado do Ginásio!
+{0} è stato sconfitto e scacciato dalla Palestra!
 pokemon_hungry_notification_toast|1
-{0} precisa de atenção...
+{0} ha bisogno di cure...
 pokemon_hungry_notification_toast|2
-{0} quer uma Fruta!
+{0} vuole una bacca!
 pokemon_won_notification_toast|1
-{0} venceu a batalha!
+{0} è stato vittorioso nella lotta!
 pokemon_won_notification_toast|2
-{0} derrotou seus oponentes!
+{0} ha trionfato contro i tuoi avversari!
 nearby_raid_notification_toast|1
-Há uma Batalha de Reide para começar perto de você!
+Un raid sta per iniziare nei dintorni!
 nearby_raid_notification_toast|2
-Uma Batalha de Reide por perto irá começar!
+Un raid sta per cominciare nelle vicinanze!
 raid_timer_label1
-Esperando por outros Treinadores...
+In attesa dell’altro Allenatore...
 raid_timer_label2
-Selecione seu Pokémon.
+Scegli i tuoi Pokémon...
 raid_members
-Membros do Reide
+Partecipanti al raid
 raid_group_code
-Código de grupo
+Codice gruppo
 raid_howto_button
-Como jogar
+Come giocare
 raid_join_button
-Participar
+Partecipa
 raid_join_private_button
-Inserir código de grupo
+Inserisci il codice del gruppo
 raid_leave_lobby_prompt
-Se sair deste grupo não poderá voltar para ele.\n\n Quer sair deste grupo?
+Non potrai più unirti a questo gruppo se lo abbandoni adesso.\n\n Vuoi davvero abbandonarlo?
 raid_group_code_intro
-Você pode batalhar com amigos inserindo o código de grupo deste grupo.
+Se inserisci il codice del loro gruppo, puoi lottare insieme ai tuoi amici.
 raid_join_private_group_button
-Participar
+PARTECIPA
 raid_create_private_group_button
-Criar grupo
+Crea gruppo
 raid_join_private_lobby_invalid_code
-Este código de grupo é inválido. Insira um código válido.
+Questo codice di gruppo non è valido. Inserisci un altro codice.
 settings_push_notification_header
-Notificações por push
+Notifiche Push
 settings_low_happiness
-Motivação baixa
+Motivazione bassa
 settings_pokemon_return
-Retorno de Pokémon
+Ritorno di un Pokémon
 settings_battle_victory
-Vitória da batalha
+Vittoria in una lotta
 raid_already_completed
-Você já completou esta Batalha de Reide.
+Hai già completato questo raid.
 rare_candy_usage_confirmation
-Transformar um Doce Raro em um doce {0}?
+Vuoi trasformare una Caramella Rara in una caramella {0}?
 item_rare_candy_name
-Doce Raro
+Caramella Rara
 item_rare_candy_desc
-Um doce misterioso. Quando é usado em um Pokémon, se converte em um doce daquela espécie.
+Una caramella misteriosa. Se usata su un Pokémon, si trasforma in una caramella di quella specie.
 item_move_reroll_fast_attack_name
-MT ataque ágil
+MT attacco veloce
 item_move_reroll_fast_attack_desc
-Esta Máquina Técnica ensina um novo ataque ágil a um Pokémon.
+Questa Macchina Tecnica insegna a un Pokémon un nuovo attacco veloce.
 item_move_reroll_special_attack_desc
-Esta Máquina Técnica ensina um novo ataque carregado a um Pokémon.
+Questa Macchina Tecnica insegna a un Pokémon un nuovo attacco caricato.
 item_move_reroll_special_attack_name
-MT ataque carregado
+MT attacco caricato
 special_move_reroll_confirm_title
-Quer ensinar um novo ataque carregado a {0}?
+Vuoi insegnare a {0} un nuovo attacco caricato?
 move_reroll_confirm_desc
-{0} esquecerá {1}.
+{0} dimenticherà {1}.
 quick_move_reroll_confirm_title
-Quer ensinar um novo ataque ágil a {0}?
+Vuoi insegnare a {0} un nuovo attacco veloce?
 move_reroll_success_message
-{0} aprendeu um novo ataque!
+{0} ha imparato un nuovo attacco!
 raid_team_contribution
-Contribuição por equipe
+Contributo della squadra
 raid_lobby_locked
-REIDE CHEIO
+RAID AL COMPLETO
 raid_timer_label3
-Contagem regressiva para a Batalha de Reide.
+Il conto alla rovescia del raid è iniziato.
 gym_please_buy_raid_ticket
-Você pode comprar um Passe de Reide para participar da Batalha de Reide.
+Per partecipare a questo raid occorre acquistare prima un biglietto.
 filter_hint1
-Procurar por {0}
+Per {0}
 filter_hint2
-Por nome/apelido
+Per nome/soprannome
 filter_hint3
-Por num. do Pokédex: 23-145
+Per N. Pokédex (es. 23–145)
 filter_hint4
-Por {0}, ex.: {1}, {2}-{3}
+Per {0}/{1}, (es. {2}/{3})
 filter_hint5
-Evoluir {0}: \"{1}\"
+{0} evolvibili con “{1}”
 filter_hint6
-Evolução de {0}, ex.: +{1}
+Evoluzione {0} (es. +{1})
 filter_hint7
-Use vários filtros com ","
+Per più filtri, usa “,”.
 filter_hint8
-Por tipo: {0}, {1}
+Per tipo: {0}, {1}
 shop_battle_tickets_title
-Obtenha um Passe de Reide.
+Acquista un biglietto raid.
 item_free_raid_ticket_name
-Passe de Reide
+Biglietto raid
 item_free_raid_ticket_desc
-Passe para participar de uma Batalha de Reide. Você pode obter um passe gratuito em Ginásios uma vez por dia se ainda não tiver um.
+Un biglietto per partecipare a un raid. Se non hai già un biglietto raid, puoi ottenerne gratuitamente uno al giorno presso una Palestra.
 item_paid_raid_ticket_name
-Passe de Reide Premium
+Biglietto raid premium
 item_paid_raid_ticket_desc
-Passe de Reide Premium para participar de uma Batalha de Reide. Você pode usar este passe a qualquer hora.
+Un biglietto speciale per partecipare a un raid. Puoi usare questo biglietto quando vuoi.
 use_raid_ticket_confirmation
-Use um Passe de Reide para participar da Batalha de Reide.
+Usa un biglietto raid per partecipare a questo raid
 pokecoins_daily_limit_reached
-Limite diário de {0} Pokémoedas alcançado.
+La quota limite giornaliera di {0} Pokémonete è stata raggiunta.
 received_free_item_title
-Você recebeu 1 {0} de graça!
+Hai ricevuto in regalo lo strumento {0}!
 gymbadge_timeelapsed
-Defesa
+Difesa (tempo)
 raid_private_group
-PRIVADO
+PRIVATO
 raid_remove_private_from_lobby_prompt
-Quer abrir o grupo ao público?\n\nNão poderá desfazer esta ação.
+Vuoi rendere questo gruppo aperto al pubblico?\n\nQuest’azione non potrà essere annullata.
 raid_message_select_your_pokemon
-Selecione seus Pokémon para a batalha!
+Scegli i Pokémon con cui lottare!
 raid_battle_retreat_confirmation
-Tem certeza de que quer sair?
+Vuoi davvero abbandonare?
 raid_message_get_back_into_battle
-Cure seus Pokémon e retorne à batalha!
+Cura i tuoi Pokémon prima di continuare a lottare!
 raid_timer_label4
-Contagem regressiva para o final da batalha
+Conto alla rovescia per la fine della lotta
 team_picker_last_team
-Equipe de batalha anterior
+Squadra usata nella lotta precedente
 team_picker_title_load
-Carregar equipe de batalha
+Carica squadra lotta
 team_picker_title_save
-Salvar equipe de batalha
+Salva squadra lotta
 team_picker_fainted_pokemon_warning
-Sua equipe atual não pode participar da batalha. Cure seus Pokémon primeiro.
+La tua squadra non può partecipare alla lotta. Cura prima i tuoi Pokémon.
 battle_intro_battles_won
-Batalhas vencidas: {0}
+Lotte vinte: {0}
 team_picker_default_team_name
-Equipe {0}
+Squadra: {0}
 team_picker_optimize
-Otimizar
+Ottimizzata
 team_picker_set_team_name
-Defina o nome da equipe.
+Scegli un nome per questa squadra lotta
 team_picker_team_not_set
-Anular
+Senza nome
 gym_feed_pokemon_full
-{0} está cheio! Tente dar uma guloseima a outros Pokémon.
+{0} non ha più fame! Prova a dare uno snack a un altro Pokémon.
 gym_feed_pokemon_berry_timeout
-{0} está cansado desta Fruta.
+{0} non ne vuole più sapere di questa bacca.
 gym_feed_pokemon_timeout
-{0} está muito feliz. Tente dar guloseimas a outros Pokémon.
+{0} è a posto. Prova a dare snack agli altri Pokémon.
 avatar_detail_pokemon_caught
-Pokémon pegos
+Pokémon catturati
 avatar_detail_walking_distance
-Distância a pé
+Distanza percorsa
 avatar_detail_battle_won
-Batalhas vencidas
+Lotte vinte
 avatar_detail_total_activities
-Total de atividades
+Riepilogo attività
 raid_tut_group_forming_message
-O grupo será organizado automaticamente.
+I giocatori del gruppo lotta verranno abbinati in modo automatico.
 gym_out_of_range
-O Ginásio está fora de alcance!
+Palestra troppo distante!
 general_go_to_shop
-Ir para a loja
+VAI AL NEGOZIO
 general_quit
-Sair
+ESCI
 raid_tut_group_forming
-FORMAÇÃO DE GRUPOS
+FORMAZIONE DEL GRUPPO
 raid_tut_how_to_battle_message
-Toque na tela para atacar o chefe do Reide! Pressione o botão de ataque carregado para usar seu ataque carregado quando o medidor de ataque estiver cheio!
+Tocca lo schermo per attaccare il boss di questo raid! Tieni premuto per usare il tuo attacco caricato quando l’indicatore è pieno!
 raid_tut_how_to_battle
-BATALHAR
+LOTTA
 raid_tut_pass_message
-Você precisa de um Passe de Reide para batalhar. Você só pode obter um Passe de Reide grátis por dia se não tiver um. Você pode adquirir Passes de Reide Premium na loja.
+Per partecipare alla lotta ti occorre un biglietto raid. Puoi riceverne gratuitamente uno ogni giorno, ma puoi sempre e solo averne uno alla volta. In alternativa, puoi acquistare dei biglietti raid premium al negozio.
 raid_pass_caps
-PASSE DE REIDE
+BIGLIETTO RAID
 raid_tut_what_is_raid_message
-Reide é uma batalha na qual você e até 20 outros Treinadores trabalham juntos para derrotar o chefe de Reide, que é um Pokémon extremamente poderoso. Vença para receber recompensas fantásticas e ter a oportunidade de pegar um Pokémon mais forte do que o normal!
+Un raid è una lotta dove potrai collaborare con un massimo di altri 20 Allenatori per sconfiggere un boss, ovvero un Pokémon estremamente potente. Se vincete, ogni giocatore riceverà fantastici premi e la possibilità di catturare un Pokémon più forte del normale.
 raid_tut_what_is_raid
-O QUE É UM REIDE?
+COS’È UN RAID?
 raid_enter_group_code
-Grupo Privado
+GRUPPO PRIVATO
 raid_public_warning_message
-Se mudar este grupo para público, qualquer um poderá participar dele e batalhar ao seu lado.\n\nSeu grupo não poderá voltar a ser privado uma vez que o mude para público.\nTem certeza de que quer tornar este grupo público?
+Se rendi pubblico questo gruppo, qualsiasi giocatore potrà parteciparvi e unirsi alla lotta.\n\nUna volta reso pubblico un gruppo, non è più possibile farlo diventare nuovamente privato.\nVuoi davvero rendere questo gruppo pubblico?
 raid_change_to_public
-Mudar para público
+RENDI PUBBLICO
 raid_share_private_code_message
-Compartilhe este código de grupo com seus amigos. Eles poderão se juntar a você inserindo este código de grupo.
+Condividi questo codice gruppo con i tuoi amici. In questo modo potranno unirsi a te nella lotta.
 raid_private_lobby_success_message
-Juntou-se a um grupo com sucesso!
+Ora fai parte di un gruppo!
 raid_rejoin_battle
-Voltar à batalha
+RIUNISCITI ALLA LOTTA
 battle_summary
-RESUMO
+RIEPILOGO
 raid_defeat_boss
-Chefe derrotado
+Boss sconfitto
 raid_damage_bonus
-Dano
+Danni
 raid_gym_ownership
-Controle do Ginásio
+Controllo della Palestra
 general_total_caps
-TOTAL
+TOTALE
 raid_bonus_challenge
-Ir ao desafio de bônus
+VAI ALLA SFIDA BONUS
 profile_gymbadges_recently_visited
-Visitados recentemente
+Visitate di recente
 profile_category_gymbadges
-Insígnias de Ginásio
+Medaglie
 gym_spinner_team_bonus
-Bônus de equipe
+Bonus squadra
 raid_raid
-Batalha de Reide
+Raid
 raid_level_caps
-Nível de Reide
+LIVELLO RAID
 raid_suggested_group_size
-Tamanho de grupo sugerido
+DIMENSIONE DEL GRUPPO SUGGERITA
 raid_nearby_ongoing
-Em curso
+In corso
 gym_battle_continue_battles_won_stat
-Batalhas vencidas: {0}
+LOTTE VINTE: {0}
 gym_battle_victory_subtitle
-Você derrotou este Ginásio!
+Hai sconfitto questa Palestra!
 gym_battle_defeat_body
-Todos os seus Pokémon desmaiaram!
+I tuoi Pokémon sono tutti esausti!
 gym_battle_defeat_footer
-Tente de novo.
+Riprova.
 raid
-Reide
+raid
 gym_pokemon_you_fed_not_there
-O Pokémon ao qual tentou dar guloseimas não está mais aí!
+Il Pokémon al quale hai provato a dare uno snack non c’è più!
 raid_try_again
-Selecione novos Pokémon ou reanime e cure seus Pokémon desmaiados e volte para a batalha!
+Seleziona nuovi Pokémon, oppure cura o rianima quelli attuali, per tornare a lottare!
 raid_defeat_message
-Todos os seus Pokémon desmaiaram!
+I tuoi Pokémon sono tutti esausti.
 general_battle
-Batalha
+LOTTA
 gym_deployment_time_format
-{0} d {1} h {2} m
+{0} g {1} h {2} m
 free_raid_ticket_details_desc
-Passe para participar de uma Batalha de Reide. Você pode obter um passe gratuito em Ginásios uma vez por dia se ainda não tiver um.\n\nSe quiser participar em mais de um Reide por dia, terá que comprar passes da loja.
+Biglietto per partecipare a un raid. Se non ne hai già uno, puoi ottenere un biglietto raid al giorno da una Palestra.\n\nSe desideri partecipare a più di un raid al giorno, puoi acquistare dei biglietti raid al negozio.
 paid_raid_ticket_details_desc
-Passe de Reide Premium para participar de uma Batalha de Reide. Você pode usar este passe a qualquer hora.\n\nVisite a loja para adquirir mais passes.
+Biglietto raid premium per partecipare a un raid. Puoi usare questo biglietto quando vuoi.\n\nPer ottenerne altri, visita il negozio.
 battle_prep_opponents_header
-Oponentes
+Avversari
 gym_feed_pokemon_busy
-Tente de novo.
+Riprova più tardi.
 gymbadge_sort_defending
-Defendendo
+In difesa
 raid_finding_players
-Encontrando outros jogadores...
+Ricerca di altri giocatori in corso
 gym_same_team_deploy_lockout
-O Ginásio está sendo atacado! Tente de novo mais tarde.
+Questa Palestra è sotto attacco! Riprova più tardi.
 screen_title_badge_collection
-Insígnias de Ginásio
+Medaglie
 profile_no_gymbadges
-Nenhuma
+Nessuna
 free_ticket_bag_full_error
-Sua Bolsa está cheia. Abra espaço para um Passe de Reide.
+La tua Borsa è piena. Fai spazio se desideri avere un biglietto raid.
 raid_level
-Dificuldade
+Difficoltà
 battle_prep_my_team_header
-Minha equipe
+La mia squadra lotta
 battle_prep_go
-Batalhar!
+Attacca!
 raids_no_nearby
-Não há Reides por perto.
+Non ci sono raid da queste parti.
 gymbadge_you_earned
-Insígnia de Ginásio recebida!
+Hai ricevuto una Medaglia!
 award_badge_new_badge
-Defenda seus Ginásios e ataque Ginásios oponentes para aumentar o nível das suas Insígnias de Ginásio.
+Difendi le Palestre della tua squadra e attacca le Palestre rivali per aumentare il livello delle tue Medaglie.
 gym_feed_raid_active
-Um chefe de Reide tomou controle do Ginásio. Tente de novo após o chefe ter saído.
+Un boss ha assunto il controllo di questa Palestra. Riprova quando il boss sarà andato via.
 gym_next_battle
-Batalhar
+Lotta
 gym_battle_leave
-Sair
+Abbandona
 gym_battle_next
-Próximo:
+Prossimo sfidante:
 error_no_available_lobbies
-Não há grupos com este código.
+Non è stato trovato alcun gruppo con quel codice.
 error_lobby_visibility
-Um erro ocorreu durante a apresentação de Reide.
+Si è verificato un errore durante la presentazione del raid.
 error_start_raid_battle
-Um erro ocorreu ao tentar iniciar um Reide.
+Si è verificato un errore nel processo di avviamento del raid.
 error_pokemon_team_update
-Um erro ocorreu ao tentar atualizar sua equipe.
+Si è verificato un errore nel processo di aggiornamento della tua squadra lotta.
 error_join_lobby
-Um erro ocorreu ao tentar participar do Reide.
+Si è verificato un errore nel processo di iscrizione al raid.
 gym_badge_list_button
 Lista
 raid_defeat_try_again
-Selecione novos Pokémon ou cure seus Pokémon desmaiados e volte para a batalha!
+Seleziona altri Pokémon oppure cura quelli esausti per continuare a lottare!
 raid_time_out_try_again
-Você não derrotou o chefe de Reide a tempo. Tente de novo.
+Non hai sconfitto il boss in tempo. Riprova più tardi.
 item_golden_razz_berry_name
-Fruta Frambo dourada
+Baccalampon dorata
 item_golden_razz_berry_desc
-Dê isto a um Pokémon para pegá-lo com mais facilidade.
+Dalla a un Pokémon e sarà molto più facile catturarlo.
 encounter_raid_pokemon_appeared
-Desafio de bônus! Pegue {0}!
+Sfida bonus! Cattura {0}!
 raid_need_a_viable_raid_team
-Você não tem Pokémon preparados para batalhar. Por favor, cure seus Pokémon.
+Nessuno dei tuoi Pokémon è in grado di lottare. Devi prima curarli.
 error_raid_active
-Um chefe de Reide assumiu o controle do Ginásio!
+Un boss ha assunto il controllo di questa Palestra!
 badges_tut_description
-Visite um Ginásio e gire o fotodisco para ganhar uma Insígnia de Ginásio. Desbloqueie itens defendendo os Ginásios de sua equipe e atacando Ginásios oponentes!
+Visita le Palestre e fai girare i dischi foto per aggiudicarti delle Medaglie. Guadagna strumenti e premi difendendo le Palestre della tua squadra e attaccando Palestre rivali.
 profile_gymbadges_help
-Saiba mais
+Per saperne di più
 gym_tut_title_1
-OBTER ITENS
+Ottieni Strumenti
 gym_tut_title_2
-DESIGNAR POKÉMON
+Assegna Pokémon
 gym_tut_title_3
-MOTIVAÇÃO
+Motivazione
 gym_tut_title_4
-DAR FRUTAS
+Dai bacche
 gym_tut_desc_1
-Você agora pode encontrar itens em Ginásios girando seus fotodiscos.
+Adesso puoi trovare strumenti nelle Palestre facendo girare i loro dischi foto.
 gym_tut_desc_2
-Você pode designar seus Pokémon para defender um Ginásio usando o botão "Designar Pokémon" em um Ginásio amigo. Após seu Pokémon ser designado, você verá seu medidor de motivação.
+Puoi assegnare i tuoi Pokémon a difesa di una Palestra usando il pulsante “Assegna Pokémon” in una Palestra della tua squadra. L’indicatore della motivazione apparirà solo dopo l’assegnazione del Pokémon.
 gym_tut_desc_3
-A motivação de um Pokémon diminuirá com o passar do tempo e quando for derrotado em batalha. Quando um Pokémon sem motivação for derrotado, não defenderá o Ginásio e voltará para seu Treinador.
+La motivazione dei Pokémon diminuisce lentamente o quando vengono sconfitti. Se un Pokémon che ha perso completamente la motivazione viene sconfitto, smetterà di difendere la Palestra e tornerà dal suo Allenatore.
 gym_tut_desc_4
-Dê Frutas aos Pokémon para manter sua motivação e força em batalha!
+Dai le bacche ai tuoi Pokémon per mantenere alta la loro motivazione e la loro forza durante la lotta.
 no_usable_items_error
-Não há itens usáveis.
+Strumenti non utilizzabili
 gym_battle_victory_title
-Mandou bem!
+Grande!
 tm_no_other_moves
-Não pode aprender outros movimentos!
+Non può imparare altre mosse.
 disabled_low_stamina
-O Pokémon deve ter os PS completos.
+Il Pokémon deve avere tutti i PS.
 disabled_buddy
-Você não pode designar seu Pokémon companheiro para defender um Ginásio.
+Non puoi assegnare il tuo compagno a difesa di una Palestra.
 badge_raid_battle_won
-Vença {0} Reides.
+Raid vinti: {0}
 badge_hours_defended_title
-Líder de Ginásio
+Capopalestra
 badge_hours_defended
-Horas defendendo Ginásios: {0}
+Tempo difesa Palestre: {0}
 badge_hours_defended_value_format
 N0
 badge_berries_fed_title
-Mestre das Frutas
+Asso delle bacche
 badge_berries_fed
-Frutas dadas nos Ginásios: {0}
+Bacche date nelle Palestre: {0}
 badge_berries_fed_value_format
 N0
 badge_raid_battle_won_value_format
 N0
 badge_raid_battle_won_title
-Campeão
+Campione
 gym_deploy_raid_active
-Um chefe de Reide tomou controle do Ginásio. Tente de novo após o chefe ter saído.
+Il boss di un raid ha preso il controllo della Palestra. Riprova quando se ne sarà andato.
 error_too_many_deployed
-Você já designou o número máximo de Pokémon a Ginásios!
+Hai raggiunto il numero massimo di Pokémon assegnati a una Palestra.
 disabled_max_same_defender
-Só um exemplar por espécie pode ser designado ao mesmo tempo para defender um Ginásio.
+Solo un esemplare per specie allo stesso tempo può essere assegnato a difesa di una Palestra.
 error_fort_is_full
-Número máximo de Pokémon designado a este Ginásio.
+La Palestra ha raggiunto il numero massimo di Pokémon assegnati.
 award_badge_rank_up
-Defenda Ginásios amigos e ataque Ginásios oponentes para aumentar o nível das suas Insígnias de Ginásio.
+Difendi le Palestre della tua squadra e attacca le Palestre rivali per aumentare il livello delle tue Medaglie.
 raid_not_yet_available
-As Batalhas de Reide não estão disponíveis para seu nível.\nTente de novo mais tarde.
+Ci dispiace, ma i raid non sono disponibili al tuo livello.\nRiprova più avanti.
 raid_private_lobby_created_success_message
-Grupo criado com sucesso!
+Hai creato un gruppo!
 pokestop_button_read_qr_code
-LER O CÓDIGO QR
+LEGGI CODICE QR
 pokestop_button_manual_input
-ENTRADA MANUAL
+INSERIMENTO MANUALE
 pokestop_check_in_manual_entry_title
-INSERIR CÓDIGO DE REGISTRO
+INSERISCI CODICE ISCRIZIONE
 pokestop_check_in_notice
-Bem-vindo a {0}!\nUse a câmera para ler o código QR para se registrar.
+Benvenuto all’evento {0}!\nUsa la tua fotocamera per leggere il codice QR per l’accettazione.
 pokestop_check_in_succeeded
-REGISTRO COMPLETADO
+ACCETTAZIONE COMPLETATA
 disabled_max_same_defenders
-Só um exemplar por espécie pode ser designado ao mesmo tempo para defender um Ginásio.
+Solo un esemplare per specie allo stesso tempo può essere assegnato a difesa di una Palestra.
 gym_closed_exclusive_raid_not_invited
-Este Ginásio está fechado para um Reide EX.\nSerá reaberto às {0}.
+Questa Palestra è chiusa per un raid EX.\nRiaprirà alle {0}.
 disabled_legendary
-Os Pokémon Lendários não podem ser deixados nos Ginásios.
+I Pokémon leggendari non possono essere lasciati nelle Palestre.
 team_picker_title
-Carregar e salvar as equipes de batalha
+Carica/salva squadre lotta
 team_picker_load
-Carregar
+Carica
 team_picker_save
-Salvar
+Salva
 battle_prep_create_team
-Selecione seus novos Pokémon!
+Scegli i tuoi Pokémon...
 battle_prep_new_team
-Nova equipe de batalha
+Nome squadra
 battle_prep_recommended_team
-Equipe de batalha recomendada
+Squadra lotta consigliata
 screen_title_pokemon_inventory_party
-EQUIPE
+SQUADRA
 raid_ticket_event
 Evento
 filter_key_defender
-defensor
+difensore
 filter_key_legendary
-lendário
+leggendario
 filter_key_shiny
-Brilhante
+cromatico
 filter_key_mythical
-Mítico
+misterioso
 filter_key_alola
-Alola
+di Alola
