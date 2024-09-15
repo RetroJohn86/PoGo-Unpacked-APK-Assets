@@ -1,554 +1,556 @@
 test_key
-テスト
+Test
 screen_you_title
-自分
+me
 screen_friends_title
-フレンド
+friends
 social_add_friends
-フレンド追加
+Add Friend
 friend_code_title
-トレーナーコード
+Trainer Code
 enter_friend_code_prompt
-フレンドに登録したいトレーナーのコードを入力してください
+To add someone to your Friend List, enter their Trainer Code.
 your_friend_code_title
-自分のトレーナーコード
+Your Trainer Code
 other_section_title
-コード入力以外の方法
+Other
 send_gift_action
-ギフトを贈る
+Send Gift
 trade_action
-交換
+Trade
 incoming_friend_request_prompt
-フレンド申請が{0}件届いています
+{0} people sent you Friend Requests.
 incoming_friend_request_prompt_singular
-フレンド申請が1件届いています
+One person sent you a Friend Request.
 screen_title_friend_requests
-フレンド申請
+Friend Requests
 accept_friend_request_prompt
-フレンド申請が届いています
+Sent you a Friend Request!
 became_friends_prompt
-{0}さんとフレンドになりました！
+You and {0} are now friends.
 sent_friend_request_prompt
-フレンド申請を送りました
+You sent a Friend Request.
 share_title
-共有
+Share
 your_friend_code_desc
-このコードを入力してもらうとフレンドになれます
+Others can input this Trainer Code to add you as a friend.
 social_add_friend_qr
-二次元バーコード
+QR Code
 social_add_friend_facebook
-Facebookに接続
+Import friends from Facebook
 friend_sent_you_gift_notification
-{0}さんからギフトが贈られてきました！
+{0} sent you a Gift!
 select_giftbox_to_send_prompt
-どのギフトを贈りますか？
+Which Gift do you want to send?
 send_giftbox_prompt
-ギフトを贈る
+Send Gift
 gift_from_prompt
-幸せのおすそ分け。
+Greetings from
 friend_request_accepted_prompt
-{0}さんとフレンドになりました！
+You and {0} are now friends!
 error_opened_daily_max_number_of_gifts
-一日に開くことができる上限数に達しました
+Daily limit reached. Come back tomorrow to open more Gifts.
 remove_friend_confirmation
-本当にフレンドを削除してもいいですか？
+Are you sure you want to remove this friend?
 error_already_sent_gift_today
-今日すでにギフトを贈っています
+You already sent this Trainer a Gift today.
 error_friend_has_unopened_gift
-フレンドがまだギフトを開けていません
+Your friend still has an unopened Gift from you.
 error_player_not_found
-トレーナーコードが無効です：トレーナーがみつかりません
+Invalid Trainer Code; Trainer not found.
 error_friend_request_does_not_exist
-フレンド申請がみつかりません
+Friend Request does not exist.
 error_senders_friends_list_full
-{0}さんのフレンドリストはいっぱいです
+{0}'s Friend List is full.
 error_friends_list_full
-フレンドリストがいっぱいです！
+Your Friend List is full.
 friend_request_declined_prompt
-申請を拒否しました
+You declined this Friend Request.
 error_get_friends_requests_failed
-フレンド申請が取得できませんでした
+Failed to get Friend Requests. Try again later.
 error_get_friends_list_failed
-フレンドリストが取得できませんでした
+Failed to get Friend List. Try again later.
 error_send_friend_request_title
-{0}さんにフレンド申請を送ることができませんでした
+Failed to send a Friend Request to {0}.
 error_player_already_friend
-すでにフレンドになっています
+You're already friends with this Trainer.
 error_friend_request_max_friends
-フレンドリストがいっぱいです！
+Your Friend List is full.
 error_friend_request_friend_inbox_full
-相手のフレンド申請がいっぱいです
+This Trainer has too many pending Friend Requests.
 error_max_friend_requests_sent
-フレンド申請数の上限に達しました
+You've sent all the Friend Requests you can right now.
 sent_you_a_gift
-{0}さんからギフトが届いています！
+{0} sent you a Gift!
 item_friend_gift_box_name
-ギフト
+Gift
 item_friend_gift_box_desc
-贈られたフレンドだけが開けることができるギフト。冒険に必要なアイテムの詰め合わせ。
+A box that you can send to a friend. Contains a variety of useful items.
 sent_friend_request_success
-{0}さんにフレンド申請を送りました！
+You sent a Friend Request to {0}!
 friendslist_sort_lastactivity
-最近のポケ活
+Last Activity
 friendslist_sort_level
-仲良し度
+Friendship Level
 friendslist_sort_alphabet
-名前
+Name
 giftbox_log_opened
-{0}さんからのギフトを開けた！
+Opened a Gift from {0}.
 today
-今日
+Today
 yesterday
-昨日
+Yesterday
 two_plus_days_ago
-2日以上前
+2+ days ago
 manage_items_button
-道具整理
+Manage Items
 upgrade_item_bag_button
-バッグ アップグレード
+Upgrade Item Bag
 error_open_gift_bag_full
-持ち物がいっぱいです
+Please make space or upgrade your item Bag before opening the Gift.
 friend_opened_your_gift
-{0}さんがギフトを開けてアイテムを{1}個受け取りました！
+{0} received {1} items from your Gift!
 friend_opened_your_gift_singular
-{0}さんがギフトを開けてアイテムを1個受け取りました！
+{0} received 1 item from your Gift.
 social_remove_friend
-フレンド削除
+Remove Friend
 send_gift_prompt
-ギフトを贈る
+Send a Gift
 friendship_strengthened
-{0}さんとの仲良し度が高まった
+Friendship level with {0} increased!
 trade_select_header
-交換に出すポケモン
+Pokémon to Trade
 trade_exclusion_reason_mythical
-幻のポケモンは交換できません
+Mythical Pokémon can't be traded.
 trade_exclusion_reason_slashed
-このポケモンは交換できません
+This Pokémon can't be traded.
 trade_exclusion_reason_disabled
-エラーが発生したため交換できません
+This Pokémon can't be traded due to an error.
 share_my_friend_code_message
-Pokémon GO フレンドになりましょう！わたしのトレーナーコードは{0}です！
+Let's be friends in Pokémon GO! My Trainer Code is {0}!
 friendship_milestone_notification_toast
-{0}さんと「友達」になった！
+You and {0} are now Good Friends!
 friendship_detail_unlock_reqs_singular
-あと{0}日一緒にプレイして{1}に！
+Play together for {0} more days to become {1}s!
 friendship_detail_unlock_reqs_plural
-あと{0}日間一緒にプレイして{1}に！
+Play together for {0} more days to become {1}s!
 friendship_detail_capabilities
-ボーナス
+Bonus
 friendship_detail_just_friends
-仲良し度が上がるともらえるボーナスがあります。ハートアイコンをタップして見てみましょう。
+If you increase your Friendship level, you'll earn bonuses! Tap a heart to see more.
 friendship_detail_trade
-交換
+Trade
 friendship_detail_battle
-ジムバトル・レイドバトル
+Gym Battle / Raid Battle
 raid_friendship_bonus
-仲良し度ボーナス
+Friendship
 friendship_strengthened_header
-仲良し度が上昇
+Friendship Level Increased
 friendship_detail_attack_bonus
-アタックボーナス
+Attack bonus
 friendship_detail_raid_bonus
-レイドボーナス
+Raid bonus
 gym_battle_victory_subtitle_alone
-ジムをやぶった
+You defeated this Gym
 gym_battle_victory_subtitle_with_friend
-ジムを一緒にやぶった
+You defeated this Gym with
 friendship_level_0
-知り合い
+Friend
 friendship_level_1
-友達
+Good Friend
 friendship_level_2
-仲良し
+Great Friend
 friendship_level_3
-親友
+Ultra Friend
 friendship_level_4
-大親友
+Best Friend
 friendship_detail_ball_singular
-ボール +{0}
++{0} Ball
 friendship_detail_ball_plural
-ボール +{0}
++{0} Balls
 friendship_milestone_notification_toast_3
-{0}さんと「仲良し」になった！
+You and {0} are now Great Friends!
 friendship_milestone_notification_toast_4
-{0}さんと「親友」になった！
+You and {0} are now Ultra Friends!
 friendship_milestone_notification_toast_5
-{0}さんと「大親友」になった！
+You and {0} are now Best Friends!
 friend_singular
-フレンド
+friend
 friend_plural
-フレンド
+friends
 see_details
-詳細を見る
+SEE DETAILS
 sent_gift_to_friend
-{0}さんにギフトを贈った！
+Sent a Gift to {0}.
 settings_gift_received
-ギフトの受領
+Gift Received
 error_no_gifts_in_inventory
-ギフトを持っていません。ポケストップで手に入れましょう！
+You have no Gifts in your inventory. Visit a PokéStop to look for them!
 trade_detail_appraisal
-調べる
+Appraisal:
 trade_exclusion_reason_friend_level
-仲良し度を上げる必要があります
+Your Friendship level with this friend isn't high enough to complete this trade.
 trade_exclusion_reason_traded
-もう一度交換できません
+This Pokémon can't be traded again.
 trade_exclusion_reason_gym_deployed
-ジムに配置されています
+This Pokémon is assigned to a Gym.
 trade_exclusion_reason_buddy
-相棒のポケモンは交換できません
+This Pokémon is your Buddy Pokémon.
 trade_exclusion_reason_stamina
-弱っているポケモンは交換できません
+This Pokémon is not at full health.
 attack_bonus
-アタックボーナス
+Attack Bonus
 raid_bonus_ball
-レイドボーナス
+Raid Bonus Balls
 new_feature_unlocked
-アンロックされたボーナス
+New Bonuses Unlocked
 error_cannot_invite_yourself
-フレンドリストには自分を追加できません
+You can't add yourself to your own Friend List!
 change_your_code_button
-自分のコードを変える
+CHANGE MY CODE
 change_your_code_title
-トレーナーコード変更
+Change your Trainer Code
 change_your_code_message
-トレーナーコードの変更を続けますか？変更前のトレーナーコードは使用できなくなりますが、すでにリストに加えられているフレンドへの影響はありません。
+Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 your_code_changed
-トレーナーコードが変更されました
+Trainer Code has been changed.
 badge_max_level_friends
-トレーナー{0}人と「大親友」になれた！
+Become Best Friends with {0} Trainers.
 badge_max_level_friends_value_format
 N0
 error_invite_already_sent
-このトレーナーにはすでに招待状を送っています。
+You have already sent an invite to this Trainer.
 badge_max_level_friends_singular
-トレーナー{0}人と「大親友」になれた！
+Become Best Friends with {0} Trainer.
 screen_title_notification
-通知
+Notifications
 badge_max_level_friends_title
-アイドル
+Idol
 badge_trading_distance_title
-パイロット
+Pilot
 badge_trading_title
-ジェントルマン
+Gentleman
 trade_exclusion_reason_egg
-タマゴは交換できません
+Eggs can't be traded.
 trade_tut_stardust_needed
-ほしのすなが必要
+Trade with Stardust
 trade_tut_stardust_needed_message
-どのようなポケモンを交換するかによって必要なほしのすなの量は決まります。特別なポケモンを交換するためには、より多くのほしのすなが必要になります。「仲良し度」が上がると必要なほしのすなの量は減っていきます。
+The amount of Stardust needed for trading varies. Trades for certain Pokémon are called Special Trades and require more Stardust. Increasing your Friendship level will reduce the amount of Stardust required for Special Trades.
 trade_tut_special_trade
-特別な交換
+Special Trades
 trade_tut_special_trade_message
-特別な交換は一日に一回しかできません。特別な交換の対象は、伝説のポケモン、色違いのポケモン、図鑑に未登録のポケモンです。
+Legendary Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex all require a Special Trade. You can only make one Special Trade a day.
 trade_tut_candy_bonus
-距離間ボーナス
+Candy Bonuses
 trade_tut_candy_bonus_message
-もらえるアメの数は、交換した2匹のポケモンが捕まえられた場所同士の距離によって決まります。距離が長くなるとアメの数も増えます。
+You need to be within 100 meters of a friend to start a trade. You can earn a bonus depending on where the Pokémon in the trade were caught. The farther apart their caught locations (up to around 100 km), the more Candy you'll earn! 
 trade_tut_strength_adjust
-強さは調整されます
+Pokémon CP and HP in Trade
 trade_tut_strength_adjust_message
-交換されたポケモンは強さがランダムに変化し、相手のトレーナーレベルにあわせてCPとHPも調整されます。これにより交換されたポケモンが言うことを聞かなくなることを防ぎます。
+When you trade a Pokémon to a friend, you can see the range of CP and HP that it could have. This range adjusts based on your friend's level and will also be affected by your Friendship level. After you complete the trade, the stats of both Pokémon will change randomly to reflect the new range.
 error_gift_invalid_state
-エラーが発生したためギフトを贈ることができませんでした
+Cannot send Gift due to an error.
 trade_activity_log
-{0}を交換にだして{2}さんから{1}がやってきた！
+Traded {0} for {1} with {2}.
 error_generate_friendcode_failed
-トレーナーコードを取得できませんでした。
+Failed to get your Trainer Code.
 error_invite_already_received
-さんにはすでにフレンド申請を送りました
+This Trainer has already sent you a Friend Request.
 add_friends_privacy_prompt
-最後に捕まえたポケモンやギフトを贈った場所を含む、お互いのプロフィールを見られるようになります。
+Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
 visit_help_center_prompt
-詳細はヘルプセンターでご確認ください
+For more information, visit the Help Center.
 friendship_detail_no_bonus
-仲良し度ボーナスなし
+No bonuses.
 social_no_friends
-フレンドと一緒にプレイすると交換やバトルでいいことがある！
+Play together with your friends to unlock trades, Premier Balls, and power-ups for battle!
 gift_sent_toast
-ギフトを贈りました！
+Gift sent!
 friends_list_level_format
 Lv {0}
 badge_trading
-{0} 匹交換できた！
+Trade {0} Pokémon.
 badge_trading_value_format
 N0
 badge_trading_distance
-交換したポケモン同士の距離が {0} km になった！
+Earn {0} km across the distance of all Pokémon trades.
 badge_trading_distance_value_format
 N0
 log_player_sent_you_a_friend_request
-{0}さんからフレンド申請が届いた！
+{0} sent you a Friend Request!
 log_player_accepted_your_friend_request
-{0}さんがフレンド申請を許可しました！
+{0} accepted your Friend Request!
 trading_confirm
-確定
+Confirm
 trading_cancel
-キャンセル
+Cancel
 trading_me
-自分
+Me
 trade_player_me
-自分
+Me
 trading_player_level
 Lv. {0}
 trading_details_warning
-CPとHPが調整されます
+Your friend's Trainer level is lower than yours, so CP and HP are reduced.
 social_player_level_too_low
-フレンド機能は現時点では、レベル {0} 以上のトレーナーのみがアクセスできます。全トレーナーに公開されるまで今しばらくお待ちください。
+The friend feature is currently available for level {0} and above. Please check back to find out when it's available for you.
 error_social_player_banned
-この機能にアクセスできません
+You cannot access this feature.
 trade_friend_is_selecting
-{0}さんの選択を待っています...
+Waiting for {0} to select their Pokémon...
 trading_confirmed
-確定済み
+Confirmed
 trading_waiting
-待機中...
+Waiting...
 friend_invite_accepted_toast
-{0}さんとフレンドになった！
+You and {0} are now friends!
 friend_invite_received_toast
-{0}さんからフレンド申請が届いています！
+{0} sent you a Friend Request!
 trade_friend_left_title
-時間切れです
+Trade expired.
 trade_friend_left_message
-この交換はキャンセルされました
+This trade was canceled.
 trade_cannot_confirm
-まだ確定できません
+Cannot confirm yet
 trade_friend_not_present
-{0}さんを待っています
+Waiting for {0} to be available for trading.
 trade_confirm_quit_title
-キャンセルしますか？
+Do you want to cancel this trade?
 trade_confirm_quit_message
-この画面から出ると {0}さんとの交換はキャンセルされます
+If you leave now, you won't trade with {0}. 
 friendship_detail_unlocked_trading
-交換できるポケモン：
+You can trade the following Pokémon:
 friendship_detail_stardust_discount
-交換に必要なほしのすなが減る
+Stardust discount
 trade_regular_in_pokedex
-図鑑に登録済み全て（幻のポケモンを除く）
+Regular Pokémon in Pokédex
 trade_regular_non_pokedex
-幻のポケモンを除くすべてのポケモン
+All regular Pokémon
 trade_regional_non_pokedex
-全ての特定の地域に棲むポケモン
+All regional Pokémon
 trade_form_non_pokedex
-姿の違うポケモン全て
+All Pokémon form variants
 trade_legendary_non_pokedex
-伝説のポケモン全て
+All Legendary Pokémon
 trade_shiny_non_pokedex
-色違いのポケモン全て
+All Shiny Pokémon
 trading_canceled
-キャンセル済み
+Canceled
 trade_special_in_pokedex
-図鑑に登録済みの伝説および色違いのポケモン
+Legendary or Shiny Pokémon in Pokédex
 trade_exclusion_reason_player_cannot_afford
-ほしのすなが足りません
+You don't have enough Stardust.
 trade_exclusion_reason_friend_cannot_afford
-フレンドのほしのすなが足りません
+Your friend doesn't have enough Stardust.
 trade_exclusion_reason_player_reached_daily_limit
-今日すでに特別な交換を行いました
+You've already made a Special Trade today.
 trade_exclusion_reason_friend_reached_daily_limit
-フレンドは今日すでに特別な交換を行いました
+Your friend has already made a Special Trade today.
 trade_error_unknown
-交換を行うことができません。しばらくしてからリトライしてください。
+Trading service temporarily unavailable. Try again later.
 trade_error_friend_not_found
-{0}さんを見つけることができませんでした
+Couldn't find {0} to trade with.
 trade_error_open_expired
-{0}さんとの交換はタイムアウトしました
+This trade with {0} has expired.
 trade_error_out_of_range
-{0}さんは範囲外にいます
+{0} is out of range for trading.
 trade_error_below_min_level
-{0}さんは交換ができるレベルに達していません
+{0} is below the minimum level to trade.
 trade_error_reached_daily_limit
-交換できる一日の上限に達しました
+Daily trading limit reached. Come back tomorrow to trade more.
 trade_error_friend_reached_daily_limit
-{0}さんは今日交換できる上限に達しました
+{0} has reached the daily trading limit for today.
 trade_error_not_enough_stardust
-{0}さんと交換するために必要なほしのすなを持っていません
+You don't have enough Stardust to trade with {0} right now.
 trade_error_friend_not_enough_stardust
-{0}さんは、交換に必要なほしのすなを持っていません
+{0} doesn't have enough Stardust to trade with you right now.
 trade_error_select_expired
-交換セッションがタイムアウトしました
+This trading session has expired.
 trade_error_confirm_expired
-交換セッションがタイムアウトしました
+This trading session has expired.
 trade_error_confirm_daily_limit
-このポケモンを交換できる一日の上限に達しました
+You've reached the daily limit for trading this Pokémon.
 trade_error_get
-交換状態の取得エラー
+Error fetching trade status
 trade_appraise_low_1
-きみの {0} は、全体的になかなか活躍が難しそうだ。
+Overall, this {0} is not likely to make much headway in battle.
 trade_appraise_mid_1
-きみの {0} は、全体的に普通以上。
+Overall, this {0} is above average.
 trade_appraise_high_1
-きみの {0} は、全体的に目を引くものがある。
+Overall, this {0} has certainly caught my attention.
 trade_appraise_best_1
-きみの {0} は、全体的に驚異的で、芸術的だ。
+Overall, this {0} is a wonder! What a breathtaking Pokémon!
 trade_appraise_low_2
-きみの {0} は、全体的にバトル向きではないけど、わたしは好きよ。
+Overall, this {0} may not be great in battle, but I still like it!
 trade_appraise_mid_2
-きみの {0} は、全体的に普通の強さだと思うわ！
+Overall, this {0} is a decent Pokémon.
 trade_appraise_high_2
-全体的に、きみの {0} は強いと思うわ！
+Overall, this {0} is a strong Pokémon.
 trade_appraise_best_2
-きみの {0} は、全体的に言うことなしね。とっても頼もしいわ！
+Overall, this {0} simply amazes me. It can accomplish anything!
 trade_appraise_low_3
-きみの {0} は、全体的にまずまず、といったところだな。
+Overall, this {0} has room for improvement as far as battling goes.
 trade_appraise_mid_3
-きみの {0} は、全体的に普通だと思うぜ。
+Overall, this {0} is pretty decent!
 trade_appraise_high_3
-きみの {0} は、全体的にとっても強いぜ！
+Overall, this {0} is really strong!
 trade_appraise_best_3
-きみの {0} は、全体的にトップレベルだぜ！
+Overall, this {0} looks like it can really battle with the best of them!
 settings_friend_request_accepted
-フレンド申請が通ったとき
+Friend Request Accepted
 settings_friend_request_received
-フレンド申請が届いたとき
+Friend Request Received
 copy_friend_code_title
-コードをコピー
+COPY MY TRAINER CODE
 copy_friend_code_toast
-自分のトレーナーコードをコピーしました
+Your Trainer Code has been copied!
 trade_error_minimum_level
-レベル{0}にならないと交換はできません
+You must be at least level {0} to trade.
 friend_caught_a_pokemon
-{0}さんが{1}を捕まえた！
+{0} caught {1}!
 trade_friend_joined
-{0}さんの準備ができました！
+You can trade your Pokémon with {0}!
 special_trade_confirm_title
-特別な交換を実行しますか？
+Do you want to make a Special Trade?
 special_trade_confirm_message
-特別な交換は一日に一回しかできません
+You can only make a Special Trade once a day.
 trade_error_cooldown_time
-交換マシンのクールダウン残り{0}
+Trading cooldown: {0} remaining
 trade_friend_connected_toast
-{0}さんが接続しました
+{0} has connected!
 trade_all_except_mythical
-幻のポケモンを除く全てのポケモン
+All Pokémon except Mythical
 trade_tips_p0
-近くにいるフレンドとしかポケモンを交換できません。
+You can only trade with friends who are nearby.
 trade_tips_p1|0
-特別な交換は一日に一回までしかできません。
+Special Trades can only occur once a day.
 trade_tips_p1|1
-一度交換に出されたポケモンを再び交換することはできません。
+You can't trade a Pokémon that has been traded previously.
 trade_tips_p1|2
-交換するとポケモンの持つ基礎能力は変化します。
+The stats of the traded Pokémon will randomly change after trading.
 trade_tips_p1|3
-画面上部のヒントアイコンをタップして交換に関する説明を読むことができます。
+You can find the trading rules using the Help button located above.
 trade_tips_p1|4
-フレンドのトレーナーレベルがあなたのトレーナーレベルよりも低い場合、交換するポケモンのCPとHPが調整されます。
+If your friend’s Trainer level is lower than yours, the traded Pokémon’s potential CP and HP will be adjusted.
 trade_tips_p2|0
-自分の図鑑に登録されていないポケモンを交換で手に入れる場合は、特別な交換になります。
+Pokémon not yet registered in your Pokédex require a Special Trade. 
 trade_tips_p2|1
-仲良し度が「友達」になると特別な交換ができるようになります。
+Your Friendship level must reach Good Friend in order to complete a Special Trade.
 trade_tips_p2|2
-交換されたポケモン同士、捕まえられた場所の距離が離れているともらえるアメが増えます。
+You'll receive bonus Candy if the locations where the traded Pokémon were caught are far apart (up to around 100 km).
 trade_tips_p2|3
-仲良し度が高まると、交換に必要なほしのすなの量は減ります。
+The amount of Stardust required for trading drastically reduces as your Friendship level increases.
 trade_tips_p2|4
-色違いのポケモン、伝説のポケモン、自分の図鑑に登録されていないポケモンの交換は「特別な交換」です。
+Shiny Pokémon, Legendary Pokémon, and Pokémon not currently in your Pokédex require a Special Trade. 
 trade_tips_p2|5
-特別な交換には大量のほしのすなが必要です。
+Completing a Special Trade requires a large amount of Stardust.
 trade_tips_p2|6
-交換することでフレンドとの仲良し度を高めることができます。
+Your Friendship level with a friend increases when you trade Pokémon to each other frequently.
 trade_tips_p2|7
-幻のポケモンは交換できません。
+Mythical Pokémon can't be traded.
 trade_warning_your_level_lower
-CPとHPが調整されます
+Your Trainer level is lower than your friend's, so CP and HP will be reduced.
 trade_warning_friend_level_lower
-CPとHPが調整されます
+Your friend's Trainer level is lower than yours, so CP and HP will be reduced.
 trade_ending_prompt|0
-{0}から{1}が送られてきた！
+{0} sent over {1}.
 trade_ending_prompt|1
-{0}をかわいがってあげてね！
+Take good care of {0}!
 trade_exclusion_favorite
-お気に入りのポケモンです
+This Pokémon is a favorite Pokémon.
 social_my_code
-自分のコード
+MY TRAINER CODE
 decline_friend_request_confirmation
-本当にこのフレンド申請を削除しますか？
+Are you sure you want to delete this Friend Request?
 decline_friend_request_confirmation_message
-フレンド申請を削除すると、同じトレーナーからフレンド申請を受け取ることができなくなります
+Once you delete this Friend Request, this Trainer won't be able to send you another Friend Request.
 friend_request_deleted_confirmation
-フレンド申請は削除されました
+Friend Request Deleted
 send_gift_button
-送る
+Send
 open_gift_button
-開く
+Open
 next_button
-続ける
+Next
 trade_error_rpc
-原因不明の交換エラー
+Unknown Trade Error
 trade_tut_proximity
-近くで交換
+Trading with Friends
 trade_tut_proximity_message
-ポケモンを交換したい相手が近くにいる必要があります。
+You can trade with a friend only when you're near each other.
 social_send_my_code
-トレーナーコードを共有
+SHARE MY TRAINER CODE
 social_send_code_prompt
-フレンドのトレーナーコードを入力してフレンド申請を送ろう
+Send a Friend Request by entering your friend's Trainer Code.
 trainer_name_label
-トレーナー名
+Trainer Name
 trainer_code_label
-トレーナーコード
+Trainer Code
 trade_toast_must_cancel_first
-選択をキャンセルしてください
+Please cancel your confirmation first.
 trade_toast_must_connect_first
-フレンドが接続するまでお待ちください
+Please wait for your friend to connect.
 trade_bonus
-交換ボーナス
+Trade Bonus
 accept
-承諾
+Accept
 delete
-削除
+Delete
 filter_key_traded
-こうかん
+traded
 no_notifications_message
-通知はありません
+No notifications.
 social_qr_code_prompt
-フレンドの端末を使ってコードを読み込んでもらいます
+Scan this QR Code with another Trainer's scanner.
 social_qr_scan_prompt
-フレンドのコードを読み込みます
+Scan a Trainer's QR Code
 social_qr_code_header
-自分のコード
+MY CODE
 social_qr_scan_header
-読み取る
+SCAN
 social_other_friend_add_title
-その他
+OTHERS
 set_friend_nickname
-表示名の変更
+Set Nickname
 select_gift_to_delete_prompt
-捨てるギフト
+Select Gift to discard
 delete_gift_confirmation
-本当にこのギフトを捨てますか？
+Are you sure you want to discard this Gift?
 social_my_qr_code
-二次元バーコード
+My QR Code
 social_lucky_pokemon_label
-キラポケモン
+Lucky Pokémon
 friendslist_sort_gift
-ギフト
+Gift
 error_set_friend_nickname
-ニックネーム設定エラー
+Error setting nickname.
 error_set_friend_nickname_length
-ニックネームが長すぎます
+Nickname length is too long.
 friendslist_sort_nickname
-ニックネーム
+Nickname
 pokedex_details_lucky
-キラポケモンの数:
+Lucky:
 pokemon_info_multi_transfer_lucky_pokemon_error
-キラポケモンは選択できません！
+You can't select Lucky Pokémon.
 pokemon_lucky_info_transfer_to_professor_confirmation
-本当にキラポケモンを送ってもいいですか？
+Do you really want to transfer this Lucky Pokémon?
 filter_key_lucky
-キラ
+lucky
 error_exceeded_nickname_change_limit
-ニックネーム変更回数エラー
+You've changed nicknames as many times as you can for now. You can try again later.
 settings_share_recent_catch_friends
-フレンドと最後に捕まえたポケモンの情報を共有する
+Share Recently Caught Pokémon with Friends
 enable_share_recent_pokemon_catch_confirmation
-フレンドと最後に捕まえたポケモンの情報共有をオンにする
+Enable sharing info on recently caught Pokémon with friends
 disable_share_recent_pokemon_catch_confirmation
-フレンドと最後に捕まえたポケモンの情報共有をオフにする
+Disable sharing info on recently caught Pokémon with friends
 enable_share_recent_pokemon_catch_description
-お互いに最後に捕まえたポケモンや、最後にタマゴからかえったポケモンが見られます
+You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
 disable_share_recent_pokemon_catch_description
-お互いに最後に捕まえたポケモンや、最後にタマゴからかえったポケモンが見られません
+You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
 now_label
-オン
+Now
 friend_wants_to_trade_prompt
-{0}さんが待機しています
+{0} wants to Trade with you.
+trade_pokemon_needs_unfavorite
+You must remove this Pokémon from your favorites before trading.

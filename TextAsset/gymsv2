@@ -1,385 +1,385 @@
 gymbadge_sort_recent
-recent
+Datum
 gymbadge_sort_alphabetical
-name
+Name
 gymbadge_sort_nearby
-nearby
+Nähe
 gymbadge_sort_score
-points
+Punkte
 gymbadge_sort_progress
-progress
+Fortschritt
 day_abbrev
-d
+T
 hour_abbrev
-h
+Std
 minute_abbrev
-m
+M
 second_abbrev
-s
+S
 gymbadge_aboutthisgym
-about this gym
+Über diese Arena
 gymbadge_totalgymactivity
-total gym activity
+Arena-Aktivität
 gymbadge_statslabel_won
-victories
+Siege
 gymbadge_statslabel_defended
-time defended
+Verteidigung
 gymbadge_statslabel_fed
-treats
+Snacks
 gym_removal_notification_toast
-{0} has fought hard and returned!
+{0} hat hart gekämpft und ist zurückgekehrt!
 pokemon_hungry_notification_toast
-{0} needs a treat!
+{0} braucht einen Snack!
 pokemon_won_notification_toast
-{0} defended the Gym!
+{0} hat die Arena verteidigt!
 nearby_raid_notification_toast
-Nearby Raid Battle starting soon!
+In der Nähe beginnt bald ein Raid-Kampf!
 gym_removal_notification_toast|1
-{0} is back after a hard battle!
+{0} ist nach einem harten Kampf zurück!
 gym_removal_notification_toast|2
-{0} was knocked out of the Gym!
+{0} wurde aus der Arena gestoßen!
 pokemon_hungry_notification_toast|1
-{0} needs some attention...
+{0} braucht etwas Aufmerksamkeit ...
 pokemon_hungry_notification_toast|2
-{0} wants a Berry!
+{0} möchte eine Beere!
 pokemon_won_notification_toast|1
-{0} was victorious in battle!
+{0} war siegreich im Kampf!
 pokemon_won_notification_toast|2
-{0} has triumphed over your opponents!
+{0} hat über deine Gegner triumphiert!
 nearby_raid_notification_toast|1
-There's a Raid Battle about to start near you!
+In deiner Nähe beginnt bald ein Raid-Kampf!
 nearby_raid_notification_toast|2
-A Raid Battle is going to start nearby!
+Ein Raid-Kampf findet bald in deiner Nähe statt!
 raid_timer_label1
-Waiting for Trainers to join...
+Warten auf weitere Trainer ...
 raid_timer_label2
-Select your Pokémon...
+Wähle deine Pokémon ...
 raid_members
-Raid Members
+Raid-Mitglieder
 raid_group_code
-Group Code
+Gruppencode
 raid_howto_button
-How to play
+Spielanleitung
 raid_join_button
-Join
+Teilnehmen
 raid_join_private_button
-Enter Group Code
+Gruppencode eingeben
 raid_leave_lobby_prompt
-If you leave this group, you won't be able to rejoin.\n\n Do you want to leave this group?
+Wenn du diese Gruppe verlässt, kannst du nicht wieder eintreten.\n\n Willst du diese Gruppe verlassen?
 raid_group_code_intro
-You can battle together with friends by entering the group code of that group.
+Du kannst zusammen mit Freunden kämpfen, indem du den Gruppen-Code ihrer Gruppe eingibst.
 raid_join_private_group_button
-JOIN
+TEILNEHMEN
 raid_create_private_group_button
-Create Group
+Gruppe erstellen
 raid_join_private_lobby_invalid_code
-This group code is invalid. Please enter a valid code.
+Dieser Gruppencode ist ungültig. Gib einen gültigen Code ein.
 settings_push_notification_header
-Push Notifications
+Push-Mitteilungen
 settings_low_happiness
-Low Motivation
+Niedrige Motivation
 settings_pokemon_return
-Pokémon's Return
+Pokémon zurückgekehrt
 settings_battle_victory
-Battle Victory
+Kampf gewonnen
 raid_already_completed
-You already completed this Raid Battle.
+Du hast bereits an diesem Raid-Kampf teilgenommen.
 rare_candy_usage_confirmation
-Transform a Rare Candy into a {0} Candy?
+Sonderbonbon in ein {0}-Bonbon umwandeln?
 item_rare_candy_name
-Rare Candy
+Sonderbonbon
 item_rare_candy_desc
-A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy.
+Ein geheimnisvolles Bonbon. Wenn du es bei einem Pokémon einsetzt, wird es zu dem Bonbon des Pokémon.
 item_move_reroll_fast_attack_name
-Fast TM
+Sofort-TM
 item_move_reroll_fast_attack_desc
-This Technical Machine teaches the Pokémon a new Fast Attack.
+Diese Technische Maschine bringt dem Pokémon eine neue Sofort-Attacke bei.
 item_move_reroll_special_attack_desc
-This Technical Machine teaches the Pokémon a new Charged Attack.
+Diese Technische Maschine bringt dem Pokémon eine neue Lade-Attacke bei.
 item_move_reroll_special_attack_name
-Charged TM
+Lade-TM
 special_move_reroll_confirm_title
-Do you want to teach {0} a new Charged Attack?
+Möchtest du {0} eine neue Lade-Attacke beibringen?
 move_reroll_confirm_desc
-{0} will forget {1}.
+{0} wird {1} vergessen.
 quick_move_reroll_confirm_title
-Do you want to teach {0} a new Fast Attack?
+Möchtest du {0} eine neue Sofort-Attacke beibringen?
 move_reroll_success_message
-{0} learned a new attack!
+{0} hat eine neue Attacke gelernt!
 raid_team_contribution
-Contribution by Team
+Leistung der Teams
 raid_lobby_locked
-RAID FULL
+RAID VOLL
 raid_timer_label3
-Countdown to the Raid Battle start
+Countdown zum Raid-Kampf-Start
 gym_please_buy_raid_ticket
-You can buy a Raid Pass to join the Raid Battle.
+Du kannst einen Raid-Pass kaufen, um am Raid-Kampf teilzunehmen.
 filter_hint1
-Search for {0}
+Suche nach {0}
 filter_hint2
-Filter by name/nickname
+Filter nach Name/Spitzname
 filter_hint3
-Filter by Pokédex no., e.g., 23–145
+Filter nach Pokédex-Nr.
 filter_hint4
-Filter by {0}, e.g., {1}, {2}–{3}
+Nach {0} filtern
 filter_hint5
-Can evolve {0}: \"{1}\"
+{0} kann sich: \„{1}\“
 filter_hint6
-{0} Evolution, e.g., +{1}
+{0}-Entwicklung, z. B. +{1}
 filter_hint7
-Use multiple filters with ","
+Verbinde mehrere Filter mit ,
 filter_hint8
-Filter by type: {0}, {1}
+Filter nach Typ: {0}, {1}
 shop_battle_tickets_title
-You're out of Raid Passes!
+Hol dir einen Raid-Pass.
 item_free_raid_ticket_name
-Raid Pass
+Raid-Pass
 item_free_raid_ticket_desc
-Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
+Pass für die Teilnahme an einem Raid-Kampf. Du bekommst pro Tag einen kostenlosen Pass bei einer Arena, wenn du noch keinen hast.
 item_paid_raid_ticket_name
-Premium Raid Pass
+Premium-Raid-Pass
 item_paid_raid_ticket_desc
-Premium Raid Pass to join a Raid Battle. You can use this pass anytime.
+Premium-Raid-Pass für die Teilnahme an einem Raid-Kampf. Du kannst diesen Pass jederzeit verwenden.
 use_raid_ticket_confirmation
-Use a Raid Pass to join the Raid Battle
+Raid-Pass verwenden, um am Raid-Kampf teilzunehmen
 pokecoins_daily_limit_reached
-{0} PokéCoins daily limit reached.
+PokéMünzen-Tageslimit von {0} erreicht.
 received_free_item_title
-You received a free {0}!
+Du hast 1 {0} kostenlos erhalten!
 gymbadge_timeelapsed
-time defending
+Verteidigungszeit
 raid_private_group
-PRIVATE
+PRIVAT
 raid_remove_private_from_lobby_prompt
-Make the group open to the public?\n\nYou can't undo this action.
+Möchtest du die Gruppe öffentlich zugänglich machen? \n\nDiese Änderung kann nicht rückgängig gemacht werden.
 raid_message_select_your_pokemon
-Select your Pokémon for battle!
+Wähle deine Pokémon für den Kampf!
 raid_battle_retreat_confirmation
-Are you sure you want to leave?
+Bist du sicher, dass du den Kampf verlassen willst?
 raid_message_get_back_into_battle
-Heal your Pokémon and return to the battle!
+Heile deine Pokémon und kehre zum Kampf zurück!
 raid_timer_label4
-Countdown until the battle ends
+Countdown zum Kampfende
 team_picker_last_team
-Previous battle party
+Vorheriges Kampfteam
 team_picker_title_load
-Load battle party
+Kampfteam laden
 team_picker_title_save
-Save battle party
+Kampfteam speichern
 team_picker_fainted_pokemon_warning
-Your current party cannot join the battle. Heal your Pokémon first.
+Dein aktuelles Team kann nicht am Kampf teilnehmen. Heile zuerst dein Pokémon.
 battle_intro_battles_won
-{0} battles won
+{0} gewonnene Kämpfe
 team_picker_default_team_name
-Battle party {0}
+Team {0}
 team_picker_optimize
-Optimize
+Optimieren
 team_picker_set_team_name
-Set battle party name
+Gib dem Kampfteam einen Namen
 team_picker_team_not_set
-Unset
+Unklar
 gym_feed_pokemon_full
-{0} is full! Try giving a treat to other Pokémon.
+{0} ist satt! Versuche, einem anderen Pokémon einen Snack zu geben.
 gym_feed_pokemon_berry_timeout
-{0} is tired of that Berry.
+{0} mag diese Beere nicht mehr.
 gym_feed_pokemon_timeout
-{0} is very happy. Try giving treats to other Pokémon.
+{0} ist sehr glücklich. Versuche, einem anderen Pokémon einen Snack zu geben.
 avatar_detail_pokemon_caught
-Pokémon Caught
+Gefangene Pokémon
 avatar_detail_walking_distance
-Walking Distance
+Gelaufene Distanz
 avatar_detail_battle_won
-Battles Won
+Gewonnene Kämpfe
 avatar_detail_total_activities
-Total Activities
+Aktivitätsstatistik
 raid_tut_group_forming_message
-The battle group will automatically match you with other players.
+Die Kampfgruppe wird automatisch zusammengestellt.
 gym_out_of_range
-Gym out of range!
+Zu weit von der Arena entfernt!
 general_go_to_shop
-GO TO SHOP
+ZUM SHOP
 general_quit
-QUIT
+Verlassen
 raid_tut_group_forming
-GROUP FORMING
+GRUPPENBILDUNG
 raid_tut_how_to_battle_message
-Tap the screen to attack the Raid Boss! Press the Charge Attack button to use your Charged Attack when the attack meter is full!
+Tippe auf den Bildschirm, um den Raid-Boss anzugreifen! Setze deine Lade-Attacke ein, indem du den Bildschirm gedrückt hältst, sobald das Attackenmeter voll ist!
 raid_tut_how_to_battle
-BATTLE
+KÄMPFEN
 raid_tut_pass_message
-You need a Raid Pass to join the battle. You can get one for free each day if you don't already have one. You can also get Premium Raid Passes in the shop.
+Du brauchst einen Raid-Pass, um am Kampf teilzunehmen. Du kannst dir pro Tag einen kostenlosen Raid-Pass holen, wenn du noch keinen hast. Du kannst dir auch im Shop Premium-Raid-Pässe holen.
 raid_pass_caps
-RAID PASS
+RAID-PASS
 raid_tut_what_is_raid_message
-A raid is a battle where you and up to 20 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
+Ein Raid ist ein Kampf, in dem du zusammen mit bis zu 20 anderen Trainern gegen ein äußerst mächtiges Pokémon, den Raid-Boss, kämpfst. Wenn du gewinnst, erhältst du tolle Belohnungen und die Chance, ein eigenes, überdurchschnittlich starkes Pokémon zu fangen!
 raid_tut_what_is_raid
-WHAT IS A RAID?
+WAS IST EIN RAID?
 raid_enter_group_code
-PRIVATE GROUP
+PRIVATE GRUPPE
 raid_public_warning_message
-If you change this group to public, anyone can join and battle with you.\n\nOnce you change to public, your group cannot be made private again.\nAre you sure you want to change to a public group?
+Wenn du diese Gruppe öffentlich zugänglich machst, kann jeder beitreten und mit dir kämpfen.\n\nWenn du sie einmal auf öffentlich stellst, kann die Gruppe nicht mehr auf privat gestellt werden.\nBist du sicher, dass du diese Gruppe öffentlich machen möchtest?
 raid_change_to_public
-CHANGE TO PUBLIC
+AUF ÖFFENTLICH STELLEN
 raid_share_private_code_message
-Share this group code with your friends. They can join you by entering this group code.
+Gib deinen Freunden diesen Gruppencode. Sie können sich dir anschließen, indem sie diesen Gruppencode eingeben.
 raid_private_lobby_success_message
-Successfully joined a group!
+Du bist erfolgreich einer Gruppe beigetreten!
 raid_rejoin_battle
-REJOIN BATTLE
+ZURÜCK ZUM KAMPF
 battle_summary
-SUMMARY
+ZUSAMMENFASSUNG
 raid_defeat_boss
-Defeat Boss
+Boss besiegt
 raid_damage_bonus
-Damage
+Schaden
 raid_gym_ownership
-Gym Control
+Kontrolle der Arena
 general_total_caps
-TOTAL
+GESAMT
 raid_bonus_challenge
-GO TO BONUS CHALLENGE
+BONUS-HERAUSFORDERUNG
 profile_gymbadges_recently_visited
-Recently Visited
+Zuletzt besucht
 profile_category_gymbadges
-Gym Badges
+Arenaorden
 gym_spinner_team_bonus
-Team Bonus
+Teambonus
 raid_raid
-Raid Battle
+Raid-Kampf
 raid_level_caps
-RAID LEVEL
+RAID-LEVEL
 raid_suggested_group_size
-SUGGESTED GROUP SIZE
+EMPFOHLENE GRUPPENGRÖSSE
 raid_nearby_ongoing
-Ongoing
+Raid läuft
 gym_battle_continue_battles_won_stat
-{0} BATTLES WON
+{0} GEWONNENE KÄMPFE
 gym_battle_victory_subtitle
-You defeated this Gym!
+Du hast diese Arena besiegt!
 gym_battle_defeat_body
-All your Pokémon have fainted!
+Alle deine Pokémon wurden besiegt!
 gym_battle_defeat_footer
-Please try again.
+Versuche es noch mal.
 raid
-raid
+Raid
 gym_pokemon_you_fed_not_there
-The Pokémon you tried to give a treat to isn't there anymore.
+Das Pokémon, dem du den Snack geben wolltest, ist nicht mehr dort!
 raid_try_again
-Select new Pokémon, or revive and heal your current Pokémon, and go back to the battle!
+Wähle ein neues Pokémon oder belebe und heile dein aktuelles Pokémon und kehre dann zum Kampf zurück!
 raid_defeat_message
-All your Pokémon have fainted.
+Alle deine Pokémon wurden besiegt.
 general_battle
-BATTLE
+KÄMPFEN
 gym_deployment_time_format
-{0}d {1}h {2}m
+{0} T {1} Std {2} M
 free_raid_ticket_details_desc
-Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.\n\nIf you want to participate in more than one raid per day, you may buy raid passes from the store.
+Pass für die Teilnahme an einem Raid-Kampf. Du bekommst pro Tag einen kostenlosen Pass bei einer Arena, wenn du noch keinen hast.\n\nWenn du an einem Tag an mehreren Raids teilnehmen möchtest, kannst du dir im Shop Raid-Pässe kaufen.
 paid_raid_ticket_details_desc
-Premium Raid Pass to join a Raid Battle. You can use this pass anytime.\n\nTo get more passes, visit the store.
+Premium-Raid-Pass für die Teilnahme an einem Raid-Kampf. Du kannst diesen Pass jederzeit verwenden.\n\nIm Shop bekommst du zusätzliche Pässe.
 battle_prep_opponents_header
-Opponents
+Gegner
 gym_feed_pokemon_busy
-Try again later.
+Versuche es später noch mal.
 raid_finding_players
-Finding other players
+Suche nach anderen Spielern ...
 gym_same_team_deploy_lockout
-The Gym is under attack! Try again later.
+Arena-Angriff läuft! Versuche es später noch mal.
 gymbadge_sort_defending
-defending
+Verteidigung
 screen_title_badge_collection
-Gym Badges
+Arenaorden
 profile_no_gymbadges
-You don't have any Gym Badges.
+Keine
 free_ticket_bag_full_error
-Your Bag is full. You'll need to make room to hold a Raid Pass.
+Dein Beutel ist voll. Mach Platz für einen Raid-Pass.
 raid_level
-Difficulty
+Schwierigkeitsgrad
 battle_prep_my_team_header
-My Battle Party
+Mein Team
 battle_prep_go
-Go battle!
+Zum Kampf!
 raids_no_nearby
-There are no raids nearby.
+Keine Raids in der Nähe.
 gymbadge_you_earned
-Gym Badge Earned!
+Arenaorden erhalten!
 award_badge_new_badge
-Defend team Gyms and attack rival ones to upgrade your Gym Badges.
+Verteidige die Arenen deines Teams und greife gegnerische Arenen an, um deine Arenaorden aufzustufen.
 gym_feed_raid_active
-A Raid Boss has taken control of the Gym. Please try again after the Raid Boss is gone.
+Ein Raid-Boss hat die Arena übernommen. Versuche es noch mal, sobald der Raid-Boss weg ist.
 gym_next_battle
-Battle
+Kämpfen
 gym_battle_leave
-Leave
+Verlassen
 gym_battle_next
-Next Up:
+Nächstes:
 error_no_available_lobbies
-No groups found with that code.
+Es gibt keine Gruppe mit diesem Code.
 error_lobby_visibility
-An error occurred during the presentation of the raid.
+Fehler bei Lobby-Sichtbarkeit
 error_start_raid_battle
-An error occurred in trying to start a raid.
+Fehler beim Versuch, ein Raid zu starten.
 error_pokemon_team_update
-An error occurred in trying to update your battle party.
+Fehler beim Versuch, dein Team zu aktualisieren.
 error_join_lobby
-An error occurred in trying to join the raid.
+Fehler beim Versuch, dem Raid beizutreten.
 gym_badge_list_button
-List
+Liste
 raid_defeat_try_again
-Select new Pokémon or heal up those that fainted and get back to the battle!
+Wähle neue Pokémon oder belebe und heile die kampfunfähigen Pokémon und kehre zum Kampf zurück!
 raid_time_out_try_again
-You didn't defeat the Raid Boss in time. Please try again.
+Du hast den Raid-Boss nicht rechtzeitig besiegt. Versuche es noch mal.
 item_golden_razz_berry_name
-Golden Razz Berry
+Goldene Himmihbeere
 item_golden_razz_berry_desc
-Feed this to a Pokémon to make it much easier to catch.
+Wenn du sie einem Pokémon zum Essen gibst, lässt es sich viel leichter fangen.
 encounter_raid_pokemon_appeared
-Bonus Challenge! Catch {0}!
+Bonus-Herausforderung! Fange {0}!
 raid_need_a_viable_raid_team
-You have no Pokémon ready to battle. Please heal your Pokémon.
+Du hast kein kampfbereites Pokémon. Heile deine Pokémon.
 error_raid_active
-A Raid Boss has taken control of the Gym!
+Ein Raid-Boss hat die Kontrolle über die Arena übernommen!
 badges_tut_description
-Visit a Gym and spin the Photo Disc to earn a Gym Badge. Unlock item rewards by defending your team's Gyms and attacking rival Gyms!
+Besuche eine Arena und drehe die Scheibe, um einen Arenaorden zu erhalten. Schalte Items frei, indem du die Arenen deines Teams verteidigst und gegnerische Arenen angreifst!
 profile_gymbadges_help
-Learn more
+Mehr über Arenaorden
 gym_tut_title_1
-GET ITEMS
+ITEMS
 gym_tut_title_2
-ASSIGN POKÉMON
+POKÉMON ZUWEISEN
 gym_tut_title_3
 MOTIVATION
 gym_tut_title_4
-GIVE BERRIES!
+BEEREN
 gym_tut_desc_1
-You can find items at Gyms by spinning their Photo Discs.
+Du kannst von einer Arena Items erhalten, indem du ihre Fotoscheibe drehst.
 gym_tut_desc_2
-You can assign your Pokémon to defend a Gym using the "Assign Pokémon" button at a friendly Gym. After your Pokémon is assigned, you'll see its motivation meter appear.
+Du kannst mit der Schaltfläche „Pokémon zuweisen“ eines deiner Pokémon einer freundlichen Arena zuweisen, um bei der Verteidigung zu helfen. Sobald du dein Pokémon zugewiesen hast, erscheint ein Motivationsmeter.
 gym_tut_desc_3
-Pokémon lose motivation slowly over time and when they are defeated in battle. When a Pokémon with no motivation left is defeated, it will stop defending the Gym and return to its Trainer.
+Im Laufe der Zeit und bei Niederlagen im Kampf sinkt die Motivation des Pokémon. Wenn ein Pokémon ohne Motivation besiegt wird, hört es auf, die Arena zu verteidigen, und kehrt zu seinem Trainer zurück.
 gym_tut_desc_4
-Treat Pokémon to Berries to keep up their motivation and strength in battle!
+Gib Pokémon Beeren zum Essen, um ihre Motivation und Kampfkraft hoch zu halten!
 no_usable_items_error
-No usable items
+Keine einsetzbaren Items
 gym_battle_victory_title
-Great work!
+Gute Arbeit!
 tm_no_other_moves
-Cannot learn any other attacks!
+Kann keine anderen Attacken lernen!
 disabled_low_stamina
-The Pokémon must be at full HP.
+Das Pokémon muss volle KP haben.
 disabled_buddy
-You can't assign your Buddy Pokémon to defend a Gym.
+Dein Kumpel-Pokémon kann nicht eingesetzt werden.
 badge_raid_battle_won
-Win {0} Raids.
+Gewinne {0} Raids.
 badge_hours_defended_title
-Gym Leader
+Arenaleiter
 badge_hours_defended
-Defend Gyms for {0} hours.
+Verteidige Arenen für {0} Stunden.
 badge_hours_defended_value_format
 N0
 badge_berries_fed_title
-Berry Master
+Beerenmeister
 badge_berries_fed
-Feed {0} Berries at Gyms.
+Verteile in Arenen {0} Beeren.
 badge_berries_fed_value_format
 N0
 badge_raid_battle_won_value_format
@@ -387,58 +387,58 @@ N0
 badge_raid_battle_won_title
 Champion
 gym_deploy_raid_active
-A Raid Boss has taken control of the Gym. Please try again after the Raid Boss is gone.
+Ein Raid-Boss hat die Arena übernommen. Versuche es noch mal, sobald der Raid-Boss weg ist.
 error_too_many_deployed
-Sorry. You've reached the limit of Pokémon you can assign to Gyms.
+Du hast die maximale Anzahl von Pokémon Arenen zugewiesen!
 disabled_max_same_defender
-Only one of each Pokémon may be assigned to defend a Gym at the same time.
+Nur jeweils ein Pokémon jeder Art kann einer Arena zur Verteidigung zugewiesen werden.
 error_fort_is_full
-This Gym has no room for additional Pokémon.
+Diese Arena hat keinen Platz für zusätzliche Pokémon frei.
 award_badge_rank_up
-Defend friendly Gyms and attack rival ones to upgrade your Gym Badges.
+Verteidige freundliche Arenen und greife gegnerische Arenen an, um deine Arenaorden aufzustufen.
 raid_not_yet_available
-Sorry, but Raid Battles are not yet available for your level.\nPlease try again later.
+Raids sind für dein Level leider noch nicht verfügbar.\nVersuche es später noch mal.
 raid_private_lobby_created_success_message
-Successfully created a group!
+Du hast erfolgreich eine Gruppe erstellt!
 pokestop_button_read_qr_code
-READ QR CODE
+QR Code einlesen
 pokestop_button_manual_input
-MANUAL INPUT
+Manuelle Eingabe
 pokestop_check_in_manual_entry_title
-ENTER REGISTRATION CODE
+Registrierungscode eingeben
 pokestop_check_in_notice
-Welcome to {0}!\nPlease use the camera to read the QR Code to check in.
+Willkommen bei {0}!\nVerwende die Kamera, um den QR Code einzulesen und dich einzuchecken.
 pokestop_check_in_succeeded
-SUCCESSFULLY CHECKED IN
+Check-in erfolgreich
 disabled_max_same_defenders
-Only one of each Pokémon may be assigned to defend a Gym at the same time.
+Nur jeweils ein Pokémon jeder Art kann einer Arena zur Verteidigung zugewiesen werden.
 gym_closed_exclusive_raid_not_invited
-This Gym is closed for an EX Raid.\nIt will reopen at {0}.
+Diese Arena ist für einen EX-Raid geschlossen.\nSie öffnet um {0} wieder.
 disabled_legendary
-Legendary Pokémon cannot be left at Gyms.
+Legendäre Pokémon können keinen Arenen zugewiesen werden.
 team_picker_title
-Load & Save Battle Parties
+Kampfteams laden und speichern
 team_picker_load
-Load
+Laden
 team_picker_save
-Save
+Speichern
 battle_prep_create_team
-Select your Pokémon!
+Wähle dein neues Pokémon aus!
 battle_prep_new_team
-New Party
+Neues Team
 battle_prep_recommended_team
-Recommended Battle Party
+Empfohlenes Kampfteam
 screen_title_pokemon_inventory_party
-PARTY
+Kampfteam
 raid_ticket_event
 Event
 filter_key_defender
-defender
+Verteidiger
 filter_key_legendary
-legendary
+Legendär
 filter_key_shiny
-shiny
+Schillernd
 filter_key_mythical
-mythical
+Mysteriös
 filter_key_alola
-alola
+Alola

@@ -1,70 +1,70 @@
 pokemon_info_evolve_need_buddy_distance
-Caminhe {0} km a mais com este companheiro.
+あと{0} km一緒に歩いてみよう
 weather_weather
-Clima
+天候
 weather_clear
-Limpo
+晴天
 weather_rainy
-Chuvoso
+雨
 weather_partly_cloudy
-Parcialmente nublado
+ときどき曇り
 weather_overcast
-Nublado
+曇り
 weather_windy
-Ventos fortes
+強風
 weather_snow
-Neve
+雪
 weather_fog
-Neblina
+霧
 weather_boosted_types
-Tipos potenciados
+ブーストされるタイプ
 weather_boosted_types_desciption
-Estes tipos de Pokémon são mais fortes e aparecem mais frequentemente. Quando são pegos, dão mais Poeira Estelar.
+これらのタイプのポケモンはいつもより見つかりやすくなり、バトルでは強くなります。捕まえると、ほしのすなが多くもらえます。
 weather_extreme
-Extremo
+荒天
 weather_extreme_description
-Pokémon parecem não gostar destas condições... Condições meteorológicas podem ser perigosas. Preste atenção ao ambiente à sua volta! Consulte o serviço meteorológico local para obter mais informação.
+荒天下での活動に際しては、お住まいの地域の各種注意報・警報をご確認のうえ、\n 特に注意を払ってください！
 weather_alert_warning
-Alerta meteorológico de perigo. Consulte o serviço meteorológico local para obter mais informação.
+お住まいの地域の各種警報・注意報をご確認ください
 gen3_test_string
 123456789
 pokemon_info_evolve_buddy_distance_requirement
 /{0} km
 pokemon_info_evolve_buddy_distance_description
-Caminhe com seu companheiro {0} para que evolua!
+{0} を相棒にしてみよう！
 weather_sunny
-Ensolarado
+晴天
 weather_boost_active_1
-O movimento {1} de {0} é potencializado pelo clima!
+{0}の {1} がブーストされます！
 weather_boost_active_2
-Os movimentos {1} e {2} de {0} são potencializados pelo clima!
+{0}の {1} と {2} がブーストされます
 weather_alert_safety_button
-ESTOU SEGURO
+確認しました
 weather_careful_description
-Condições meteorológicas podem ser perigosas. Preste atenção ao ambiente à sua volta! Consulte o serviço meteorológico local para obter mais informação.
+荒天下での活動に際しては、お住まいの地域の各種注意報・警報をご確認のうえ、特に注意を払ってください！
 weather_careful
-Cuidado!
+先ず安全を確認！
 form_normal
-Normal
+ポワルンのすがた
 form_sun
-Ensolarada
+たいようのすがた
 form_rain
-Chuvosa
+あまみずのすがた
 form_snow
-Nevada
+ゆきぐものすがた
 form_defense
-Defesa
+ディフェンスフォルム
 form_attack
-Ataque
+アタックフォルム
 form_speed
-Velocidade
+スピードフォルム
 form_deoxys_normal
-Normal
+ノーマルフォルム
 general_send
-Enviar
+送信
 general_report_title
-Reportar problema
+フィードバック
 weather_report_option_1
-A previsão do tempo não está precisa!
+天候が正確に反映されていません
 weather_report_option_2
-A previsão do tempo parece precisa, só não está atualizada.
+天候は正確ですが、最新の状況を反映していません
