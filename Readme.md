@@ -3,7 +3,7 @@
 
 **+** __**Repository Info**__
 
-As from the September 2024, the Download Size for this Repo is : **?** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the September 2024, the Download Size for this Repo is : **1.79 GB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined in the APK File, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK. NOTE: This repository has doubles files in it.**
 
 
@@ -22,7 +22,12 @@ All images in this repo are found and mined and are located are organized based 
 
 **Retro John 86 did create or modify images or sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
 
-**Please Respect the Original Source Material.**
+**Please Respect the Original Source Material and Thank You to The Pokeminers and Pokemods.**
+
+
+## __**Social Media**__
+
+You Can Follow Me and Chat via these Links. [Discord](https://discord.com/invite/XWphsEk), [TwitterX](https://x.com/Retro86Official), [Facebook](https://www.facebook.com/Retro86Official), [Instagram](https://www.instagram.com/retrojohn86), [YouTube](https://www.youtube.com/channel/UCUw02MHKeo3mGfNDMvBn_eQ), [Twitch](https://www.twitch.tv/retrojohn86), [Archive](https://archive.org/details/@retro_john_86), [Reddit](https://www.reddit.com/user/RetroJohn86/) and [BLOG Site](https://retrojohn86.blogspot.com/)
 
 
 ## __**Repositories Links**__
