@@ -87,14 +87,12 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 <b>OpenStreetMap</b>
 Map data (c) OpenStreetMap Contributors   www.openstreetmap.org/copyright 
 
-<b>ZXing.Net</b>
-ZXing.Net (https://github.com/micjahn/ZXing.Net/blob/master/3rdparty/Clog/license.txt)
-
-GNU Library General Public License (LGPL)
-
-Version 2.1, February 1999
-
-Copyright (C) 1991, 1999 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+<b>ZXing.Net<b>
+ZXing.Net (https://github.com/micjahn/ZXing.Net/blob/master/COPYING)
+Copyright 2017 ZXing.NET authors
+Copyright 2027 ZXing authors
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 [<b>Facebook SDK for Unity</b>
 Copyright (c) 2014-present, Facebook, Inc. All rights reserved.
