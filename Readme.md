@@ -18,11 +18,11 @@ All images in this repo are found and mined and are located are organized based 
 
 **This repo is for educational use only.**
 
-**All content found within this repo is the property of The Pokemon Company and Niantic.**
+**All content found within this repo is the property of The Pokemon Company, Scopely and in the past Niantic.**
 
 **Retro John 86 did create or modify images or sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
 
-**Please Respect the Original Source Material and Thank You to The Pokeminers and Pokemods.**
+**Please Respect the Original Source Material and Thank You to The Pokeminers, Pokemods and ZeChrales.**
 
 
 ## __**Social Media**__
