@@ -3,13 +3,13 @@
 
 **+** __**Repository Info**__
 
-As from the December 2024, the Download Size for this Repo is : **1.81 GB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the March 2025, the Download Size for this Repo is : **1.83 GB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined in the APK File, including Images and More. This repo is organized based on category and is a combination of remote assets found inside the APK. NOTE: This repository has doubles files in it.**
 
 
 __**Files and Folder Structure**__
 
-All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Mesh, Shader, Sprite, TextAsset and Texture2D.
+All images in this repo are found and mined and are located are organized based on category e.g. Animator, AudioClip, Font, Mesh, Shader, Sprite, TextAsset, Texture2D and Lost and Found.
 
 **+** **NOTE:** For Tidy and More Structure Repository go to the **Others Collection Links**, linked Below, Thank You. Looking for something Old in a previous Asset APK that's not in the repo? Check out the APK Records: Click Links [Mega](https://mega.nz/folder/B6Qn3ahS#TCNhmVq3bklCpalAzYbcDQ). [Google](https://drive.google.com/drive/folders/1Y3K-SycQ50DXziwON9pvbG_JTVS5PLnP?usp=sharing). You will need Software too get asset for this location e.g. Asset Studio, Unity and more.
 
@@ -20,7 +20,7 @@ All images in this repo are found and mined and are located are organized based 
 
 **All content found within this repo is the property of The Pokemon Company, Scopely and in the past Niantic.**
 
-**Retro John 86 did create or modify images or sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
+**Retro John 86 did or didn't create, modify images, sounds found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
 
 **Please Respect the Original Source Material and Thank You to The Pokeminers, Pokemods and ZeChrales.**
 
